@@ -26,7 +26,17 @@ DATA_DIR = "data"
 SEEN_FILE = os.path.join(DATA_DIR, "seen.json")
 LOG_FILE = os.path.join(DATA_DIR, "day_log.json")
 
-MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+# Sırayla denenir; bir model 404/403 verirse (kapatılmış ya da erişim yok) sonrakine geçilir.
+# GEMINI_MODEL tanımlıysa o en başa alınır.
+MODELS = [m for m in [
+    os.environ.get("GEMINI_MODEL"),
+    "gemini-3.5-flash-lite",
+    "gemini-3.1-flash-lite",
+    "gemini-3.8-flash",
+    "gemini-3.6-flash",
+    "gemini-2.5-flash",
+] if m]
+_dead_models = set()
 THRESHOLD = float(os.environ.get("ALERT_THRESHOLD", "8"))  # bu puan ve üstü anında bildirim
 MAX_AGE_HOURS = int(os.environ.get("MAX_AGE_HOURS", "12"))  # bundan eski haberleri atla
 MAX_ITEMS_PER_CAT = 40
@@ -34,7 +44,9 @@ BATCH = 20
 MAX_ALERTS_PER_RUN = 5
 DIGEST_TOP_N = 8
 NTFY_SERVER = os.environ.get("NTFY_SERVER", "https://ntfy.sh")
-UA = "Mozilla/5.0 (compatible; HaberBotu/1.0)"
+UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+      "(KHTML, like Gecko) Chrome/124.0 Safari/537.36")
+HEADERS = {"User-Agent": UA, "Accept": "application/rss+xml, application/xml, text/xml, */*"}
 
 CATEGORIES = {
     "araba": {
@@ -47,6 +59,7 @@ CATEGORIES = {
             "Car and Driver": "https://www.caranddriver.com/rss/all.xml/",
             "The Drive": "https://www.thedrive.com/feed",
             "Autocar": "https://www.autocar.co.uk/rss",
+            "Jalopnik": "https://jalopnik.com/rss",
         },
         "criteria": (
             "Yüksek (8-10): büyük markanın yeni model tanıtımı/dünya prömiyeri, performans ve spor "
@@ -110,12 +123,16 @@ def fetch_items(cfg):
     items, seen_ids = [], set()
     for source, url in cfg["feeds"].items():
         try:
-            feed = feedparser.parse(url, agent=UA)
+            resp = requests.get(url, headers=HEADERS, timeout=30)
+            if resp.status_code != 200:
+                print(f"[uyarı] {source}: HTTP {resp.status_code} (site engellemiş ya da adres değişmiş olabilir)")
+                continue
+            feed = feedparser.parse(resp.content)
         except Exception as e:  # noqa: BLE001
             print(f"[uyarı] {source} okunamadı: {e}")
             continue
         if not feed.entries:
-            print(f"[uyarı] {source}: haber bulunamadı (adres değişmiş olabilir)")
+            print(f"[uyarı] {source}: haber bulunamadı (boş ya da bozuk yanıt)")
             continue
         for e in feed.entries:
             link = e.get("link")
@@ -145,23 +162,43 @@ def fetch_items(cfg):
 # ---------- Gemini ----------
 
 def gemini_json(prompt):
-    url = f"https://generativelanguage.googleapis.com/v1beta/models/{MODEL}:generateContent"
     body = {
         "contents": [{"parts": [{"text": prompt}]}],
         "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json"},
     }
     headers = {"x-goog-api-key": os.environ["GEMINI_API_KEY"]}
-    for attempt in range(4):
-        r = requests.post(url, headers=headers, json=body, timeout=90)
-        if r.status_code in (429, 500, 503):
-            print(f"[bilgi] Gemini {r.status_code}, bekleniyor...")
-            time.sleep(15 * (attempt + 1))
+    last_err = "yanıt yok"
+    for model in MODELS:
+        if model in _dead_models:
             continue
-        r.raise_for_status()
-        text = r.json()["candidates"][0]["content"]["parts"][0]["text"]
-        text = re.sub(r"^```(?:json)?|```$", "", text.strip(), flags=re.M).strip()
-        return json.loads(text)
-    raise RuntimeError("Gemini yanıt vermedi")
+        url = f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent"
+        for attempt in range(3):
+            r = requests.post(url, headers=headers, json=body, timeout=90)
+            if r.status_code in (429, 500, 503):
+                print(f"[bilgi] Gemini {model} {r.status_code}, bekleniyor...")
+                last_err = f"{model}: HTTP {r.status_code}"
+                time.sleep(15 * (attempt + 1))
+                continue
+            if r.status_code in (400, 403, 404):
+                msg = r.text[:200].replace("\n", " ")
+                print(f"[bilgi] {model} kullanılamıyor (HTTP {r.status_code}): {msg}")
+                last_err = f"{model}: HTTP {r.status_code}"
+                if r.status_code == 400 and "API key" in r.text:
+                    raise RuntimeError("Gemini API anahtarı geçersiz (GEMINI_API_KEY secret'ını kontrol et)")
+                _dead_models.add(model)
+                break
+            r.raise_for_status()
+            try:
+                text = r.json()["candidates"][0]["content"]["parts"][0]["text"]
+                text = re.sub(r"^```(?:json)?|```$", "", text.strip(), flags=re.M).strip()
+                data = json.loads(text)
+            except (KeyError, IndexError, ValueError) as e:
+                last_err = f"{model}: bozuk yanıt ({e})"
+                print(f"[bilgi] {last_err}")
+                break
+            print(f"[bilgi] model: {model}")
+            return data
+    raise RuntimeError(f"hiçbir Gemini modeli yanıt vermedi ({last_err})")
 
 
 def score_items(cfg, items):
