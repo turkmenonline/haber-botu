@@ -775,5 +775,45 @@
   "link": "https://www.motorsport.com/f1/news/lewis-hamilton-takes-the-blame-for-a-massive-f1-qualifying-blunder-in-singapore/10863699/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1791660495.3869052
+ },
+ {
+  "cat": "araba",
+  "baslik": "BMW M5 Neue Klasse Yüz Makyajıyla Geliyor",
+  "ozet": "5 Serisi ailesi 2027'de büyük bir yenilenmeden geçmeye hazırlanırken, serinin en performanslı üyesi Nürburgring'de test edilirken görüntülendi.",
+  "puan": 7.5,
+  "grup": "bmw-m5-neue-klasse-facelift",
+  "link": "https://www.jalopnik.com/2282749/bmw-m5-neue-klasse-facelift-spied-at-nurburgring/",
+  "source": "Jalopnik",
+  "ts": 1791670234.0900745
+ },
+ {
+  "cat": "araba",
+  "baslik": "İnternette Bulunan En İlginç Satılık Otomobiller",
+  "ozet": "Haftanın yorgunluğunu atmak isteyenler için internet üzerinde satışa çıkarılan Nissan 300ZX, Exocet ve Pinzgauer 710k gibi dikkat çekici araçlar listelendi.",
+  "puan": 2.0,
+  "grup": "used-car-finds-online-list",
+  "link": "https://www.jalopnik.com/2282925/nissan-300zx-exocet-pinzgauer-dopest-cars-for-sale/",
+  "source": "Jalopnik",
+  "ts": 1791670234.0900745
+ },
+ {
+  "cat": "araba",
+  "baslik": "NHTSA ve IIHS Güvenlik Testlerinin Farkları Nelerdir?",
+  "ozet": "Yeni bir otomobil satın alırken yolcuları koruma seviyesini ölçen NHTSA ve IIHS kurumlarının test yöntemleri birbirinden farklılık göstermektedir.",
+  "puan": 4.0,
+  "grup": "nhtsa-iihs-safety-tests-difference",
+  "link": "https://www.jalopnik.com/2278818/differences-between-nhtsa-iihs-safety-ratings/",
+  "source": "Jalopnik",
+  "ts": 1791670234.0900745
+ },
+ {
+  "cat": "f1",
+  "baslik": "McLaren, Norris ve Piastri Arasındaki Teması Ciddiye Alıyor",
+  "ozet": "McLaren, 2026 Singapur Grand Prix'si hafta sonunda Lando Norris ile Oscar Piastri arasında yaşanan temasın ardından bu durumu oldukça ciddi bir mesele olarak değerlendiriyor.",
+  "puan": 6.5,
+  "grup": "singapore-gp-mclaren-collision",
+  "link": "https://www.autosport.com/f1/news/whats-so-serious-for-mclaren-about-the-norris-piastri-singapore-collision/10864087/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1791670234.0900745
  }
 ]
