@@ -25,6 +25,7 @@ TZ = ZoneInfo("Europe/Istanbul")
 DATA_DIR = "data"
 SEEN_FILE = os.path.join(DATA_DIR, "seen.json")
 LOG_FILE = os.path.join(DATA_DIR, "day_log.json")
+ALERTED_FILE = os.path.join(DATA_DIR, "alerted.json")
 
 # Sırayla denenir; bir model 404/403 verirse (kapatılmış ya da erişim yok) sonrakine geçilir.
 # GEMINI_MODEL tanımlıysa o en başa alınır.
@@ -201,9 +202,15 @@ def gemini_json(prompt):
     raise RuntimeError(f"hiçbir Gemini modeli yanıt vermedi ({last_err})")
 
 
-def score_items(cfg, items):
+def slugify(text):
+    text = re.sub(r"[^a-z0-9]+", "-", (text or "").lower()).strip("-")
+    return text[:60]
+
+
+def score_items(cfg, items, known_keys=()):
     """Haberleri toplu olarak Gemini'ye gönderir. [(item, sonuç), ...] döner."""
     results = []
+    known = list(known_keys)
     for start in range(0, len(items), BATCH):
         batch = items[start:start + BATCH]
         lines = "\n".join(f"[{i}] {it['title']} | {it['desc']}" for i, it in enumerate(batch))
@@ -213,6 +220,9 @@ Her haber için şunları üret:
 - "baslik": Türkçe, kısa ve net başlık
 - "ozet": 1-2 cümlelik Türkçe özet (haberde olmayan bilgi ekleme)
 - "puan": 1 ile 10 arasında önem puanı (ondalıklı olabilir)
+- "grup": haberin konusunu anlatan kısa İngilizce anahtar (küçük harf, tire ile, en fazla 6 kelime, örn. "singapore-gp-pole-verstappen"). Farklı sitelerde yer alsa da AYNI olayı/konuyu anlatan haberlere BİREBİR AYNI anahtarı ver.
+Daha önce kullanılmış anahtarlar: {', '.join(known[-60:]) if known else '(yok)'}
+Bir haber bu listedeki bir olayla aynıysa o anahtarı aynen kullan, yeni bir olaysa yeni anahtar üret.
 
 Puanlama kriterleri: {cfg['criteria']}
 Puanlamada cimri ol: 8 ve üstü sadece gerçekten önemli haberlere verilsin, haberlerin çoğu 3-6 arasında olsun.
@@ -221,7 +231,7 @@ Haberler:
 {lines}
 
 Sadece şu biçimde bir JSON dizisi döndür, başka hiçbir şey yazma:
-[{{"i": 0, "baslik": "...", "ozet": "...", "puan": 6.5}}]"""
+[{{"i": 0, "baslik": "...", "ozet": "...", "puan": 6.5, "grup": "..."}}]"""
         try:
             data = gemini_json(prompt)
         except Exception as e:  # noqa: BLE001
@@ -230,11 +240,15 @@ Sadece şu biçimde bir JSON dizisi döndür, başka hiçbir şey yazma:
         for r in data:
             try:
                 item = batch[int(r["i"])]
+                grup = slugify(str(r.get("grup", ""))) or item["id"]
                 results.append((item, {
                     "baslik": str(r["baslik"]).strip(),
                     "ozet": str(r["ozet"]).strip(),
                     "puan": max(1.0, min(10.0, float(r["puan"]))),
+                    "grup": grup,
                 }))
+                if grup not in known:
+                    known.append(grup)
             except (KeyError, ValueError, IndexError, TypeError):
                 continue
         time.sleep(4)  # ücretsiz katman hız sınırına takılmamak için
@@ -258,6 +272,7 @@ def send_ntfy(topic, title, message, priority=3, click=None, tags=None):
 def run_check():
     seen = load_json(SEEN_FILE, {})
     log = load_json(LOG_FILE, [])
+    alerted = load_json(ALERTED_FILE, {})
     now = time.time()
     alerts = []
 
@@ -266,13 +281,17 @@ def run_check():
         print(f"[{key}] yeni haber: {len(items)}")
         if not items:
             continue
-        for item, res in score_items(cfg, items):
+        known = sorted({e["grup"] for e in log
+                        if e["cat"] == key and e.get("grup") and now - e["ts"] < 24 * 3600}
+                       | {k.split("|", 1)[1] for k in alerted if k.startswith(key + "|")})
+        for item, res in score_items(cfg, items, known):
             seen[item["id"]] = now
             entry = {
                 "cat": key,
                 "baslik": res["baslik"],
                 "ozet": res["ozet"],
                 "puan": res["puan"],
+                "grup": res["grup"],
                 "link": item["link"],
                 "source": item["source"],
                 "ts": now,
@@ -287,6 +306,18 @@ def run_check():
     save_json(SEEN_FILE, seen)
     save_json(LOG_FILE, log)
 
+    # Aynı olayı anlatan haberlerden sadece en yüksek puanlıyı gönder;
+    # son 48 saatte zaten bildirimi gönderilmiş konuları atla.
+    best = {}
+    for e in alerts:
+        akey = f"{e['cat']}|{e['grup']}"
+        if akey in alerted:
+            print(f"[atlandı] zaten bildirildi: {e['grup']}")
+            continue
+        if akey not in best or e["puan"] > best[akey]["puan"]:
+            best[akey] = e
+    alerts = list(best.values())
+
     alerts.sort(key=lambda e: e["puan"], reverse=True)
     night = dt.datetime.now(TZ).hour < 8  # gece sessiz bildirim
     for e in alerts[:MAX_ALERTS_PER_RUN]:
@@ -300,9 +331,12 @@ def run_check():
         try:
             send_ntfy(topic, f"{cfg['emoji']} {e['baslik']}", message,
                       priority=priority, click=e["link"], tags=["rotating_light"] if e["puan"] >= 9 else None)
+            alerted[f"{e['cat']}|{e['grup']}"] = now
             print(f"[bildirim] {e['baslik']} ({e['puan']:.1f})")
         except Exception as ex:  # noqa: BLE001
             print(f"[hata] bildirim gönderilemedi: {ex}")
+    alerted = {k: v for k, v in alerted.items() if now - v < 48 * 3600}
+    save_json(ALERTED_FILE, alerted)
 
 
 def run_digest():
@@ -316,6 +350,10 @@ def run_digest():
             continue
         entries = [e for e in log if e["cat"] == key and now - e["ts"] < 24 * 3600]
         entries.sort(key=lambda e: e["puan"], reverse=True)
+        uniq = {}
+        for e in entries:  # aynı konudan sadece en yüksek puanlı haber
+            uniq.setdefault(e.get("grup") or e["link"], e)
+        entries = list(uniq.values())
         important = sum(1 for e in entries if e["puan"] >= THRESHOLD)
         if entries:
             lines = [f"📅 {today} Tarihli Günlük Özet", ""]
