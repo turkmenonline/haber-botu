@@ -565,5 +565,35 @@
   "link": "https://www.racefans.net/2026/10/10/verstappen-f1-shouldnt-hold-sprint-races-on-tracks-where-you-cant-pass/",
   "source": "RaceFans",
   "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hulkenberg Ceza Almaktan Kurtuldu",
+  "ozet": "Nico Hulkenberg, Carlos Sainz'ı engellediği gerekçesiyle inceleme altına alınmasına rağmen zamanlama hatası sayesinde grid cezasından kurtuldu.",
+  "puan": 7.5,
+  "grup": "singapore-gp-hulkenberg-penalty",
+  "link": "https://www.the-race.com/formula-1/f1-timing-error-saves-nico-hulkenberg-from-grid-drop/",
+  "source": "The Race",
+  "ts": 1791659844.4903152
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 Singapur GP Start Gridleri",
+  "ozet": "Birden fazla pilotun ceza almasıyla netleşen 2026 Singapur Grand Prix'sinin resmi başlangıç gridi açıklandı.",
+  "puan": 8.5,
+  "grup": "singapore-gp-starting-grid",
+  "link": "https://www.the-race.com/formula-1/f1-2026-singapore-grand-prix-starting-grid-after-two-penalties/",
+  "source": "The Race",
+  "ts": 1791659844.4903152
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen'den Red Bull'un Kötü Startlarına Çözüm",
+  "ozet": "Singapur'da kariyerinin 50. pole pozisyonunu ve 250. yarışını kutlayan Max Verstappen, Malezya ve Singapur'daki zayıf startların ardından değişiklikler yapacağını belirtti.",
+  "puan": 6.0,
+  "grup": "verstappen-red-bull-start-issues",
+  "link": "https://www.autosport.com/f1/news/max-verstappen-hints-at-change-after-red-bulls-poor-f1-starts-in-malaysia-and-singapore/10864060/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1791659844.4903152
  }
 ]
