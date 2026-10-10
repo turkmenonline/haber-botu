@@ -26,6 +26,9 @@ DATA_DIR = "data"
 SEEN_FILE = os.path.join(DATA_DIR, "seen.json")
 LOG_FILE = os.path.join(DATA_DIR, "day_log.json")
 ALERTED_FILE = os.path.join(DATA_DIR, "alerted.json")
+BASELINE_FILE = os.path.join(DATA_DIR, "baseline.json")
+RESULTS_FILE = os.path.join(DATA_DIR, "results_sent.json")
+JOLPICA = "https://api.jolpi.ca/ergast/f1"
 
 # Sırayla denenir; bir model 404/403 verirse (kapatılmış ya da erişim yok) sonrakine geçilir.
 # GEMINI_MODEL tanımlıysa o en başa alınır.
@@ -79,6 +82,7 @@ CATEGORIES = {
             "Motorsport.com": "https://www.motorsport.com/rss/f1/news/",
             "RaceFans": "https://www.racefans.net/feed/",
             "The Race": "https://www.the-race.com/category/formula-1/feed/",
+            "Formula1.com": "https://www.formula1.com/content/fom-website/en/latest/all.xml",
         },
         "criteria": (
             "Yüksek (8-10): yarış/sıralama/sprint sonucu, şampiyonluk durumu, diskalifiye veya ceza, "
@@ -119,7 +123,9 @@ def short_bytes(text, limit=3900):
 
 # ---------- haber çekme ----------
 
-def fetch_items(cfg):
+def fetch_items(cfg, seen=None):
+    """RSS kaynaklarından haberleri çeker. Daha önce işlenenleri (seen) en başta eler."""
+    seen = seen or {}
     now = time.time()
     items, seen_ids = [], set()
     for source, url in cfg["feeds"].items():
@@ -141,11 +147,12 @@ def fetch_items(cfg):
             if not link or not title:
                 continue
             parsed = e.get("published_parsed") or e.get("updated_parsed")
+            undated = not parsed  # bazı kaynaklar (örn. formula1.com) tarih vermiyor
             ts = calendar.timegm(parsed) if parsed else now
             if now - ts > MAX_AGE_HOURS * 3600:
                 continue
             iid = hashlib.sha1(link.encode()).hexdigest()[:16]
-            if iid in seen_ids:
+            if iid in seen_ids or iid in seen:
                 continue
             seen_ids.add(iid)
             items.append({
@@ -155,6 +162,7 @@ def fetch_items(cfg):
                 "link": link,
                 "source": source,
                 "ts": ts,
+                "undated": undated,
             })
     items.sort(key=lambda x: x["ts"], reverse=True)
     return items[:MAX_ITEMS_PER_CAT]
@@ -273,11 +281,21 @@ def run_check():
     seen = load_json(SEEN_FILE, {})
     log = load_json(LOG_FILE, [])
     alerted = load_json(ALERTED_FILE, {})
+    baseline = set(load_json(BASELINE_FILE, []))
     now = time.time()
     alerts = []
 
     for key, cfg in CATEGORIES.items():
-        items = [it for it in fetch_items(cfg) if it["id"] not in seen]
+        raw = fetch_items(cfg, seen)
+        # Tarih vermeyen kaynakta (örn. formula1.com) ilk görüşte mevcut haberler eski olabilir:
+        # onları işlemeden "görüldü" say, sadece bundan sonra gelenleri değerlendir.
+        items = []
+        for it in raw:
+            if it["undated"] and it["source"] not in baseline:
+                seen[it["id"]] = now
+                continue
+            items.append(it)
+        baseline |= {it["source"] for it in raw if it["undated"]}
         print(f"[{key}] yeni haber: {len(items)}")
         if not items:
             continue
@@ -301,10 +319,11 @@ def run_check():
                 alerts.append(entry)
 
     # eskileri temizle
-    seen = {k: v for k, v in seen.items() if now - v < 7 * 86400}
+    seen = {k: v for k, v in seen.items() if now - v < 30 * 86400}
     log = [e for e in log if now - e["ts"] < 48 * 3600]
     save_json(SEEN_FILE, seen)
     save_json(LOG_FILE, log)
+    save_json(BASELINE_FILE, sorted(baseline))
 
     # Aynı olayı anlatan haberlerden sadece en yüksek puanlıyı gönder;
     # son 48 saatte zaten bildirimi gönderilmiş konuları atla.
@@ -337,6 +356,81 @@ def run_check():
             print(f"[hata] bildirim gönderilemedi: {ex}")
     alerted = {k: v for k, v in alerted.items() if now - v < 48 * 3600}
     save_json(ALERTED_FILE, alerted)
+
+    try:
+        run_results()
+    except Exception as ex:  # noqa: BLE001
+        print(f"[hata] F1 sonuç kartı: {ex}")
+
+
+# ---------- F1 sonuç kartı (Jolpica / Ergast verisi) ----------
+
+def _jolpica(path):
+    r = requests.get(f"{JOLPICA}/{path}", headers=HEADERS, timeout=30)
+    if r.status_code != 200:
+        print(f"[uyarı] Jolpica {path}: HTTP {r.status_code}")
+        return None
+    races = r.json().get("MRData", {}).get("RaceTable", {}).get("Races", [])
+    return races[0] if races else None
+
+
+def _best_q(res):
+    return res.get("Q3") or res.get("Q2") or res.get("Q1") or "-"
+
+
+def format_results(kind, race):
+    rows = race.get("QualifyingResults" if kind == "qualifying" else
+                    "SprintResults" if kind == "sprint" else "Results", [])
+    lines = []
+    for r in rows:
+        d, c = r["Driver"], r["Constructor"]["name"]
+        name = d.get("familyName", "?")
+        pos = r.get("positionText") or r.get("position", "?")
+        if kind == "qualifying":
+            lines.append(f"{r['position']}. {name} ({c}) {_best_q(r)}")
+        else:
+            gap = (r.get("Time") or {}).get("time") or r.get("status", "")
+            grid = r.get("grid")
+            start = f" · P{grid}'den" if grid and grid != "0" else (" · pit çıkışı" if grid == "0" else "")
+            lines.append(f"{pos}. {name} ({c}) {gap}{start}")
+    return lines
+
+
+def run_results():
+    """Sıralama / sprint / yarış sonuçları yayınlandıysa bir kez bildirim gönderir."""
+    topic = os.environ.get(CATEGORIES["f1"]["topic_env"])
+    if not topic:
+        return
+    sent = load_json(RESULTS_FILE, {})
+    today = dt.datetime.now(TZ).date()
+    titles = {"qualifying": "Sıralama Turları", "sprint": "Sprint Sonucu", "results": "Yarış Sonucu"}
+    for kind in ("qualifying", "sprint", "results"):
+        race = _jolpica(f"current/last/{kind}.json")
+        if not race:
+            continue
+        try:
+            race_date = dt.date.fromisoformat(race["date"])
+        except (KeyError, ValueError):
+            continue
+        if not (today - dt.timedelta(days=3) <= race_date <= today + dt.timedelta(days=2)):
+            continue  # eski hafta sonu, ilk kurulumda eski sonuçları gönderme
+        skey = f"{race['season']}-{race['round']}-{kind}"
+        if skey in sent:
+            continue
+        lines = format_results(kind, race)
+        if not lines:
+            continue
+        if kind == "qualifying":
+            lines.append("")
+            lines.append("ℹ️ Ceza alan pilotlar start sırasında geriye düşebilir; "
+                         "kesin grid yarış sonrası tabloda görünür.")
+        title = f"🏁 {race['raceName']} - {titles[kind]}"
+        send_ntfy(topic, title, "\n".join(lines), priority=4, click=race.get("url"))
+        sent[skey] = time.time()
+        print(f"[sonuç] {title}")
+    # çok eski kayıtları temizle
+    sent = {k: v for k, v in sent.items() if time.time() - v < 30 * 86400}
+    save_json(RESULTS_FILE, sent)
 
 
 def run_digest():
