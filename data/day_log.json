@@ -1,1 +1,569 @@
-[]
+[
+ {
+  "cat": "araba",
+  "baslik": "Nadir Bulunan 2012 Acura TSX Sport Wagon",
+  "ozet": "Oldukça sınırlı sayıda üretilen 2012 model Acura TSX Sport Wagon, pratikliğiyle dikkat çekiyor.",
+  "puan": 3.5,
+  "link": "https://www.jalopnik.com/2281814/2012-acura-tsx-sport-wagon-for-sale-as-rare-as-r35-gtr/",
+  "source": "Jalopnik",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "araba",
+  "baslik": "Otonom Sürüş İçin Geliştirilen Nefes Alan Direksiyon",
+  "ozet": "Otonom sistemlere güven aşılamak için tasarlanan 'nefes alan' direksiyon simidi, sürücülerde farklı tepkilere yol açıyor.",
+  "puan": 4.5,
+  "link": "https://www.thedrive.com/news/this-creepy-breathing-steering-wheel-is-one-way-your-car-could-drive-with-you-instead-of-for-you",
+  "source": "The Drive",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "araba",
+  "baslik": "iPhone'un Gölgesinde Kalan Motorola Araç Telefonu",
+  "ozet": "Motorola, iPhone'un piyasaya çıkışından bir yıl sonra yeni araç telefonunu duyursa da ürün pek ilgi görmedi.",
+  "puan": 2.0,
+  "link": "https://www.jalopnik.com/2279899/2007-apple-iphone-released-2008-motorola-smart-rider-car-phone-announced/",
+  "source": "Jalopnik",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "araba",
+  "baslik": "Google Maps'te McLaren F1 Sürprizi",
+  "ozet": "Navigasyon uygulamasında kısa süreliğine araç simgesini turuncu bir Formula 1 yarış arabasına dönüştürmek mümkün.",
+  "puan": 3.0,
+  "link": "https://www.jalopnik.com/2279525/google-maps-vehicle-display-mclaren-formula-1-race-car/",
+  "source": "Jalopnik",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "araba",
+  "baslik": "Milli Parklar İçin Arazi Tipi Tekerlekli Sandalyeler",
+  "ozet": "Özel tekerlekli sandalyeler sayesinde daha fazla insan Batı'nın muhteşem manzaralarını keşfedebilecek.",
+  "puan": 2.0,
+  "link": "https://www.thedrive.com/news/all-terrain-wheelchairs-are-coming-to-national-parks-so-anyone-can-go-anywhere",
+  "source": "The Drive",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yüksek Devir Çeviren 8 Nadir Motor",
+  "ozet": "Yüksek devirli atmosferik motorlar turbo rakipleri kadar güç üretemese de otomobil severlerin beğenisini kazanıyor.",
+  "puan": 2.5,
+  "link": "https://www.jalopnik.com/2281132/rare-engines-super-high-redlines/",
+  "source": "Jalopnik",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "araba",
+  "baslik": "Bugatti Type 41 Royale'in Rekor Yılları",
+  "ozet": "Bugatti Type 41 Royale, yirmi yılı aşkın süre boyunca açık artırmada satılan en pahalı otomobil unvanını korudu.",
+  "puan": 3.5,
+  "link": "https://www.jalopnik.com/2277466/bugatti-type-41-royale-most-expensive-auction-20-years/",
+  "source": "Jalopnik",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "araba",
+  "baslik": "30 Bin Dolar Altındaki 7 İkinci El Orta Boy Kamyonet",
+  "ozet": "Bütçe dostu ikinci el orta boy kamyonet arayanlar için piyasadaki dikkat çekici yedi model.",
+  "puan": 2.0,
+  "link": "https://www.jalopnik.com/2279315/used-mid-size-pickup-trucks-under-30k/",
+  "source": "Jalopnik",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "araba",
+  "baslik": "Otomobil Bagajına Neden 'Trunk' Deniyor?",
+  "ozet": "Aracın arkasındaki depolama alanına 'trunk' adının verilmesi at arabaları ve seyahat sandıklarına dayanıyor.",
+  "puan": 2.0,
+  "link": "https://www.motor1.com/features/811045/why-is-it-called-a-trunk/",
+  "source": "Motor1",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "araba",
+  "baslik": "Dünyanın Kesintisiz En Uzun Düz Yolu",
+  "ozet": "Hiç virajı olmayan dünyanın en uzun düz yolunu geçmek saatler sürüyor ve hazırlık gerektiriyor.",
+  "puan": 2.0,
+  "link": "https://www.jalopnik.com/2279269/longest-stretch-uninterrupted-straight-road-saudi-arabia-highway-10-159-miles/",
+  "source": "Jalopnik",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "araba",
+  "baslik": "BaT'taki Porsche 356 Orijinal mi?",
+  "ozet": "Bring a Trailer üzerinden satışa çıkan Porsche 356'nın tamamen orijinal olmaması markanın meraklılarını ikiye böldü.",
+  "puan": 3.0,
+  "link": "https://www.caranddriver.com/news/a74068592/1953-porsche-356-limousine-bring-a-trailer-auction/",
+  "source": "Car and Driver",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "araba",
+  "baslik": "Facebook Marketplace'te Arka Motorlu V8 Geo Metro",
+  "ozet": "Arka camının altında bir V8 barındıran sıra dışı modifiyeli Geo Metro satışa çıkarıldı.",
+  "puan": 3.5,
+  "link": "https://www.thedrive.com/news/facebook-marketplace-has-this-rear-engined-v8-geo-metro-for-you",
+  "source": "The Drive",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "araba",
+  "baslik": "Porsche'nin Kanser Yapan Frenleri",
+  "ozet": "1960'ların sonlarında hafif malzeme arayışındaki Porsche'nin kullandığı bazı fren metal bileşenlerinin akciğer kanserine yol açtığı ortaya çıktı.",
+  "puan": 6.5,
+  "link": "https://www.jalopnik.com/2279101/porsche-909-bergspyder-uncompromising-race-car-carcinogenic-brakes-beryllium/",
+  "source": "Jalopnik",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "araba",
+  "baslik": "Kamyonetle Çalıştırılan Devasa 102.4 Litrelik Motor",
+  "ozet": "1950'lerden kalma devasa Mirrlees Blackstone JS8 motoru, günümüzde büyük bir arka bahçe projesi olarak duruyor.",
+  "puan": 3.0,
+  "link": "https://www.thedrive.com/news/gigantic-102-4l-engine-requires-an-entire-pickup-truck-to-start-it",
+  "source": "The Drive",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "araba",
+  "baslik": "Garajınızda Hangi Araçlar Var?",
+  "ozet": "Otomobil tutkunları için evin en önemli köşesi olan garajların rolü üzerine bir bakış.",
+  "puan": 1.5,
+  "link": "https://www.jalopnik.com/2281394/what-is-in-your-garage-reader-question/",
+  "source": "Jalopnik",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "araba",
+  "baslik": "1992 Model Mazda MX-3 GS Fotoğrafları",
+  "ozet": "1992 Mazda MX-3 GS modelinin iç ve dış tasarım detaylarını gösteren fotoğraf galerisi.",
+  "puan": 2.0,
+  "link": "https://www.caranddriver.com/photos/a74080800/1992-mazda-mx-3-gs-archive-drive-gallery/",
+  "source": "Car and Driver",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "araba",
+  "baslik": "Street Fighter II'deki Lexus LS Gerçek Oldu",
+  "ozet": "Super Nintendo oyununda parçaladığımız efsanevi Lexus LS artık gerçek hayatta sürülebiliyor.",
+  "puan": 3.5,
+  "link": "https://www.caranddriver.com/news/a74093764/street-fighter-video-game-lexus-ls400-real-life-car/",
+  "source": "Car and Driver",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "araba",
+  "baslik": "1992 Mazda MX-3 GS Test Sürüşü",
+  "ozet": "Karakteristiki özellikleriyle bilinen 1992 model Mazda MX-3 GS direksiyonunda yaşananlar.",
+  "puan": 4.0,
+  "link": "https://www.caranddriver.com/reviews/a73963609/1992-mazda-mx-3-gs-drive/",
+  "source": "Car and Driver",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "araba",
+  "baslik": "Hellcat Hemi V8 Motorları Güçlerine Göre Sıralandı",
+  "ozet": "Süper şarjlı 6.2 litrelik Hellcat V8 motorlarının sunduğu devasa güç ve performans detayları.",
+  "puan": 4.5,
+  "link": "https://www.jalopnik.com/2278456/hellcat-hemi-v8s-ranked-least-most-ridiculous-horsepower/",
+  "source": "Jalopnik",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "araba",
+  "baslik": "Jaguar Type 01'den Bile Uzun Elektrikli Otomobiller",
+  "ozet": "Jaguar Type 01 büyük boyutlarıyla dikkat çekse de, piyasada ondan daha uzun elektrikli araçlar da bulunuyor.",
+  "puan": 4.0,
+  "link": "https://www.jalopnik.com/2282668/jaguar-type-01-is-huge-these-evs-are-even-longer/",
+  "source": "Jalopnik",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Araçlarda Alabileceğiniz En Güçlü 5 Motor",
+  "ozet": "Devasa beygir güçleri ve yüksek performans sunan, sıfır otomobil ve kamyonetlerde bulabileceğiniz en güçlü motorlar derlendi.",
+  "puan": 2.5,
+  "link": "https://www.jalopnik.com/2278768/most-powerful-engines-you-can-get/",
+  "source": "Jalopnik",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "araba",
+  "baslik": "Trafik Işıkları Neden Kırmızı, Sarı ve Yeşil?",
+  "ozet": "Kırmızı, sarı ve yeşil renklerin trafik ışıklarında kullanılmasının arkasındaki şaşırtıcı ve az bilinen tarihsel hikaye ele alınıyor.",
+  "puan": 1.5,
+  "link": "https://www.motor1.com/features/811016/why-are-traffic-lights-red-yellow-green/",
+  "source": "Motor1",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "araba",
+  "baslik": "Kaliforniya'nın En Alçak ve Dünyanın En Sıcak Yolu",
+  "ozet": "Kaliforniya'da yer alan ve sürücüleri dünyanın en sıcak noktasına ulaştıran en düşük rakımlı yolun özellikleri anlatılıyor.",
+  "puan": 1.5,
+  "link": "https://www.jalopnik.com/2278725/americas-lowest-altitude-road-hottest-place-on-earth-death-valley-california/",
+  "source": "Jalopnik",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yakıt Tüketimine Göre Sıralanmış 5 İkinci El Spor Sedan",
+  "ozet": "Pratiklik ile performansı birleştiren ve bütçe dostu olan ikinci el spor sedan otomobiller yakıt verimliliğine göre sıralandı.",
+  "puan": 2.0,
+  "link": "https://www.jalopnik.com/2278505/used-sports-sedans-ranked-best-to-worst-fuel-efficiency/",
+  "source": "Jalopnik",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton Singapur'da İkinci Çizgide",
+  "ozet": "Ferrari pilotu Lewis Hamilton, sıralama turlarının ardından Singapur Grand Prix'sine dördüncü sıradan (ikinci çizgi) başlayacak.",
+  "puan": 6.0,
+  "link": "https://www.motorsport.com/f1/news/lewis-hamilton-plots-massive-ferrari-ambush-on-verstappen-after-frustrating-qualifying/10863953/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Toto Wolff'ten George Russell'a Destek",
+  "ozet": "Mercedes patronu Toto Wolff, Singapur'daki ıslak zeminli sprint yarışında kaza yapan George Russell'ı savundu.",
+  "puan": 5.0,
+  "link": "https://www.motorsport.com/f1/news/toto-wolff-defends-george-russell-after-costly-sprint-crash-in-singapore/10863986/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "McLaren İçin Norris-Piastri Teması Ciddi Bir Konu",
+  "ozet": "Singapur Grand Prix'si hafta sonu, McLaren içinde Norris ile Piastri arasında yaşanan temasla birlikte takım içi tartışmaları yeniden alevlendirdi.",
+  "puan": 5.0,
+  "link": "https://www.motorsport.com/f1/news/whats-so-serious-for-mclaren-about-the-norris-piastri-singapore-collision/10864071/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Andrea Stella'dan Pilot Çatışması Açıklaması",
+  "ozet": "McLaren takım patronu Andrea Stella, pilotlarının yaşadığı 'kabul edilemez' temas hakkında konuştu.",
+  "puan": 5.5,
+  "link": "https://www.the-race.com/formula-1/how-mclaren-reacting-to-unacceptable-f1-driver-clash/",
+  "source": "The Race",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Max Verstappen'den Start Sorunları Açıklaması",
+  "ozet": "250. Grand Prix'sine çıkan Max Verstappen, Malezya ve Singapur'daki zayıf startların ardından bazı konularda değişime gideceklerini ifade etti.",
+  "puan": 5.0,
+  "link": "https://www.motorsport.com/f1/news/max-verstappen-hints-at-change-after-red-bulls-poor-f1-starts-in-malaysia-and-singapore/10864048/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Singapur'da Pole Pozisyonu Analizi",
+  "ozet": "Charles Leclerc, Singapur'daki sıralama turlarında Max Verstappen'in kendisinden daha iyi bir iş çıkardığını itiraf etti.",
+  "puan": 4.5,
+  "link": "https://www.autosport.com/f1/news/a-better-job-or-more-engine-power-verstappens-singapore-pole-unpicked/10864047/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ferrari Pole Pozisyonunu Nasıl Kaçırdı?",
+  "ozet": "Max Verstappen Singapur'da harika bir pole pozisyonu elde ederken, Ferrari pilotları bu fırsatı değerlendiremedi.",
+  "puan": 4.5,
+  "link": "https://www.the-race.com/formula-1/how-ferrari-handed-singapore-pole-to-verstappen/",
+  "source": "The Race",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "FIA'nın Güç Ünitesi Kuralları Tartışılıyor",
+  "ozet": "Singapur sıralamalarındaki teknik aksaklık, FIA'nın F1 araçları üzerindeki kontrolünün fazla olduğu yönündeki eleştirileri artırdı.",
+  "puan": 3.0,
+  "link": "https://www.racefans.net/2026/10/10/featured-comment-f1s-latest-technical-glitch-shows-its-power-unit-rules-are-too-intrusive/",
+  "source": "RaceFans",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Mercedes'in Singapur Güncellemeleri Değerlendiriliyor",
+  "ozet": "Şampiyona lideri Kimi Antonelli, Mercedes'in Singapur'a getirdiği yeni taban ve sidepod güncellemelerinin işe yaradığını düşünüyor.",
+  "puan": 5.0,
+  "link": "https://www.motorsport.com/f1/news/how-mercedes-tricky-f1-upgrade-has-been-working-at-singapore-gp/10864023/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Singapur GP Sıralama Turları Kazananları ve Kaybedenleri",
+  "ozet": "Karmaşık geçen Singapur Grand Prix sıralama turlarının ardından griddeki dikkat çeken isimler derlendi.",
+  "puan": 4.0,
+  "link": "https://www.the-race.com/formula-1/winners-and-losers-from-singapore-gp-2026-f1-qualifying/",
+  "source": "The Race",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton: 'Ayar Değişikliği Dengeyi Bozdu'",
+  "ozet": "Q1 ve Q2'nin en hızlısı olan Lewis Hamilton, yaptığı ayar değişikliğinin aracın dengesini bozması nedeniyle üçüncü olduğunu söyledi.",
+  "puan": 5.0,
+  "link": "https://www.racefans.net/2026/10/10/hamilton-admits-set-up-change-spoiled-car-balance-after-missing-out-on-pole-position/",
+  "source": "RaceFans",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Russell'ın Singapur'da İlk Altı Hedefi",
+  "ozet": "George Russell, sıralama turları sonrası gridin gerisinden başlayacağı Singapur GP'de ilk altıya girmeyi umuyor.",
+  "puan": 4.5,
+  "link": "https://www.racefans.net/2026/10/10/russell-aiming-for-sixth-from-back-of-grid-in-singapore/",
+  "source": "RaceFans",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "McLaren Takım İçinde Norris-Piastri Temasını Konuşacak",
+  "ozet": "Islak zeminli sprint yarışının son turunda çarpışan Lando Norris ve Oscar Piastri hakkında McLaren dahili görüşmeler yapacak.",
+  "puan": 6.0,
+  "link": "https://www.autosport.com/f1/news/andrea-stella-singapore-f1-sprint-collision-between-lando-norris-and-oscar-piastri-simply-not-accep/10864014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Andrea Stella: 'Norris ve Piastri'nin Teması Kabul Edilemez'",
+  "ozet": "McLaren patronu Andrea Stella, sprint yarışında takım arkadaşlarının birbirine çarpmasını sert bir dille eleştirdi.",
+  "puan": 6.0,
+  "link": "https://www.motorsport.com/f1/news/andrea-stella-singapore-f1-sprint-collision-between-lando-norris-and-oscar-piastri-simply-not-accep/10864011/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton Singapur Sıralamalarında Ayar Kurbanı Oldu",
+  "ozet": "Lewis Hamilton, sıralamalarda yaptığı aşırı ayar değişikliği yüzünden pole pozisyonunu kaçırdığını belirtti.",
+  "puan": 5.0,
+  "link": "https://www.motorsport.com/f1/news/how-hamilton-tipped-it-over-the-edge-with-a-setup-change-too-far-in-singapore-gp-qualifying/10863998/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Russell: 'Kendi Hatam Yüzünden Kötü Bir Cumartesi Geçirdim'",
+  "ozet": "George Russell, sprint yarışında liderken yaptığı kazanın tamamen kendi hatasından kaynaklandığını kabul etti.",
+  "puan": 5.0,
+  "link": "https://www.autosport.com/f1/news/russell-bemoans-very-bad-saturday-at-singapore-gp/10863982/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "George Russell Kazası Hakkında Konuştu",
+  "ozet": "Mercedes pilotu George Russell, Singapur'daki sprint kazasının ardından cumartesi gününün kendisi için çok kötü geçtiğini söyledi.",
+  "puan": 4.5,
+  "link": "https://www.motorsport.com/f1/news/george-russell-owns-up-to-singapore-f1-crash-a-very-bad-day-because-of-my-own-mistake/10863974/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hadjar'dan Red Bull'a Motor İsyanı",
+  "ozet": "Singapur'da güç ünitesi arızası yaşayan Isack Hadjar, Red Bull'un motor sorunları hakkında sert eleştirilerde bulundu.",
+  "puan": 6.5,
+  "link": "https://www.motorsport.com/f1/news/isack-hadjar-demands-massive-red-bull-engine-changes-everything-is-breaking-apart/10863966/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Kim Kardashian'ın Uçağı Singapur'da",
+  "ozet": "Kim Kardashian'a ait özel jetin Lewis Hamilton'ın Singapur GP'si için adaya gelmesi kulisleri hareketlendirdi.",
+  "puan": 2.0,
+  "link": "https://www.motorsport.com/f1/news/hamilton-gets-massive-6700-mile-boost-as-kim-kardashian-touches-down-for-singapore-gp/10863940/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Stella'dan Norris ve Piastri Kazasına Tepki",
+  "ozet": "McLaren takım patronu Andrea Stella, sprint yarışında iki pilotunun yaşadığı kaza için \"kesinlikle kabul edilemez\" değerlendirmesini yaptı.",
+  "puan": 7.5,
+  "link": "https://www.racefans.net/2026/10/10/collision-between-norris-and-piastri-was-simply-not-acceptable-stella/",
+  "source": "RaceFans",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 Singapur GP Başlangıç Çizgisi",
+  "ozet": "2026 Formula 1 Singapur Grand Prix'si için başlangıç gridi bilgileri.",
+  "puan": 6.0,
+  "link": "https://www.motorsport.com/f1/news/2026-f1-singapore-grand-prix-starting-grid/10863947/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Singapur'da Pole Pozisyonu Verstappen'in",
+  "ozet": "Max Verstappen, Ferrari pilotlarını geride bırakarak Singapur Grand Prix'sinde pole pozisyonunun sahibi oldu.",
+  "puan": 8.5,
+  "link": "https://www.the-race.com/formula-1/verstappen-beats-ferraris-to-singapore-gp-pole/",
+  "source": "The Race",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 Singapur GP Sıralama İçi Takım Arkadaşı Rekabeti",
+  "ozet": "Motorsport.com, Singapur Grand Prix sıralama seansının ardından takım arkadaşları arasındaki kıyaslama istatistiklerini yayınladı.",
+  "puan": 4.0,
+  "link": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-singapore-gp/10863288/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen Singapur'da Ferrari'yi Geçerek Pole'ü Aldı",
+  "ozet": "Max Verstappen, Ferrari pilotları Leclerc ve Hamilton'ı geride bırakarak Singapur GP'sinde pole pozisyonunu elde etti.",
+  "puan": 8.5,
+  "link": "https://www.motorsport.com/f1/news/f1-singapore-gp-qualifying-report/10863917/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen Singapur'da Dominasyonunu Sürdürdü",
+  "ozet": "Max Verstappen, Singapur'da pole pozisyonunu alırken Red Bull'dan takım arkadaşı Isack Hadjar gridin en arka sırasından başlayacak.",
+  "puan": 8.5,
+  "link": "https://www.autosport.com/f1/news/f1-singapore-gp-verstappen-on-pole/10863921/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen Singapur'da İkinci Pole Pozisyonunu Kazandı",
+  "ozet": "Max Verstappen, Ferrari pilotlarının önünde yer alarak Singapur Grand Prix hafta sonundaki ikinci pole pozisyonunu elde etti.",
+  "puan": 8.5,
+  "link": "https://www.racefans.net/2026/10/10/verstappen-takes-second-pole-position-in-singapore-ahead-of-the-ferraris/",
+  "source": "RaceFans",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 Singapur Grand Prix Sıralama Sonuçları",
+  "ozet": "Formula 1 Singapur Grand Prix'si sıralama turlarının resmi sonuçları açıklandı.",
+  "puan": 7.0,
+  "link": "https://www.the-race.com/formula-1/f1-2026-singapore-grand-prix-qualifying-results/",
+  "source": "The Race",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 Singapur Grand Prix Starting Grid",
+  "ozet": "Max Verstappen, Singapur Grand Prix'si için geçici pole pozisyonunu Ferrari pilotlarının önünde kazandı.",
+  "puan": 8.0,
+  "link": "https://www.racefans.net/2026/10/10/2026-singapore-grand-prix-grid/",
+  "source": "RaceFans",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hakimlerden Piastri ve Norris Kararı",
+  "ozet": "Singapur GP hakemleri, son turdaki temas nedeniyle Lando Norris ve Oscar Piastri'nin suç payı olduğuna karar vererek ceza tayin etmedi.",
+  "puan": 8.0,
+  "link": "https://www.the-race.com/formula-1/stewards-rule-piastri-shares-blame-for-norris-clash/",
+  "source": "The Race",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen'den Zorlu Sıralama Yarışı Uyarısı",
+  "ozet": "Yağmurlu Singapur sprint yarışını kazanan Max Verstappen, start anındaki performansından memnun olmadığını belirtti.",
+  "puan": 6.5,
+  "link": "https://www.motorsport.com/f1/news/max-verstappen-warns-of-a-massive-qualifying-battle-after-singapore-sprint-win/10863886/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Piastri'den McLaren'ın Son Tur Kazası Sonrası Açıklama",
+  "ozet": "McLaren için kabusa dönen sprint yarışı sonrasında Oscar Piastri yaşanan olayları değerlendirdi.",
+  "puan": 5.5,
+  "link": "https://www.motorsport.com/f1/news/oscar-piastri-speaks-out-on-the-teams-embarrassing-final-lap-f1-crash/10863832/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton'dan Singapur Pisti İçin Değişim Çağrısı",
+  "ozet": "Lewis Hamilton, yağmur olmasaydı Singapur'un en sıkıcı yarış olacağını belirterek pistin değiştirilmesini istedi.",
+  "puan": 4.5,
+  "link": "https://www.motorsport.com/f1/news/lewis-hamilton-calls-for-singapore-track-changes-would-have-been-the-most-boring-race-without-rain/10863895/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Singapur GP Sprint Günü Fotoğrafları",
+  "ozet": "Singapur Grand Prix'si sprint yarışından kareler.",
+  "puan": 2.0,
+  "link": "https://www.racefans.net/2026/10/10/2026-singapore-grand-prix-qualifying-and-sprint-race-day-in-pictures/",
+  "source": "RaceFans",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Singapur Islak Sprint Yarışının Kazananları ve Kaybedenleri",
+  "ozet": "2026 sezonunun son sprint yarışı olan Singapur GP'sinin kazanan ve kaybeden isimleri derlendi.",
+  "puan": 4.0,
+  "link": "https://www.the-race.com/formula-1/f1-singapore-gp-sprint-race-winners-losers/",
+  "source": "The Race",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen'den Red Bull'a Start Sorunu Uyarısı",
+  "ozet": "Singapur'da galibiyete ulaşan Max Verstappen, Red Bull'un kalkışlardaki problemini çözmesi gerektiğini vurguladı.",
+  "puan": 6.5,
+  "link": "https://www.autosport.com/f1/news/verstappen-urges-red-bull-to-fix-starts-problem/10863868/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Norris, Piastri Teması Sonrası Cezadan Kurtuldu",
+  "ozet": "Sprint yarışının son turunda takım arkadaşı Piastri ile temas eden Lando Norris olaydan ceza almadı.",
+  "puan": 8.0,
+  "link": "https://www.motorsport.com/f1/news/lando-norris-summoned-for-oscar-piastri-clash-it-was-a-big-gap-so-i-went-for-it/10863862/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen'den Yarış Günü İçin Start Uyarısı",
+  "ozet": "Max Verstappen, kötü kalkışlarına devam etmesi halinde Pazar günkü yarışın kendileri için biteceğini söyledi.",
+  "puan": 6.5,
+  "link": "https://www.motorsport.com/f1/news/max-verstappen-warns-red-bull-with-such-a-horrendous-start-sundays-race-is-over/10863860/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 Sezonu Sıralama Turlarında Takım Arkadaşı Kıyaslamaları",
+  "ozet": "2026 F1 sezonunda pilotların sıralama turlarındaki performans karşılaştırmaları inceleniyor.",
+  "puan": 3.5,
+  "link": "https://www.the-race.com/formula-1/how-f1-2026-team-mates-are-comparing-in-qualifying/",
+  "source": "The Race",
+  "ts": 1791659168.791227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen'den Geçiş Olmayan Piste Sprint Tepkisi",
+  "ozet": "Singapur sprint yarışını kazanan Max Verstappen, geçiş yapmanın imkansız olduğu pistlerde sprint yapılmasını eleştirdi.",
+  "puan": 5.5,
+  "link": "https://www.racefans.net/2026/10/10/verstappen-f1-shouldnt-hold-sprint-races-on-tracks-where-you-cant-pass/",
+  "source": "RaceFans",
+  "ts": 1791659168.791227
+ }
+]
