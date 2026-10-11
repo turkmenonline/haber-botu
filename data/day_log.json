@@ -1105,5 +1105,605 @@
   "link": "https://www.the-race.com/business/how-a-key-resignation-attempt-taught-wolff-a-valuable-lesson/",
   "source": "The Race",
   "ts": 1791725759.4326894
+ },
+ {
+  "cat": "araba",
+  "baslik": "IIHS'den Ağır Vasıtalar İçin Yeni Güvenlik Hamlesi",
+  "ozet": "IIHS, ticari vanlar ve ağır hizmet kamyonlarını daha güvenli hale getirmek için yeni bir kampanya başlattı.",
+  "puan": 6.5,
+  "grup": "iihs-commercial-vans-trucks-safety",
+  "link": "https://www.jalopnik.com/2282710/iihs-heavy-duty-trucks-cargo-vans-crash-safety-tests/",
+  "source": "Jalopnik",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "araba",
+  "baslik": "Peugeot, RCZ Coupe Modelini Geri Getiriyor",
+  "ozet": "Peugeot, çift kabarcıklı tavanı ve kare direksiyon simidiyle dikkat çeken RCZ Coupe konseptini tanıttı.",
+  "puan": 8.0,
+  "grup": "peugeot-rcz-return-concept",
+  "link": "https://www.motor1.com/news/811479/peugeot-rcz-concept-reveal/",
+  "source": "Motor1",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "araba",
+  "baslik": "Uber Araçlarında Aranan Şartlar Neler?",
+  "ozet": "Uber, konfor ve güvenlik gerekçeleriyle taşımacılık yapacak araçlar için katı kurallar uyguluyor.",
+  "puan": 2.5,
+  "grup": "uber-car-requirements-rules",
+  "link": "https://www.jalopnik.com/2281664/cars-eligible-become-uber-rideshare/",
+  "source": "Jalopnik",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "araba",
+  "baslik": "Opel'den Geleceğin Station Wagon Konsepti",
+  "ozet": "STX Concept, Opel'in şık ve aerodinamik elektrikli station wagon vizyonunu gözler önüne seriyor.",
+  "puan": 7.0,
+  "grup": "opel-stx-concept-wagon",
+  "link": "https://www.motor1.com/news/811442/opel-stx-concept-preview/",
+  "source": "Motor1",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "araba",
+  "baslik": "Alfa Romeo'dan V6 Motorlu Yeni Konsept",
+  "ozet": "Cuorerosso konsepti, Alfa Romeo'nun yeni tasarım dilini ve çift turbolu V6 motorunu sergiliyor.",
+  "puan": 8.2,
+  "grup": "alfa-romeo-cuorerosso-v6-concept",
+  "link": "https://www.motor1.com/news/811441/alfa-romeo-cuorerosso-concept-debut-paris/",
+  "source": "Motor1",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "araba",
+  "baslik": "Efsane Citroën 2CV Elektrikli Olarak Dönüyor",
+  "ozet": "Retro detaylara sahip yeni Citroën 2CV, 2028'de Avrupa'nın en ucuz elektrikli araçlarından biri olmayı hedefliyor.",
+  "puan": 7.5,
+  "grup": "citroen-2cv-ev-return",
+  "link": "https://www.motor1.com/news/811439/new-citroen-2cv-ev-debut-price-details/",
+  "source": "Motor1",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "araba",
+  "baslik": "Fiat Multipla, Pick-up ve SUV Karması Olarak Yeniden Doğdu",
+  "ozet": "1998'in sıra dışı MPV modeli Fiat Multipla, Multiplay adıyla pick-up ve SUV melezi bir konsept olarak geri döndü.",
+  "puan": 7.2,
+  "grup": "fiat-multipla-multiplay-concept",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/fiat-multipla-returns-cross-between-pick-and-suv",
+  "source": "Autocar",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "araba",
+  "baslik": "Alfa Romeo Cuorerosso Hibrit V6 ile Tanıtıldı",
+  "ozet": "Hızlı arka tasarıma sahip fastback konsepti, markanın gelecekteki benzinli performans modellerine ışık tutuyor.",
+  "puan": 8.1,
+  "grup": "alfa-romeo-cuorerosso-v6-concept",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/alfa-romeo-cuorerosso-previews-brands-future-%E2%80%93-twin-turbo-v6",
+  "source": "Autocar",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "araba",
+  "baslik": "Peugeot'dan 805 Beygirlik Ralli Esintili Konsept",
+  "ozet": "e-208 tabanlı e-T16 konsepti, 1980'lerin ralli efsanesini 800 beygirin üzerinde güçle yeniden yorumluyor.",
+  "puan": 8.3,
+  "grup": "peugeot-e-t16-rally-concept",
+  "link": "https://www.autocar.co.uk/car-news/electric-cars/new-805bhp-peugeot-e-t16-concept-reinvents-80s-rally-hero",
+  "source": "Autocar",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "araba",
+  "baslik": "DS, Yeni Nesil Nº3 ile Hatchback Köklerine Dönüyor",
+  "ozet": "F3VER konsepti, müşterilerin crossover'ları reddetmesi üzerine DS'in yeniden alçak tavanlı hatchback segmentine döneceğini gösteriyor.",
+  "puan": 6.8,
+  "grup": "ds-no3-f3ver-hatchback-concept",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/ds-return-hatchback-roots-next-generation-no3",
+  "source": "Autocar",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "araba",
+  "baslik": "Peugeot RCZ Şık Bir Dört Kişilik GT Olarak Yeniden Doğdu",
+  "ozet": "Paris Motor Fuarı'nda sergilenen spor coupé konsepti, üretime geçme potansiyeliyle markaya duygu katmayı amaçlıyor.",
+  "puan": 8.0,
+  "grup": "peugeot-rcz-return-concept",
+  "link": "https://www.autocar.co.uk/car-news/electric-cars/peugeot-rcz-returns-sleek-four-seat-gt-production-plans",
+  "source": "Autocar",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "araba",
+  "baslik": "Görüş: Yeni Citroën 2CV Elektrikli Olmalı mı?",
+  "ozet": "Yeniden doğan ucuz Citroën 2CV'nin küçük bir bataryaya sahip olacak olması bazı soru işaretlerini beraberinde getiriyor.",
+  "puan": 4.5,
+  "grup": "citroen-2cv-ev-return",
+  "link": "https://www.autocar.co.uk/opinion/electric-cars/opinion-new-2cv-cute-should-it-really-be-ev",
+  "source": "Autocar",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Citroën 2CV Konsepti Görücüye Çıktı",
+  "ozet": "Fransız markanın savaş sonrası ikonundan ilham alan ucuz elektrikli model, 2028'de yollara çıkmaya hazırlanıyor.",
+  "puan": 7.6,
+  "grup": "citroen-2cv-ev-return",
+  "link": "https://www.autocar.co.uk/car-news/electric-cars/citro%C3%ABn-2cv-back-new-concept-previews-%C2%A313k-ev-2028",
+  "source": "Autocar",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "araba",
+  "baslik": "Vauxhall STX Estate Geleceğin Tasarımını İşaret Ediyor",
+  "ozet": "Alçak tavanlı ve akıcı hatlara sahip STX konsepti, Vauxhall'ın gelecek nesil modellerine yönelik vizyonunu yansıtıyor.",
+  "puan": 7.0,
+  "grup": "opel-stx-concept-wagon",
+  "link": "https://www.autocar.co.uk/car-news/electric-cars/bold-vauxhall-stx-estate-revealed-first-look-astras-future",
+  "source": "Autocar",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "araba",
+  "baslik": "Manuel Şanzımanlı 4 İkinci El Lexus Modeli",
+  "ozet": "Manuel vites seçeneği sunmuş dört eski Lexus modelini bugün bulmak oldukça zahmetli bir arayış gerektirebilir.",
+  "puan": 2.2,
+  "grup": "used-manual-lexus-models-list",
+  "link": "https://www.jalopnik.com/2281426/used-lexus-models-cheap-manual-transmissions/",
+  "source": "Jalopnik",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "araba",
+  "baslik": "Bir Otomobil Üretmek İçin Kaç Ülke Gerekiyor?",
+  "ozet": "Çin'den gelen bataryalar ve Avrupa genelinden parçalarla modern bir otomobilin küresel üretim zincirini keşfedin.",
+  "puan": 3.5,
+  "grup": "car-manufacturing-global-supply-chain",
+  "link": "https://www.motor1.com/features/811287/how-many-countries-it-takes-to-build-a-car/",
+  "source": "Motor1",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "araba",
+  "baslik": "Kasırgada Yıkılan Dağ Otoyolu Yeniden İnşa Ediliyor",
+  "ozet": "2024 yılındaki Helen Kasırgası'nda yıkılan eyaletler arası otoyol kesimi, büyük bir projeyle tekrar yapılıyor.",
+  "puan": 5.0,
+  "grup": "highway-rebuilding-hurricane-helene",
+  "link": "https://www.thedrive.com/news/building-a-mountain-highway-to-withstand-a-500-year-flood-is-the-definition-of-a-big-job",
+  "source": "The Drive",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "araba",
+  "baslik": "Callaway Modifiyeli 1985 Model Volkswagen GTI Satışta",
+  "ozet": "Zamanında Callaway Cars tarafından turboşarj eklenen bu 1985 model VW GTI, standart versiyonlardan çok daha hızlı.",
+  "puan": 3.8,
+  "grup": "callaway-volkswagen-gti-1985-bat",
+  "link": "https://www.caranddriver.com/news/a74068640/1985-callaway-turbocharged-vw-gti-bring-a-trailer-auction/",
+  "source": "Car and Driver",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "araba",
+  "baslik": "Normal Bir Dönüşte Devrilen Modifiye Ford Kamyonet",
+  "ozet": "Aşırı modifiye edilmiş büyük bir Ford kamyonetin, normal bir virajda fizik kurallarına yenik düşerek devrilmesi kameraya yansıdı.",
+  "puan": 2.8,
+  "grup": "ford-super-duty-rollover-accident",
+  "link": "https://www.thedrive.com/news/watch-this-goofy-ford-super-duty-bro-truck-roll-over-in-a-normal-turn",
+  "source": "The Drive",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "araba",
+  "baslik": "Otomobillerin Trenlerle Paylaştığı Tek Şeritli Tünel",
+  "ozet": "Alaska'da bir şehre ulaşılan bu tünelde sürüş 20-30 dakika sürüyor ve trafik saat başı yön değiştiriyor.",
+  "puan": 3.2,
+  "grup": "alaska-single-lane-train-tunnel",
+  "link": "https://www.jalopnik.com/2281306/city-whittier-alaska-one-lane-tunnel-cars-share-trains/",
+  "source": "Jalopnik",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Takımların Singapur GP Değerlendirmeleri",
+  "ozet": "Pilotlar ve takımlar 2026 Singapur Grand Prix'sinin ardından yaşanan tüm olayları ve yarış aksiyonunu değerlendirdi.",
+  "puan": 4.5,
+  "grup": "singapore-gp-race-reactions",
+  "link": "https://www.formula1.com/en/latest/article/what-the-teams-said-race-day-in-singapore-2026.3lLHolVW3aIRAl7Ohxlxf6",
+  "source": "Formula1.com",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen Singapur'da Kazandı",
+  "ozet": "Max Verstappen, Charles Leclerc ve Kimi Antonelli'yi geride bırakarak Marina Bay'de uzun süredir beklenen zaferine ulaştı.",
+  "puan": 9.0,
+  "grup": "singapore-gp-race-result",
+  "link": "https://www.formula1.com/en/latest/article/singapore-lowdown-all-the-key-moments-as-verstappen-dominates-and-ferrari-face-strategy-turmoil.08P4aNzUgbtUZ7GnJ9njb",
+  "source": "Formula1.com",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton'dan Singapur Stratejisi İtirafı",
+  "ozet": "Lewis Hamilton, Sanal Güvenlik Aracı altında pite girmek yerine pistte kalma kararının kendisine ait olduğunu ve bunun acı bir ders olduğunu kabul etti.",
+  "puan": 6.0,
+  "grup": "singapore-gp-hamilton-strategy",
+  "link": "https://www.formula1.com/en/latest/article/a-painful-lesson-hamilton-apologises-as-he-takes-responsibility-for-strategy-gamble-in-singapore.6NUbQvdet1DQa5ElDtonw1",
+  "source": "Formula1.com",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Vasseur'den Hamilton'ın Stratejisi İçin Hata İtirafı",
+  "ozet": "Ferrari Takım Patronu Fred Vasseur, Singapur Grand Prix'sinde podyumun Lewis Hamilton'ın elinden nasıl kayıp gittiğini açıkladı.",
+  "puan": 6.0,
+  "grup": "singapore-gp-hamilton-strategy",
+  "link": "https://www.formula1.com/en/latest/article/it-was-a-mistake-vasseur-reacts-to-hamiltons-strategy-call-that-lost-a-podium-in-singapore.7FetC3ZueATDEKBKuuy4V",
+  "source": "Formula1.com",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Russell İçin Zorlu Singapur GP",
+  "ozet": "Mercedes'ten George Russell, 19. sıradan 9. sıraya tırmandığı Singapur Grand Prix'sini sezonun özeti olan zorlu bir yarış olarak nitelendirdi.",
+  "puan": 5.0,
+  "grup": "singapore-gp-russell-race",
+  "link": "https://www.formula1.com/en/latest/article/the-story-of-the-season-russell-assesses-very-difficult-recovery-drive-in-singapore-grand-prix.bdIuyUxGaD3yWI4SpS7zZ",
+  "source": "Formula1.com",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli Şampiyonluğa Çok Yaklaştı",
+  "ozet": "Kimi Antonelli, Singapur'daki üçüncülüğünün onu dünya şampiyonluğunun eşiğine getirdiğini öğrendiğinde şaşkınlık yaşadı.",
+  "puan": 8.0,
+  "grup": "singapore-gp-antonelli-championship",
+  "link": "https://www.formula1.com/en/latest/article/can-i-really-antonelli-reacts-as-he-gives-himself-first-chance-of-sealing-world-title-after-singapore-podium.2BhiC6Exd2Jtm9uT3xZ2Rb",
+  "source": "Formula1.com",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Norris Dördüncülükten Memnun Değil",
+  "ozet": "Lando Norris, Singapur GP'sini dördüncü bitirmekten mutlu olmadığını belirterek McLaren'dan galibiyetler için savaşmasını istedi.",
+  "puan": 5.5,
+  "grup": "singapore-gp-norris-reaction",
+  "link": "https://www.formula1.com/en/latest/article/we-want-to-fight-for-wins-norris-not-happy-with-a-p4-finish-in-singapore-gp.7KagAh8STy3D0lYmIV5fOx",
+  "source": "Formula1.com",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Leclerc Podyuma Dönüşten Mutlu",
+  "ozet": "Charles Leclerc, Singapur Grand Prix'sinde podyuma dönüşü hakkında her şeyi ortaya koyduğunu belirtti.",
+  "puan": 5.5,
+  "grup": "singapore-gp-leclerc-podium",
+  "link": "https://www.formula1.com/en/latest/article/i-dont-regret-anything-leclerc-gave-it-all-to-secure-p2-in-singapore.4TemKhORmVtudPgWO2Uiw4",
+  "source": "Formula1.com",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen 10. Denemesinde Singapur'u Kazandı",
+  "ozet": "Max Verstappen, kariyerindeki 10. denemesinde uzun süredir beklenen Singapur Grand Prix zaferini elde ettiği için gururlu olduğunu söyledi.",
+  "puan": 8.5,
+  "grup": "singapore-gp-race-result",
+  "link": "https://www.formula1.com/en/latest/article/its-taken-a-while-verstappen-thrilled-with-maiden-singapore-win-at-10th-attempt.7A6wicGmDmoONtJzg1TdLl",
+  "source": "Formula1.com",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Singapur'da Günün Pilotu Verstappen",
+  "ozet": "Dominant bir galibiyetle Marina Bay'de üstünlük kuran Max Verstappen, üst üste beşinci kez Günün Pilotu seçildi.",
+  "puan": 7.5,
+  "grup": "singapore-gp-driver-of-the-day",
+  "link": "https://www.formula1.com/en/latest/article/driver-of-the-day-first-time-singapore-gp-winner-verstappen-gets-your-vote.6KaQbrOz89gdBDMMW9bjqM",
+  "source": "Formula1.com",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Norris'ten Piastri Teması İçin Özür",
+  "ozet": "Lando Norris, Singapur sprint yarışının son turunda takım arkadaşı Oscar Piastri ile yaşadığı temas nedeniyle takımı hayal kırıklığına uğrattığını kabul etti.",
+  "puan": 8.0,
+  "grup": "singapore-gp-mclaren-collision",
+  "link": "https://www.motorsport.com/f1/news/lando-norris-i-owe-everyone-at-mclaren-an-apology-for-oscar-piastri-clash/10864465/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton'ın Strateji Hatası Podyuma Mal Oldu",
+  "ozet": "Başarısız bir strateji, Lewis Hamilton'ın Singapur'da podyumu kaybetmesine ve altıncı sırada bitirmesine neden oldu.",
+  "puan": 6.0,
+  "grup": "singapore-gp-hamilton-strategy",
+  "link": "https://www.the-race.com/formula-1/our-verdict-on-lewis-hamilton-singapore-strategy-failure/",
+  "source": "The Race",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen'den Red Bull'un Yeni Yapılanmasına Esprili Yaklaşım",
+  "ozet": "Max Verstappen, Red Bull'un Gianpiero Lambiase'nin halefini hazırlama sürecinde şifreli mesajlar hakkında espri yaptı.",
+  "puan": 4.0,
+  "grup": "verstappen-red-bull-lambiase-successor",
+  "link": "https://www.autosport.com/f1/news/max-verstappen-jokes-about-coded-messages-as-red-bull-plans-first-races-for-gianpiero-lambiases-suc/10864455/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Red Bull'da Lambiase'nin Halefi İçin Hazırlıklar",
+  "ozet": "Max Verstappen, Red Bull'un Gianpiero Lambiase'nin yerini alacak isimle ilgili planlamaları üzerine açıklamalarda bulundu.",
+  "puan": 4.0,
+  "grup": "verstappen-red-bull-lambiase-successor",
+  "link": "https://www.motorsport.com/f1/news/max-verstappen-jokes-about-coded-messages-as-red-bull-plans-first-races-for-lambiases-successor/10864449/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Singapur Grand Prix Kazananları ve Kaybedenleri",
+  "ozet": "Yorucu bir üçlü yarış serisinin son ayağında Singapur'da kimler kazandı, kimler stratejik hatalarla kaybetti?",
+  "puan": 5.0,
+  "grup": "singapore-gp-winners-losers",
+  "link": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-singapore-grand-prix/10864434/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Singapur GP'nin Kazananları ve Kaybedenleri",
+  "ozet": "Güçlü bir zafer ve elden kaçan bir podyum; Singapur Grand Prix'sinin öne çıkan kazananları ve kaybedenleri.",
+  "puan": 5.0,
+  "grup": "singapore-gp-winners-losers",
+  "link": "https://www.the-race.com/formula-1/f1-2026-singapore-grand-prix-winners-losers/",
+  "source": "The Race",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Toto Wolff'tan Mercedes'in Birlik Sırrı",
+  "ozet": "Takım patronu Toto Wolff, şampiyonluk mücadelesindeki Antonelli ve cezalarla boğuşan Russell arasında Mercedes'in eşit muamele kültürünü anlattı.",
+  "puan": 5.5,
+  "grup": "mercedes-singapore-team-dynamics",
+  "link": "https://www.motorsport.com/f1/news/toto-wolff-explains-the-strict-f1-transparency-keeping-mercedes-united/10864411/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Wolff'tan Red Bull Övgüsü ve Güncelleme Değerlendirmesi",
+  "ozet": "Mercedes yeni güncellemelerini incelerken Toto Wolff, son yarışlardaki büyük gelişimi nedeniyle Red Bull'u ve Max Verstappen'i övdü.",
+  "puan": 5.0,
+  "grup": "mercedes-singapore-upgrade-test",
+  "link": "https://www.motorsport.com/f1/news/toto-wolff-praises-max-verstappen-and-red-bull-as-mercedes-faces-upgrade-concerns/10864424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton'ın Singapur'daki Düşüşünün Nedeni",
+  "ozet": "Lewis Hamilton Singapur Grand Prix'sinde yarışın son bölümünde nasıl altıncılığa geriledi?",
+  "puan": 5.5,
+  "grup": "singapore-gp-hamilton-strategy",
+  "link": "https://www.the-race.com/formula-1/why-lewis-hamilton-singapore-gp-really-imploded/",
+  "source": "The Race",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ferrari'den Hamilton'ın Riskli Stratejisi Açıklaması",
+  "ozet": "Ferrari patronu Fred Vasseur, Hamilton'ın yumuşak lastiklerle uzun stint atarak üçüncücülükten altıncılığa gerilemesine neden olan stratejiyi savundu.",
+  "puan": 6.0,
+  "grup": "singapore-gp-hamilton-strategy",
+  "link": "https://www.autosport.com/f1/news/ferrari-explains-hamiltons-failed-singapore-gp-gamble/10864421/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Norris'in Hamilton hamlesi kural dışı bulundu",
+  "ozet": "Hakemler, Lando Norris'in yarışın başındaki Lewis Hamilton'ı geçme girişiminin kurallara uygun olmadığına karar verdi.",
+  "puan": 5.0,
+  "grup": "singapore-gp-gasly-norris-incident",
+  "link": "https://www.racefans.net/2026/10/11/norris-incorrectly-believed-hamilton-would-have-to-let-me-past-after-turn-one-move/",
+  "source": "RaceFans",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ferrari'nin Hamilton stratejisi neden başarısız oldu?",
+  "ozet": "Singapur GP'de Lewis Hamilton'ın yumuşak lastiklerle uzun süre pistte kalma stratejisi, üçüncülükten altıncılığa gerilemesine neden oldu.",
+  "puan": 5.5,
+  "grup": "singapore-gp-hamilton-strategy",
+  "link": "https://www.motorsport.com/f1/news/why-ferrari-caved-in-to-lewis-hamiltons-failed-singapore-f1-gamble/10864417/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli ABD GP'de şampiyonluğunu ilan edebilir",
+  "ozet": "Şampiyona lideri Kimi Antonelli, 2026 sezonundaki baskın performansıyla ABD GP'de ilk dünya şampiyonluğunu kazanmaya hazırlanıyor.",
+  "puan": 7.0,
+  "grup": "singapore-gp-antonelli-championship",
+  "link": "https://www.motorsport.com/f1/news/how-kimi-antonelli-will-cope-with-pressure-of-clinching-f1-title-at-us-gp/10864407/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 Singapur GP veri analizi",
+  "ozet": "Singapur Grand Prix'sine ait tur zamanları, lastik stratejileri ve pit stop verileri detaylandırıldı.",
+  "puan": 3.0,
+  "grup": "singapore-gp-race-result",
+  "link": "https://www.racefans.net/2026/10/11/2026-singapore-grand-prix-interactive-data-lap-charts-times-and-tyres/",
+  "source": "RaceFans",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton Singapur GP sonrası hastaneye kaldırıldı",
+  "ozet": "Aşırı sıcak ve nemli Singapur yarışının ardından Lewis Hamilton, tıbbi müdahale gerektirdiği için medya karşısına çıkamadı.",
+  "puan": 6.0,
+  "grup": "singapore-gp-hamilton-strategy",
+  "link": "https://www.motorsport.com/f1/news/lewis-hamilton-rushed-to-fia-medical-team-after-grueling-singapore-grand-prix/10864385/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli'nin şampiyonluk senaryosu",
+  "ozet": "Kimi Antonelli'nin 2026 Formula 1 dünya şampiyonluğunu ABD GP'de garantilemesi için gereken puan durumu açıklandı.",
+  "puan": 6.5,
+  "grup": "singapore-gp-antonelli-championship",
+  "link": "https://www.autosport.com/f1/news/how-can-antonelli-become-f1-world-champion-at-us-gp/10864377/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli'nin şampiyonluk senaryosu",
+  "ozet": "Kimi Antonelli'nin 2026 Formula 1 dünya şampiyonluğunu ABD GP'de garantilemesi için gereken puan durumu açıklandı.",
+  "puan": 6.5,
+  "grup": "singapore-gp-antonelli-championship",
+  "link": "https://www.motorsport.com/f1/news/how-can-kimi-antonelli-become-world-champion-at-f1-us-gp/10864359/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Norris, Piastri ile çarpışmanın sorumluluğunu üstlendi",
+  "ozet": "Lando Norris, Singapur sprint yarışında takım arkadaşı Oscar Piastri ile yaşadığı kazada hatalı olduğunu kabul etti.",
+  "puan": 5.0,
+  "grup": "singapore-gp-mclaren-collision",
+  "link": "https://www.the-race.com/formula-1/lando-norris-now-accepts-blame-for-oscar-piastri-clash-f1-singapore/",
+  "source": "The Race",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Wolff'tan Russell'ın Singapur performansı hakkında yorum",
+  "ozet": "Toto Wolff, motor arızası sonrası zorlu bir yarış geçiren George Russell'ın Singapur'daki performansını değerlendirdi.",
+  "puan": 5.0,
+  "grup": "mercedes-singapore-team-dynamics",
+  "link": "https://www.motorsport.com/f1/news/toto-wolff-delivers-brutal-verdict-on-f1s-overtaking-flaws-after-russells-singapore-nightmare/10864368/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Leclerc'ten Ferrari'ye güncelleme çağrısı",
+  "ozet": "Singapur'da ikinci olan Charles Leclerc, Red Bull ile rekabet edebilmek için Ferrari'den daha fazla araç güncellemesi talep etti.",
+  "puan": 5.5,
+  "grup": "singapore-gp-leclerc-podium",
+  "link": "https://www.motorsport.com/f1/news/leclerc-demands-more-ferrari-upgrades-after-agonizing-singapore-gp-p2/10864334/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Vasseur: Hamilton pit emrini görmezden geldi",
+  "ozet": "Ferrari takım patronu Fred Vasseur, Lewis Hamilton'ın Singapur'da kritik pit stop emrine uymadığını açıkladı.",
+  "puan": 6.0,
+  "grup": "singapore-gp-hamilton-strategy",
+  "link": "https://www.motorsport.com/f1/news/ferrari-boss-reveals-lewis-hamilton-deliberately-ignored-singapore-gp-pit-orders/10864361/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen Singapur lanetini kırdı",
+  "ozet": "Max Verstappen, kariyerinde ilk kez Singapur Grand Prix'sini kazanarak Marina Bay'deki galibiyet hasretine son verdi.",
+  "puan": 8.0,
+  "grup": "singapore-gp-race-result",
+  "link": "https://www.motorsport.com/f1/news/max-verstappen-reacts-to-breaking-singapore-gp-curse-after-years-of-heartbreak/10864353/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton strateji hatasının sorumluluğunu aldı",
+  "ozet": "Lewis Hamilton, Singapur GP'de sanal güvenlik aracı altında pite girmeme kararının kendisine ait olduğunu belirtti.",
+  "puan": 6.0,
+  "grup": "singapore-gp-hamilton-strategy",
+  "link": "https://www.autosport.com/f1/news/lewis-hamilton-takes-blame-for-poor-singapore-gp-strategy/10864343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton strateji hatasının sorumluluğunu aldı",
+  "ozet": "Lewis Hamilton, Singapur GP'de sanal güvenlik aracı altında pite girmeme kararının kendisine ait olduğunu belirtti.",
+  "puan": 6.0,
+  "grup": "singapore-gp-hamilton-strategy",
+  "link": "https://www.motorsport.com/f1/news/lewis-hamilton-takes-blame-for-poor-singapore-gp-strategy/10864338/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli Austin'de şampiyon olabilir",
+  "ozet": "Kimi Antonelli, Austin'deki yarış sonuçlarına bağlı olarak 2026 dünya şampiyonluğunu ilan etme şansına sahip.",
+  "puan": 6.5,
+  "grup": "singapore-gp-antonelli-championship",
+  "link": "https://www.racefans.net/2026/10/11/how-antonelli-can-clinch-the-f1-world-championship-at-the-next-race-in-austin/",
+  "source": "RaceFans",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli şampiyonluk haberleriyle şaşkına döndü",
+  "ozet": "Singapur'da podyuma çıkan Kimi Antonelli, yarış sonrası şampiyonluk ihtimalleriyle ilgili gelen haberleri değerlendirdi.",
+  "puan": 6.0,
+  "grup": "singapore-gp-antonelli-championship",
+  "link": "https://www.motorsport.com/f1/news/kimi-antonelli-refuses-to-celebrate-his-imminent-f1-championship-after-the-singapore-gp/10864326/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen kazandı, Ferrari stratejide hata yaptı",
+  "ozet": "Max Verstappen Singapur'da zafere ulaşırken, Ferrari Lewis Hamilton'ın stratejisini yönetemeyerek podyum şansını kaybetti.",
+  "puan": 8.0,
+  "grup": "singapore-gp-race-result",
+  "link": "https://www.the-race.com/formula-1/max-verstappen-breaks-singapore-win-drought-while-lewis-hamilton-nosedives/",
+  "source": "The Race",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton pit girişini kaçırdığı için özür diledi",
+  "ozet": "Frederic Vasseur, Lewis Hamilton'ın takımın pit çağrısını duymasına rağmen pit girişini kaçırdığını doğruladı.",
+  "puan": 6.0,
+  "grup": "singapore-gp-hamilton-strategy",
+  "link": "https://www.racefans.net/2026/10/11/hamilton-apologises-to-ferrari-after-missing-pit-entry-when-told-to-come-in/",
+  "source": "RaceFans",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Singapur GP'nin pilotunu seçin",
+  "ozet": "2026 Singapur Grand Prix hafta sonunun en iyi performans gösteren pilotunu belirlemek için oylama başlatıldı.",
+  "puan": 2.0,
+  "grup": "singapore-gp-driver-of-the-day",
+  "link": "https://www.racefans.net/2026/10/11/vote-for-your-2026-singapore-grand-prix-driver-of-the-weekend/",
+  "source": "RaceFans",
+  "ts": 1791743184.1860905
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen Singapur'da domine etti",
+  "ozet": "Max Verstappen, Singapur GP'yi kazanarak şampiyona lideri Antonelli'nin puan farkını koruduğu yarışta zafere ulaştı.",
+  "puan": 8.0,
+  "grup": "singapore-gp-race-result",
+  "link": "https://www.motorsport.com/f1/news/f1-singapore-gp-report/10864310/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791743184.1860905
  }
 ]
