@@ -2,8 +2,9 @@ name: Haber Botu
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # her 30 dakikada yeni haberleri tara
-    - cron: "5 18 * * *"     # her gün 21:05 (Türkiye saati) günlük özet
+    # GitHub, tam saat/buçuk gibi yoğun dakikalarda çalışmaları atlayabiliyor.
+    # Bu yüzden yoğun olmayan dakikalarda ve sık çalıştırıyoruz; atlanan olursa bir sonraki yakalar.
+    - cron: "7,22,37,52 * * * *"
   workflow_dispatch:
     inputs:
       mode:
@@ -35,7 +36,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           NTFY_CAR_TOPIC: ${{ secrets.NTFY_CAR_TOPIC }}
           NTFY_F1_TOPIC: ${{ secrets.NTFY_F1_TOPIC }}
-          MODE: ${{ github.event.inputs.mode || (github.event.schedule == '5 18 * * *' && 'digest' || 'check') }}
+          MODE: ${{ github.event.inputs.mode || 'check' }}
         run: python news_bot.py "$MODE"
 
       - name: Durumu kaydet
