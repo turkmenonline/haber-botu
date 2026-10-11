@@ -845,5 +845,65 @@
   "link": "https://www.jalopnik.com/2280095/lease-deals-that-cost-less-than-300/",
   "source": "Jalopnik",
   "ts": 1791680802.710316
+ },
+ {
+  "cat": "araba",
+  "baslik": "Paris Otomobil Fuarı Kapılarını Açıyor",
+  "ozet": "Avrupalı otomobil üreticileri, Çinli rakiplerine karşı geliştirdikleri uygun fiyatlı yeni elektrikli modellerini Paris Otomobil Fuarı'nda tanıtmaya hazırlanıyor.",
+  "puan": 7.5,
+  "grup": "paris-motor-show-2024-evs",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/new-2cv-espace-and-more-star-cars-coming-paris-motor-show",
+  "source": "Autocar",
+  "ts": 1791703924.2458045
+ },
+ {
+  "cat": "araba",
+  "baslik": "Lotus'un Paris Fuarı'ndaki Gerçekleşmeyen Vaatleri",
+  "ozet": "Lotus'un 2010 Paris Otomobil Fuarı'nda tanıttığı ve büyük ses getiren altı yeni konsept modelden hiçbiri üretime geçememişti.",
+  "puan": 4.0,
+  "grup": "lotus-paris-motor-show-history",
+  "link": "https://www.autocar.co.uk/car-news/from-the-archive/six-broken-promises-when-lotus-went-mad-paris-motor-show",
+  "source": "Autocar",
+  "ts": 1791703924.2458045
+ },
+ {
+  "cat": "araba",
+  "baslik": "Uzay Teleskobunun Casus Uydu Geçmişi",
+  "ozet": "Evreni incelemek üzere yola çıkan Nancy Grace Roman Uzay Teleskobu, aslında hiç fırlatılmamış bir casus uydu olarak tasarlanmıştı.",
+  "puan": 2.0,
+  "grup": "nancy-grace-roman-telescope-history",
+  "link": "https://www.jalopnik.com/2280101/grace-roman-space-telescope-spy-agency-gift-nasa-no-money/",
+  "source": "Jalopnik",
+  "ts": 1791703924.2458045
+ },
+ {
+  "cat": "f1",
+  "baslik": "Racing Bulls 2027 Pilot Kararını Erteledi",
+  "ozet": "Takım patronu Alan Permane, Racing Bulls'un 2027'de hangi pilotlarla yarışacağına önümüzdeki haftalarda karar vereceğini açıklad.",
+  "puan": 7.0,
+  "grup": "racing-bulls-2027-driver-decision",
+  "link": "https://www.formula1.com/en/latest/article/permane-states-racing-bulls-will-select-their-2027-driver-line-up-in-the-coming-weeks.39Cso2HINAEU5KViOulOZb",
+  "source": "Formula1.com",
+  "ts": 1791703924.2458045
+ },
+ {
+  "cat": "f1",
+  "baslik": "FIA Singapur GP Sprint Sıralamasındaki Hataları Kabul Etti",
+  "ozet": "FIA tek koltuklu araçlar direktörü Nikolas Tombazis, Singapur GP sprint sıralama turlarındaki hataların federasyon için en kötü şey olduğunu belirtti.",
+  "puan": 8.5,
+  "grup": "singapore-gp-sprint-qualifying-fia-error",
+  "link": "https://www.autosport.com/f1/news/fia-admits-fairness-was-compromised-in-singapore-f1-sprint-qualifying-mess/10864155/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1791703924.2458045
+ },
+ {
+  "cat": "f1",
+  "baslik": "FIA Singapur GP Sprint Sıralamasındaki Hataları Kabul Etti",
+  "ozet": "FIA tek koltuklu araçlar direktörü Nikolas Tombazis, Singapur GP sprint sıralama turlarındaki hataların federasyon için en kötü şey olduğunu belirtti.",
+  "puan": 8.5,
+  "grup": "singapore-gp-sprint-qualifying-fia-error",
+  "link": "https://www.motorsport.com/f1/news/fia-admits-fairness-was-compromised-in-singapore-f1-sprint-qualifying-mess/10864037/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791703924.2458045
  }
 ]
