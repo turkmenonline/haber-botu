@@ -469,9 +469,26 @@ def run_digest():
             print(f"[hata] özet gönderilemedi: {ex}")
 
 
+DIGEST_STATE_FILE = os.path.join(DATA_DIR, "digest_state.json")
+DIGEST_AT = (21, 5)  # her gün bu saatten sonraki ilk çalışmada günlük özet gider
+
+
+def maybe_digest():
+    """GitHub zamanlayıcısı bir çalışmayı atlasa da özet o gün mutlaka bir kez gönderilir."""
+    now = dt.datetime.now(TZ)
+    if (now.hour, now.minute) < DIGEST_AT:
+        return
+    today = now.strftime("%Y-%m-%d")
+    if load_json(DIGEST_STATE_FILE, {}).get("last") == today:
+        return
+    run_digest()
+    save_json(DIGEST_STATE_FILE, {"last": today})
+
+
 if __name__ == "__main__":
     mode = sys.argv[1] if len(sys.argv) > 1 else "check"
     if mode == "digest":
-        run_digest()
+        run_digest()  # elle çalıştırma: günlük otomatik özeti etkilemez
     else:
         run_check()
+        maybe_digest()
