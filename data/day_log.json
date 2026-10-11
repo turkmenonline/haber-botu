@@ -815,5 +815,35 @@
   "link": "https://www.autosport.com/f1/news/whats-so-serious-for-mclaren-about-the-norris-piastri-singapore-collision/10864087/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
   "source": "Autosport",
   "ts": 1791670234.0900745
+ },
+ {
+  "cat": "araba",
+  "baslik": "Aylık 500 Doların Altında Taksitli Alınabilecek 6 Sıfır Otomobil",
+  "ozet": "Sıfır otomobil fiyatlarının artmasıyla birlikte, aylık 500 doların altında ödemelerle satın alınabilecek araç ve kamyonetleri inceledik.",
+  "puan": 2.5,
+  "grup": "used-car-finds-online-list",
+  "link": "https://www.jalopnik.com/2278529/new-cars-with-payments-cost-less-than-500/",
+  "source": "Jalopnik",
+  "ts": 1791680802.710316
+ },
+ {
+  "cat": "araba",
+  "baslik": "IIHS Güvenlik Testlerine Göre En İyi ve En Kötü 5 Aile Minibüsü",
+  "ozet": "Piyasadaki en güvenli beş aile minibüsünü IIHS sonuçlarına göre sıraladık ve bulguları NHTSA verileriyle karşılaştırdık.",
+  "puan": 6.5,
+  "grup": "nhtsa-iihs-safety-tests-difference",
+  "link": "https://www.jalopnik.com/2280256/new-family-minivans-ranked-best-to-worst-iihs-safety-ratings/",
+  "source": "Jalopnik",
+  "ts": 1791680802.710316
+ },
+ {
+  "cat": "araba",
+  "baslik": "Aylık 300 Doların Altında Kiralama Fırsatı Sunan 7 Otomobil",
+  "ozet": "Şaşırtıcı derecede ucuz kiralama fırsatları mevcut; ancak bu düşük aylık ödemeler düşük kilometre sınırları ve yüksek peşinatlar gibi dezavantajlar getirebiliyor.",
+  "puan": 2.0,
+  "grup": "used-car-finds-online-list",
+  "link": "https://www.jalopnik.com/2280095/lease-deals-that-cost-less-than-300/",
+  "source": "Jalopnik",
+  "ts": 1791680802.710316
  }
 ]
