@@ -1705,5 +1705,165 @@
   "link": "https://www.motorsport.com/f1/news/f1-singapore-gp-report/10864310/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1791743184.1860905
+ },
+ {
+  "cat": "araba",
+  "baslik": "Neredeyse Yok Edilemez Denilen 5 Lexus Modeli",
+  "ozet": "Toyota DNA'sına sahip sağlam SUV'lerden Mercedes'e rakip lüks sedanlara kadar uzun ömürleriyle ün salmış 5 Lexus modeli.",
+  "puan": 2.5,
+  "grup": "used-manual-lexus-models-list",
+  "link": "https://www.jalopnik.com/2282594/lexus-models-that-are-nearly-indestructible/",
+  "source": "Jalopnik",
+  "ts": 1791757428.6308873
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yapılmış En Güçlü 7 Sekiz Silindirli Motor",
+  "ozet": "Farklı motor tipleri arasında her zaman tatlı bir noktada olan V8 motorların en güçlü örnekleri.",
+  "puan": 3.0,
+  "grup": "used-car-finds-online-list",
+  "link": "https://www.jalopnik.com/2280915/most-powerful-8-cylinder-engines-ever-made/",
+  "source": "Jalopnik",
+  "ts": 1791757428.6308873
+ },
+ {
+  "cat": "araba",
+  "baslik": "2010 Model Honda Pilot Geri Görüş Kamerasıyla Konser Çekmek",
+  "ozet": "Park çizgileri eşliğinde düşük çözünürlüklü bir geri görüş kamerasının konser çekimlerinde nasıl kullanılabileceği.",
+  "puan": 2.0,
+  "grup": "car-manufacturing-global-supply-chain",
+  "link": "https://www.thedrive.com/news/using-a-2010-honda-pilot-backup-camera-to-film-a-concert-is-possible-apparently",
+  "source": "The Drive",
+  "ts": 1791757428.6308873
+ },
+ {
+  "cat": "araba",
+  "baslik": "Hyundai Tucson Ne Kadar Güvenilir ve Yaygın Sorunlar Neler?",
+  "ozet": "Düzenli bakımla yüksek kilometrelere ulaşabilen Hyundai Tucson modellerinde dikkat edilmesi gereken kronik sorunlar.",
+  "puan": 4.0,
+  "grup": "car-towing-rules-laws",
+  "link": "https://www.jalopnik.com/2282172/hyundai-tucson-common-issues/",
+  "source": "Jalopnik",
+  "ts": 1791757428.6308873
+ },
+ {
+  "cat": "araba",
+  "baslik": "Stellantis Markası DS Automobiles'den Yeni Konsept",
+  "ozet": "Şık tasarımıyla dikkat çeken yeni süpermini konsepti, gelecekteki DS 3 modelinin sinyallerini veriyor.",
+  "puan": 6.5,
+  "grup": "ds-no3-f3ver-hatchback-concept",
+  "link": "https://www.motor1.com/news/811486/ds-f3ver-concept-reveal/",
+  "source": "Motor1",
+  "ts": 1791757428.6308873
+ },
+ {
+  "cat": "araba",
+  "baslik": "Otomobil Akü Etiketleri Ne Anlama Geliyor?",
+  "ozet": "Akülerin üzerinde yer alan karmaşık harf ve sayı kombinasyonlarının pratik açıklamaları.",
+  "puan": 2.5,
+  "grup": "car-limp-mode-explanation",
+  "link": "https://www.jalopnik.com/2281802/car-battery-labels-explained-letter-number-means/",
+  "source": "Jalopnik",
+  "ts": 1791757428.6308873
+ },
+ {
+  "cat": "araba",
+  "baslik": "Fiat, Multipla'yı Minivan, SUV ve Kamyonet Olarak Yeniden Yorumladı",
+  "ozet": "Modülerliği üst seviyeye taşıyan Multiplay konsepti, tek bir araçta üç farklı karoseri birleştiriyor.",
+  "puan": 6.0,
+  "grup": "fiat-multipla-multiplay-concept",
+  "link": "https://www.motor1.com/news/811485/fiat-multiplay-concept-reveal/",
+  "source": "Motor1",
+  "ts": 1791757428.6308873
+ },
+ {
+  "cat": "araba",
+  "baslik": "Arabaların Ön Paneline Neden 'Dashboard' Deniyor?",
+  "ozet": "Her gün kullanılan araç ön paneli teriminin kökeninin göstergelerle veya ekranlarla hiçbir ilgisi yok.",
+  "puan": 2.0,
+  "grup": "highway-rebuilding-hurricane-helene",
+  "link": "https://www.motor1.com/features/811151/why-is-it-called-a-dashboard/",
+  "source": "Motor1",
+  "ts": 1791757428.6308873
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yüksek Güçlü Retro-Fünksiyonel Peugeot E-T16",
+  "ozet": "Çılgın elektrikli konsept araç, Peugeot'nun gelecek nesil süpermini modeline ışık tutuyor.",
+  "puan": 6.5,
+  "grup": "peugeot-e-t16-rally-concept",
+  "link": "https://www.motor1.com/news/811482/peugeot-et16-concept/",
+  "source": "Motor1",
+  "ts": 1791757428.6308873
+ },
+ {
+  "cat": "f1",
+  "baslik": "Leclerc'in Uçak Krizi",
+  "ozet": "Charles Leclerc'in özel uçağındaki teknik aksaklık nedeniyle Malezya'dan dönüşü karayoluyla yapılmak zorunda kaldı.",
+  "puan": 3.5,
+  "grup": "singapore-gp-leclerc-jet-drama",
+  "link": "https://www.motorsport.com/f1/news/charles-leclercs-private-jet-drama-sparked-last-minute-change-of-plans/10864489/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791757428.6308873
+ },
+ {
+  "cat": "f1",
+  "baslik": "Singapur GP Yarış Sonucu",
+  "ozet": "Max Verstappen Singapur Grand Prix'sini kazanırken, Andrea Kimi Antonelli şampiyonadaki puan farkını 102'ye çıkardı.",
+  "puan": 9.0,
+  "grup": "singapore-gp-race-result",
+  "link": "https://www.racefans.net/2026/10/11/2026-singapore-grand-prix-race-result-and-championship-points/",
+  "source": "RaceFans",
+  "ts": 1791757428.6308873
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen Singapur'da Kazandı",
+  "ozet": "Max Verstappen, Leclerc ve Antonelli'nin önünde rahat bir galibiyet alarak kariyerinin ilk Singapur GP zaferini elde etti.",
+  "puan": 9.0,
+  "grup": "singapore-gp-race-result",
+  "link": "https://www.autosport.com/f1/news/f1-singapore-gp-report/10864312/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1791757428.6308873
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen Singapur'da Dominant",
+  "ozet": "Max Verstappen, Ferrari tehdidinin azalmasıyla Singapur Grand Prix'sinde kontrolü elinde tutarak rahat bir zafer kazandı.",
+  "puan": 9.0,
+  "grup": "singapore-gp-race-result",
+  "link": "https://www.racefans.net/2026/10/11/verstappen-cruises-to-singapore-grand-prix-victory-as-ferrari-threat-fades/",
+  "source": "RaceFans",
+  "ts": 1791757428.6308873
+ },
+ {
+  "cat": "f1",
+  "baslik": "Singapur GP Ardından Öne Çıkanlar",
+  "ozet": "Red Bull'un Bakü'de yaptığı güncellemelerin rakipleri tarafından beğenildiği ve RB22'nin artık çok daha öngörülebilir olduğu belirtildi.",
+  "puan": 5.0,
+  "grup": "singapore-gp-takeaways-red-bull-upgrade",
+  "link": "https://www.motorsport.com/f1/news/five-quick-conclusions-from-singapore-gp/10864297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791757428.6308873
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 Singapur GP Sonuçları",
+  "ozet": "Max Verstappen, Ferrari'den Charles Leclerc'in önünde Formula 1 Singapur Grand Prix'sinin galibi oldu.",
+  "puan": 9.0,
+  "grup": "singapore-gp-race-result",
+  "link": "https://www.the-race.com/formula-1/f1-2026-singapore-grand-prix-race-result/",
+  "source": "The Race",
+  "ts": 1791757428.6308873
+ },
+ {
+  "cat": "f1",
+  "baslik": "Singapur GP'yi Oylayın",
+  "ozet": "Formula 1 severler 2026 Singapur Grand Prix'si hakkındaki değerlendirmelerini paylaşıyor.",
+  "puan": 2.0,
+  "grup": "singapore-gp-rate-the-race",
+  "link": "https://www.racefans.net/2026/10/11/rate-the-race-2026-singapore-grand-prix/",
+  "source": "RaceFans",
+  "ts": 1791757428.6308873
  }
 ]
