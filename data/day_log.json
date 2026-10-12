@@ -1865,5 +1865,65 @@
   "link": "https://www.racefans.net/2026/10/11/rate-the-race-2026-singapore-grand-prix/",
   "source": "RaceFans",
   "ts": 1791757428.6308873
+ },
+ {
+  "cat": "araba",
+  "baslik": "2021 Model Chevrolet Tahoe Değer Kaybı",
+  "ozet": "2021 model Chevrolet Tahoe, beş yıllık süreçte önemli ölçüde değer kaybederek geniş aileler için cazip ve ekonomik bir ikinci el seçeneği haline geldi.",
+  "puan": 3.5,
+  "grup": "used-car-finds-online-list",
+  "link": "https://www.jalopnik.com/2280005/how-much-2021-chevy-tahoes-have-depreciated-five-years/",
+  "source": "Jalopnik",
+  "ts": 1791769280.3908203
+ },
+ {
+  "cat": "araba",
+  "baslik": "Henry Ford Otomobil Patentini Nasıl Engelledi?",
+  "ozet": "Henry Ford, tüm otomobil sahipliğini tekeline almaya çalışan dönemin patent trolüne karşı hem pistte hem de mahkemede büyük bir hukuk zaferi kazandı.",
+  "puan": 4.0,
+  "grup": "henry-ford-patent-history",
+  "link": "https://www.jalopnik.com/2281442/henry-ford-killed-selden-patent-claimed-own-automobile/",
+  "source": "Jalopnik",
+  "ts": 1791769280.3908203
+ },
+ {
+  "cat": "araba",
+  "baslik": "Modern Turbo-Dörtlü Kaslı Arabalar Eski V6'lardan Hızlı",
+  "ozet": "MotorWeek'in 1993 Chevrolet Camaro V6 testi, modern turbo dört silindirli motorların eski baz V6'lara kıyasla hâlâ çok daha üstün performans sunduğunu kanıtlıyor.",
+  "puan": 3.0,
+  "grup": "turbo-four-vs-old-v6-muscle-cars",
+  "link": "https://www.jalopnik.com/2282928/motorweek-1993-chevrolet-camaro-v6-base-model-test/",
+  "source": "Jalopnik",
+  "ts": 1791769280.3908203
+ },
+ {
+  "cat": "f1",
+  "baslik": "F1 Takımları Arasında Sağlık ve Yaşam Tarzı Ortaklıkları Artıyor",
+  "ozet": "2026 F1 pınadokunda banka ve petrol devlerinin yerini uyku takip cihazları, hidrasyon içecekleri ve giyilebilir fitness markaları almaya başladı; üç takım şimdiden bu alanda anlaşma imzaladı.",
+  "puan": 4.5,
+  "grup": "f1-wellness-partnerships-2026",
+  "link": "https://www.motorsport.com/f1/news/wellness-partnerships-target-f1-teams-and-their-increasingly-engaged-fans/10864501/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791769280.3908203
+ },
+ {
+  "cat": "f1",
+  "baslik": "Max Verstappen'in Çiçek Desenli Botları İlgi Odağı Oldu",
+  "ozet": "Singapur'daki uzun süreli zaferinin ardından Max Verstappen'in pembe çiçek desenli yeni yarış botları sosyal medyada büyük ilgi gördü ve on binlerce etkileşim aldı.",
+  "puan": 2.5,
+  "grup": "singapore-gp-verstappen-floral-boots",
+  "link": "https://www.motorsport.com/f1/news/fans-cant-get-enough-of-max-verstappens-floral-race-boots-after-singapore-win/10864491/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791769280.3908203
+ },
+ {
+  "cat": "f1",
+  "baslik": "Tarihte Bugün: Tartışmalı F3000 Finali",
+  "ozet": "1996 yılındaki F3000 sezon finalinde yaşanan kaza ve diskalifiye, şampiyonluk düğümünü tartışmalı bir şekilde çözmüştü.",
+  "puan": 2.0,
+  "grup": "on-this-day-f3000-controversial-finale",
+  "link": "https://www.racefans.net/2026/10/12/on-this-day-1996-f3000-hockenheim-2/",
+  "source": "RaceFans",
+  "ts": 1791769280.3908203
  }
 ]
