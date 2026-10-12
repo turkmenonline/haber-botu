@@ -1925,5 +1925,145 @@
   "link": "https://www.racefans.net/2026/10/12/on-this-day-1996-f3000-hockenheim-2/",
   "source": "RaceFans",
   "ts": 1791769280.3908203
+ },
+ {
+  "cat": "araba",
+  "baslik": "Honda'dan Yeni Nesil Hibrit Sistemi",
+  "ozet": "Honda, 2027 yılında küresel olarak piyasaya çıkacak yeni hafif platformunu, Hareket Yönetim Sistemi'ni ve elektrikli dört tekerlekten çekiş teknolojisini duyurdu.",
+  "puan": 7.5,
+  "grup": "honda-next-gen-hybrid-system",
+  "link": "https://www.motor1.com/news/811539/honda-hybrid-global-rollout-platform/",
+  "source": "Motor1",
+  "ts": 1791792331.2852285
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Smart #2 Şehir İçi Kullanım Odaklı",
+  "ozet": "Büyüyen otomobillere karşı bir alternatif olarak geliştirilen yeni Smart #2, şehir içi otomobil formülünü yeniden yorumluyor.",
+  "puan": 5.5,
+  "grup": "smart-number-2-city-car",
+  "link": "https://www.motor1.com/news/811515/new-smart-city-car-revealed/",
+  "source": "Motor1",
+  "ts": 1791792331.2852285
+ },
+ {
+  "cat": "araba",
+  "baslik": "Bugatti Tourbillon Aşırı Sıcaklarda Test Edildi",
+  "ozet": "Mühendisler, 1.800 beygirlik Bugatti Tourbillon'un soğutma, klima ve hibrit sistemlerinin zorlu iklim koşullarındaki dayanıklılığını İspanya, Dubai ve İsveç'te test etti.",
+  "puan": 8.0,
+  "grup": "bugatti-tourbillon-extreme-testing",
+  "link": "https://www.motor1.com/news/811519/bugatti-tourbillon-extreme-hot-cold/",
+  "source": "Motor1",
+  "ts": 1791792331.2852285
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Renault E-Space Konsepti MPV Segmentine Göz Kırpıyor",
+  "ozet": "Renault'nun yeni retro elektrikli MPV konsepti, SUV hakimiyetini sarsmayı ve orijinal Espace ruhunu canlandırmayı hedefliyor.",
+  "puan": 6.5,
+  "grup": "renault-espace-concept-mpv-revival",
+  "link": "https://www.autocar.co.uk/car-news/motor-shows-paris-motor-show/new-renault-e-space-concept-hints-future-mpv-revival",
+  "source": "Autocar",
+  "ts": 1791792331.2852285
+ },
+ {
+  "cat": "araba",
+  "baslik": "Fiat, 1950'lerin Multipla Modelini Mikrocar Olarak Geri Getiriyor",
+  "ozet": "Fiat, retro tasarım çizgilerine sahip, orijinal 500 boyutlarındaki dört koltuklu yeni şehir içi mikrocar modeli Multiplina'nın nihai tasarımını gün yüzüne çıkardı.",
+  "puan": 6.0,
+  "grup": "fiat-multipla-microcar-revival",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/first-look-fiat-revives-1950s-multipla-retro-four-seat-microcar",
+  "source": "Autocar",
+  "ts": 1791792331.2852285
+ },
+ {
+  "cat": "araba",
+  "baslik": "Porsche'nin Satışları Düşerken 911 Rekor Kırıyor",
+  "ozet": "Dokuz aylık verilere göre genel Porsche satışları düşerken, 911 teslimatları yüzde 12 artış göstererek markanın yüksek marjlı spor modellere yöneldiğini kanıtladı.",
+  "puan": 7.0,
+  "grup": "porsche-sales-decline-911-growth",
+  "link": "https://www.motor1.com/news/811514/porsche-sales-fall-16-911/",
+  "source": "Motor1",
+  "ts": 1791792331.2852285
+ },
+ {
+  "cat": "araba",
+  "baslik": "Sol Şeridi Kapatan Sürücüler ve Yasal Durum",
+  "ozet": "Otobanlarda hız sınırının altında sol şeridi meşgul eden sürücülerin yarattığı sorunlar ve bu duruma karşı yapılabilecek yasal hamleler ele alınıyor.",
+  "puan": 2.5,
+  "grup": "left-lane-camping-traffic-rules",
+  "link": "https://www.jalopnik.com/2280222/when-is-driver-camping-left-lane/",
+  "source": "Jalopnik",
+  "ts": 1791792331.2852285
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton'ın Strateji Hatası",
+  "ozet": "Lewis Hamilton, Singapur Grand Prix'si sonrasında yanlış strateji kararı nedeniyle yarışının berbat olduğunu belirterek özür diledi.",
+  "puan": 5.5,
+  "grup": "singapore-gp-hamilton-strategy",
+  "link": "https://www.formula1.com/en/latest/article/how-hamiltons-singapore-strategy-call-helped-put-antonelli-in-reach-of-the-title.2NeqeR8lkz3zom8MtJ2EE0",
+  "source": "Formula1.com",
+  "ts": 1791792331.2852285
+ },
+ {
+  "cat": "f1",
+  "baslik": "Red Bull'un Hızı Rkiplerini Endişelendiriyor",
+  "ozet": "Max Verstappen'in son yarışlardaki baskın performansının ardından Red Bull'un aşırı hızlı aracı rakiplerini tedirgin ediyor.",
+  "puan": 6.0,
+  "grup": "singapore-gp-takeaways-red-bull-upgrade",
+  "link": "https://www.racefans.net/2026/10/12/red-bulls-exceptionally-fast-car-alarms-its-rivals-after-verstappen-dominates-again/",
+  "source": "RaceFans",
+  "ts": 1791792331.2852285
+ },
+ {
+  "cat": "f1",
+  "baslik": "Norris'ten Takım Arkadaşıyla Kaza",
+  "ozet": "Lando Norris, Singapur hafta sonundaki sprint yarışının son turunda takım arkadaşıyla çarpışarak büyük bir hata yaptı.",
+  "puan": 5.0,
+  "grup": "singapore-gp-mclaren-collision",
+  "link": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-nikola-tsolov/10864543/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791792331.2852285
+ },
+ {
+  "cat": "f1",
+  "baslik": "1986 Sezon Finali ve Berger'in Zaferi",
+  "ozet": "Tarihte bugün, Gerhard Berger'in ilk zaferi 1986 şampiyonluk mücadelesini son yarışa taşıdı ve Mansell için felaketle sonuçlandı.",
+  "puan": 2.0,
+  "grup": "on-this-day-f3000-controversial-finale",
+  "link": "https://www.racefans.net/2026/10/12/on-this-day-mexican-grand-prix/",
+  "source": "RaceFans",
+  "ts": 1791792331.2852285
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ferrari Singapur Zaferini Kaçırdı mı?",
+  "ozet": "Podcast yayınında Ferrari'nin Singapur'daki galibiyet şansını nasıl harcadığı, Verstappen'in formu ve Mercedes'in durumu tartışılıyor.",
+  "puan": 4.5,
+  "grup": "singapore-gp-winners-losers",
+  "link": "https://www.the-race.com/formula-1/podcast-how-ferrari-made-verstappens-win-easier/",
+  "source": "The Race",
+  "ts": 1791792331.2852285
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli Şampiyonluğa Koşuyor",
+  "ozet": "Kimi Antonelli şampiyona liderliğini kimseye kaptırmazken, bu sezonun şampiyonluk mücadelesi açısından oldukça tek düze geçtiği vurgulanıyor.",
+  "puan": 6.0,
+  "grup": "singapore-gp-antonelli-championship",
+  "link": "https://www.motorsport.com/f1/news/who-slept-best-last-night-max-verstappen-10864485/10864485/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791792331.2852285
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli Cezadan Nasıl Kurtuldu?",
+  "ozet": "Kimi Antonelli Singapur GP'de dört kez pist sınırlarını ihlal etmesine rağmen standart zaman cezasından kaçınmayı başardı.",
+  "puan": 5.0,
+  "grup": "singapore-gp-antonelli-grid-scare",
+  "link": "https://www.the-race.com/formula-1/why-antonelli-avoided-a-penalty-that-seemed-obvious/",
+  "source": "The Race",
+  "ts": 1791792331.2852285
  }
 ]
