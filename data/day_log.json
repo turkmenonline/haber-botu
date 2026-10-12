@@ -2065,5 +2065,715 @@
   "link": "https://www.the-race.com/formula-1/why-antonelli-avoided-a-penalty-that-seemed-obvious/",
   "source": "The Race",
   "ts": 1791792331.2852285
+ },
+ {
+  "cat": "araba",
+  "baslik": "IHRA İflasının Ardından 12 Drag Pisti Açık Artırmaya Çıkarılıyor",
+  "ozet": "IHRA'nın kapanmasıyla birlikte, yarış tutkunlarının satın alabileceği 12 drag pisti açık artırma yoluyla satışa çıkarılıyor.",
+  "puan": 4.5,
+  "grup": "ihra-drag-strips-auction",
+  "link": "https://www.thedrive.com/news/12-drag-strips-will-be-auctioned-off-after-ihras-implosion",
+  "source": "The Drive",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "Açılır Farlarısıyla Alpine A310 Vision Konsepti Tanıtıldı",
+  "ozet": "Elektrikli bu tek seferlik konsept, gelecekteki olası bir seri üretim modele ışık tutuyor.",
+  "puan": 7.5,
+  "grup": "alpine-a310-vision-concept",
+  "link": "https://www.caranddriver.com/news/a74109830/alpine-a310-vision-concept-revealed/",
+  "source": "Car and Driver",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "En Az Yakan 7 Dört Silindirli Motor Sıralandı",
+  "ozet": "İçten yanmalı motor teknolojisinin gelişimini gösteren, en iyi yakıt ekonomisine sahip yedi benzinli motor sıralandı.",
+  "puan": 2.0,
+  "grup": "fuel-efficient-four-cylinder-engines",
+  "link": "https://www.jalopnik.com/2283135/fuel-sipping-4-cylinder-engines-ranked-best-to-worst-mpg/",
+  "source": "Jalopnik",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Buick Encore GX İncelemesi ve Fiyatları",
+  "ozet": "2027 model Buick Encore GX için detaylı inceleme, fiyatlandırma ve teknik özellikler açıklandı.",
+  "puan": 4.0,
+  "grup": "buick-encore-gx-2027",
+  "link": "https://www.caranddriver.com/buick/encore-gx-2027",
+  "source": "Car and Driver",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Chevrolet Trailblazer İncelemesi ve Fiyatları",
+  "ozet": "2027 model Chevrolet Trailblazer aracının özellikleri, fiyatlandırma seçenekleri ve incelemesi paylaşıldı.",
+  "puan": 4.0,
+  "grup": "chevrolet-trailblazer-2027",
+  "link": "https://www.caranddriver.com/chevrolet/trailblazer-2027",
+  "source": "Car and Driver",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "Bathurst 1000 Yarışı Yanlış Yakıt Hesabı Yüzünden Kaybedildi",
+  "ozet": "18 numaralı Camaro son pit stopunda biraz daha fazla yakıt alsaydı, bu yürek burkan mağlubiyet tamamen önlenebilirdi.",
+  "puan": 5.0,
+  "grup": "bathurst-1000-fuel-mistake",
+  "link": "https://www.jalopnik.com/2284124/fastest-ever-bathurst-1000-decided-by-stunning-fuel-miscalculation/",
+  "source": "Jalopnik",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "Alfa Romeo Cuorerosso Konsepti Tanıtıldı",
+  "ozet": "Giulia sonrası döneme ışık tutan Alfa Romeo Cuorerosso konsepti, hibrit V6 motoruyla dikkat çekiyor.",
+  "puan": 8.0,
+  "grup": "alfa-romeo-cuorerosso-v6-concept",
+  "link": "https://www.jalopnik.com/2284025/alfa-romeo-cuorerosso-concept-hybrid-v6-sedan-design-details/",
+  "source": "Jalopnik",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Jeep Wrangler Switchback Modeli Tanıtıldı",
+  "ozet": "Jeep'in 'Twelve 4 Twelve' kampanyasının son özel versiyonu olan Wrangler Switchback, iki ve dört kapılı seçeneklerle geliyor.",
+  "puan": 6.0,
+  "grup": "jeep-wrangler-switchback-edition",
+  "link": "https://www.caranddriver.com/news/a74108889/2027-jeep-wrangler-switchback-revealed/",
+  "source": "Car and Driver",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mattel'den Klasik Nissan Skyline GT-R Yapı Seti",
+  "ozet": "Godzilla GT-R'ın kutumsu atası, yapı blokları seti olarak otomobil severlerin beğenisine sunuluyor.",
+  "puan": 2.5,
+  "grup": "mattel-brick-nissan-skyline",
+  "link": "https://www.caranddriver.com/news/a74107600/mattel-brick-shop-original-nissan-skyline-gtr/",
+  "source": "Car and Driver",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "Elektrikli Citroën 2CV Konsepti 2028'de Yollarda",
+  "ozet": "Şirin tasarımıyla dikkat çeken elektrikli Citroën 2CV konseptinin üretim versiyonu 15.000 euro başlangıç fiyatıyla 2028'de geliyor.",
+  "puan": 6.5,
+  "grup": "citroen-2cv-ev-return",
+  "link": "https://www.jalopnik.com/2283874/citroen-2cv-concept-retro-design-reveal-details/",
+  "source": "Jalopnik",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "In-N-Out Burger Modern Drive-Thru Kültürünü Nasıl Başlattı?",
+  "ozet": "Amerikalıların vazgeçilmezi olan drive-thru kültürünün doğuşu ve bu konseptin ünlü burger zinciriyle olan bağlantısı anlatılıyor.",
+  "puan": 1.5,
+  "grup": "in-n-out-drive-thru-history",
+  "link": "https://www.jalopnik.com/2282923/drive-thru-born-california-in-n-out-burger-gave-it-life/",
+  "source": "Jalopnik",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "Citroën 2CV Geri Dönüyor: Detaylar ve Fiyat",
+  "ozet": "Gelecek birkaç yıl içinde üretime girecek olan elektrikli Citroën 2CV konsepti, yaklaşık 15.000 Euro fiyat etiketine sahip olacak.",
+  "puan": 6.5,
+  "grup": "citroen-2cv-ev-return",
+  "link": "https://www.caranddriver.com/news/a74108677/citroen-2cv-concept-revealed/",
+  "source": "Car and Driver",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "Jeep İki Kapılı Wrangler'a Neden V8 Koymadı?",
+  "ozet": "İki kapılı Wrangler modeline V8 motor sığdırmak teknik olarak mümkün olsa da bunun neden tercih edilmediği açıklanıyor.",
+  "puan": 5.5,
+  "grup": "jeep-wrangler-two-door-v8",
+  "link": "https://www.thedrive.com/news/so-thats-why-jeep-didnt-put-a-v8-in-the-two-door-wrangler",
+  "source": "The Drive",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "Amazon İndiriminde DeWalt PowerPack Batarya Fırsatı",
+  "ozet": "DeWalt markasının yeni PowerPack bataryası, Amazon'daki gizli bir indirimle 70 doların altına düştu.",
+  "puan": 1.0,
+  "grup": "dewalt-powerpack-amazon-sale",
+  "link": "https://www.thedrive.com/news/get-60-off-the-new-dewalt-powerpack-battery-at-this-undisclosed-amazon-sale",
+  "source": "The Drive",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "Okuyucuların Pistlere Dönmesini İstediği Yarışçılar",
+  "ozet": "Günümüzde yetenek eksikliğinden değil fırsat bulamadıkları için kasklarını asan emekli yarış pilotları derlendi.",
+  "puan": 2.0,
+  "grup": "retired-racing-drivers-comeback",
+  "link": "https://www.jalopnik.com/2282674/retired-drivers-readers-want-to-make-comback/",
+  "source": "Jalopnik",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "Honda 2030'a Kadar 15'ten Fazla Hibrit Model Çıkaracak",
+  "ozet": "İptal edilen elektrikli araç projelerinde yaşanan 15 milyar dolarlık zararın ardından Honda, hibrit modellere ağırlık veriyor.",
+  "puan": 7.5,
+  "grup": "honda-next-gen-hybrid-system",
+  "link": "https://www.thedrive.com/news/honda-plans-to-launch-15-or-more-hybrids-by-2030-tds",
+  "source": "The Drive",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "Paris Otomobil Fuarı 2024'te Öne Çıkan Yeni Modeller",
+  "ozet": "Avrupa'nın en büyük otomobil fuarında Citroën 2CV, Renault Espace ve Peugeot gibi markaların yeni konsept ve modelleri sergileniyor.",
+  "puan": 8.5,
+  "grup": "paris-motor-show-2024-evs",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/2cv-espace-t16-and-more-all-new-cars-paris-motor-show",
+  "source": "Autocar",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "Tesla Avrupa'da 'Full-Self Driving' Adını Değiştirmek Zorunda Kaldı",
+  "ozet": "Düzenleyici baskılar sonucunda Tesla, Avrupa pazarında otopilot sisteminin adını değiştirmek zorunda kalırken bölgedeki satışlar düşüşte.",
+  "puan": 8.0,
+  "grup": "tesla-fsd-rename-europe",
+  "link": "https://www.jalopnik.com/2283710/tesla-forced-rename-full-self-driving-europe/",
+  "source": "Jalopnik",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "Tesla, Avrupa'da FSD İsmini 'Assisted Driving' Olarak Değiştirdi",
+  "ozet": "Yıllardır eleştirilen yanıltıcı pazarlama ismi sonrasında Tesla, Avrupa'daki sürücüsüz sürüş özelliğini 'Assisted Driving' olarak yeniden adlandırdı.",
+  "puan": 8.0,
+  "grup": "tesla-fsd-rename-europe",
+  "link": "https://www.thedrive.com/news/tesla-finally-forced-to-rename-full-self-driving-as-assisted-driving-in-europe",
+  "source": "The Drive",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "2026 Jeep Cherokee Overland Hibrit Test Sürüşü",
+  "ozet": "Köklü model ismine sahip 2026 Jeep Cherokee Overland, yeni hibrit motor seçeneğiyle test edildi.",
+  "puan": 5.5,
+  "grup": "jeep-cherokee-overland-hybrid-test",
+  "link": "https://www.caranddriver.com/reviews/a73999900/2026-jeep-cherokee-overland-test/",
+  "source": "Car and Driver",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "2026 Jeep Cherokee Overland İç Mekan Detayları",
+  "ozet": "2026 model Jeep Cherokee Overland'in iç tasarımı tüm açılardan detaylı bir şekilde görüntülendi.",
+  "puan": 5.5,
+  "grup": "jeep-cherokee-overland-hybrid-test",
+  "link": "https://www.caranddriver.com/photos/a74067001/2026-jeep-cherokee-overland-test-interior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "2026 Jeep Cherokee Overland Dış Tasarımı",
+  "ozet": "2026 Jeep Cherokee Overland modelinin dış tasarım detayları ve gövde hatları paylaşılan görsellerle ortaya çıktı.",
+  "puan": 5.5,
+  "grup": "jeep-cherokee-overland-hybrid-test",
+  "link": "https://www.caranddriver.com/photos/a74055112/2026-jeep-cherokee-overland-test-exterior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "Gençlere Yönelik Otomobil Programı Fikirleri",
+  "ozet": "Gençleri otomobil dünyasına kazandırmak ve hız tutkularını güvenli bir şekilde yaşamalarını sağlamak için oluşturulabilecek programlar tartışılıyor.",
+  "puan": 2.0,
+  "grup": "youth-car-enthusiast-programs",
+  "link": "https://www.jalopnik.com/2282782/what-youth-focused-car-program-would-you-create/",
+  "source": "Jalopnik",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Hyundai Tucson N Line Tanıtıldı",
+  "ozet": "Hyundai, Tucson modelinin N Line donanımını güncelleyerek mevcut motor seçenekleriyle daha sportif bir görünüm kazandırdı.",
+  "puan": 5.0,
+  "grup": "hyundai-tucson-n-line-2027",
+  "link": "https://www.motor1.com/news/811578/2027-hyundai-tucson-n-line/",
+  "source": "Motor1",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Hyundai Bayon Yenilendi",
+  "ozet": "Hyundai, Avrupa pazarındaki küçük SUV modeli Bayon'u daha keskin tasarım ve hibrit seçenekleriyle güncelledi.",
+  "puan": 5.5,
+  "grup": "hyundai-bayon-2027-facelift",
+  "link": "https://www.motor1.com/news/811537/2027-hyundai-bayon-reveal/",
+  "source": "Motor1",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Nesil Hyundai Bayon Detayları",
+  "ozet": "Hyundai, Bayon modelini daha büyük ve köşeli tasarımıyla gerçek bir mini-SUV kimliğine kavuşturarak i20'den ayırıyor.",
+  "puan": 5.5,
+  "grup": "hyundai-bayon-2027-facelift",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/hyundai-pumps-bayon-second-generation",
+  "source": "Autocar",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "Omoda 4 İngiltere Pazarına Giriyor",
+  "ozet": "Omoda, 25 bin sterlin altı fiyat etiketiyle sunulacak yeni crossover modeli 4'ü elektrikli ve içten yanmalı seçeneklerle tanıtıyor.",
+  "puan": 5.0,
+  "grup": "omoda-4-uk-launch",
+  "link": "https://www.autocar.co.uk/car-news/motor-shows-paris-motor-show/omoda-4-headed-uk-sub-%C2%A325k-juke-rival-hybrid-or-electric-power",
+  "source": "Autocar",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "Satılık 1963 Ford Falcon Convertible",
+  "ozet": "9 bin dolarlık fiyatıyla satışa çıkan 1963 model Ford Falcon üstü açık otomobil, restorasyon projesi arayanları bekliyor.",
+  "puan": 2.5,
+  "grup": "classic-car-auction-finds",
+  "link": "https://www.jalopnik.com/2282409/1963-ford-falcon-convertible-for-sale-9000/",
+  "source": "Jalopnik",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "İtfaiye Araçları Neden Kırmızı?",
+  "ozet": "İtfaiye araçlarının ikonik kırmızı renginin arkasındaki şaşırtıcı tarihsel gerçekler inceleniyor.",
+  "puan": 1.5,
+  "grup": "fire-truck-history-trivia",
+  "link": "https://www.motor1.com/features/811295/why-are-fire-trucks-red/",
+  "source": "Motor1",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "Dünyada En Ucuz Yakıt Hangi Ülkelerde?",
+  "ozet": "Galonu 2 doların altında yakıt satılan ülkeler ve bu düşük fiyatların arkasındaki ekonomik nedenler listeleniyor.",
+  "puan": 2.0,
+  "grup": "global-gas-price-analysis",
+  "link": "https://www.jalopnik.com/2282693/countries-where-gas-costs-less-than-2/",
+  "source": "Jalopnik",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "Avatr T09 Konsepti Tanıtıldı",
+  "ozet": "Changan, Huawei ve CATL iş birliğiyle geliştirilen 1000 beygirlik hibrit SUV konsepti Avatr T09 görücüye çıktı.",
+  "puan": 7.5,
+  "grup": "avatr-t09-concept",
+  "link": "https://www.motor1.com/news/811595/avatr-t09-hybrid-suv-debuts/",
+  "source": "Motor1",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "BMW'den Zırhlı 7 Serisi",
+  "ozet": "BMW, günlük risklere karşı koruma sağlayan, dışarıdan standart bir 7 Serisi gibi görünen zırhlı modelini tanıttı.",
+  "puan": 7.0,
+  "grup": "bmw-7-series-protection",
+  "link": "https://www.motor1.com/news/811588/bmw-concept-7-protection-discreet/",
+  "source": "Motor1",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "BYD Atto 8 Elektrikli SUV Tanıtıldı",
+  "ozet": "BYD'nin yeni amiral gemisi 7 koltuklu elektrikli SUV Atto 8, hızlı şarj ve yüksek performans özellikleriyle dikkat çekiyor.",
+  "puan": 7.5,
+  "grup": "byd-atto-8-ev",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/byd-atto-8-seven-seat-skoda-peaq-rival-764bhp",
+  "source": "Autocar",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "Audi A8'in Geleceği Belirsiz",
+  "ozet": "Audi ve Porsche'nin ortak bir platform üzerinde yeni bir amiral gemisi sedan üzerinde çalıştığı iddia ediliyor.",
+  "puan": 6.0,
+  "grup": "audi-a8-future-plans",
+  "link": "https://www.motor1.com/news/811572/next-audi-a8-may-share/",
+  "source": "Motor1",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "Gone in 60 Seconds Filminin Eleanor Gerçeği",
+  "ozet": "2000 yapımı filmde kullanılan ikonik Eleanor aracının aslında gerçek bir Shelby GT500 olmadığı ortaya çıktı.",
+  "puan": 2.0,
+  "grup": "movie-car-trivia",
+  "link": "https://www.jalopnik.com/2282222/gone-in-60-seconds-eleanor-not-ford-mustang-shelby-gt500/",
+  "source": "Jalopnik",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "Leapmotor B03 İngiltere'ye Geliyor",
+  "ozet": "Çinli Leapmotor, Renault 5'e rakip olacak uygun fiyatlı elektrikli modeli B03'ü 2027'de İngiltere'de satışa sunacak.",
+  "puan": 5.0,
+  "grup": "leapmotor-b03-uk-launch",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/leapmotor-b03-coming-uk-2027-sub-%C2%A325k-renault-5-rival",
+  "source": "Autocar",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "Citroen 2CV Fourgonnette Geri Dönüyor",
+  "ozet": "Citroen, ikonik 2CV van modelini modern bir konseptle yeniden yorumlayarak tanıttı.",
+  "puan": 6.0,
+  "grup": "citroen-2cv-ev-return",
+  "link": "https://www.motor1.com/news/811558/citroen-2-cv-fourgonnette-concept/",
+  "source": "Motor1",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "Alpine'den Retro-Fütüristik Konsept",
+  "ozet": "Alpine markası, retro ve fütüristik tasarım öğelerini birleştiren yeni konsept otomobilini sergiledi.",
+  "puan": 6.5,
+  "grup": "alpine-a310-vision-concept",
+  "link": "https://www.motor1.com/news/811544/alpine-a310-vision-concept-debut/",
+  "source": "Motor1",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "Citroen 2CV Van Yeniden Yorumlandı",
+  "ozet": "Citroen, klasik 2CV Fourgonnette modelini temel alan yeni bir konseptle ticari araç mirasını güncelliyor.",
+  "puan": 6.0,
+  "grup": "citroen-2cv-ev-return",
+  "link": "https://www.autocar.co.uk/car-news/electric-cars/fourgonnette-returns-new-citroen-2cv-gets-van-treatment",
+  "source": "Autocar",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "araba",
+  "baslik": "Jeep, Willys Modelini Canlandırabilir",
+  "ozet": "Jeep, rekabetçi pazarda yerini güçlendirmek için efsanevi 2. Dünya Savaşı dönemi Willys modelini geri getirmeyi planlıyor.",
+  "puan": 6.5,
+  "grup": "jeep-willys-revival",
+  "link": "https://www.autocar.co.uk/car-news/motor-shows-paris-motor-show/willys-returns-jeep-ponders-revival-legendary-ww2-roader",
+  "source": "Autocar",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hulkenberg Singapur'da Sezonun En İyi Hafta Sonu Sonucunu Aldı",
+  "ozet": "Sprint yarışında yedinci olan Nico Hulkenberg, Singapur Grand Prix'sini sekizinci sırada tamamlayarak bu sezonki en yüksek puanlı yarış haftasını geride bıraktı.",
+  "puan": 5.0,
+  "grup": "singapore-gp-race-result",
+  "link": "https://www.formula1.com/en/latest/article/how-hulkenberg-secured-his-best-weekend-of-the-season-in-singapore.32ws4MpzmxyQXtGLqjt8rf",
+  "source": "Formula1.com",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Mekies'ten Red Bull'un Yükselişinde Verstappen Vurgusu",
+  "ozet": "Laurent Mekies, Max Verstappen'in Red Bull'un 2026 yılındaki toparlanma sürecinde oynadığı kritik rolü övdü.",
+  "puan": 4.5,
+  "grup": "red-bull-verstappen-2026-resurgence",
+  "link": "https://www.formula1.com/en/latest/article/its-a-massive-boost-mekies-hails-outstanding-verstappen-in-red-bull-resurgence.1SJ9jPPGYuqQ8X7ASQo2KY",
+  "source": "Formula1.com",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Norris'ten Takım Öncelikli Yaklaşım",
+  "ozet": "Lando Norris, Singapur Sprint yarışındaki temasın ardından McLaren'in çıkarlarını ön planda tuttuğunu göstermek için çaba harcadı.",
+  "puan": 4.0,
+  "grup": "singapore-gp-norris-reaction",
+  "link": "https://www.formula1.com/en/latest/article/how-norris-radio-offer-confirmed-that-stellas-team-interest-message-has-worked.7hsFO5Pn6GVkid4c8BYMYN",
+  "source": "Formula1.com",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Heineken F1 Sezonluk Bilet Çekilişi",
+  "ozet": "Taraftarlar Heineken F1 Sezonluk Bilet kazananı olmak için oy kullanmaya davet ediliyor.",
+  "puan": 1.0,
+  "grup": "f1-heineken-ticket-giveaway",
+  "link": "https://www.formula1.com/en/latest/article/vote-for-your-heineken-r-f1-season-ticket-winner.6pVzBqxOb38IOC4E71ZQLl",
+  "source": "Formula1.com",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Singapur'un Kazananları ve Kaybedenleri",
+  "ozet": "Lawrence Barretto, Singapur Grand Prix hafta sonunun öne çıkan kazananlarını ve kaybedenlerini değerlendirdi.",
+  "puan": 5.0,
+  "grup": "singapore-gp-winners-losers",
+  "link": "https://www.formula1.com/en/latest/article/5-winners-and-5-losers-from-2026-singapore-grand-prix.enbIERgZde8AWdlwQbKCg",
+  "source": "Formula1.com",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Wolff'tan Red Bull Tehdidi Uyarısı",
+  "ozet": "Toto Wolff, Max Verstappen'in Singapur'daki dominant galibiyetinin ardından Red Bull'un Mercedes için büyüyen bir tehdit oluşturduğunu kabul ediyor.",
+  "puan": 5.5,
+  "grup": "mercedes-red-bull-threat-2026",
+  "link": "https://www.formula1.com/en/latest/article/its-full-on-wolff-wary-of-growing-red-bull-threat-to-mercedes.6maHMRSn0IJZPbu3GkUVzX",
+  "source": "Formula1.com",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Lawson Koltuğunu Koruma Şansını Değerlendiriyor",
+  "ozet": "Liam Lawson, Marina Bay'deki hem Sprint hem de Grand Prix yarışlarında Racing Bulls için değerli puanlar topladı.",
+  "puan": 4.5,
+  "grup": "lawson-racing-bulls-seat-future",
+  "link": "https://www.formula1.com/en/latest/article/you-tell-me-lawson-assesses-odds-of-keeping-his-racing-bulls-seat-after-mighty-singapore-showing.BaSVOgDL3bgtO4WT94pl2",
+  "source": "Formula1.com",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hadjar Pit Yolundan Yaptığı Yükselişten Memnun",
+  "ozet": "Red Bull pilotu Isack Hadjar, pit yolundan başladığı Singapur Grand Prix'sinde onuncu sıraya tırmanarak genel yarış temposundan memnun kaldığını söyledi.",
+  "puan": 4.5,
+  "grup": "singapore-gp-hadjar-pit-recovery",
+  "link": "https://www.formula1.com/en/latest/article/happy-with-the-overall-pace-hadjar-reflects-on-singapore-grand-prix-recovery-drive-from-the-back.7ol9hiQ2qfWaLNMUXJyDsZ",
+  "source": "Formula1.com",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen'in Singapur Zaferinden Bahis Dersleri",
+  "ozet": "Dört kez dünya şampiyonu Max Verstappen, Singapur'da pole pozisyonları, Sprint ve Grand Prix galibiyetleriyle hafta sonuna yine damga vurdu.",
+  "puan": 4.0,
+  "grup": "singapore-gp-race-result",
+  "link": "https://www.formula1.com/en/latest/article/5-key-betting-lessons-learnt-after-max-verstappen-wins-the-singapore-grand-prix.47zBFhP59tE7pkyPZxt9Tb",
+  "source": "Formula1.com",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Norris'ten Piastri Teması İtirafı",
+  "ozet": "Lando Norris, Singapur Sprint yarışında takım arkadaşı Oscar Piastri ile yaşadığı temas nedeniyle takımı hayal kırıklığına uğrattığını kabul ederek özür diledi.",
+  "puan": 5.5,
+  "grup": "singapore-gp-mclaren-collision",
+  "link": "https://www.formula1.com/en/latest/article/i-let-down-the-team-norris-apologises-to-mclaren-for-singapore-sprint-intra-team-clash.4ZzwKsV0z0lmQWXrlwAbV2",
+  "source": "Formula1.com",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Max Verstappen'in GT World Challenge Portimao Yarışı Nasıl İzlenir?",
+  "ozet": "Singapur'daki başarılı hafta sonunun ardından Max Verstappen, GT World Challenge Portimao sezon finalinde Mercedes-AMG GT3 direksiyonuna geçiyor.",
+  "puan": 2.5,
+  "grup": "verstappen-gt-world-challenge-portimao",
+  "link": "https://www.motorsport.com/f1/news/how-to-watch-max-verstappen-race-gt-world-challenge-portimao-free-live-stream-start-time-and-schedu/10864757/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Leclerc'in Verstappen'e Karşı Kaçırdığı Fırsat",
+  "ozet": "Charles Leclerc, Singapur'da startta elde ettiği avantajı ve ilk virajdaki iç çizgiyi liderliği almak için daha farklı kullanabilirdi.",
+  "puan": 4.0,
+  "grup": "singapore-gp-leclerc-start-analysis",
+  "link": "https://www.autosport.com/f1/news/charles-leclerc-admits-he-missed-a-chance-against-max-verstappen-but-not-the-obvious-one/10864639/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Leclerc Verstappen Karşısında Fırsat Kaçırdığını Kabul Etti",
+  "ozet": "Charles Leclerc, Max Verstappen'e karşı start anında farklı hamleler yapabileceğini ve liderliği alma şansını kaçırdığını belirtti.",
+  "puan": 4.0,
+  "grup": "singapore-gp-leclerc-start-analysis",
+  "link": "https://www.motorsport.com/f1/news/charles-leclerc-admits-he-missed-a-chance-against-max-verstappen-but-not-the-obvious-one/10864610/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 Singapur GP'den Çıkarılan Dersler",
+  "ozet": "Beklentilerin çok altında kalan sonuçlardan güncellemelerin getirdiği soru işaretlerine kadar Singapur Grand Prix'si Formula 1'e çok şey öğretti.",
+  "puan": 4.5,
+  "grup": "singapore-gp-takeaways-red-bull-upgrade",
+  "link": "https://www.the-race.com/formula-1/everything-we-learned-from-f1s-2026-singapore-gp-weekend/",
+  "source": "The Race",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Alonso'dan Hadjar'ın Kolay Geçişine Motor Tepkisi",
+  "ozet": "Fernando Alonso, Isack Hadjar'ı yedi tur boyunca arkasında tutmayı başarsa da, bir yarış yeniden başlayışında bu kadar kolay geçilmesine tepki gösterdi.",
+  "puan": 4.0,
+  "grup": "singapore-gp-alonso-hadjar-battle",
+  "link": "https://www.racefans.net/2026/10/12/its-so-ridiculous-this-engine-alonsos-dismay-at-hadjars-easy-re-pass/",
+  "source": "RaceFans",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Leclerc'in Otomatik Fren Yapan Ferrari'si Şoke Etti",
+  "ozet": "Charles Leclerc, yarış sırasında Ferrari'sinin aniden yavaşlamasıyla şoke olduğunu ve bu durumun tekrarlanması halinde aracı duvara bırakacağını söyledi.",
+  "puan": 5.5,
+  "grup": "singapore-gp-leclerc-ferrari-fault",
+  "link": "https://www.racefans.net/2026/10/12/the-car-started-to-brake-on-its-own-leclerc-shocked-by-mid-race-ferrari-fault/",
+  "source": "RaceFans",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Toto Wolff'tan Antonelli'nin Pist Sınırı Çözümü",
+  "ozet": "Mercedes takım patronu Toto Wolff, Singapur'da dört kez pist sınırlarını ihlal eden Kimi Antonelli'nin çizgileri daha iyi görebilmesi için esprili bir şekilde mindere ihtiyacı olduğunu söyledi.",
+  "puan": 4.0,
+  "grup": "singapore-gp-antonelli-grid-scare",
+  "link": "https://www.motorsport.com/f1/news/ill-put-a-pillow-under-his-butt-how-toto-wolff-wants-to-solve-kimi-antonellis-track-limits-problem/10864563/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Edd Straw'ın Singapur GP Pilot Sıralamaları",
+  "ozet": "Max Verstappen hafta sonunu kusursuz kapatırken, arkasındaki bazı büyük isimler büyük hatalara imza attı.",
+  "puan": 4.0,
+  "grup": "singapore-gp-driver-ratings-straw",
+  "link": "https://www.the-race.com/formula-1/2026-singapore-grand-prix-f1-driver-rankings-edd-straw/",
+  "source": "The Race",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli Singapur'da Cezadan Nasıl Kurtuldu?",
+  "ozet": "Şampiyona lideri Andrea Kimi Antonelli, Singapur GP'de dört pist dışına çıkma cezası ihlali yapmasına rağmen cezadan kıl payı kurtuldu.",
+  "puan": 6.0,
+  "grup": "singapore-gp-antonelli-grid-scare",
+  "link": "https://www.motorsport.com/f1/news/why-kimi-antonelli-escaped-a-singapore-gp-track-limits-penalty-despite-four-violations/10864634/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Olası Takvim Değişikliği Antonelli'nin Şansını Artırabilir",
+  "ozet": "Ortadoğu'daki güvenlik endişeleri nedeniyle Katar ve Abu Dhabi Grand Prix'lerinin iptal edilme ihtimali 2026 sezonunun finalini etkileyebilir.",
+  "puan": 7.5,
+  "grup": "f1-2026-calendar-overhaul-middle-east",
+  "link": "https://www.motorsport.com/f1/news/formula-1-prepares-to-trigger-imola-season-finale-amid-escalating-regional-security-threats/10864677/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Red Bull ve Verstappen'in 2027 Umutları",
+  "ozet": "Son dönemdeki galibiyetlerle birlikte Max Verstappen ve Red Bull, 2027 sezonu için umut veren bir performans sergiliyor.",
+  "puan": 5.5,
+  "grup": "red-bull-verstappen-2026-resurgence",
+  "link": "https://www.motorsport.com/f1/news/the-hidden-factor-that-gives-max-verstappen-and-red-bull-extra-hope-for-2027/10864675/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Red Bull ve Verstappen'in 2027 Umutları",
+  "ozet": "Son dönemdeki galibiyetlerle birlikte Max Verstappen ve Red Bull, 2027 sezonu için umut veren bir performans sergiliyor.",
+  "puan": 5.5,
+  "grup": "red-bull-verstappen-2026-resurgence",
+  "link": "https://www.autosport.com/f1/news/the-hidden-factor-that-gives-max-verstappen-and-red-bull-extra-hope-for-2027/10864679/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Mercedes'ten Antonelli Güncelleme Onayı",
+  "ozet": "Mercedes, Singapur'daki ayrışık strateji testi sonucunda Kimi Antonelli'nin araç güncellemelerinin açıkça daha hızlı olduğunu doğruladı.",
+  "puan": 6.0,
+  "grup": "mercedes-singapore-upgrade-test",
+  "link": "https://www.motorsport.com/f1/news/mercedes-confirms-kimi-antonellis-upgrades-are-clearly-faster-after-singapore-split-strategy/10864619/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton'ın Sanal Güvenlik Aracı Özrü",
+  "ozet": "Lewis Hamilton, Sanal Güvenlik Aracı altında pite girmeme kararı nedeniyle Ferrari'den özür diledi.",
+  "puan": 4.5,
+  "grup": "singapore-gp-hamilton-strategy",
+  "link": "https://www.racefans.net/2026/10/12/why-was-there-no-radio-of-the-vsc-message-which-prompted-hamiltons-apology/",
+  "source": "RaceFans",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Andrea Stella'dan Norris'e Övgü",
+  "ozet": "McLaren takım patronu Andrea Stella, Lando Norris'in sprint yarışındaki temas sonrası gösterdiği tepkiyi övdü.",
+  "puan": 5.0,
+  "grup": "singapore-gp-norris-reaction",
+  "link": "https://www.motorsport.com/f1/news/andrea-stella-praises-lando-norris-for-reaction-to-singapore-gp-sprint-clash/10864621/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Stella'dan Sprint Teması Sonrası Uyarı",
+  "ozet": "McLaren patronu Andrea Stella, Singapur sprint yarışındaki takım arkadaşı temasını 'kabul edilemez' olarak nitelendirdi.",
+  "puan": 5.5,
+  "grup": "singapore-gp-mclaren-collision",
+  "link": "https://www.motorsport.com/f1/news/mclaren-boss-andrea-stella-lays-down-the-law-after-unacceptable-f1-sprint-clash/10864605/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Piastri'nin Lastik Sorunu ve Hamilton Geçişi",
+  "ozet": "Oscar Piastri, Singapur'daki yavaş patlak sorununa rağmen zorlu bir yarış çıkararak beşinci oldu.",
+  "puan": 4.5,
+  "grup": "singapore-gp-race-result",
+  "link": "https://www.motorsport.com/f1/news/oscar-piastri-explains-how-a-slow-puncture-set-up-his-thrilling-f1-pass-on-hamilton/10864613/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Leclerc'in 1. Viraj Start Analizi",
+  "ozet": "Charles Leclerc, Singapur Grand Prix'sinin startında Max Verstappen'i neden geçemediğini açıkladı.",
+  "puan": 4.5,
+  "grup": "singapore-gp-leclerc-start-analysis",
+  "link": "https://www.motorsport.com/f1/news/why-charles-leclerc-failed-to-outbrake-max-verstappen-in-turn-1-at-singapore-gp/10864594/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton'dan Pozisyon Talebi",
+  "ozet": "Lewis Hamilton, ilk pit stopların ardından Ferrari'den takım arkadaşı Charles Leclerc'in geçişine izin verilmesini istedi.",
+  "puan": 4.5,
+  "grup": "singapore-gp-hamilton-strategy",
+  "link": "https://www.racefans.net/2026/10/12/hamilton-repeatedly-urged-ferrari-to-let-him-past-leclerc-after-hold-position-order/",
+  "source": "RaceFans",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli'nin Pist Sınırı Cezasından Kurtuluşu",
+  "ozet": "Kimi Antonelli, Singapur'da dört pist sınırı ihlali yapmasına rağmen neden ceza almadığını açıkladı.",
+  "puan": 4.5,
+  "grup": "singapore-gp-russell-penalty",
+  "link": "https://www.autosport.com/f1/news/why-antonelli-avoided-a-penalty-despite-four-track-limits-incidents-in-singapore-gp/10864591/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1791827301.4211125
+ },
+ {
+  "cat": "f1",
+  "baslik": "Russell ve Antonelli'den Red Bull Değerlendirmesi",
+  "ozet": "George Russell, Red Bull'u yenilmesi gereken takım olarak görürken, Kimi Antonelli duruma farklı bir yaklaşım getirdi.",
+  "puan": 5.0,
+  "grup": "mercedes-red-bull-threat-2026",
+  "link": "https://www.motorsport.com/f1/news/george-russell-calls-red-bull-the-team-to-beat-in-f1-but-kimi-antonelli-adds-a-key-caveat/10864572/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791827301.4211125
  }
 ]
