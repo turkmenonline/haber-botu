@@ -1,66 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Paris Otomobil Fuarı Kapılarını Açıyor",
-  "ozet": "Avrupalı otomobil üreticileri, Çinli rakiplerine karşı geliştirdikleri uygun fiyatlı yeni elektrikli modellerini Paris Otomobil Fuarı'nda tanıtmaya hazırlanıyor.",
-  "puan": 7.5,
-  "grup": "paris-motor-show-2024-evs",
-  "link": "https://www.autocar.co.uk/car-news/new-cars/new-2cv-espace-and-more-star-cars-coming-paris-motor-show",
-  "source": "Autocar",
-  "ts": 1791703924.2458045
- },
- {
-  "cat": "araba",
-  "baslik": "Lotus'un Paris Fuarı'ndaki Gerçekleşmeyen Vaatleri",
-  "ozet": "Lotus'un 2010 Paris Otomobil Fuarı'nda tanıttığı ve büyük ses getiren altı yeni konsept modelden hiçbiri üretime geçememişti.",
-  "puan": 4.0,
-  "grup": "lotus-paris-motor-show-history",
-  "link": "https://www.autocar.co.uk/car-news/from-the-archive/six-broken-promises-when-lotus-went-mad-paris-motor-show",
-  "source": "Autocar",
-  "ts": 1791703924.2458045
- },
- {
-  "cat": "araba",
-  "baslik": "Uzay Teleskobunun Casus Uydu Geçmişi",
-  "ozet": "Evreni incelemek üzere yola çıkan Nancy Grace Roman Uzay Teleskobu, aslında hiç fırlatılmamış bir casus uydu olarak tasarlanmıştı.",
-  "puan": 2.0,
-  "grup": "nancy-grace-roman-telescope-history",
-  "link": "https://www.jalopnik.com/2280101/grace-roman-space-telescope-spy-agency-gift-nasa-no-money/",
-  "source": "Jalopnik",
-  "ts": 1791703924.2458045
- },
- {
-  "cat": "f1",
-  "baslik": "Racing Bulls 2027 Pilot Kararını Erteledi",
-  "ozet": "Takım patronu Alan Permane, Racing Bulls'un 2027'de hangi pilotlarla yarışacağına önümüzdeki haftalarda karar vereceğini açıklad.",
-  "puan": 7.0,
-  "grup": "racing-bulls-2027-driver-decision",
-  "link": "https://www.formula1.com/en/latest/article/permane-states-racing-bulls-will-select-their-2027-driver-line-up-in-the-coming-weeks.39Cso2HINAEU5KViOulOZb",
-  "source": "Formula1.com",
-  "ts": 1791703924.2458045
- },
- {
-  "cat": "f1",
-  "baslik": "FIA Singapur GP Sprint Sıralamasındaki Hataları Kabul Etti",
-  "ozet": "FIA tek koltuklu araçlar direktörü Nikolas Tombazis, Singapur GP sprint sıralama turlarındaki hataların federasyon için en kötü şey olduğunu belirtti.",
-  "puan": 8.5,
-  "grup": "singapore-gp-sprint-qualifying-fia-error",
-  "link": "https://www.autosport.com/f1/news/fia-admits-fairness-was-compromised-in-singapore-f1-sprint-qualifying-mess/10864155/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1791703924.2458045
- },
- {
-  "cat": "f1",
-  "baslik": "FIA Singapur GP Sprint Sıralamasındaki Hataları Kabul Etti",
-  "ozet": "FIA tek koltuklu araçlar direktörü Nikolas Tombazis, Singapur GP sprint sıralama turlarındaki hataların federasyon için en kötü şey olduğunu belirtti.",
-  "puan": 8.5,
-  "grup": "singapore-gp-sprint-qualifying-fia-error",
-  "link": "https://www.motorsport.com/f1/news/fia-admits-fairness-was-compromised-in-singapore-f1-sprint-qualifying-mess/10864037/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1791703924.2458045
- },
- {
-  "cat": "araba",
   "baslik": "Otomobillerde Olmasını İstediğiniz Özellikler Neler?",
   "ozet": "Sürücülerin günlük sürüş deneyimlerini iyileştirmek ve hayatı kolaylaştırmak için otomobillerde görmeyi arzuladığı eksik özellikler masaya yatırılıyor.",
   "puan": 2.0,
@@ -2228,5 +2168,305 @@
   "link": "https://www.motorsport.com/f1/news/mclaren-to-phase-upgrades-for-2026-fight-and-next-years-f1-development/10864787/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1791863829.740129
+ },
+ {
+  "cat": "araba",
+  "baslik": "Renault 8 Gordini Gündemde",
+  "ozet": "Renault CEO'su, R5 Turbo 3E modelinin ardından 8 Gordini konseptini temel alan sınırlı üretim yüksek performanslı bir spor otomobilin olası olduğunu doğruladı.",
+  "puan": 7.0,
+  "grup": "renault-8-gordini-concept",
+  "link": "https://www.autocar.co.uk/car-news/electric-cars/renault-mulls-building-8-gordini-follow-r5-turbo-3e",
+  "source": "Autocar",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "araba",
+  "baslik": "Elektrikli Porsche Spor Otomobillerin Batarya Düzeni",
+  "ozet": "Elektrikli Boxster ve Cayman modelleri, bataryalarını geleneksel içten yanmalı motorun bulunduğu koltukların arkasına yerleştirerek orta motor düzenine farklı bir yaklaşım getirecek.",
+  "puan": 7.5,
+  "grup": "porsche-electric-boxster-cayman",
+  "link": "https://www.motor1.com/news/811750/porsche-electric-718-batteries-instead-engine/",
+  "source": "Motor1",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yüksek Oktanlı Yakıt Her Zaman Daha İyi mi?",
+  "ozet": "Daha pahalı olan premium benzin, her araçta ekstra güç veya daha iyi yakıt ekonomisi sağlamıyor; sürücülerin dolum yapmadan önce bilmesi gerekenler.",
+  "puan": 3.0,
+  "grup": "hybrid-vs-regular-motor-oil",
+  "link": "https://www.motor1.com/features/811600/difference-between-regular-and-premium-gas/",
+  "source": "Motor1",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "araba",
+  "baslik": "Renault'tan Yeni Espace MPV Planı",
+  "ozet": "Renault yöneticisi Fabrice Cambolive, retro E-Space MPV konseptinin üretiminin şu an için somut bir proje olmadığını ve önceliğin SUV'lerde olduğunu belirtti.",
+  "puan": 5.5,
+  "grup": "renault-espace-mpv-future",
+  "link": "https://www.autocar.co.uk/car-news/motor-shows-paris-motor-show/renault-could-build-bold-espace-mpv-%E2%80%93-suvs-come-first",
+  "source": "Autocar",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "araba",
+  "baslik": "GM Defense'ten Sürücüsüz Lojistik Aracı",
+  "ozet": "GM Defense, 2027'deki Ordu testleri için Chevrolet Silverado 3500HD tabanlı insansız bir kara aracını tanıttı.",
+  "puan": 6.5,
+  "grup": "gm-defense-silverado-ugv",
+  "link": "https://www.motor1.com/news/811745/gm-defense-silverado-military-ugv/",
+  "source": "Motor1",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "araba",
+  "baslik": "2022 Model Kia Carnival Değer Kaybı",
+  "ozet": "Piyasada en yetenekli minivanlardan biri olan Kia Carnival'ın 2022 modelleri, dört yıl içinde önemli ölçüde değer kaybederek cazip birer fırsat haline geldi.",
+  "puan": 2.5,
+  "grup": "kia-carnival-depreciation-2022",
+  "link": "https://www.jalopnik.com/2283607/how-much-2022-kia-carnival-minivans-have-depreciated-4-years/",
+  "source": "Jalopnik",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "araba",
+  "baslik": "Kayıp Maserati 5000 GT Frua Yeniden Ortaya Çıktı",
+  "ozet": "Otuz yıl boyunca kayıp olan ilk Maserati 5000 GT Frua, on yıllar süren garaj maceralarının ardından dört yıllık bir restorasyonla Classiche sertifikası aldı.",
+  "puan": 4.0,
+  "grup": "maserati-5000-gt-frua-restoration",
+  "link": "https://www.motor1.com/news/811736/first-maserati-5000-gt-frua/",
+  "source": "Motor1",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "araba",
+  "baslik": "Paris Otomobil Fuarı'nın En İyi 10 Yeni Arabası",
+  "ozet": "Yazarlarımız, Avrupa'nın son yıllardaki en yoğun otomobil fuarındaki en sevdikleri yeni model tanıtımlarını seçti.",
+  "puan": 6.0,
+  "grup": "paris-motor-show-2024-evs",
+  "link": "https://www.autocar.co.uk/car-news/motor-shows-paris-motor-show/oh-l%C3%A0-l%C3%A0-autocars-top-10-new-cars-paris-motor-show",
+  "source": "Autocar",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "araba",
+  "baslik": "Porsche'den Yeni Benzinli Süper Otomobil Konsepti",
+  "ozet": "Porsche, Carrera GT ve 918 Spyder soyundan gelen yeni bir süper spor otomobil platformunun önizlemesini yapacak Mission S konseptini perşembe günü tanıtacak.",
+  "puan": 8.5,
+  "grup": "porsche-mission-s-supercar",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/porsche-reveal-new-combustion-supercar-concept-thursday",
+  "source": "Autocar",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "araba",
+  "baslik": "Jeep Renegade Avrupa'ya Geri Dönüyor",
+  "ozet": "Jeep, tüm modellerinde 4x4 seçeneği sunacak genişletilmiş Avrupa ürün gamının bir parçası olarak tanıdık bir ismi yeniden hayata geçiriyor.",
+  "puan": 6.5,
+  "grup": "jeep-renegade-europe-return",
+  "link": "https://www.motor1.com/news/811730/new-jeep-renegade-teaser-europe/",
+  "source": "Motor1",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "araba",
+  "baslik": "Elektrikli Moke Beach Car Menzilini Artırdı",
+  "ozet": "Electric Moke Mk2, açık hava plaj arabası hissini korurken 23.5 kWh batarya ile 106 mil menzil ve daha hızlı şarj sunuyor.",
+  "puan": 4.5,
+  "grup": "electric-moke-mk2-beach-car",
+  "link": "https://www.motor1.com/news/811726/electric-moke-mk2-range-specs/",
+  "source": "Motor1",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "araba",
+  "baslik": "Jaguar'ın Yeni Elektrikli Aracına Büyük İlgi",
+  "ozet": "Jaguar'ın radikal elektrikli dönüşümüne ilgi duyanların yaklaşık yüzde 80'i daha önce hiç Jaguar sahibi olmamış kişilerden oluşuyor.",
+  "puan": 6.0,
+  "grup": "jaguar-electric-reboot-interest",
+  "link": "https://www.motor1.com/news/811711/jaguar-ev-50000-people-interested/",
+  "source": "Motor1",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "araba",
+  "baslik": "Seat'ın Geleceği Henüz Kesinleşmedi",
+  "ozet": "Seat CEO'su, markanın uzun vadeli geleceği hakkında henüz bir karar alınmadığını ve içten yanmalı motor yasalarına bağlı olarak varlığını sürdürebileceğini belirtti.",
+  "puan": 5.5,
+  "grup": "seat-brand-future-regulation",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/seat-boss-says-closure-not-only-option-spanish-brand",
+  "source": "Autocar",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "araba",
+  "baslik": "ABD'de Elektrikli Araç Satışları Düştü",
+  "ozet": "ABD'de vergi kredilerinin sona ermesi ve kuralların esnemesi elektrikli araç satışlarını düşürürken, Avrupa'da pazar payı rekor seviyeye ulaştı.",
+  "puan": 6.5,
+  "grup": "global-ev-sales-us-europe",
+  "link": "https://www.motor1.com/news/811708/us-ev-sales-slide-while/",
+  "source": "Motor1",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "araba",
+  "baslik": "Tarihin En İyi Renault Küçük Arabaları",
+  "ozet": "Renault, geçmişteki ikonik modellerinden ilham alarak ödüllü E-Tech elektrikli araç serisini geliştirmeye devam ediyor.",
+  "puan": 2.0,
+  "grup": "renault-best-small-cars-history",
+  "link": "https://www.autocar.co.uk/car-news/advertising-promotions-promoted-by-renault/renault%E2%80%99s-best-small-cars-all-time",
+  "source": "Autocar",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Volkswagen ID. Buzz Fiyat Sorununu Çözecek",
+  "ozet": "Volkswagen'in elektrikli Microbus modeli, ikinci neslinde yeni bir platforma geçerek genel anlamda önemli iyileştirmeler sunacak.",
+  "puan": 6.0,
+  "grup": "volkswagen-id-buzz-gen2",
+  "link": "https://www.motor1.com/news/811704/next-gen-vw-id-buzz-confirmed/",
+  "source": "Motor1",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "araba",
+  "baslik": "Jeep 2027 Wrangler Switchback Tanıtıldı",
+  "ozet": "Rubicon X temel alınarak geliştirilen Switchback, uyumsuz panelleri ve özel paket detaylarıyla Wrangler ailesine katılıyor.",
+  "puan": 5.0,
+  "grup": "jeep-wrangler-switchback-edition",
+  "link": "https://www.motor1.com/news/811702/2027-jeep-wrangler-switchback-twelve/",
+  "source": "Motor1",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ruanda Grand Prix Hakkında Bilinenler",
+  "ozet": "Formula 1, 2030'ların başında Ruanda'da düzenlenecek yeni yarış için 10 yıllık anlaşma imzaladı.",
+  "puan": 8.0,
+  "grup": "f1-rwanda-gp-announcement",
+  "link": "https://www.formula1.com/en/latest/article/everything-we-know-about-f1s-all-new-race-in-rwanda.3Mde3s9FqIOTbkzKs0Puwo",
+  "source": "Formula1.com",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "f1",
+  "baslik": "F1, Ruanda Anlaşmasıyla Afrika'ya Dönüyor",
+  "ozet": "Formula 1, Afrika kıtasına dönüş kapsamında Ruanda ile 10 yıllık tarihi bir anlaşma duyurdu.",
+  "puan": 8.0,
+  "grup": "f1-rwanda-gp-announcement",
+  "link": "https://www.formula1.com/en/latest/article/formula-1-returns-to-africa-with-10-year-agreement-to-race-in-rwanda.13xs9VMK7cGFiBd2IplyES",
+  "source": "Formula1.com",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli Şampiyonluğu Ne Zaman Garantileyebilir?",
+  "ozet": "Puan durumunda liderliğini sürdüren Kimi Antonelli'nin matematiksel olarak şampiyonluğu ne zaman kazanabileceği inceleniyor.",
+  "puan": 6.0,
+  "grup": "singapore-gp-antonelli-championship",
+  "link": "https://www.formula1.com/en/latest/article/points-permutations-when-is-the-earliest-antonelli-could-win-the-world-championship.24UKT2fsQl4GmC5DMrmYUy",
+  "source": "Formula1.com",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "f1",
+  "baslik": "Toto Wolff Monaco'da Nadir Mercedes'i İle Görüntülendi",
+  "ozet": "Mercedes takım patronu Toto Wolff, şampiyonluk baskısından uzaklaşmak için Monaco'da nadir bir Mercedes modelini sürerken objektiflere takıldı.",
+  "puan": 2.0,
+  "grup": "toto-wolff-monaco-drive",
+  "link": "https://www.motorsport.com/f1/news/toto-wolff-spotted-cruising-monaco-in-a-10-million-mercedes-unicorn/10864881/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "f1",
+  "baslik": "Nice Limanı Bradley Cooper'ın Filmi İçin F1 Pistine Dönüştürüldü",
+  "ozet": "Klasik Formula 1 araçları, Bradley Cooper'ın Ocean's ön filmi için Nice limanında çekimlere başladı.",
+  "puan": 2.0,
+  "grup": "nice-port-f1-movie-set",
+  "link": "https://www.motorsport.com/f1/news/classic-f1-turns-port-of-nice-into-street-circuit-for-bradley-coopers-oceans-prequel/10864892/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "f1",
+  "baslik": "Christian Horner'dan Ayrılık Açıklaması",
+  "ozet": "Eski Red Bull takım patronu Christian Horner, görevden alınmasında Dietrich Mateschitz'in ölümünün rol oynadığını belirtti.",
+  "puan": 8.0,
+  "grup": "christian-horner-red-bull-exit",
+  "link": "https://www.motorsport.com/f1/news/christian-horner-blames-dietrich-mateschitzs-death-for-the-painful-end-of-his-f1-reign/10864830/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "f1",
+  "baslik": "Formula 1 2030'larda Ruanda'da Yarışacak",
+  "ozet": "Formula 1, 1993'ten bu yana ilk kez Afrika'da yarışmak üzere Ruanda ile 10 yıllık anlaşmaya vardı.",
+  "puan": 8.0,
+  "grup": "f1-rwanda-gp-announcement",
+  "link": "https://www.racefans.net/2026/10/13/formula-1-announces-it-will-race-in-rwanda-from-early-2030s/",
+  "source": "RaceFans",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "f1",
+  "baslik": "F1, Ruanda'daki Yeni Yarışla Afrika'ya Dönüyor",
+  "ozet": "Formula 1, 2030'lu yıllarda Ruanda'da düzenlenecek yeni yarışla 10 yıllık anlaşma imzaladı.",
+  "puan": 8.0,
+  "grup": "f1-rwanda-gp-announcement",
+  "link": "https://www.the-race.com/formula-1/f1-to-return-to-africa-with-new-race-in-rwanda/",
+  "source": "The Race",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ruanda ile 10 Yıllık Tarihi F1 Anlaşması",
+  "ozet": "Ruanda hükümeti ve F1, başkent Kigali yakınlarında inşa edilecek pistte 2030'dan itibaren düzenlenecek yarış için anlaştı.",
+  "puan": 8.0,
+  "grup": "f1-rwanda-gp-announcement",
+  "link": "https://www.motorsport.com/f1/news/f1-signs-historic-10-year-rwanda-deal-to-host-african-grand-prix/10864835/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "f1",
+  "baslik": "Afrika Grand Prix'si İçin Ruanda Anlaşması",
+  "ozet": "Kigali yakınlarında yapılacak yeni pistte, 2030'dan itibaren 10 yıl boyunca Afrika Grand Prix'si düzenlenecek.",
+  "puan": 8.0,
+  "grup": "f1-rwanda-gp-announcement",
+  "link": "https://www.autosport.com/f1/news/f1-signs-historic-10-year-rwanda-deal-to-host-african-grand-prix/10864843/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "f1",
+  "baslik": "Fred Vasseur'den Red Bull Değerlendirmesi",
+  "ozet": "Ferrari patronu Fred Vasseur, son zaferlerine rağmen Red Bull'un şu an F1'in en iyi takımı olupceğinden emin olmadığını söyledi.",
+  "puan": 5.0,
+  "grup": "vasseur-red-bull-best-team",
+  "link": "https://www.motorsport.com/f1/news/fred-vasseur-not-sure-if-red-bull-is-currently-f1s-best-team/10864684/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hadjar Pit Yolundan Puanla Döndü",
+  "ozet": "Isack Hadjar, pit yolundan başlayarak geçirdiği zorlu yarışın ardından mücadeleyi puanla tamamladı.",
+  "puan": 5.0,
+  "grup": "singapore-gp-hadjar-pit-recovery",
+  "link": "https://www.racefans.net/2026/10/13/i-knew-this-guy-would-be-a-pain-in-the-a-hadjars-slog-from-pits-to-points/",
+  "source": "RaceFans",
+  "ts": 1791891610.8025892
+ },
+ {
+  "cat": "f1",
+  "baslik": "McLaren'in Sezonunu Raydan Çıkaran Sorunlar",
+  "ozet": "McLaren, araçlarının en sorunlu karakteristiklerini geliştirmek için daha köklü çözümlere ihtiyaç duyuyor.",
+  "puan": 5.0,
+  "grup": "mclaren-season-rescue-plan",
+  "link": "https://www.the-race.com/formula-1/whats-derailing-mclarens-season-and-the-plan-to-rescue-it/",
+  "source": "The Race",
+  "ts": 1791891610.8025892
  }
 ]
