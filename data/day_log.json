@@ -1,36 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Aylık 500 Doların Altında Taksitli Alınabilecek 6 Sıfır Otomobil",
-  "ozet": "Sıfır otomobil fiyatlarının artmasıyla birlikte, aylık 500 doların altında ödemelerle satın alınabilecek araç ve kamyonetleri inceledik.",
-  "puan": 2.5,
-  "grup": "used-car-finds-online-list",
-  "link": "https://www.jalopnik.com/2278529/new-cars-with-payments-cost-less-than-500/",
-  "source": "Jalopnik",
-  "ts": 1791680802.710316
- },
- {
-  "cat": "araba",
-  "baslik": "IIHS Güvenlik Testlerine Göre En İyi ve En Kötü 5 Aile Minibüsü",
-  "ozet": "Piyasadaki en güvenli beş aile minibüsünü IIHS sonuçlarına göre sıraladık ve bulguları NHTSA verileriyle karşılaştırdık.",
-  "puan": 6.5,
-  "grup": "nhtsa-iihs-safety-tests-difference",
-  "link": "https://www.jalopnik.com/2280256/new-family-minivans-ranked-best-to-worst-iihs-safety-ratings/",
-  "source": "Jalopnik",
-  "ts": 1791680802.710316
- },
- {
-  "cat": "araba",
-  "baslik": "Aylık 300 Doların Altında Kiralama Fırsatı Sunan 7 Otomobil",
-  "ozet": "Şaşırtıcı derecede ucuz kiralama fırsatları mevcut; ancak bu düşük aylık ödemeler düşük kilometre sınırları ve yüksek peşinatlar gibi dezavantajlar getirebiliyor.",
-  "puan": 2.0,
-  "grup": "used-car-finds-online-list",
-  "link": "https://www.jalopnik.com/2280095/lease-deals-that-cost-less-than-300/",
-  "source": "Jalopnik",
-  "ts": 1791680802.710316
- },
- {
-  "cat": "araba",
   "baslik": "Paris Otomobil Fuarı Kapılarını Açıyor",
   "ozet": "Avrupalı otomobil üreticileri, Çinli rakiplerine karşı geliştirdikleri uygun fiyatlı yeni elektrikli modellerini Paris Otomobil Fuarı'nda tanıtmaya hazırlanıyor.",
   "puan": 7.5,
@@ -2198,5 +2168,65 @@
   "link": "https://www.motorsport.com/f1/news/oscar-piastri-on-his-singapore-puncture-ironically-it-probably-helped/10864632/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1791848927.0936203
+ },
+ {
+  "cat": "araba",
+  "baslik": "Motosiysekte Yüksek Hız Neden Yavaş Hissettirebilir?",
+  "ozet": "Autobahn gibi yollarda yüksek hızlarda motosiklet sürerken, aracın türüne bağlı olarak beklendiği kadar heyecan verici hissettirmemesinin nedenleri ele alınıyor.",
+  "puan": 3.0,
+  "grup": "motorcycle-high-speed-perception",
+  "link": "https://www.jalopnik.com/2284672/why-160-mph-on-a-motorcycle-can-feel-slow/",
+  "source": "Jalopnik",
+  "ts": 1791863829.740129
+ },
+ {
+  "cat": "araba",
+  "baslik": "Nissan Skyline GT-R İsminin Anlamı Nedir?",
+  "ozet": "Nissan'ın en ünlü performans otomobili olan Skyline GT-R'ın taşıdığı simgesel rozetin ve ismin kökenindeki özel anlam inceleniyor.",
+  "puan": 3.5,
+  "grup": "nissan-skyline-gtr-name-meaning",
+  "link": "https://www.jalopnik.com/2283161/what-does-gtr-stand-for-nissan-skyline/",
+  "source": "Jalopnik",
+  "ts": 1791863829.740129
+ },
+ {
+  "cat": "araba",
+  "baslik": "Volkswagen'den ID.4 İçin Yangın Riski Geri Çağırması",
+  "ozet": "ABD'de batarya yangını vakaları araştırılırken, Volkswagen 22.524 adet ID.4 modelini geri çağırdı ve sahiplerinden şarjı yüzde 80 ile sınırlandırmaları istendi.",
+  "puan": 8.5,
+  "grup": "volkswagen-us-sales-decline",
+  "link": "https://www.motor1.com/news/811614/volkswagen-id-4-recall-imposes/",
+  "source": "Motor1",
+  "ts": 1791863829.740129
+ },
+ {
+  "cat": "araba",
+  "baslik": "Trafik Işıkları Araçları Nasıl Algılar?",
+  "ozet": "Trafik ışıklarının her zaman bir zamanlayıcıyla çalışmadığı, bazı sistemlerin araçları tespit ederek trafiğe göre uyum sağlayabildiği anlatılıyor.",
+  "puan": 2.5,
+  "grup": "traffic-light-detection-system",
+  "link": "https://www.motor1.com/features/811620/can-traffic-lights-change-based-on-traffic/",
+  "source": "Motor1",
+  "ts": 1791863829.740129
+ },
+ {
+  "cat": "f1",
+  "baslik": "Toto Wolff'tan Russell'ın Singapur'daki Yükselişi İçin Açıklama",
+  "ozet": "Toto Wolff, George Russell'ın Singapur GP'sinde 19'unculuktan dokuzunculuğa yükselmesini değerlendirerek, aracın önündeki araçlara yaklaşırken yaşadığı aerodinamik zorluklara dikkat çekti.",
+  "puan": 5.5,
+  "grup": "singapore-gp-russell-recovery-wolff",
+  "link": "https://www.motorsport.com/f1/news/toto-wolff-reveals-the-problem-behind-george-russells-singapore-gp-recovery/10864793/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791863829.740129
+ },
+ {
+  "cat": "f1",
+  "baslik": "McLaren'dan 2026 Mücadelesi İçin Kademeli Güncelleme Planı",
+  "ozet": "McLaren, hem bu yılki açığı kapatmak hem de gelecek sezonun aerodinamik konseptini belirlemek amacıyla güncellemelerini kademeli olarak devreye sokmayı planlıyor.",
+  "puan": 5.0,
+  "grup": "mclaren-2026-upgrade-strategy",
+  "link": "https://www.motorsport.com/f1/news/mclaren-to-phase-upgrades-for-2026-fight-and-next-years-f1-development/10864787/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791863829.740129
  }
 ]
