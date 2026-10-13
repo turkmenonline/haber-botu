@@ -1,166 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Neredeyse Yok Edilemez Denilen 5 Lexus Modeli",
-  "ozet": "Toyota DNA'sına sahip sağlam SUV'lerden Mercedes'e rakip lüks sedanlara kadar uzun ömürleriyle ün salmış 5 Lexus modeli.",
-  "puan": 2.5,
-  "grup": "used-manual-lexus-models-list",
-  "link": "https://www.jalopnik.com/2282594/lexus-models-that-are-nearly-indestructible/",
-  "source": "Jalopnik",
-  "ts": 1791757428.6308873
- },
- {
-  "cat": "araba",
-  "baslik": "Yapılmış En Güçlü 7 Sekiz Silindirli Motor",
-  "ozet": "Farklı motor tipleri arasında her zaman tatlı bir noktada olan V8 motorların en güçlü örnekleri.",
-  "puan": 3.0,
-  "grup": "used-car-finds-online-list",
-  "link": "https://www.jalopnik.com/2280915/most-powerful-8-cylinder-engines-ever-made/",
-  "source": "Jalopnik",
-  "ts": 1791757428.6308873
- },
- {
-  "cat": "araba",
-  "baslik": "2010 Model Honda Pilot Geri Görüş Kamerasıyla Konser Çekmek",
-  "ozet": "Park çizgileri eşliğinde düşük çözünürlüklü bir geri görüş kamerasının konser çekimlerinde nasıl kullanılabileceği.",
-  "puan": 2.0,
-  "grup": "car-manufacturing-global-supply-chain",
-  "link": "https://www.thedrive.com/news/using-a-2010-honda-pilot-backup-camera-to-film-a-concert-is-possible-apparently",
-  "source": "The Drive",
-  "ts": 1791757428.6308873
- },
- {
-  "cat": "araba",
-  "baslik": "Hyundai Tucson Ne Kadar Güvenilir ve Yaygın Sorunlar Neler?",
-  "ozet": "Düzenli bakımla yüksek kilometrelere ulaşabilen Hyundai Tucson modellerinde dikkat edilmesi gereken kronik sorunlar.",
-  "puan": 4.0,
-  "grup": "car-towing-rules-laws",
-  "link": "https://www.jalopnik.com/2282172/hyundai-tucson-common-issues/",
-  "source": "Jalopnik",
-  "ts": 1791757428.6308873
- },
- {
-  "cat": "araba",
-  "baslik": "Stellantis Markası DS Automobiles'den Yeni Konsept",
-  "ozet": "Şık tasarımıyla dikkat çeken yeni süpermini konsepti, gelecekteki DS 3 modelinin sinyallerini veriyor.",
-  "puan": 6.5,
-  "grup": "ds-no3-f3ver-hatchback-concept",
-  "link": "https://www.motor1.com/news/811486/ds-f3ver-concept-reveal/",
-  "source": "Motor1",
-  "ts": 1791757428.6308873
- },
- {
-  "cat": "araba",
-  "baslik": "Otomobil Akü Etiketleri Ne Anlama Geliyor?",
-  "ozet": "Akülerin üzerinde yer alan karmaşık harf ve sayı kombinasyonlarının pratik açıklamaları.",
-  "puan": 2.5,
-  "grup": "car-limp-mode-explanation",
-  "link": "https://www.jalopnik.com/2281802/car-battery-labels-explained-letter-number-means/",
-  "source": "Jalopnik",
-  "ts": 1791757428.6308873
- },
- {
-  "cat": "araba",
-  "baslik": "Fiat, Multipla'yı Minivan, SUV ve Kamyonet Olarak Yeniden Yorumladı",
-  "ozet": "Modülerliği üst seviyeye taşıyan Multiplay konsepti, tek bir araçta üç farklı karoseri birleştiriyor.",
-  "puan": 6.0,
-  "grup": "fiat-multipla-multiplay-concept",
-  "link": "https://www.motor1.com/news/811485/fiat-multiplay-concept-reveal/",
-  "source": "Motor1",
-  "ts": 1791757428.6308873
- },
- {
-  "cat": "araba",
-  "baslik": "Arabaların Ön Paneline Neden 'Dashboard' Deniyor?",
-  "ozet": "Her gün kullanılan araç ön paneli teriminin kökeninin göstergelerle veya ekranlarla hiçbir ilgisi yok.",
-  "puan": 2.0,
-  "grup": "highway-rebuilding-hurricane-helene",
-  "link": "https://www.motor1.com/features/811151/why-is-it-called-a-dashboard/",
-  "source": "Motor1",
-  "ts": 1791757428.6308873
- },
- {
-  "cat": "araba",
-  "baslik": "Yüksek Güçlü Retro-Fünksiyonel Peugeot E-T16",
-  "ozet": "Çılgın elektrikli konsept araç, Peugeot'nun gelecek nesil süpermini modeline ışık tutuyor.",
-  "puan": 6.5,
-  "grup": "peugeot-e-t16-rally-concept",
-  "link": "https://www.motor1.com/news/811482/peugeot-et16-concept/",
-  "source": "Motor1",
-  "ts": 1791757428.6308873
- },
- {
-  "cat": "f1",
-  "baslik": "Leclerc'in Uçak Krizi",
-  "ozet": "Charles Leclerc'in özel uçağındaki teknik aksaklık nedeniyle Malezya'dan dönüşü karayoluyla yapılmak zorunda kaldı.",
-  "puan": 3.5,
-  "grup": "singapore-gp-leclerc-jet-drama",
-  "link": "https://www.motorsport.com/f1/news/charles-leclercs-private-jet-drama-sparked-last-minute-change-of-plans/10864489/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1791757428.6308873
- },
- {
-  "cat": "f1",
-  "baslik": "Singapur GP Yarış Sonucu",
-  "ozet": "Max Verstappen Singapur Grand Prix'sini kazanırken, Andrea Kimi Antonelli şampiyonadaki puan farkını 102'ye çıkardı.",
-  "puan": 9.0,
-  "grup": "singapore-gp-race-result",
-  "link": "https://www.racefans.net/2026/10/11/2026-singapore-grand-prix-race-result-and-championship-points/",
-  "source": "RaceFans",
-  "ts": 1791757428.6308873
- },
- {
-  "cat": "f1",
-  "baslik": "Verstappen Singapur'da Kazandı",
-  "ozet": "Max Verstappen, Leclerc ve Antonelli'nin önünde rahat bir galibiyet alarak kariyerinin ilk Singapur GP zaferini elde etti.",
-  "puan": 9.0,
-  "grup": "singapore-gp-race-result",
-  "link": "https://www.autosport.com/f1/news/f1-singapore-gp-report/10864312/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1791757428.6308873
- },
- {
-  "cat": "f1",
-  "baslik": "Verstappen Singapur'da Dominant",
-  "ozet": "Max Verstappen, Ferrari tehdidinin azalmasıyla Singapur Grand Prix'sinde kontrolü elinde tutarak rahat bir zafer kazandı.",
-  "puan": 9.0,
-  "grup": "singapore-gp-race-result",
-  "link": "https://www.racefans.net/2026/10/11/verstappen-cruises-to-singapore-grand-prix-victory-as-ferrari-threat-fades/",
-  "source": "RaceFans",
-  "ts": 1791757428.6308873
- },
- {
-  "cat": "f1",
-  "baslik": "Singapur GP Ardından Öne Çıkanlar",
-  "ozet": "Red Bull'un Bakü'de yaptığı güncellemelerin rakipleri tarafından beğenildiği ve RB22'nin artık çok daha öngörülebilir olduğu belirtildi.",
-  "puan": 5.0,
-  "grup": "singapore-gp-takeaways-red-bull-upgrade",
-  "link": "https://www.motorsport.com/f1/news/five-quick-conclusions-from-singapore-gp/10864297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1791757428.6308873
- },
- {
-  "cat": "f1",
-  "baslik": "2026 Singapur GP Sonuçları",
-  "ozet": "Max Verstappen, Ferrari'den Charles Leclerc'in önünde Formula 1 Singapur Grand Prix'sinin galibi oldu.",
-  "puan": 9.0,
-  "grup": "singapore-gp-race-result",
-  "link": "https://www.the-race.com/formula-1/f1-2026-singapore-grand-prix-race-result/",
-  "source": "The Race",
-  "ts": 1791757428.6308873
- },
- {
-  "cat": "f1",
-  "baslik": "Singapur GP'yi Oylayın",
-  "ozet": "Formula 1 severler 2026 Singapur Grand Prix'si hakkındaki değerlendirmelerini paylaşıyor.",
-  "puan": 2.0,
-  "grup": "singapore-gp-rate-the-race",
-  "link": "https://www.racefans.net/2026/10/11/rate-the-race-2026-singapore-grand-prix/",
-  "source": "RaceFans",
-  "ts": 1791757428.6308873
- },
- {
-  "cat": "araba",
   "baslik": "2021 Model Chevrolet Tahoe Değer Kaybı",
   "ozet": "2021 model Chevrolet Tahoe, beş yıllık süreçte önemli ölçüde değer kaybederek geniş aileler için cazip ve ekonomik bir ikinci el seçeneği haline geldi.",
   "puan": 3.5,
@@ -2078,5 +1918,185 @@
   "link": "https://www.motorsport.com/f1/news/christian-horner-clears-air-on-dream-job-ferrari-rumors-and-sets-return-terms/10864851/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1791916335.5780473
+ },
+ {
+  "cat": "araba",
+  "baslik": "GM Defense'ten Sürücüsüz Askeri Araç",
+  "ozet": "GM Defense, ABD Ordusu tarafından kullanılma potansiyeline sahip otonom bir Silverado prototipi geliştiriyor.",
+  "puan": 7.5,
+  "grup": "gm-defense-silverado-ugv",
+  "link": "https://www.caranddriver.com/news/a74124718/gm-defense-autonomous-silverado-us-military/",
+  "source": "Car and Driver",
+  "ts": 1791932675.5235643
+ },
+ {
+  "cat": "araba",
+  "baslik": "Rwanda, 2030'larda Formula 1'e Ev Sahipliği Yapacak",
+  "ozet": "Ruanda'da başkentin kuzeyinde inşa edilecek yeni pist ile Formula 1 2030'ların başında Afrika'ya geri dönüyor.",
+  "puan": 8.0,
+  "grup": "rwanda-f1-african-grand-prix-2030s",
+  "link": "https://www.caranddriver.com/news/a74124765/formula-1-african-grand-prix-returns/",
+  "source": "Car and Driver",
+  "ts": 1791932675.5235643
+ },
+ {
+  "cat": "araba",
+  "baslik": "102.4 Litrelik Devasa Motoru İpli Çalıştırdılar",
+  "ozet": "Bir pikap kamyonet kullanılarak 102.4 litrelik dev bir dizel motor ip çekme yöntemiyle çalıştırıldı.",
+  "puan": 4.5,
+  "grup": "legendary-twin-engine-logging-truck",
+  "link": "https://www.jalopnik.com/2286009/pickup-truck-pull-start-102-point-4-liter-engine-like-lawnmower/",
+  "source": "Jalopnik",
+  "ts": 1791932675.5235643
+ },
+ {
+  "cat": "araba",
+  "baslik": "Acura Yeni SUV ve Hibrit Modeller Üzerinde Çalışıyor",
+  "ozet": "Acura, Passport tabanlı bir arazi aracı, 8 kişilik büyük bir SUV ve yeni bir V6 hibrit model hazırlıyor.",
+  "puan": 7.0,
+  "grup": "acura-new-suv-v6-hybrid-models",
+  "link": "https://www.jalopnik.com/2286050/acura-working-on-passport-based-off-roader-8-passenger-suv/",
+  "source": "Jalopnik",
+  "ts": 1791932675.5235643
+ },
+ {
+  "cat": "araba",
+  "baslik": "EPA Araçların Yakıt Tüketimini Nasıl Hesaplıyor?",
+  "ozet": "EPA yakıt ekonomisi derecelendirmeleri sürücülere maliyet tahmini sunsa da gerçek dünyada bu rakamlara her zaman ulaşılamayabiliyor.",
+  "puan": 3.0,
+  "grup": "epa-car-mpg-calculation-guide",
+  "link": "https://www.motor1.com/features/811778/why-your-car-has-an-epa-mpg-rating/",
+  "source": "Motor1",
+  "ts": 1791932675.5235643
+ },
+ {
+  "cat": "araba",
+  "baslik": "Acura'dan Yeni Arazi Odaklı SUV Modeli",
+  "ozet": "Honda'nın lüks markası Acura, Honda TrailSport modellerini andıran macera odaklı yeni bir büyük SUV geliştiriyor.",
+  "puan": 6.5,
+  "grup": "acura-new-suv-v6-hybrid-models",
+  "link": "https://www.caranddriver.com/news/a74123942/acura-confirms-new-off-road-suv-2028/",
+  "source": "Car and Driver",
+  "ts": 1791932675.5235643
+ },
+ {
+  "cat": "araba",
+  "baslik": "Formula 1 Rwanda ile 10 Yıllık Anlaşma İmzaladı",
+  "ozet": "F1'in Ruanda ile imzaladığı 10 yıllık yarış anlaşması, ülkenin insan hakları sicili nedeniyle bazı endişelere yol açtı.",
+  "puan": 8.0,
+  "grup": "rwanda-f1-african-grand-prix-2030s",
+  "link": "https://www.jalopnik.com/2285973/formula-1-signs-10-year-deal-to-race-in-rwanda/",
+  "source": "Jalopnik",
+  "ts": 1791932675.5235643
+ },
+ {
+  "cat": "araba",
+  "baslik": "BMW M Patronu: Hibrit Teknolojisi Manuel Vitesleri Zorlaştırıyor",
+  "ozet": "Frank van Meel, 48 volt sistemler ve tork limitleri nedeniyle gelecekteki BMW M modellerinde manuel vites sunmanın zorlaştığını belirtti.",
+  "puan": 6.5,
+  "grup": "bmw-m-manual-hybrid-challenges",
+  "link": "https://www.motor1.com/news/811763/bmw-m-manual-gearbox-48/",
+  "source": "Motor1",
+  "ts": 1791932675.5235643
+ },
+ {
+  "cat": "araba",
+  "baslik": "Citroën 2CV Fourgonnette Konsepti Tanıtıldı",
+  "ozet": "İkonik modelin orijinal van versiyonundan ilham alan Citroën 2CV Fourgonnette konsepti görücüye çıktı.",
+  "puan": 6.0,
+  "grup": "citroen-2cv-fourgonnette-concept",
+  "link": "https://www.jalopnik.com/2285827/citroen-2cv-fourgonnette-van-concept-reveal/",
+  "source": "Jalopnik",
+  "ts": 1791932675.5235643
+ },
+ {
+  "cat": "araba",
+  "baslik": "2028 Ford Fathom İçin Ön Sipariş Listesi Oluşturuluyor",
+  "ozet": "Ford'un 30 bin dolar altındaki elektrikli aracı henüz tanıtılmasa da şimdiden ön sipariş sırası listesi oluşturulmaya başlandı.",
+  "puan": 7.0,
+  "grup": "ford-fathom-ev-preorder-list",
+  "link": "https://www.caranddriver.com/news/a74123201/2028-ford-fathom-ev-early-preorder-list/",
+  "source": "Car and Driver",
+  "ts": 1791932675.5235643
+ },
+ {
+  "cat": "araba",
+  "baslik": "İkinci El Fiat 500C Abarth Liste Fiyatının İki Katına Satıldı",
+  "ozet": "Temiz durumdaki küçük performans hatchback modeli Fiat 500C Abarth, sıfır fiyatının iki katı olan 45 bin dolara alıcı buldu.",
+  "puan": 4.0,
+  "grup": "fiat-500c-abarth-high-auction-price",
+  "link": "https://www.jalopnik.com/2285807/why-did-this-fiat-500c-abarth-sell-for-45000/",
+  "source": "Jalopnik",
+  "ts": 1791932675.5235643
+ },
+ {
+  "cat": "araba",
+  "baslik": "2026 Toyota RAV4 Woodland PHEV İncelemesi",
+  "ozet": "Sahte bir arazi karakterine sahip olsa da 2026 Toyota RAV4 Woodland PHEV, güçlü aktarma organı ve 49 millik elektrikli menziliyle dikkat çekiyor.",
+  "puan": 5.5,
+  "grup": "toyota-rav4-woodland-phev-review",
+  "link": "https://www.thedrive.com/car-reviews/2026-toyota-rav4-woodland-phev-review-when-a-48k-rav4-is-still-worth-it",
+  "source": "The Drive",
+  "ts": 1791932675.5235643
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Volvo EX60 Test Sürüşü",
+  "ozet": "İskandinav minimalliğiyle tasarlanan ve gelişmiş yazılım altyapısına sahip yeni Volvo EX60 test edildi.",
+  "puan": 6.5,
+  "grup": "volvo-ex60-test-drive",
+  "link": "https://www.caranddriver.com/reviews/a71317567/2027-volvo-ex60-drive/",
+  "source": "Car and Driver",
+  "ts": 1791932675.5235643
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Volvo EX60 Dış Tasarım Fotoğrafları",
+  "ozet": "Yeni tamamen elektrikli Volvo EX60 modelinin dış tasarımını farklı açılardan gösteren fotoğraflar yayınlandı.",
+  "puan": 5.5,
+  "grup": "volvo-ex60-test-drive",
+  "link": "https://www.caranddriver.com/photos/g71296565/2027-volvo-ex60-drive-exterior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1791932675.5235643
+ },
+ {
+  "cat": "araba",
+  "baslik": "Volkswagen Grubu Seat'ın Geleceğini Değerlendiriyor",
+  "ozet": "Seat ve Cupra yöneticisi, VW Grubu'nun gelecekte Seat markasını aşamalı olarak sonlandırma ihtimalinin masadaki senaryolardan biri olduğunu açıkladı.",
+  "puan": 7.0,
+  "grup": "seat-brand-future-regulation",
+  "link": "https://www.motor1.com/news/811827/seat-ceo-brand-not-dead/",
+  "source": "Motor1",
+  "ts": 1791932675.5235643
+ },
+ {
+  "cat": "f1",
+  "baslik": "Singapur GP Paddock'unda Dikkat Çeken Saatler",
+  "ozet": "Singapur Grand Prix'si hafta sonunda pilotların, takım patronlarının ve konukların taktığı saatler 400 dolarlık Swatch'tan 430.000 dolarlık Richard Mille'e kadar büyük bir fiyat aralığına sahne oldu.",
+  "puan": 2.5,
+  "grup": "singapore-gp-watch-game",
+  "link": "https://www.motorsport.com/f1/news/the-watches-worn-at-the-singapore-gp-from-400-to-430000/10865040/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791932675.5235643
+ },
+ {
+  "cat": "f1",
+  "baslik": "FIA, Red Bull'un Yan Pod Açığını Yasaklayabilir",
+  "ozet": "FIA'nın, 2027 sezonu öncesinde Red Bull Racing'in kural kitabındaki gri noktaları kullanarak geliştirdiği akıllı aerodinamik hileyi ortadan kaldırmaya hazırlanıldığı iddia edildi.",
+  "puan": 7.5,
+  "grup": "red-bull-sidepod-loophole-2027",
+  "link": "https://www.motorsport.com/f1/news/fia-outlaws-red-bulls-clever-sidepod-aerodynamic-loophole-ahead-of-2027-season/10864930/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791932675.5235643
+ },
+ {
+  "cat": "f1",
+  "baslik": "Christian Horner'dan Red Bull'un Yeni Kimliğine Eleştiri",
+  "ozet": "Christian Horner, Laurent Mekies yönetimindeki Red Bull Racing'in eski asi ve kural tanımaz 'Maverick' kimliğini sorguladı.",
+  "puan": 6.0,
+  "grup": "christian-horner-red-bull-identity",
+  "link": "https://www.motorsport.com/f1/news/christian-horner-questions-red-bulls-maverick-identity-under-laurent-mekies-era/10864837/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791932675.5235643
  }
 ]
