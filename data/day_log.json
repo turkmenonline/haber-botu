@@ -1,246 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "BYD Atto 8 Avrupa'da Tanıtıldı",
-  "ozet": "BYD Atto 8, 115 kWh bataryası ve belirli koşullarda dokuz dakikada hızlı şarj olabilme özelliğiyle Avrupa'da görücüye çıktı.",
-  "puan": 7.5,
-  "grup": "byd-atto-8-ev",
-  "link": "https://www.motor1.com/news/811604/byd-atto-8-seven-seat/",
-  "source": "Motor1",
-  "ts": 1791848927.0936203
- },
- {
-  "cat": "araba",
-  "baslik": "Hibrit ve Standart Motor Yağı Arasındaki Fark",
-  "ozet": "Standart araçlarda hibrit yağı kullanmak teknik olarak mümkün olsa da, üreticiler hibrit motorlar için özel formüller sunuyor.",
-  "puan": 3.0,
-  "grup": "hybrid-vs-regular-motor-oil",
-  "link": "https://www.jalopnik.com/2283156/hybrid-vs-regular-gear-oil-differences-explained/",
-  "source": "Jalopnik",
-  "ts": 1791848927.0936203
- },
- {
-  "cat": "araba",
-  "baslik": "Peugeot RCZ Konsepti Görücüye Çıktı",
-  "ozet": "Peugeot yeni bir RCZ modelini henüz onaylamasa da bu etkileyici konsept, markanın bu fikri ciddi şekilde düşündüğünü gösteriyor.",
-  "puan": 7.0,
-  "grup": "peugeot-rcz-return-concept",
-  "link": "https://www.jalopnik.com/2284766/peugeot-rcz-vision-electric-coupe-concept-design-reveal/",
-  "source": "Jalopnik",
-  "ts": 1791848927.0936203
- },
- {
-  "cat": "araba",
-  "baslik": "Soğuk Hava Emiş Sistemleri Gerçekten Güç Artırır mı?",
-  "ozet": "Soğuk hava emiş sistemleri daha fazla beygir gücü ve ses vadetse de, gerçekte ne kadar performans sağladığı merak konusu.",
-  "puan": 3.5,
-  "grup": "cold-air-intakes-performance",
-  "link": "https://www.motor1.com/features/811547/what-a-cold-air-intake-does/",
-  "source": "Motor1",
-  "ts": 1791848927.0936203
- },
- {
-  "cat": "araba",
-  "baslik": "Ford OEM Aksesuarlarında İndirim Fırsatı",
-  "ozet": "Ford Orijinal Aksesuarları sınırlı bir süre için indirimli fiyatlarla alıcılara sunuluyor.",
-  "puan": 2.0,
-  "grup": "ford-oem-accessories-discount",
-  "link": "https://www.thedrive.com/news/get-deals-on-ford-oem-accessories-with-these-discount-codes",
-  "source": "The Drive",
-  "ts": 1791848927.0936203
- },
- {
-  "cat": "araba",
-  "baslik": "Alfa Romeo Cuorerosso Konsepti Tanıtıldı",
-  "ozet": "Yeni Giulia'nın önizlemesi olabilecek bu konsept, hibrit V6 motoru ve GT ile süper otomobil çizgilerini harmanlıyor.",
-  "puan": 8.0,
-  "grup": "alfa-romeo-cuorerosso-v6-concept",
-  "link": "https://www.caranddriver.com/news/a74108368/alfa-romeo-cuorerosso-concept-reveal-details/",
-  "source": "Car and Driver",
-  "ts": 1791848927.0936203
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Chevrolet Corvette Stingray İç Mekan Fotoğrafları",
-  "ozet": "Güncellenen 2027 Chevrolet Corvette Stingray modelinin iç mekanını her açıdan gösteren fotoğraflar yayınlandı.",
-  "puan": 6.5,
-  "grup": "chevrolet-corvette-stingray-2027",
-  "link": "https://www.caranddriver.com/photos/a74067707/2027-chevrolet-corvette-stingray-test-interior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1791848927.0936203
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Chevrolet Corvette Stingray Dış Mekan Detayları",
-  "ozet": "2027 model Chevrolet Corvette Stingray'in dış tasarımını gözler önüne seren yeni fotoğraflar paylaşıldı.",
-  "puan": 6.5,
-  "grup": "chevrolet-corvette-stingray-2027",
-  "link": "https://www.caranddriver.com/photos/a74067689/2027-chevrolet-corvette-stingray-test-exterior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1791848927.0936203
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Chevrolet Corvette Stingray Test Edildi",
-  "ozet": "Yeni LS6 V8 motoruyla 535 beygir güç üreten 2027 Corvette Stingray, 200 mph hıza ulaşmaya hazır.",
-  "puan": 7.5,
-  "grup": "chevrolet-corvette-stingray-2027",
-  "link": "https://www.caranddriver.com/reviews/a73583684/2027-chevrolet-corvette-stingray-drive/",
-  "source": "Car and Driver",
-  "ts": 1791848927.0936203
- },
- {
-  "cat": "araba",
-  "baslik": "DTM Sezon Finali Hockenheimring'de Gerçekleşti",
-  "ozet": "Avrupa DTM serisinin 2026 sezon finali Hockenheimring'de muhteşem anlara sahne oldu.",
-  "puan": 5.0,
-  "grup": "dtm-2026-hockenheimring-finale",
-  "link": "https://www.caranddriver.com/features/a74108536/europe-dtm-racing-season-finale-details/",
-  "source": "Car and Driver",
-  "ts": 1791848927.0936203
- },
- {
-  "cat": "araba",
-  "baslik": "Yeni Smart #2 Şehir İçi Kullanımına Odaklanıyor",
-  "ozet": "108 inç uzunluğundaki yeni Smart #2, kompakt yapısı ve pratik çözümleriyle iddialı bir şehir otomobili olarak öne çıkıyor.",
-  "puan": 6.0,
-  "grup": "smart-number-2-city-car",
-  "link": "https://www.jalopnik.com/2284551/smart-hashtag-2-production-reveal-fortwo-successor-bench-seat-splitgate/",
-  "source": "Jalopnik",
-  "ts": 1791848927.0936203
- },
- {
-  "cat": "araba",
-  "baslik": "Küçük Motorlarda Klasik Modifiye Teknikleri",
-  "ozet": "Kısa egzoz manifoldu, daha iyi bir karbüratör ve hemi yanma odası tasarımıyla küçük bir motordan daha fazla güç elde edildi.",
-  "puan": 3.0,
-  "grup": "small-engine-hot-rod-tuning",
-  "link": "https://www.thedrive.com/news/this-guy-got-more-power-from-a-harbor-freight-engine-using-old-school-hot-rod-techniques",
-  "source": "The Drive",
-  "ts": 1791848927.0936203
- },
- {
-  "cat": "araba",
-  "baslik": "Opel STX Konsepti Geleceğin Tasarımını Yansıtıyor",
-  "ozet": "Opel STX Konsepti, belirli bir modelden ziyade markanın gelecekteki tasarım diline ışık tutuyor.",
-  "puan": 6.0,
-  "grup": "opel-stx-concept-wagon",
-  "link": "https://www.jalopnik.com/2284526/opel-stx-concept-box-flared-bread-van-wagon-design-reveal/",
-  "source": "Jalopnik",
-  "ts": 1791848927.0936203
- },
- {
-  "cat": "araba",
-  "baslik": "Fiat Multiplay Konsepti Tanıtıldı",
-  "ozet": "Efsanevi Multipla modelinden ilham alan Fiat'ın bu yeni modüler konsepti, gelecekteki yenilikler için bir fikir laboratuvarı niteliğinde.",
-  "puan": 6.5,
-  "grup": "fiat-multipla-microcar-revival",
-  "link": "https://www.jalopnik.com/2284433/fiat-multiplay-suv-concept-watermelon-inspired-multipla-design/",
-  "source": "Jalopnik",
-  "ts": 1791848927.0936203
- },
- {
-  "cat": "araba",
-  "baslik": "Elon Musk ve Tesla Hakkında Yeni Belgesel",
-  "ozet": "Alex Gibney'in imzasını taşıyan 'Musk' belgeseli, Elon Musk'ın politikalarının Tesla araçlarıyla ilişkisini ele alıyor.",
-  "puan": 2.5,
-  "grup": "elon-musk-tesla-documentary",
-  "link": "https://www.jalopnik.com/2283931/alex-gibney-elon-musk-documentary-what-politics-have-to-do-with-tesla/",
-  "source": "Jalopnik",
-  "ts": 1791848927.0936203
- },
- {
-  "cat": "araba",
-  "baslik": "Smart #2 Mercedes Tasarımıyla Tanıtıldı",
-  "ozet": "Smart'ın tamamen elektrikli yeni iki kişilik modeli, Mercedes imzalı tasarımı ve modern teknolojileri bir araya getiriyor.",
-  "puan": 6.0,
-  "grup": "smart-number-2-city-car",
-  "link": "https://www.caranddriver.com/news/a74110326/smart-2-ev-production-couture-edition-revealed/",
-  "source": "Car and Driver",
-  "ts": 1791848927.0936203
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Mini Countryman Untamed Edition Çıktı",
-  "ozet": "Macera odaklı bu özel versiyon yükseltilmiş yapısı ve arazi lastikleriyle dikkat çekerken, yazılım tarafında bazı aksaklıklar yaşıyor.",
-  "puan": 5.5,
-  "grup": "mini-countryman-untamed-edition",
-  "link": "https://www.caranddriver.com/reviews/a74091339/2027-mini-countryman-untamed-edition-drive/",
-  "source": "Car and Driver",
-  "ts": 1791848927.0936203
- },
- {
-  "cat": "araba",
-  "baslik": "Peugeot'dan Yenilikçi Direksiyon Tasarımı",
-  "ozet": "Kuşaktan kuşağa aktarılan geleneksel direksiyonların aksine, Peugeot'nun 'Hypersquare' adını verdiği kare direksiyonu kablosuz yönlendirme teknolojisiyle çalışıyor.",
-  "puan": 6.5,
-  "grup": "peugeot-hypersquare-steering",
-  "link": "https://www.thedrive.com/news/the-hypersquare-is-a-new-steering-wheel-thats-even-weirder-than-teslas-yoke",
-  "source": "The Drive",
-  "ts": 1791848927.0936203
- },
- {
-  "cat": "araba",
-  "baslik": "Volkswagen'in ABD Satışlarında Düşüş",
-  "ozet": "Volkswagen'in genel ABD satışları düşüş gösterse de, Jetta modeli üçüncü çeyrekte 14.000 adetlik satış başarısı yakaladı.",
-  "puan": 5.0,
-  "grup": "volkswagen-us-sales-decline",
-  "link": "https://www.motor1.com/news/811673/volkswagen-sales-results-third-quarter-2026/",
-  "source": "Motor1",
-  "ts": 1791848927.0936203
- },
- {
-  "cat": "f1",
-  "baslik": "Hill, Suzuka'da Williams ile Şampiyonluğa Ulaştı",
-  "ozet": "Damon Hill, 1996 yılında Suzuka'da dramatik bir zaferle kariyerinin tek dünya şampiyonluğunu kazanırken, Williams takımıyla da yollarını ayırmıştı.",
-  "puan": 2.5,
-  "grup": "on-this-day-hill-1996-suzuka-title",
-  "link": "https://www.racefans.net/2026/10/13/on-this-day-hill-claims-emotional-championship-victory-for-williams-at-suzuka/",
-  "source": "RaceFans",
-  "ts": 1791848927.0936203
- },
- {
-  "cat": "f1",
-  "baslik": "Antonelli, Singapur GP'de Fren Sorunuyla Mücadele Etti",
-  "ozet": "Kimi Antonelli, Marina Bay'de podyuma çıkıp şampiyona liderliğini korusa da fren pedalının arızalanması nedeniyle neredeyse yarış dışı kalıyordu.",
-  "puan": 7.5,
-  "grup": "singapore-gp-antonelli-brake-issue",
-  "link": "https://www.motorsport.com/f1/news/why-kimi-antonelli-was-left-fighting-his-mercedes-brakes-during-the-singapore-gp/10864784/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1791848927.0936203
- },
- {
-  "cat": "f1",
-  "baslik": "Hamilton'dan Singapur Hatası Sonrası Taraftarlara Mesaj",
-  "ozet": "Stratejisine uymayıp takımın pit çağrısını reddederek altıncı olan Lewis Hamilton, zorlu Singapur Grand Prix'sinin ardından taraftarlarına mesaj gönderdi.",
-  "puan": 5.0,
-  "grup": "singapore-gp-hamilton-strategy",
-  "link": "https://www.motorsport.com/f1/news/lewis-hamilton-sends-message-to-fans-after-singapore-gp-mistake/10864782/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1791848927.0936203
- },
- {
-  "cat": "f1",
-  "baslik": "Horner'dan Wolff'un Eski Motor Yorumuna Yanıt",
-  "ozet": "Christian Horner, Toto Wolff'un geçmişte Red Bull güç ünitesi hakkında çok sert ve olumsuz öngörülerde bulunduğunu hatırlattı.",
-  "puan": 3.0,
-  "grup": "horner-wolff-red-bull-engine-comments",
-  "link": "https://www.racefans.net/2026/10/12/spotlight-wolff-claimed-red-bull-power-unit-would-be-completely-s-horner/",
-  "source": "RaceFans",
-  "ts": 1791848927.0936203
- },
- {
-  "cat": "f1",
-  "baslik": "Piastri: \"Singapur'daki Lastik Patlaması Bana Yardım Etti\"",
-  "ozet": "Oscar Piastri, Singapur Grand Prix'sinde yaşadığı lastik patlamasının ironik bir şekilde Lewis Hamilton'ı geçmesini kolaylaştırdığını belirtti.",
-  "puan": 5.0,
-  "grup": "singapore-gp-piastri-puncture-help",
-  "link": "https://www.motorsport.com/f1/news/oscar-piastri-on-his-singapore-puncture-ironically-it-probably-helped/10864632/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1791848927.0936203
- },
- {
-  "cat": "araba",
   "baslik": "Motosiysekte Yüksek Hız Neden Yavaş Hissettirebilir?",
   "ozet": "Autobahn gibi yollarda yüksek hızlarda motosiklet sürerken, aracın türüne bağlı olarak beklendiği kadar heyecan verici hissettirmemesinin nedenleri ele alınıyor.",
   "puan": 3.0,
@@ -2048,5 +1808,55 @@
   "link": "https://www.motorsport.com/f1/news/why-horner-banned-mercedes-name-as-red-bull-built-its-own-f1-engine/10864996/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1792011368.4647133
+ },
+ {
+  "cat": "araba",
+  "baslik": "İkinci El Ford F-150 Lightning İlgi Görüyor",
+  "ozet": "Üretimi durdurulan F-150 Lightning, orijinal fiyatının yarı yarıya düşmesiyle ikinci el pazarında yoğun talep görmeye başladı.",
+  "puan": 4.5,
+  "grup": "ford-f150-lightning-used-market",
+  "link": "https://www.jalopnik.com/2287179/used-ford-f-150-ev-pickup-trucks-selling-well-half-price/",
+  "source": "Jalopnik",
+  "ts": 1792021954.1864455
+ },
+ {
+  "cat": "araba",
+  "baslik": "WD-40 Otomobillerde Nasıl Kullanılır?",
+  "ozet": "Garajların vazgeçilmezi WD-40'ın çalışma prensibi, araçlarda nerede işe yaradığı ve hangi durumlarda kullanılmaması gerektiği ele alınıyor.",
+  "puan": 2.0,
+  "grup": "wd40-car-maintenance-guide",
+  "link": "https://www.motor1.com/features/811914/what-wd40-actually-does/",
+  "source": "Motor1",
+  "ts": 1792021954.1864455
+ },
+ {
+  "cat": "araba",
+  "baslik": "Volkswagen'den Daha Ucuz Yeni ID.Buzz Müjdesi",
+  "ozet": "Volkswagen yöneticisi, ABD pazarı için daha uygun fiyatlı olacak tamamen yeni bir elektrikli Microbus planlandığını açıkladı.",
+  "puan": 5.5,
+  "grup": "volkswagen-id-buzz-us-cheaper",
+  "link": "https://www.caranddriver.com/news/a74137138/id-buzz-second-generation-cheaper-price/",
+  "source": "Car and Driver",
+  "ts": 1792021954.1864455
+ },
+ {
+  "cat": "araba",
+  "baslik": "Maserati'den Yeni Elektrikli SUV ve Crossover Sinyali",
+  "ozet": "Maserati CEO'su, elektrikli Levante ve shooting brake silüetine sahip bir Quattroporte halefi dahil yeni modellerin yolda olduğunu duyurdu.",
+  "puan": 7.0,
+  "grup": "maserati-new-ev-suv-wagon",
+  "link": "https://www.caranddriver.com/news/a74137603/maserati-future-plans-revealed-december-2026/",
+  "source": "Car and Driver",
+  "ts": 1792021954.1864455
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mercedes-Benz'den S-Serisi Geri Çağırma Operasyonu",
+  "ozet": "Fren hortumu riskinden ötürü 30.064 adet S-Serisi, Maybach ve AMG modelinin ön fren hortumları ücretsiz olarak değiştirilecek.",
+  "puan": 8.0,
+  "grup": "mercedes-benz-s-class-recall-brakes",
+  "link": "https://www.motor1.com/news/811927/mercedes-benz-recalls-30-064/",
+  "source": "Motor1",
+  "ts": 1792021954.1864455
  }
 ]
