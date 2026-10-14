@@ -1,146 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Honda'dan Yeni Nesil Hibrit Sistemi",
-  "ozet": "Honda, 2027 yılında küresel olarak piyasaya çıkacak yeni hafif platformunu, Hareket Yönetim Sistemi'ni ve elektrikli dört tekerlekten çekiş teknolojisini duyurdu.",
-  "puan": 7.5,
-  "grup": "honda-next-gen-hybrid-system",
-  "link": "https://www.motor1.com/news/811539/honda-hybrid-global-rollout-platform/",
-  "source": "Motor1",
-  "ts": 1791792331.2852285
- },
- {
-  "cat": "araba",
-  "baslik": "Yeni Smart #2 Şehir İçi Kullanım Odaklı",
-  "ozet": "Büyüyen otomobillere karşı bir alternatif olarak geliştirilen yeni Smart #2, şehir içi otomobil formülünü yeniden yorumluyor.",
-  "puan": 5.5,
-  "grup": "smart-number-2-city-car",
-  "link": "https://www.motor1.com/news/811515/new-smart-city-car-revealed/",
-  "source": "Motor1",
-  "ts": 1791792331.2852285
- },
- {
-  "cat": "araba",
-  "baslik": "Bugatti Tourbillon Aşırı Sıcaklarda Test Edildi",
-  "ozet": "Mühendisler, 1.800 beygirlik Bugatti Tourbillon'un soğutma, klima ve hibrit sistemlerinin zorlu iklim koşullarındaki dayanıklılığını İspanya, Dubai ve İsveç'te test etti.",
-  "puan": 8.0,
-  "grup": "bugatti-tourbillon-extreme-testing",
-  "link": "https://www.motor1.com/news/811519/bugatti-tourbillon-extreme-hot-cold/",
-  "source": "Motor1",
-  "ts": 1791792331.2852285
- },
- {
-  "cat": "araba",
-  "baslik": "Yeni Renault E-Space Konsepti MPV Segmentine Göz Kırpıyor",
-  "ozet": "Renault'nun yeni retro elektrikli MPV konsepti, SUV hakimiyetini sarsmayı ve orijinal Espace ruhunu canlandırmayı hedefliyor.",
-  "puan": 6.5,
-  "grup": "renault-espace-concept-mpv-revival",
-  "link": "https://www.autocar.co.uk/car-news/motor-shows-paris-motor-show/new-renault-e-space-concept-hints-future-mpv-revival",
-  "source": "Autocar",
-  "ts": 1791792331.2852285
- },
- {
-  "cat": "araba",
-  "baslik": "Fiat, 1950'lerin Multipla Modelini Mikrocar Olarak Geri Getiriyor",
-  "ozet": "Fiat, retro tasarım çizgilerine sahip, orijinal 500 boyutlarındaki dört koltuklu yeni şehir içi mikrocar modeli Multiplina'nın nihai tasarımını gün yüzüne çıkardı.",
-  "puan": 6.0,
-  "grup": "fiat-multipla-microcar-revival",
-  "link": "https://www.autocar.co.uk/car-news/new-cars/first-look-fiat-revives-1950s-multipla-retro-four-seat-microcar",
-  "source": "Autocar",
-  "ts": 1791792331.2852285
- },
- {
-  "cat": "araba",
-  "baslik": "Porsche'nin Satışları Düşerken 911 Rekor Kırıyor",
-  "ozet": "Dokuz aylık verilere göre genel Porsche satışları düşerken, 911 teslimatları yüzde 12 artış göstererek markanın yüksek marjlı spor modellere yöneldiğini kanıtladı.",
-  "puan": 7.0,
-  "grup": "porsche-sales-decline-911-growth",
-  "link": "https://www.motor1.com/news/811514/porsche-sales-fall-16-911/",
-  "source": "Motor1",
-  "ts": 1791792331.2852285
- },
- {
-  "cat": "araba",
-  "baslik": "Sol Şeridi Kapatan Sürücüler ve Yasal Durum",
-  "ozet": "Otobanlarda hız sınırının altında sol şeridi meşgul eden sürücülerin yarattığı sorunlar ve bu duruma karşı yapılabilecek yasal hamleler ele alınıyor.",
-  "puan": 2.5,
-  "grup": "left-lane-camping-traffic-rules",
-  "link": "https://www.jalopnik.com/2280222/when-is-driver-camping-left-lane/",
-  "source": "Jalopnik",
-  "ts": 1791792331.2852285
- },
- {
-  "cat": "f1",
-  "baslik": "Hamilton'ın Strateji Hatası",
-  "ozet": "Lewis Hamilton, Singapur Grand Prix'si sonrasında yanlış strateji kararı nedeniyle yarışının berbat olduğunu belirterek özür diledi.",
-  "puan": 5.5,
-  "grup": "singapore-gp-hamilton-strategy",
-  "link": "https://www.formula1.com/en/latest/article/how-hamiltons-singapore-strategy-call-helped-put-antonelli-in-reach-of-the-title.2NeqeR8lkz3zom8MtJ2EE0",
-  "source": "Formula1.com",
-  "ts": 1791792331.2852285
- },
- {
-  "cat": "f1",
-  "baslik": "Red Bull'un Hızı Rkiplerini Endişelendiriyor",
-  "ozet": "Max Verstappen'in son yarışlardaki baskın performansının ardından Red Bull'un aşırı hızlı aracı rakiplerini tedirgin ediyor.",
-  "puan": 6.0,
-  "grup": "singapore-gp-takeaways-red-bull-upgrade",
-  "link": "https://www.racefans.net/2026/10/12/red-bulls-exceptionally-fast-car-alarms-its-rivals-after-verstappen-dominates-again/",
-  "source": "RaceFans",
-  "ts": 1791792331.2852285
- },
- {
-  "cat": "f1",
-  "baslik": "Norris'ten Takım Arkadaşıyla Kaza",
-  "ozet": "Lando Norris, Singapur hafta sonundaki sprint yarışının son turunda takım arkadaşıyla çarpışarak büyük bir hata yaptı.",
-  "puan": 5.0,
-  "grup": "singapore-gp-mclaren-collision",
-  "link": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-nikola-tsolov/10864543/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1791792331.2852285
- },
- {
-  "cat": "f1",
-  "baslik": "1986 Sezon Finali ve Berger'in Zaferi",
-  "ozet": "Tarihte bugün, Gerhard Berger'in ilk zaferi 1986 şampiyonluk mücadelesini son yarışa taşıdı ve Mansell için felaketle sonuçlandı.",
-  "puan": 2.0,
-  "grup": "on-this-day-f3000-controversial-finale",
-  "link": "https://www.racefans.net/2026/10/12/on-this-day-mexican-grand-prix/",
-  "source": "RaceFans",
-  "ts": 1791792331.2852285
- },
- {
-  "cat": "f1",
-  "baslik": "Ferrari Singapur Zaferini Kaçırdı mı?",
-  "ozet": "Podcast yayınında Ferrari'nin Singapur'daki galibiyet şansını nasıl harcadığı, Verstappen'in formu ve Mercedes'in durumu tartışılıyor.",
-  "puan": 4.5,
-  "grup": "singapore-gp-winners-losers",
-  "link": "https://www.the-race.com/formula-1/podcast-how-ferrari-made-verstappens-win-easier/",
-  "source": "The Race",
-  "ts": 1791792331.2852285
- },
- {
-  "cat": "f1",
-  "baslik": "Antonelli Şampiyonluğa Koşuyor",
-  "ozet": "Kimi Antonelli şampiyona liderliğini kimseye kaptırmazken, bu sezonun şampiyonluk mücadelesi açısından oldukça tek düze geçtiği vurgulanıyor.",
-  "puan": 6.0,
-  "grup": "singapore-gp-antonelli-championship",
-  "link": "https://www.motorsport.com/f1/news/who-slept-best-last-night-max-verstappen-10864485/10864485/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1791792331.2852285
- },
- {
-  "cat": "f1",
-  "baslik": "Antonelli Cezadan Nasıl Kurtuldu?",
-  "ozet": "Kimi Antonelli Singapur GP'de dört kez pist sınırlarını ihlal etmesine rağmen standart zaman cezasından kaçınmayı başardı.",
-  "puan": 5.0,
-  "grup": "singapore-gp-antonelli-grid-scare",
-  "link": "https://www.the-race.com/formula-1/why-antonelli-avoided-a-penalty-that-seemed-obvious/",
-  "source": "The Race",
-  "ts": 1791792331.2852285
- },
- {
-  "cat": "araba",
   "baslik": "IHRA İflasının Ardından 12 Drag Pisti Açık Artırmaya Çıkarılıyor",
   "ozet": "IHRA'nın kapanmasıyla birlikte, yarış tutkunlarının satın alabileceği 12 drag pisti açık artırma yoluyla satışa çıkarılıyor.",
   "puan": 4.5,
@@ -2148,5 +2008,245 @@
   "link": "https://www.caranddriver.com/news/a74126337/2027-bmw-m760-xdrive-v8-revealed/",
   "source": "Car and Driver",
   "ts": 1791960404.0941644
+ },
+ {
+  "cat": "araba",
+  "baslik": "1987 Model Nissan Be-1 Satışta",
+  "ozet": "Düşük güç ve konfora sahip sevimli tasarımlı 1987 model Nissan Be-1, 9.500 dolar fiyatla alıcı arıyor.",
+  "puan": 2.5,
+  "grup": "1987-nissan-be1-for-sale",
+  "link": "https://www.jalopnik.com/2285639/1987-nissan-be-1-for-sale-9500/",
+  "source": "Jalopnik",
+  "ts": 1791980911.5119734
+ },
+ {
+  "cat": "araba",
+  "baslik": "Acura'dan Yeni Hibrit SUV Modelleri",
+  "ozet": "Acura, yeni bir arazi odaklı macera modeli ve büyük üç sıralı SUV dahil olmak üzere V6 hibrit motorlu araçlar geliştiriyor.",
+  "puan": 6.5,
+  "grup": "acura-new-suv-v6-hybrid-models",
+  "link": "https://www.thedrive.com/news/acuras-developing-an-off-road-adventure-ready-suv-and-large-three-row-suv-tds",
+  "source": "The Drive",
+  "ts": 1791980911.5119734
+ },
+ {
+  "cat": "araba",
+  "baslik": "Acura Üç Yeni SUV Modelini Duyurdu",
+  "ozet": "Acura, dördüncü nesil RDX'in yanında araziye hazır sağlam bir model ve sekiz kişilik amiral gemisi SUV'yi ürün gamına ekliyor.",
+  "puan": 6.5,
+  "grup": "acura-new-suv-v6-hybrid-models",
+  "link": "https://www.motor1.com/news/811836/acura-eight-passenger-flagship-suv-confirmed/",
+  "source": "Motor1",
+  "ts": 1791980911.5119734
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ineos Grenadier Helmsman Tantıldı",
+  "ozet": "Ineos Grenadier Helmsman, denizcilik temalı tasarımı, derin mavi boyası ve özel tavan seçenekleriyle görücüye çıktı.",
+  "puan": 5.0,
+  "grup": "ineos-grenadier-helmsman-debut",
+  "link": "https://www.motor1.com/news/811915/grenadier-helmsman-special-edition/",
+  "source": "Motor1",
+  "ts": 1791980911.5119734
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ferrari Kırmızısının Tarihçesi",
+  "ozet": "Ferrari kırmızısının İtalyan yarış mirası, Formula 1 zaferleri ve ikonik süperspor otomobiller sayesinde nasıl efsaneleştiğini keşfedin.",
+  "puan": 3.0,
+  "grup": "ferrari-red-color-history",
+  "link": "https://www.motor1.com/features/811795/why-is-ferrari-red-so-famous/",
+  "source": "Motor1",
+  "ts": 1791980911.5119734
+ },
+ {
+  "cat": "araba",
+  "baslik": "Tesla Yeni Roadster'ın Tanıtımını Canlı Yayınlayacak",
+  "ozet": "Dokuz yıllık beklentinin ardından Tesla'nın elektrikli spor otomobili Roadster'ın tanıtımının 15 Ekim'de canlı yayınlanacağı açıklandı.",
+  "puan": 8.5,
+  "grup": "tesla-roadster-reveal-october",
+  "link": "https://www.motor1.com/news/811909/new-tesla-roadster-livestream/",
+  "source": "Motor1",
+  "ts": 1791980911.5119734
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Ford Bronco Ailesine Yeni Versiyonlar",
+  "ozet": "2027 Ford Bronco, Raptor'ın V6 motoruna kavuşurken Filson ve RTR donanım paketleri de aileye katılıyor.",
+  "puan": 7.5,
+  "grup": "2027-ford-bronco-v6-raptor",
+  "link": "https://www.motor1.com/news/811906/2027-ford-bronco-adds-raptor/",
+  "source": "Motor1",
+  "ts": 1791980911.5119734
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Brabus Smart #2 Yolda",
+  "ozet": "Sportif karakteriyle bilinen Smart ForTwo geleneğini sürdüren Brabus, yeni Smart #2 modelini hazırlıyor.",
+  "puan": 5.5,
+  "grup": "brabus-smart-2-development",
+  "link": "https://www.motor1.com/news/811895/new-brabus-smart-two/",
+  "source": "Motor1",
+  "ts": 1791980911.5119734
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Alfa Romeo Giulietta Crossover Olacak",
+  "ozet": "Yeni Alfa Romeo Giulietta, Cuorerosso konseptinden izler taşıyan bir crossover olarak karşımıza çıkacak.",
+  "puan": 6.5,
+  "grup": "alfa-romeo-giulietta-crossover",
+  "link": "https://www.motor1.com/news/811892/2028-alfa-romeo-giulietta-details/",
+  "source": "Motor1",
+  "ts": 1791980911.5119734
+ },
+ {
+  "cat": "araba",
+  "baslik": "Afrika'da Formula 1 Heyecanı",
+  "ozet": "Ruanda'daki Bugesera pisti, FIA Seviye 1 standartlarına ulaştığında Formula 1 takvimine gümrük kapısı aralayacak.",
+  "puan": 8.0,
+  "grup": "rwanda-f1-african-grand-prix-2030s",
+  "link": "https://www.motor1.com/news/811886/formula-1-rwanda-grand-prix/",
+  "source": "Motor1",
+  "ts": 1791980911.5119734
+ },
+ {
+  "cat": "araba",
+  "baslik": "BMW V8 Motorlu Yeni M760 Modeliyle Dönüyor",
+  "ozet": "760i tarih olurken, BMW V8 motorlu yeni M760 modeliyle 7 Serisi'ne güçlü bir seçenek getiriyor.",
+  "puan": 8.0,
+  "grup": "2027-bmw-m760-v8-luxury-sedan",
+  "link": "https://www.motor1.com/news/811878/2027-bmw-m760-revealed/",
+  "source": "Motor1",
+  "ts": 1791980911.5119734
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Toyota Camry Fiyatları Arttı",
+  "ozet": "Toyota, 2027 Camry'nin donanım ve hibrit altyapısında değişikliğe gitmezken tüm versiyonlarına 700 dolar zam yaptı.",
+  "puan": 4.5,
+  "grup": "2027-toyota-camry-price-increase",
+  "link": "https://www.motor1.com/news/811881/2027-toyota-camry-prices-rise/",
+  "source": "Motor1",
+  "ts": 1791980911.5119734
+ },
+ {
+  "cat": "araba",
+  "baslik": "Otomotiv Dünyasında Retro Tasarım Akımı",
+  "ozet": "Gelecek korkusu insanları nostaljiye yöneltirken, yeni Citroën 2CV gibi retro tasarımlar yüzleri güldürmeyi amaçlıyor.",
+  "puan": 3.0,
+  "grup": "citroen-2cv-fourgonnette-concept",
+  "link": "https://www.autocar.co.uk/opinion/electric-cars/nostalgia-fuels-wave-retro-revivals-can-cars-make-future-look-happy-too",
+  "source": "Autocar",
+  "ts": 1791980911.5119734
+ },
+ {
+  "cat": "araba",
+  "baslik": "GMC Sierra Kamyonlarda Panjur Soruşturması",
+  "ozet": "NHTSA, 2022-2024 model GMC Sierra 1500 araçlarda panjur parçalarının yolda kopması şikayetleri üzerine inceleme başlattı.",
+  "puan": 7.5,
+  "grup": "gmc-sierra-grille-investigation",
+  "link": "https://www.motor1.com/news/811868/nhtsa-probes-gmc-sierra-1500/",
+  "source": "Motor1",
+  "ts": 1791980911.5119734
+ },
+ {
+  "cat": "araba",
+  "baslik": "İngiliz Spor Otomobil Üreticisi Zenos Geri Döndü",
+  "ozet": "Orta motorlu İngiliz spor otomobili üreticisi Zenos, daha yüksek performans ve artan fiyat etiketiyle yeniden sahneye çıkıyor.",
+  "puan": 5.0,
+  "grup": "zenos-e10-sports-car-return",
+  "link": "https://www.autocar.co.uk/car-review/zenos/e10",
+  "source": "Autocar",
+  "ts": 1791980911.5119734
+ },
+ {
+  "cat": "araba",
+  "baslik": "Stellantis: Maserati Satılık Değil",
+  "ozet": "Stellantis CEO'su Antonio Filosa, Maserati'nin satılmayacağını ve Avrupalı ile Amerikalı markaların ayrılmayacağını belirtti.",
+  "puan": 7.0,
+  "grup": "stellantis-maserati-not-for-sale",
+  "link": "https://www.motor1.com/news/811866/stellantis-boss-maserati-not-for-sale/",
+  "source": "Motor1",
+  "ts": 1791980911.5119734
+ },
+ {
+  "cat": "f1",
+  "baslik": "Red Bull'un Singapur Güncellemelerinin Sırrı",
+  "ozet": "Mark Hughes ve Giorgio Piola, Red Bull'un son güncellemelerinin Max Verstappen'e Malezya ve Singapur'da üst üste galibiyetler getirmesini inceliyor.",
+  "puan": 5.5,
+  "grup": "red-bull-singapore-upgrades-analysis",
+  "link": "https://www.formula1.com/en/latest/article/the-fruitful-upgrades-behind-red-bulls-breakthrough-in-malaysia-and-singapore.LXbRuqocItGbDGABOI9JG",
+  "source": "Formula1.com",
+  "ts": 1791980911.5119734
+ },
+ {
+  "cat": "f1",
+  "baslik": "Liberty Media Döneminde F1 Deneyimleri",
+  "ozet": "Liberty Media'nın 2017'deki alımından bu yana F1 misafirperverliği ve pist kenarı deneyimleri yeni nesli cezbetmek için büyük bir dönüşüm geçirdi.",
+  "puan": 3.0,
+  "grup": "f1-experiences-liberty-media-growth",
+  "link": "https://www.the-race.com/promoted/how-f1-experiences-is-captivating-a-new-generation-trackside/",
+  "source": "The Race",
+  "ts": 1791980911.5119734
+ },
+ {
+  "cat": "f1",
+  "baslik": "Christian Horner'dan Panik Atak İtirafı",
+  "ozet": "Red Bull takım patronu Christian Horner, F1 kariyeri boyunca yaşadığı gizli panik atak mücadelesini ve sporun üzerindeki görünmez baskıyı açıkladı.",
+  "puan": 4.5,
+  "grup": "christian-horner-panic-attacks-interview",
+  "link": "https://www.motorsport.com/f1/news/christian-horner-reveals-secret-battle-with-panic-attacks-during-high-pressure-f1-career/10864876/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791980911.5119734
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen: 2026 Aracı Başta Korkutucuydu",
+  "ozet": "Max Verstappen, Red Bull'un sezon başında sürmesi oldukça \"korkutucu\" olan F1 aracında büyük ilerleme kaydettiğini belirtti.",
+  "puan": 5.0,
+  "grup": "max-verstappen-2026-car-development",
+  "link": "https://www.racefans.net/2026/10/14/verstappen-says-red-bulls-car-was-scary-to-drive-early-in-2026/",
+  "source": "RaceFans",
+  "ts": 1791980911.5119734
+ },
+ {
+  "cat": "f1",
+  "baslik": "Bottas'tan Cadillac Açıklaması",
+  "ozet": "Valtteri Bottas, Cadillac'ın tesislerinin Mercedes'inkilerden bile daha iyi seviyede olduğunu belirtti.",
+  "puan": 4.0,
+  "grup": "cadillac-facilities-bottas-comments",
+  "link": "https://www.racefans.net/2026/10/14/spotlight-cadillac-already-has-better-facilities-than-mercedes-says-bottas/",
+  "source": "RaceFans",
+  "ts": 1791980911.5119734
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ruanda'nın Yeni F1 Pisti İncelendi",
+  "ozet": "Seçkin medya grupları arasında yer alan The Race, Afrika'nın yeni F1 pisti olacak Ruanda tesisini ziyaret ederek önemli detaylar öğrendi.",
+  "puan": 7.5,
+  "grup": "f1-rwanda-gp-announcement",
+  "link": "https://www.the-race.com/formula-1/new-rwanda-f1-track-everything-we-learned-visiting/",
+  "source": "The Race",
+  "ts": 1791980911.5119734
+ },
+ {
+  "cat": "f1",
+  "baslik": "Gasly'nin Singapur'daki Zorlu Yarışı",
+  "ozet": "Pierre Gasly, Singapur Grand Prix'sinde Alpine aracının kontrol sorunları nedeniyle puan alamadığını ve sürekli kaydığını anlattı.",
+  "puan": 5.0,
+  "grup": "singapore-gp-gasly-alpine-struggles",
+  "link": "https://www.motorsport.com/f1/news/im-sideways-all-the-time-how-alpines-feral-f1-car-plagued-pierre-gasly-in-singapore/10864744/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791980911.5119734
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hadjar İçin Kâbus Gibi Singapur Hafta Sonu",
+  "ozet": "Isack Hadjar, tabana vurma sorunları ve gaz pedalındaki sıkıntılar nedeniyle Singapur'da zor bir hafta sonu geçirdiğini belirtti.",
+  "puan": 5.0,
+  "grup": "singapore-gp-hadjar-nightmare-weekend",
+  "link": "https://www.motorsport.com/f1/news/just-a-disaster-how-isack-hadjars-nightmare-singapore-f1-weekend-unfolded/10864759/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791980911.5119734
  }
 ]
