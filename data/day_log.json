@@ -2078,5 +2078,75 @@
   "link": "https://www.motorsport.com/f1/news/lando-norris-makes-big-business-move-with-investment-in-500m-hospitality-company/10865045/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1791942599.3170764
+ },
+ {
+  "cat": "araba",
+  "baslik": "DeLorean, Elektrikli Uçan Araba Yarışlarına Katılıyor",
+  "ozet": "DeLorean, Airspeeder Uluslararası Serisi'nde ABD takımını çalıştırarak gökyüzüne adım atıyor. Önce Mk3C yarış aracını kullanacak, ardından kendi hava aracını geliştirecek.",
+  "puan": 7.0,
+  "grup": "delorean-electric-flying-car-racing",
+  "link": "https://www.motor1.com/news/811861/delorean-enters-airspeeder-electric-flying/",
+  "source": "Motor1",
+  "ts": 1791960404.0941644
+ },
+ {
+  "cat": "araba",
+  "baslik": "ZF Lifetec'ten Hatalı Emniyet Kemerini Tespit Eden Kızılötesi Sistem",
+  "ozet": "ZF Lifetec'in yeni kızılötesi kemeri, kamera tabanlı sistemlerin emniyet kemerini doğru takıp takmadığınızı görmesini sağlıyor. AB'nin sıkılaşan güvenlik yasaları ve Euro NCAP'in dikkat izleme odaklı testleri bu teknolojiyi öne çıkarıyor.",
+  "puan": 6.5,
+  "grup": "zf-lifetec-infrared-seatbelt-system",
+  "link": "https://www.autocar.co.uk/car-news/technology/buckle-seatbelt-knows-if-youre-wearing-it-wrong",
+  "source": "Autocar",
+  "ts": 1791960404.0941644
+ },
+ {
+  "cat": "araba",
+  "baslik": "Polestar'ın 2026 ABD Envanteri Yasak Yaklaşırken Tükeniyor",
+  "ozet": "ABD'li alıcılar, Bağlantılı Araç Kuralı yeni satışları kesmeden önce son Polestar 3 ve Polestar 4 modellerini hızla satın alıyor.",
+  "puan": 5.5,
+  "grup": "polestar-us-inventory-ban-2026",
+  "link": "https://www.motor1.com/news/811784/polestar-2026-us-inventory-almost/",
+  "source": "Motor1",
+  "ts": 1791960404.0941644
+ },
+ {
+  "cat": "araba",
+  "baslik": "Volkswagen Ürün Gamını Doğal Geçişle Yarıya İndirecek",
+  "ozet": "Volkswagen CEO'su Thomas Schäfer, elektrifikasyon sürecinin bir parçası olarak model yelpazesinin zamanla doğal geçişle küçültüleceğini açıkladı. Şirket, portföyündeki model ve varyant sayısını azaltmayı hedefliyor.",
+  "puan": 7.5,
+  "grup": "volkswagen-lineup-reduction-schafer",
+  "link": "https://www.autocar.co.uk/car-news/motor-shows-paris-motor-show/volkswagen-gradually-halve-line-through-natural-transition",
+  "source": "Autocar",
+  "ts": 1791960404.0941644
+ },
+ {
+  "cat": "araba",
+  "baslik": "Jaguar Type 01 Lüks Elektrikli Dönüşümünü New York'ta Tanıttı",
+  "ozet": "Yıllar süren hazırlıkların ardından Jaguar, tamamen elektrikli lüks bir markaya dönüşümünü New York'ta düzenlenen özel bir etkinlikle gözler önüne serdi.",
+  "puan": 8.0,
+  "grup": "jaguar-type-01-ev-debut",
+  "link": "https://www.autocar.co.uk/car-news/features/jaguar-type-01-what-really-happened-when-wraps-came",
+  "source": "Autocar",
+  "ts": 1791960404.0941644
+ },
+ {
+  "cat": "araba",
+  "baslik": "Okuyucuların Garajlarındaki İlginç Araçlar ve Projeler",
+  "ozet": "Otomobil severler garajlarında çeşitli eğlenceli proje arabaları, günlük araçlar, alet kutuları ve hatta motosikletler bulunduruyor.",
+  "puan": 2.0,
+  "grup": "readers-garage-project-cars-list",
+  "link": "https://www.jalopnik.com/2285703/whats-in-your-garage-right-now-reader-answers/",
+  "source": "Jalopnik",
+  "ts": 1791960404.0941644
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 BMW M760, V8 Motoru Büyük Lüks Sedana Geri Getiriyor",
+  "ozet": "760i modelinin yerini alacak olan yeni M Performance serisi 7 serisi, yaklaşık 570 beygir güç üreten bir V8 motorla geliyor.",
+  "puan": 8.5,
+  "grup": "2027-bmw-m760-v8-luxury-sedan",
+  "link": "https://www.caranddriver.com/news/a74126337/2027-bmw-m760-xdrive-v8-revealed/",
+  "source": "Car and Driver",
+  "ts": 1791960404.0941644
  }
 ]
