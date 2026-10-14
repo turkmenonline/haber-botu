@@ -2248,5 +2248,335 @@
   "link": "https://www.motorsport.com/f1/news/just-a-disaster-how-isack-hadjars-nightmare-singapore-f1-weekend-unfolded/10864759/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1791980911.5119734
+ },
+ {
+  "cat": "araba",
+  "baslik": "GM'den Camaro Açıklaması",
+  "ozet": "GM performans şefi Tony Roma, Camaro'nun geri dönmesi için büyük yatırımlara karşı rekabet etmesi gerektiğini belirtti.",
+  "puan": 5.5,
+  "grup": "chevrolet-camaro-return-future",
+  "link": "https://www.thedrive.com/news/camaros-on-hiatus-gm-says-ford-proves-mustang-has-a-market",
+  "source": "The Drive",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "araba",
+  "baslik": "Tom Cruise ARCA Yarışlarında Yer Alabilir mi?",
+  "ozet": "NASCAR CEO'su Steve O'Donnell, Tom Cruise'un bir 'Days Of Thunder' devam filmi için ARCA serisinde yarışma ihtimalini değerlendirdi.",
+  "puan": 2.5,
+  "grup": "tom-cruise-arca-days-of-thunder",
+  "link": "https://www.jalopnik.com/2286717/tom-cruise-wants-to-race-in-arca-for-days-of-thunder-sequel/",
+  "source": "Jalopnik",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "araba",
+  "baslik": "Boeing 737 İçinde Ford Maverick Taşındı",
+  "ozet": "Kanada'nın uzak bir bölgesindeki müşteriye ulaşım imkanlarının kısıtlı olması nedeniyle Ford Maverick kargo uçağıyla teslim edildi.",
+  "puan": 4.0,
+  "grup": "ford-maverick-boeing-737-transport",
+  "link": "https://www.thedrive.com/news/stuffing-a-ford-maverick-inside-a-boeing-737-isnt-easy-but-its-doable",
+  "source": "The Drive",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni DS F3VER Konsepti Tanıtıldı",
+  "ozet": "Gelecek nesil DS 3 hatchback modeline ışık tutan DS F3VER konsepti cesur tasarımıyla dikkat çekiyor.",
+  "puan": 5.0,
+  "grup": "ds-f3ver-concept-next-gen-ds3",
+  "link": "https://www.jalopnik.com/2286683/ds-f3ver-concept-reveal-paris-motor-show/",
+  "source": "Jalopnik",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "araba",
+  "baslik": "Traktör Red Bull Ring'de Rekor Kırdı",
+  "ozet": "Finli bir çiftlik traktörü, Red Bull Ring pistinde hız rekoru kırmayı başardı.",
+  "puan": 3.0,
+  "grup": "farm-tractor-red-bull-ring-record",
+  "link": "https://www.caranddriver.com/news/a74132890/farm-tractor-red-bull-ring-speed-record/",
+  "source": "Car and Driver",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "araba",
+  "baslik": "BMW'den Escalade Rakibi Yeni SUV",
+  "ozet": "Neue Klasse tasarım diline sahip olabilecek yeni BMW X9, Amerikan pazarı için amiral gemisi bir SUV olarak planlanıyor.",
+  "puan": 7.5,
+  "grup": "bmw-x9-flagship-suv-escalade-rival",
+  "link": "https://www.motor1.com/features/811944/bmw-x9-suv-specs-details-powertrain-price/",
+  "source": "Motor1",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "araba",
+  "baslik": "DeLorean Elektrikli Uçan Araba Yarışlarında",
+  "ozet": "Efsanevi marka DeLorean, tamamen elektrikli havadan yarış şampiyonası Airspeeder'da yarışacak ilk Amerikan üretici oluyor.",
+  "puan": 6.0,
+  "grup": "delorean-electric-flying-car-racing",
+  "link": "https://www.caranddriver.com/news/a74133768/delorean-airspeeder-electric-flying-car-racing-series/",
+  "source": "Car and Driver",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "araba",
+  "baslik": "2026 Hyundai Elantra N TCR İç Mekan Fotoğrafları",
+  "ozet": "2026 model Hyundai Elantra N TCR'ın iç mekan tasarımı detaylı fotoğraflarla görücüye çıktı.",
+  "puan": 4.5,
+  "grup": "hyundai-elantra-n-tcr-2026-photos",
+  "link": "https://www.caranddriver.com/photos/a74123250/2026-hyundai-elantra-n-tcr-test-interior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "araba",
+  "baslik": "2026 Hyundai Elantra N TCR Dış Mekan Fotoğrafları",
+  "ozet": "Motorsporlarından ilham alan 2026 Hyundai Elantra N TCR modelinin dış tasarımı tüm detaylarıyla sergilendi.",
+  "puan": 4.5,
+  "grup": "hyundai-elantra-n-tcr-2026-photos",
+  "link": "https://www.caranddriver.com/photos/a74123225/2026-hyundai-elantra-n-tcr-test-exterior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "araba",
+  "baslik": "Test Sürüşü: 2026 Hyundai Elantra N TCR",
+  "ozet": "Sınırlı sayıda üretilen motorsporları odaklı kompakt model, agresif görünümüne rağmen dengeli sürüşüyle öne çıkıyor.",
+  "puan": 6.5,
+  "grup": "hyundai-elantra-n-tcr-2026-photos",
+  "link": "https://www.caranddriver.com/reviews/a74091528/2026-hyundai-elantra-n-tcr-test/",
+  "source": "Car and Driver",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "araba",
+  "baslik": "Porsche Cayenne Electric Şarj Portu Detayı",
+  "ozet": "Elektrikli Porsche Cayenne, farklı amaçlar için kullanılan çift şarj portuyla kullanıcılarına yeni bir deneyim sunuyor.",
+  "puan": 5.0,
+  "grup": "porsche-cayenne-electric-charge-ports",
+  "link": "https://www.thedrive.com/news/want-to-charge-your-porsche-cayenne-electric-the-right-way-maybe-do-it-yourself",
+  "source": "The Drive",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "araba",
+  "baslik": "Çinli Üreticilerden Avrupa Fabrikalarına Yatırım",
+  "ozet": "Çinli otomobil üreticileri, katı ticaret yasalarını aşmak için Avrupa'daki fabrikalara yöneliyor.",
+  "puan": 7.0,
+  "grup": "chinese-automakers-european-factories",
+  "link": "https://www.jalopnik.com/2286474/chinese-automakers-use-european-factories-to-beat-isolationist-laws/",
+  "source": "Jalopnik",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "araba",
+  "baslik": "Okuyucuların Gençlere Yönelik Otomobil Fikirleri",
+  "ozet": "Otomobil tutkunları, gençlerin yeniden sürüş tutkusu kazanması için hayallerindeki ideal projeleri paylaştı.",
+  "puan": 2.0,
+  "grup": "readers-garage-project-cars-list",
+  "link": "https://www.jalopnik.com/2286130/youth-focused-car-programs-readers-would-create/",
+  "source": "Jalopnik",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "araba",
+  "baslik": "Gelecek Nesil Chevrolet Corvette Hakkında Açıklama",
+  "ozet": "Corvette baş mühendisi Tony Roma, C8 platformunun ömrü ve gelecekteki modellerin sınırları hakkında konuştu.",
+  "puan": 6.5,
+  "grup": "chevrolet-corvette-next-gen-details",
+  "link": "https://www.thedrive.com/podcast/the-next-corvette-is-coming-its-top-engineer-told-us-what-it-cant-be",
+  "source": "The Drive",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "araba",
+  "baslik": "Rivian R2'nin Arazi Lastikleri Asfaltta Şaşırttı",
+  "ozet": "Rivian R2 modelinin arazi lastiklerinin yol tutuşu ve frenlemede beklenmedik avantajlar sağladığı görüldü.",
+  "puan": 5.0,
+  "grup": "rivian-r2-all-terrain-tires-test",
+  "link": "https://www.caranddriver.com/news/a74107053/2027-rivian-r2-all-terrain-tire-test/",
+  "source": "Car and Driver",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "araba",
+  "baslik": "Renault CEO'sundan Platform Ortaklığı Uyarısı",
+  "ozet": "François Provost, Renault platformlarını kullanan ortak markaların tasarımlarında yeterince farklılaşması gerektiğini vurguladı.",
+  "puan": 6.0,
+  "grup": "renault-platform-partner-differentiation",
+  "link": "https://www.autocar.co.uk/car-news/motor-shows-paris-motor-show/renault-ceo-rival-firms-using-our-platform-must-make-their",
+  "source": "Autocar",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "araba",
+  "baslik": "En Saf Baz Model Otomobiller Hangileri?",
+  "ozet": "Geçmişten günümüze en sade ve donanımsız giriş seviyesi otomobil detayları nostaljik bir bakışla ele alındı.",
+  "puan": 2.0,
+  "grup": "base-model-cars-history-nostalgia",
+  "link": "https://www.jalopnik.com/2286134/what-car-makes-it-most-obvious-you-bought-base-model-reader-question/",
+  "source": "Jalopnik",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "araba",
+  "baslik": "Araç İçi Temizlik Masraflarına Alternatif Çözüm",
+  "ozet": "TuxMat paspaslar, araç halılarını koruyarak uzun vadede detaylı temizlik masraflarından tasarruf etmenizi sağlıyor.",
+  "puan": 1.5,
+  "grup": "car-interior-protection-tuxmat",
+  "link": "https://www.thedrive.com/sponsored/detailing-costs-you-every-season-tuxmat-costs-you-once",
+  "source": "The Drive",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "araba",
+  "baslik": "Rétromobile New York ABD'ye Geliyor",
+  "ozet": "Dünyanın en önemli klasik araba fuarlarından Rétromobile, ilk ABD etkinliğiyle Amerika'daki otomobil severlerle buluşacak.",
+  "puan": 4.5,
+  "grup": "retromobile-new-york-debut",
+  "link": "https://www.jalopnik.com/2286205/retromobile-nyc-ceo-interview-worlds-best-car-show-in-america/",
+  "source": "Jalopnik",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "f1",
+  "baslik": "Laurent Mekies, 2031'e Kadar Red Bull'da Kalacak",
+  "ozet": "Red Bull, Takım Patronu Laurent Mekies'in sözleşmesini 2031 sonuna kadar uzattığını resmi olarak doğruladı.",
+  "puan": 8.0,
+  "grup": "laurent-mekies-red-bull-contract-extension",
+  "link": "https://www.formula1.com/en/latest/article/mekies-commits-to-long-term-contract-extension-as-red-bull-team-principal.1NfCP1Zas2IAzVa3sNa3yf",
+  "source": "Formula1.com",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "f1",
+  "baslik": "Freddie Hunt'tan Babası James Hunt'ın Mirası Üzerine Açıklamalar",
+  "ozet": "Freddie Hunt, Beyond The Grid podcast yayınında babası James Hunt'ın yarış yeteneğini, Niki Lauda ile dostluğunu ve F1'deki kalıcı etkisini değerlendirdi.",
+  "puan": 2.5,
+  "grup": "freddie-hunt-james-hunt-legacy",
+  "link": "https://www.formula1.com/en/latest/article/he-glamorised-the-sport-freddie-hunt-on-father-james-legacy-50-years-after-his-world-championship-triumph.UAidcqvfpEBQjBwmemKdP",
+  "source": "Formula1.com",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "f1",
+  "baslik": "Max Verstappen Singapur Zaferiyle Kazandığı Pist Sayısını 27'ye Çıkardı",
+  "ozet": "Max Verstappen, Singapur'daki Marina Bay Pisti'nde kariyerinin ilk zaferini elde ederek kazandığı farklı pist sayısını 27'ye yükseltti.",
+  "puan": 8.5,
+  "grup": "singapore-gp-race-result",
+  "link": "https://www.formula1.com/en/latest/article/the-27-circuits-verstappen-has-won-at-after-he-finally-triumphs-in-singapore.4BEyXdB3iqKR3unfWTWgAj",
+  "source": "Formula1.com",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "f1",
+  "baslik": "Mekies'ten Hadjar'ın Singapur'daki Sorunları İçin Özür",
+  "ozet": "Laurent Mekies, Singapur Grand Prix'sinde güvenilirlik sorunları yaşayan Isack Hadjar'dan özür diledi.",
+  "puan": 5.0,
+  "grup": "singapore-gp-hadjar-nightmare-weekend",
+  "link": "https://www.formula1.com/en/latest/article/mekies-admits-we-owe-him-one-after-red-bull-issues-ruin-hadjars-singapore-weekend.3SefuqCazWON4v6nv9gz6h",
+  "source": "Formula1.com",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "f1",
+  "baslik": "Netflix'in Schumacher '94 Belgeselinin Yapım Süreci Anlatıldı",
+  "ozet": "Yönetmen Christin Freitag, Michael Schumacher'in 1994 sezonunu yeniden canlandırmak için 1.300 saatlik arşiv görüntüsü ve röportaj kullandıklarını açıkladı.",
+  "puan": 2.0,
+  "grup": "schumacher-94-netflix-documentary",
+  "link": "https://www.formula1.com/en/latest/article/bringing-schumacher-94-to-life-the-story-behind-the-new-netflix-documentary.39iir7vodRPo6aXOtNkMrx",
+  "source": "Formula1.com",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "f1",
+  "baslik": "Red Bull'dan Laurent Mekies'e Uzun Vadeli Güvenoyu",
+  "ozet": "Red Bull, Laurent Mekies'in liderliğini 2031'e kadar uzatan yeni sözleşmeyle açıkça desteklediğini gösterdi.",
+  "puan": 8.0,
+  "grup": "laurent-mekies-red-bull-contract-extension",
+  "link": "https://www.the-race.com/formula-1/red-bull-f1-team-principal-laurent-mekies-deal-extended/",
+  "source": "The Race",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "f1",
+  "baslik": "Laurent Mekies Red Bull'daki Sözleşmesini 2031'e Kadar Uzattı",
+  "ozet": "Red Bull Takım Patronu Laurent Mekies, 2031 sezonunun sonuna kadar takımda kalmasını sağlayacak yeni bir sözleşmeye imza attı.",
+  "puan": 8.0,
+  "grup": "laurent-mekies-red-bull-contract-extension",
+  "link": "https://www.autosport.com/f1/news/laurent-mekies-extends-contract-as-red-bulls-f1-team-boss/10865235/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "f1",
+  "baslik": "Laurent Mekies Red Bull Takım Patronluğuna Devam Ediyor",
+  "ozet": "Laurent Mekies, Red Bull Formula 1 takımıyla olan sözleşmesini 2031 sonuna kadar uzattı.",
+  "puan": 8.0,
+  "grup": "laurent-mekies-red-bull-contract-extension",
+  "link": "https://www.motorsport.com/f1/news/laurent-mekies-extends-contract-as-red-bulls-f1-team-boss/10865232/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "f1",
+  "baslik": "Mekies 2031'e Kadar Red Bull'da Kalacak",
+  "ozet": "Laurent Mekies, Red Bull ile 2031 yılına kadar devam edecek yeni bir anlaşmaya imza attı.",
+  "puan": 8.0,
+  "grup": "laurent-mekies-red-bull-contract-extension",
+  "link": "https://www.racefans.net/2026/10/14/social-media-mekies-extends-contract-to-lead-red-bull-until-2031/",
+  "source": "RaceFans",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "f1",
+  "baslik": "Christian Horner Anı Kitabına Neden 2021 Abu Dabi GP ile Başladığını Açıkladı",
+  "ozet": "Eski Red Bull patronu Christian Horner, anı kitabı 'Drive'da neden çocukluk yılları yerine 2021 Abu Dabi Grand Prix'si ile başladığını açıkladı.",
+  "puan": 3.0,
+  "grup": "christian-horner-memoir-abu-dabi",
+  "link": "https://www.motorsport.com/f1/news/christian-horner-reveals-why-he-chose-2021-abu-dhabi-gp-to-open-his-memoir/10865209/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "f1",
+  "baslik": "Martin Brundle'dan Lewis Hamilton'ın Singapur Stratejisine Eleştiri",
+  "ozet": "Martin Brundle, 2026 Singapur Grand Prix'sinde pite girmemeyi tercih eden ve podyumu kaçıran Lewis Hamilton'ın stratejisini 'garip' olarak nitelendirdi.",
+  "puan": 6.0,
+  "grup": "singapore-gp-hamilton-strategy",
+  "link": "https://www.motorsport.com/f1/news/martin-brundle-reacts-to-bizarre-lewis-hamilton-singapore-gp-strategy-choice/10865194/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "f1",
+  "baslik": "George Russell En Sönük Sezon Öncesi Favori mi?",
+  "ozet": "The Race F1 Podcast'inde George Russell'ın sönük şampiyonluk mücadelesi ve Mercedes'in güncelleme stratejisi masaya yatırıldı.",
+  "puan": 4.0,
+  "grup": "george-russell-mercedes-podcast",
+  "link": "https://www.the-race.com/formula-1/podcast-is-geroge-russell-f1-most-underwhelming-pre-season-favourite/",
+  "source": "The Race",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "f1",
+  "baslik": "Christian Horner'dan Red Bull'dan Ayrılış Açıklaması",
+  "ozet": "Christian Horner, Red Bull'daki görevinden ayrılmasının arkasında takım üzerinde çok fazla nüfuza sahip olduğunun algılanmasının yatabileceğini belirtti.",
+  "puan": 6.5,
+  "grup": "christian-horner-red-bull-exit",
+  "link": "https://www.motorsport.com/f1/news/christian-horner-opens-up-on-red-bull-f1-exit-perhaps-it-was-perceived-i-had-too-much-influence-ove/10864999/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791999200.8362057
+ },
+ {
+  "cat": "f1",
+  "baslik": "Valentino Rossi'den Max Verstappen'in Portimao Katılımı İçin Uyarı",
+  "ozet": "Valentino Rossi, GT World Challenge Europe sezon finalinde aynı pisti paylaşacağı Max Verstappen'in büyük bir rakip olacağını belirtti.",
+  "puan": 3.5,
+  "grup": "max-verstappen-gt-portimao",
+  "link": "https://www.motorsport.com/f1/news/valentino-rossi-wary-of-max-verstappen-threat-at-portimao-big-problem/10865174/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1791999200.8362057
  }
 ]
