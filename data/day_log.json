@@ -1,416 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Mazda Elektrikli Araç Platformunu 2029'a Erteledi",
-  "ozet": "Mazda, kendine özgü elektrikli araç platformunu 2029 yılına erteledi ve bu süreçte test mulesi olarak kullanılan bir SUV ile testler yapıyor.",
-  "puan": 6.2,
-  "grup": "mazda-ev-platform-delay-2029",
-  "link": "https://www.jalopnik.com/2285513/mazda-in-house-ev-platform-delayed-to-2029-suv-test-mule-spied/",
-  "source": "Jalopnik",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "14.6 Litrelik Çift Motorlu Efsanevi Ağır Vasıta",
-  "ozet": "Römorkunda da 14.6 litrelik Caterpillar V8 dizel motor taşıyan bu efsanevi kamyon, toplamda 900 beygir güç üretiyor.",
-  "puan": 5.0,
-  "grup": "legendary-twin-engine-logging-truck",
-  "link": "https://www.thedrive.com/news/legendary-twin-engine-logging-truck-had-a-14-6l-diesel-v8-powering-the-trailer-too",
-  "source": "The Drive",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "Roadset Shop'tan Chevy GMT400 İçin Özel Şasi",
-  "ozet": "Roadster Shop, klasik Chevy GMT400 pikaplar için 60.000 dolarlık özel bir şasi geliştirdiğini duyurdu.",
-  "puan": 4.5,
-  "grup": "roadster-shop-chevy-gmt400-chassis",
-  "link": "https://www.thedrive.com/news/roadster-shop-reveals-60000-custom-chassis-for-15000-chevy-gmt400-pickups",
-  "source": "The Drive",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "2026 Japon Klasik Otomobil Fuarı Gerçekleşti",
-  "ozet": "Japon klasik otomobil fuarında 1990'lardan kalma kusursuz bir Nissan Altima'dan Honda motorlu bir Aston Martin F1 aracına kadar birçok nadir parça sergilendi.",
-  "puan": 4.8,
-  "grup": "2026-japanese-classic-car-show",
-  "link": "https://www.jalopnik.com/2285402/2026-japanese-classic-car-show-brought-the-heat/",
-  "source": "Jalopnik",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "2028 Model Dodge Charger'a Süper Şarjlı V8 Dönecek",
-  "ozet": "Yayınlanan belgelere göre, benzinli Dodge Charger modeli arka tekerleklere güç veren süper şarjlı V8 Hellcat motoruna yeniden kavuşacak.",
-  "puan": 8.5,
-  "grup": "dodge-charger-v8-hellcat-return",
-  "link": "https://www.caranddriver.com/news/a74120104/2028-dodge-charger-hemi-v8-report/",
-  "source": "Car and Driver",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "Yeni Nesil Mercedes-Benz E-Class Elektrikli Yolda",
-  "ozet": "Tamamen elektrikli yeni E-Class sedan, geleneksel üç kutulu sedan tasarım çizgilerini koruyarak gelecek.",
-  "puan": 7.0,
-  "grup": "mercedes-benz-e-class-ev-next-gen",
-  "link": "https://www.jalopnik.com/2285440/next-gen-mercedes-benz-e-class-ev-spied-at-nurburgring/",
-  "source": "Jalopnik",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "Kaliforniya'nın EV İndirimi Sadece Mustang Mach-E'yi Kapsıyor",
-  "ozet": "Kaliforniya'nın elektrikli araç fiyatlarını düşürmeyi amaçlayan MyFirstEV programı, katı sınırlamaları nedeniyle neredeyse sadece Mustang Mach-E modeline uygulanabiliyor.",
-  "puan": 4.0,
-  "grup": "california-ev-rebate-mustang-mach-e",
-  "link": "https://www.jalopnik.com/2284756/california-ev-rebate-almost-exclusively-ford-mustang-mach-e/",
-  "source": "Jalopnik",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "Arşiv Yol Testi: 1977 Chrysler Cordoba",
-  "ozet": "Kişisel lüks otomobil anlayışının temsilcisi 1977 Chrysler Cordoba, kendine has opera camları ve sessiz sürüşüyle öne çıkıyor.",
-  "puan": 3.0,
-  "grup": "1977-chrysler-cordoba-archive-test",
-  "link": "https://www.caranddriver.com/reviews/a74034824/1977-chrysler-cordoba-archive-test/",
-  "source": "Car and Driver",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "1977 Chrysler Cordoba Fotoğrafları",
-  "ozet": "Kişisel lüks konseptini tam anlamıyla yansıtan 1977 Chrysler Cordoba'nın iç ve dış tasarım detayları.",
-  "puan": 2.5,
-  "grup": "1977-chrysler-cordoba-photos",
-  "link": "https://www.caranddriver.com/photos/a74102449/1977-chrysler-cordoba-archive-test-gallery/",
-  "source": "Car and Driver",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "Dodge Charger SRT Hellcat 2027 Sonu Gibi Dönebilir",
-  "ozet": "Ortaya çıkan yeni raporlar, Dodge'un 2028 model yılı için süper şarjlı Hemi V8 motorlu yeni bir Charger SRT Hellcat hazırladığını iddia ediyor.",
-  "puan": 8.5,
-  "grup": "dodge-charger-v8-hellcat-return",
-  "link": "https://www.motor1.com/news/811809/new-dodge-charger-hellcat-production-rumor/",
-  "source": "Motor1",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Ford Bronco, Raptor'un V6 Motoruna Kavuşuyor",
-  "ozet": "Ford'un arazi odaklı SUV modeli, Raptor'un çift turbolu 3.0 litrelik V6 motorunu daha fazla donanım paketinde sunmaya başlıyor.",
-  "puan": 7.2,
-  "grup": "2027-ford-bronco-v6-raptor",
-  "link": "https://www.caranddriver.com/news/a74120983/2027-ford-bronco-updates-revealed/",
-  "source": "Car and Driver",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Polaris RZR Pro R Boost Tanıtıldı",
-  "ozet": "Çöl şartları için tasarlanan turbolu Polaris RZR Pro R Boost, sürücüsüne sıra dışı bir off-road deneyimi vad ediyor.",
-  "puan": 5.5,
-  "grup": "2027-polaris-rzr-pro-r-boost",
-  "link": "https://www.jalopnik.com/2284712/2027-polaris-rzr-pro-r-boost-first-drive-off-road-review/",
-  "source": "Jalopnik",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "245 Beygirlik Tarım Traktöründen Red Bull Ring'de Tur Rekoru",
-  "ozet": "7.5 litrelik altı silindirli motora ve devasa bir torka sahip şık tarım traktörü, Red Bull Ring pistinde tur rekoru kırdı.",
-  "puan": 5.0,
-  "grup": "farm-tractor-red-bull-ring-record",
-  "link": "https://www.thedrive.com/news/this-245-hp-farm-tractor-just-set-a-lap-record-at-the-red-bull-ring",
-  "source": "The Drive",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "İkinci El Toyota Tacoma Alınır Mı?",
-  "ozet": "Üçüncü nesil Toyota Tacoma; güçlü arazi kabiliyeti ve yüksek ikinci el değeriyle dikkat çekerken, yüksek fiyat etiketini hak edip etmediği tartışılıyor.",
-  "puan": 2.8,
-  "grup": "used-toyota-tacoma-buying-guide",
-  "link": "https://www.motor1.com/reviews/811662/used-toyota-tacoma-buying-guide/",
-  "source": "Motor1",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "Dodge V8 Hellcat Motorunu Geri Getirmek İstiyor",
-  "ozet": "Elektrikli araçlar daha hızlı olabilir ancak bazı performans tutkunları için bu durum pek de bir şey ifade etmiyor.",
-  "puan": 8.0,
-  "grup": "dodge-charger-v8-hellcat-return",
-  "link": "https://www.jalopnik.com/2285278/dodge-wants-new-v8-hellcat/",
-  "source": "Jalopnik",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "Dağıtılan Toyota V6 Motoru Arıza Sırrını Ortaya Çıkarabilir",
-  "ozet": "Toyota Tundra'nın motor arızaları ve geri çağırma süreci, uzmanların arızalı bir V6 motorunu parçalarına ayırmasıyla yeni bir boyut kazandı.",
-  "puan": 7.5,
-  "grup": "toyota-tundra-v6-engine-failure-analysis",
-  "link": "https://www.thedrive.com/news/this-blown-toyota-v6-may-hold-the-secret-to-the-tundras-engine-failures",
-  "source": "The Drive",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Infiniti QX65 Autograph İç Mekan Fotoğrafları",
-  "ozet": "Yeni Infiniti QX65 Autograph modelinin iç mekan tasarımını her açıdan gözler önüne seren fotoğraflar.",
-  "puan": 3.5,
-  "grup": "2027-infiniti-qx65-autograph",
-  "link": "https://www.caranddriver.com/photos/a74081882/2027-infiniti-qx65-autograph-test-interior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Infiniti QX65 Autograph Dış Mekan Fotoğrafları",
-  "ozet": "Infiniti'nin yeni SUV modeli QX65 Autograph'ın dış tasarımını farklı açılardan gösteren kareler.",
-  "puan": 3.5,
-  "grup": "2027-infiniti-qx65-autograph",
-  "link": "https://www.caranddriver.com/photos/a74081805/2027-infiniti-qx65-autograph-test-exterior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "Test Sürüşü: 2027 Infiniti QX65 Beklentileri Karşılayamadı",
-  "ozet": "Efsanevi 2003 FX35 modelinin soyundan gelen yeni Infiniti QX65, atasının performans ve karakterini yakalamaktan uzak kalıyor.",
-  "puan": 6.0,
-  "grup": "2027-infiniti-qx65-autograph",
-  "link": "https://www.caranddriver.com/reviews/a74082944/2027-infiniti-qx65-autograph-test/",
-  "source": "Car and Driver",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "Otomotiv Tarihinin En Büyük Tasarım Sapmaları",
-  "ozet": "Otomobil üreticilerinin zaman zaman standart kalıplarının dışına çıkarak ürettikleri en sıra dışı ve cesur modeller.",
-  "puan": 2.5,
-  "grup": "automotive-biggest-design-departures",
-  "link": "https://www.jalopnik.com/2284772/these-cars-biggest-departures-for-their-makers-reader-answers/",
-  "source": "Jalopnik",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "816 Beygirlik Peugeot E-T16 Konsepti Tanıtıldı",
-  "ozet": "Grup B ruhundan ilham alan üç elektrik motorlu Peugeot E-T16 konsepti, üretime geçme ihtimali olan geniş gövdeli bir hibrit/elektrikli 'hyperhatch' olarak tanıtıldı.",
-  "puan": 8.5,
-  "grup": "peugeot-e-t16-rally-concept",
-  "link": "https://www.jalopnik.com/2285199/peugeot-et16-concept-group-b-inspired-hyperhatch-design-reveal/",
-  "source": "Jalopnik",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "Paris Otomobil Fuarı'nda Peugeot'nun Yeni Konseptleri",
-  "ozet": "Peugeot, markanın yeni Feline Future tasarım dilini ve gelecekteki modellerde kullanılacak Hypersquare direksiyon simidini taşıyan iki dikkat çekici konsepti sergiledi.",
-  "puan": 7.0,
-  "grup": "paris-motor-show-2024-evs",
-  "link": "https://www.caranddriver.com/news/a74113853/peugeot-rcz-vision-et16-revealed/",
-  "source": "Car and Driver",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "Sürüş Sırasında En Çok Dinlediğiniz Şarkılar",
-  "ozet": "Hava koşullarının değişmesiyle birlikte sürücülerin yolculuk sırasında tercih ettiği müzik türleri ve çalma listeleri üzerine bir okuyucu etkileşim içeriği.",
-  "puan": 2.0,
-  "grup": "driving-music-preferences-chat",
-  "link": "https://www.jalopnik.com/2284799/whats-your-favorite-cruising-song-right-now-reader-question/",
-  "source": "Jalopnik",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "Ruanda 2030'ların Başında F1'e Ev Sahipliği Yapabilir",
-  "ozet": "Doğu Afrika ülkesinde inşa edilerek 2030'ların başında tamamlanması planlanan yeni bir pist için Formula 1 Afrika Grand Prix'si görüşmeleri yapılıyor.",
-  "puan": 8.0,
-  "grup": "rwanda-f1-african-grand-prix-2030s",
-  "link": "https://www.thedrive.com/news/rwanda-to-host-f1-african-grand-prix-in-early-2030s",
-  "source": "The Drive",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "Jeep'in Yeni Küçük Arazi Aracı Willys Köklerine Dönebilir",
-  "ozet": "Erken geliştirme aşamasında olan kompakt arazi aracının, 2030'dan sonra Avrupa piyasasına çıkabileceği belirtiliyor.",
-  "puan": 6.5,
-  "grup": "jeep-compact-offroader-willys-roots",
-  "link": "https://www.motor1.com/news/811683/jeep-willys-compact-off-road-suv/",
-  "source": "Motor1",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "Jaguar'ın Yeni Dönemi Yoğun İlgi Görüyor",
-  "ozet": "Eleştirilere rağmen Type 01 ile yeni bir döneme giren Jaguar, markanın yeniden doğuş hamlesiyle birlikte çok sayıda yeni müşteri çekmeyi başarıyor.",
-  "puan": 6.0,
-  "grup": "jaguar-electric-reboot-interest",
-  "link": "https://www.thedrive.com/news/jaguars-reboot-is-attracting-a-flood-of-new-customers-tds",
-  "source": "The Drive",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Chevrolet Corvette Stingray / Grand Sport Detayları",
-  "ozet": "2027 model Chevrolet Corvette Stingray ve Grand Sport versiyonlarının fiyatlandırma, teknik özellikler ve inceleme detayları paylaşıldı.",
-  "puan": 8.5,
-  "grup": "chevrolet-corvette-stingray-2027",
-  "link": "https://www.caranddriver.com/chevrolet/corvette",
-  "source": "Car and Driver",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "23.900 Dolarlık 2011 Mercedes E63 AMG Alınır mı?",
-  "ozet": "Aradan geçen 15 yılda büyük bir değer kaybı yaşayan 2011 model Mercedes E63 AMG, uygun fiyatıyla cazip bir ikinci el fırsatı sunuyor.",
-  "puan": 3.0,
-  "grup": "used-mercedes-e63-amg-valuation",
-  "link": "https://www.jalopnik.com/2284059/2011-mercedes-e63-amg-for-sale-23900/",
-  "source": "Jalopnik",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "Tesla, Avrupa'da Otopilot İsmini Değiştirdi",
-  "ozet": "Alman düzenleyicilerin ismin yanıltıcı olduğunu belirtmesi üzerine Tesla, Avrupa'daki Tam Otesi Sürüş (FSD) sistemini Tesla Assisted Driving olarak yeniden adlandırdı.",
-  "puan": 7.5,
-  "grup": "tesla-fsd-rename-europe",
-  "link": "https://www.motor1.com/news/811772/tesla-assisted-driving-replaces-full/",
-  "source": "Motor1",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
-  "baslik": "Renault 8 Gordini Modelini Diriltebilir",
-  "ozet": "Renault CEO'su Fabrice Cambolive, 5 Turbo 3E modelinin ardından ralli esintili retro bir coupé olan 8 Gordini'nin de performans odaklı ürün gamında değerlendirilebileceğini belirtti.",
-  "puan": 7.5,
-  "grup": "renault-8-gordini-concept",
-  "link": "https://www.autocar.co.uk/car-news/electric-cars/renault-mulls-building-8-gordini-follow-5-turbo-3e",
-  "source": "Autocar",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "f1",
-  "baslik": "Ruanda 10 Yıllık F1 Anlaşmasını Açıkladı",
-  "ozet": "Ruanda, 2030'lu yılların başında Formula 1'e ev sahipliği yapacak ve 10 yıllık tarihi bir anlaşmaya imza attı.",
-  "puan": 8.5,
-  "grup": "f1-rwanda-gp-announcement",
-  "link": "https://www.formula1.com/en/latest/article/hills-a-lake-and-a-roller-coaster-inside-rwandas-plan-for-the-african-grand-prix.76LEZDItQYH362QElcHoY1",
-  "source": "Formula1.com",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "f1",
-  "baslik": "Hamilton'ı Singapur'da Podyumdan Eden Ne Oldu?",
-  "ozet": "Eski F1 pilotu Jolyon Palmer, Lewis Hamilton'ın Singapur Grand Prix'sinde podyumu kaçırmasının ardındaki detayları inceliyor.",
-  "puan": 5.0,
-  "grup": "singapore-gp-hamilton-strategy",
-  "link": "https://www.formula1.com/en/latest/article/what-really-cost-lewis-hamilton-a-podium-in-singapore.4OsGotxiP08t92cvjeXO4y",
-  "source": "Formula1.com",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "f1",
-  "baslik": "Singapur GP Güç Sıralaması Açıklandı",
-  "ozet": "Marina Bay'de kusursuz bir zafer kazanan Max Verstappen zirvede yer alırken, güç sıralamasındaki diğer pilotların puanları açıklandı.",
-  "puan": 4.5,
-  "grup": "singapore-gp-race-result",
-  "link": "https://www.formula1.com/en/latest/article/power-rankings-who-impressed-our-judges-at-the-singapore-grand-prix.5QlX11s0CnF9CNnoa0H2O2",
-  "source": "Formula1.com",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "f1",
-  "baslik": "Ruanda'nın F1 Anlaşmasındaki 5 Önemli Detay",
-  "ozet": "Ruanda'da düzenlenen ve F1 ile FIA başkanlarının da katıldığı Afrika Grand Prix'si duyurusunun ardından öne çıkan 5 önemli nokta.",
-  "puan": 8.0,
-  "grup": "f1-rwanda-gp-announcement",
-  "link": "https://www.autosport.com/f1/news/five-key-takeaways-from-f1s-big-african-grand-prix-reveal-in-rwanda/10865014/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "f1",
-  "baslik": "Ruanda'nın F1 Anlaşmasındaki 5 Önemli Detay",
-  "ozet": "Ruanda'da düzenlenen ve F1 ile FIA başkanlarının da katıldığı Afrika Grand Prix'si duyurusunun ardından öne çıkan 5 önemli nokta.",
-  "puan": 8.0,
-  "grup": "f1-rwanda-gp-announcement",
-  "link": "https://www.motorsport.com/f1/news/five-key-takeaways-from-f1s-big-african-grand-prix-reveal-in-rwanda/10865012/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "f1",
-  "baslik": "Max Verstappen GT World Challenge Sezon Finalinde",
-  "ozet": "Max Verstappen, takım arkadaşları WEC yarışında olduğu için bu hafta sonu Portimao'daki GT World Challenge sezon finalinde direksiyona geçecek.",
-  "puan": 5.5,
-  "grup": "max-verstappen-gt-portimao",
-  "link": "https://www.motorsport.com/gtwce-endurance/news/gtwce-europe-max-verstappen-info-debut-portimao/10864990/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "f1",
-  "baslik": "Cadillac'ın Singapur'da Fren Sorunları Devam Etti",
-  "ozet": "Valtteri Bottas, Singapur'da fren aşırı ısınma sorunları yaşasa da durumun neredeyse çözüldüğünü belirtti.",
-  "puan": 5.0,
-  "grup": "cadillac-f1-brake-issues",
-  "link": "https://www.motorsport.com/f1/news/cadillacs-f1-brakes-are-still-a-problem-i-had-to-lift-and-coast-on-lap-two/10864720/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "f1",
-  "baslik": "McLaren Araç Yol Tutuşunu 2027'ye Kadar Düzeltemeyecek",
-  "ozet": "McLaren Takım Patronu Andrea Stella, aracın yol tutuş karakteristiklerinde köklü değişikliklerin 2027'den önce mümkün olmadığını kabul etti.",
-  "puan": 6.5,
-  "grup": "mclaren-2026-upgrade-strategy",
-  "link": "https://www.motorsport.com/f1/news/why-mclaren-cannot-fix-its-f1-car-handling-for-its-driver-until-2027/10864907/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "f1",
-  "baslik": "McLaren Araç Yol Tutuşunu 2027'ye Kadar Düzeltemeyecek",
-  "ozet": "McLaren Takım Patronu Andrea Stella, aracın yol tutuş karakteristiklerinde köklü değişikliklerin 2027'den önce mümkün olmadığını kabul etti.",
-  "puan": 6.5,
-  "grup": "mclaren-2026-upgrade-strategy",
-  "link": "https://www.autosport.com/f1/news/why-mclaren-cannot-fix-its-f1-car-handling-until-2027/10864932/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "f1",
-  "baslik": "Kim Kardashian ve Kimi Antonelli Havlu Draması",
-  "ozet": "Kim Kardashian, Singapur Grand Prix'si hafta sonunda Mercedes'in genç lideri Kimi Antonelli ile eğlenceli bir sosyal medya anına konu oldu.",
-  "puan": 2.5,
-  "grup": "singapore-gp-antonelli-championship",
-  "link": "https://www.motorsport.com/f1/news/kim-kardashian-revives-hilarious-f1-towel-drama-with-mercedes-star-kimi-antonelli/10864866/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "f1",
-  "baslik": "Christian Horner'dan Ferrari Söylentilerine Açıklama",
-  "ozet": "Christian Horner, Ferrari ile ilgili 'rüya iş' iddialarına açıklık getirerek Maranello hakkındaki spekülasyonlara değindi.",
-  "puan": 6.0,
-  "grup": "christian-horner-red-bull-exit",
-  "link": "https://www.motorsport.com/f1/news/christian-horner-clears-air-on-dream-job-ferrari-rumors-and-sets-return-terms/10864851/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1791916335.5780473
- },
- {
-  "cat": "araba",
   "baslik": "GM Defense'ten Sürücüsüz Askeri Araç",
   "ozet": "GM Defense, ABD Ordusu tarafından kullanılma potansiyeline sahip otonom bir Silverado prototipi geliştiriyor.",
   "puan": 7.5,
@@ -2248,5 +1838,125 @@
   "link": "https://www.motorsport.com/f1/news/did-haas-make-the-correct-decision-in-signing-rafael-camara-for-f1-2027/10865413/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1792088573.1965213
+ },
+ {
+  "cat": "araba",
+  "baslik": "Porsche Mission S Konsepti Tanıtıldı",
+  "ozet": "Porsche'nin orta motorlu yeni süper otomobil konsepti Mission S, 911 modelinin üzerinde yer alacak bir geleceğe işaret ediyor.",
+  "puan": 9.0,
+  "grup": "porsche-mission-s-supercar",
+  "link": "https://www.motor1.com/news/812133/porsche-mission-s-concept-debut-details/",
+  "source": "Motor1",
+  "ts": 1792100521.7761512
+ },
+ {
+  "cat": "araba",
+  "baslik": "Porsche 911'in Üzerinde Konumlanacak Süper Otomobil Geliyor",
+  "ozet": "Porsche, sürücü odaklı tasarımıyla 911'in amiral gemisi unvanını devralmaya hazırlanan orta motorlu yeni süper otomobilini resmi olarak geliştiriyor.",
+  "puan": 9.0,
+  "grup": "porsche-mission-s-supercar",
+  "link": "https://www.caranddriver.com/news/a74145375/porsche-mission-s-concept-revealed/",
+  "source": "Car and Driver",
+  "ts": 1792100521.7761512
+ },
+ {
+  "cat": "araba",
+  "baslik": "2029 Porsche Mission S Hakkında Bilinenler",
+  "ozet": "Porsche'nin 911 üzerindeki yeni amiral gemisi süper otomobili Mission S hakkında şu ana kadar ortaya çıkan detaylar.",
+  "puan": 8.5,
+  "grup": "porsche-mission-s-supercar",
+  "link": "https://www.caranddriver.com/porsche/mission-s-2029",
+  "source": "Car and Driver",
+  "ts": 1792100521.7761512
+ },
+ {
+  "cat": "araba",
+  "baslik": "Porsche Mission S Konsept Fotoğrafları",
+  "ozet": "Porsche'nin gelecekteki orta motorlu süper otomobilini önizleyen Mission S konseptinin tasarım detayları her açıdan sergileniyor.",
+  "puan": 8.0,
+  "grup": "porsche-mission-s-supercar",
+  "link": "https://www.caranddriver.com/photos/a74147892/porsche-mission-s-concept-revealed-gallery/",
+  "source": "Car and Driver",
+  "ts": 1792100521.7761512
+ },
+ {
+  "cat": "araba",
+  "baslik": "Porsche Mission S Tanıtıldı: Orta Motorlu Yeni Süper Otomobil",
+  "ozet": "Performans ve fiyat olarak 911'in üzerinde konumlanacak olan Mission S, kokpitinde merkez ekran bulundurmayacak kadar sürücü odaklı tasarlandı.",
+  "puan": 9.0,
+  "grup": "porsche-mission-s-supercar",
+  "link": "https://www.thedrive.com/news/porsche-mission-s-revealed-new-mid-engine-supercar-gets-a-permanent-place-in-the-lineup",
+  "source": "The Drive",
+  "ts": 1792100521.7761512
+ },
+ {
+  "cat": "araba",
+  "baslik": "Resmi: Porsche Mission S Yeni Amiral Gemisini Önizliyor",
+  "ozet": "Yeni tasarım şefi Tobias Sühlmann imzasını taşıyan Mission S konsepti, 911'in üzerinde yer alacak güçlü spor otomobilin sinyallerini veriyor.",
+  "puan": 9.0,
+  "grup": "porsche-mission-s-supercar",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/official-porsche-mission-s-previews-new-flagship-supercar",
+  "source": "Autocar",
+  "ts": 1792100521.7761512
+ },
+ {
+  "cat": "araba",
+  "baslik": "Sürücü Odaklı Porsche Mission S Konsepti Görücüye Çıktı",
+  "ozet": "Dikkat dağıtıcı ekranlardan arındırılmış kokpite sahip Mission S, sınırlı üretilen bir model değil markanın seri üretim ürün gamının bir parçası olacak.",
+  "puan": 9.0,
+  "grup": "porsche-mission-s-supercar",
+  "link": "https://www.jalopnik.com/2288175/porsche-mission-s-supercar-concept-design-details-reveal/",
+  "source": "Jalopnik",
+  "ts": 1792100521.7761512
+ },
+ {
+  "cat": "araba",
+  "baslik": "ABD Ordusundan Helikopter Pilotları İçin Yeni Tuvalet Teknolojisi",
+  "ozet": "ABD Ordusu, helikopter pilotlarının uçuş sırasında ihtiyaçlarını giderebilmesi için yeni bir uçuş içi teknoloji test ediyor.",
+  "puan": 3.0,
+  "grup": "us-army-helicopter-pilot-tech",
+  "link": "https://www.jalopnik.com/2286924/us-army-tests-in-flight-peeing-technology-for-helicopter-pilots/",
+  "source": "Jalopnik",
+  "ts": 1792100521.7761512
+ },
+ {
+  "cat": "araba",
+  "baslik": "Sadece Polis Plakalarını Tarayan Ev Yapımı Kamera Sistemi",
+  "ozet": "Bir kişi,ironik bir nokta oluşturmak amacıyla sadece polis araçlarının plakalarını tarayan ev yapımı bir kamera sistemi tasarladı.",
+  "puan": 2.5,
+  "grup": "diy-police-plate-camera",
+  "link": "https://www.jalopnik.com/2288078/man-diy-flock-cameras-police-dont-like-it/",
+  "source": "Jalopnik",
+  "ts": 1792100521.7761512
+ },
+ {
+  "cat": "araba",
+  "baslik": "Honda'dan Accord ve CR-V Modelleri İçin Yeni Geri Çağırma",
+  "ozet": "Honda, daha önce milyonlarca aracı kapsayan hatalı parça sorunu nedeniyle Accord ve CR-V modelleri için geri çağırmayı yineliyor.",
+  "puan": 8.0,
+  "grup": "honda-accord-crv-recall",
+  "link": "https://www.caranddriver.com/news/a74148608/honda-accord-crv-hybrids-flying-bottle-cap-recall/",
+  "source": "Car and Driver",
+  "ts": 1792100521.7761512
+ },
+ {
+  "cat": "araba",
+  "baslik": "20.000 Dolarlık Bütçeyle Yol Gezisi İçin Araç Arayışı",
+  "ozet": "Güvenilir, dört tekerlekten çekişli ve çekme kapasitesine sahip bir yol gezisi aracı arayan sürücü için alternatifler değerlendiriliyor.",
+  "puan": 2.0,
+  "grup": "road-trip-used-car-buying-guide",
+  "link": "https://www.jalopnik.com/2287960/cross-country-road-trip-car-20-000-wcsyb/",
+  "source": "Jalopnik",
+  "ts": 1792100521.7761512
+ },
+ {
+  "cat": "f1",
+  "baslik": "F1 Sezon Finali Imola'ya Taşınabilir",
+  "ozet": "Raporlara göre Formula 1, sezon finalini kasım ortasına kadar Imola'ya taşıma kararını değerlendirebilir.",
+  "puan": 6.5,
+  "grup": "imola-f1-season-finale-2027",
+  "link": "https://www.racefans.net/2026/10/15/f1-could-make-call-to-move-finale-to-imola-as-late-as-mid-november-report/",
+  "source": "RaceFans",
+  "ts": 1792100521.7761512
  }
 ]
