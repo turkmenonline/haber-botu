@@ -2008,5 +2008,245 @@
   "link": "https://www.motorsport.com/f1/news/mclarens-oscar-piastri-conquers-the-dirt-in-high-stakes-f1-and-motogp-crossover/10865289/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1792073685.158674
+ },
+ {
+  "cat": "araba",
+  "baslik": "Honda Prelude İçin Yaz Lastiği Testi",
+  "ozet": "Honda Prelude'un opsiyonel yaz lastikleri, araca daha sert viraj alma ve daha kısa mesafede durma kabiliyeti kazandırıyor.",
+  "puan": 5.0,
+  "grup": "honda-civic-prelude-simulated-gearbox",
+  "link": "https://www.caranddriver.com/news/a73983073/2026-honda-prelude-summer-vs-all-season-tire-testing/",
+  "source": "Car and Driver",
+  "ts": 1792088573.1965213
+ },
+ {
+  "cat": "araba",
+  "baslik": "BYD Neden ABD'de Satılmıyor?",
+  "ozet": "Dünyanın en büyük elektrikli araç üreticilerinden biri olan BYD'nin ABD pazarına girmesinin önünde tarifeler ve ulusal güvenlik kuralları engel oluşturuyor.",
+  "puan": 6.5,
+  "grup": "byd-ev-us-market-barriers",
+  "link": "https://www.motor1.com/features/811958/why-cant-you-buy-a-byd-in-america/",
+  "source": "Motor1",
+  "ts": 1792088573.1965213
+ },
+ {
+  "cat": "araba",
+  "baslik": "Artemis II Astronotları Emekliye Ayrıldı",
+  "ozet": "Artemis II görevindeki dört astronotun da uzay uçuşundan emekli olduğu açıklandı.",
+  "puan": 2.0,
+  "grup": "artemis-ii-astronauts-retired",
+  "link": "https://www.jalopnik.com/2287909/all-four-artemis-ii-astronauts-retired-from-spaceflight-what-theyre-doing-now/",
+  "source": "Jalopnik",
+  "ts": 1792088573.1965213
+ },
+ {
+  "cat": "araba",
+  "baslik": "Toyota Corolla İçin Çoklu Güç Aktarma Planı",
+  "ozet": "Toyota, yeni nesil Corolla'da saf içten yanmalı, hibrit ve tamamen elektrikli motor seçeneklerine uygun esnek bir elektrik mimarisi kullanacak.",
+  "puan": 7.0,
+  "grup": "toyota-corolla-multi-powertrain-architecture",
+  "link": "https://www.motor1.com/news/812121/toyota-corolla-powertrain-details-specs/",
+  "source": "Motor1",
+  "ts": 1792088573.1965213
+ },
+ {
+  "cat": "araba",
+  "baslik": "Polis Memurları Arasında Irkçı Mesaj Skandalı",
+  "ozet": "Bir grup polisin siyah vatandaşlara yönelik güç kullanımı ve ırkçı ifadeler içeren mesajlaşmaları ortaya çıktı.",
+  "puan": 1.0,
+  "grup": "police-text-thread-racism-scandal",
+  "link": "https://www.jalopnik.com/2287808/cops-holding-contest-who-can-pull-over-most-black-people/",
+  "source": "Jalopnik",
+  "ts": 1792088573.1965213
+ },
+ {
+  "cat": "araba",
+  "baslik": "GM'den Cadillac Blackwing Açıklaması",
+  "ozet": "General Motors ve Corvette performans şefi Tony Roma, Cadillac Blackwing serisinin doğrudan bir rakibi olmadığını belirtti.",
+  "puan": 6.0,
+  "grup": "cadillac-blackwing-no-direct-rival",
+  "link": "https://www.thedrive.com/news/cadillac-quit-chasing-bmw-gm-says-the-blackwing-has-no-direct-rival",
+  "source": "The Drive",
+  "ts": 1792088573.1965213
+ },
+ {
+  "cat": "araba",
+  "baslik": "Hibrit Olmadan 30 MPG Yakalayan SUV'ler",
+  "ozet": "Nissan Kicks ve Honda CR-V gibi hibrit teknoloji kullanmadan galon başına 30 mil yakıt tüketimi sunan 10 SUV listelendi.",
+  "puan": 2.5,
+  "grup": "suvs-30-mpg-no-hybrid",
+  "link": "https://www.motor1.com/features/812097/10-non-hybrid-suvs-with-30-mpg/",
+  "source": "Motor1",
+  "ts": 1792088573.1965213
+ },
+ {
+  "cat": "araba",
+  "baslik": "Tesla Roadster Tanıtımı Bu Akşam",
+  "ozet": "Yeni Tesla Roadster'ın tanıtım etkinliğinin bu akşam X platformu üzerinden canlı yayınlanacağı duyuruldu.",
+  "puan": 9.0,
+  "grup": "tesla-roadster-reveal-october",
+  "link": "https://www.caranddriver.com/news/a74145531/tesla-roadster-revealed/",
+  "source": "Car and Driver",
+  "ts": 1792088573.1965213
+ },
+ {
+  "cat": "araba",
+  "baslik": "1992 Lamborghini Diablo Fotoğrafları",
+  "ozet": "Klasik süper otomobil 1992 model Lamborghini Diablo'nun iç ve dış tasarım detayları görüntülendi.",
+  "puan": 3.0,
+  "grup": "1992-lamborghini-diablo-photos",
+  "link": "https://www.caranddriver.com/photos/a74102622/1992-lamborghini-diablo-archive-test-gallery/",
+  "source": "Car and Driver",
+  "ts": 1792088573.1965213
+ },
+ {
+  "cat": "araba",
+  "baslik": "1992 Lamborghini Diablo En Yüksek Hız Testi",
+  "ozet": "Klasik Lamborghini Diablo, 204 mph hıza ulaştığı test sürüşüyle sınırlarını zorladı.",
+  "puan": 4.5,
+  "grup": "1992-lamborghini-diablo-top-speed",
+  "link": "https://www.caranddriver.com/reviews/a74050350/1992-lamborghini-diablo-archive-test/",
+  "source": "Car and Driver",
+  "ts": 1792088573.1965213
+ },
+ {
+  "cat": "araba",
+  "baslik": "Corvette Hayranlarının Z06X Talebi",
+  "ozet": "GM performans ekibi, potansiyel bir Corvette Z06X modelinin mantıklı olabileceğini ancak her projenin hayata geçirilemeyeceğini ifade etti.",
+  "puan": 6.0,
+  "grup": "chevrolet-corvette-z06x-possibility",
+  "link": "https://www.thedrive.com/news/corvette-fans-want-a-z06x-gm-asks-if-youd-pay-almost-zr1-money",
+  "source": "The Drive",
+  "ts": 1792088573.1965213
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Volvo Ağır Vasıta Modeli Tanıtıldı",
+  "ozet": "Yenilenen 13 litrelik motorundan 540 beygir güç üreten yeni Volvo tır modeli dikkat çekici tasarımıyla tanıtıldı.",
+  "puan": 6.0,
+  "grup": "new-volvo-heavy-hauler-truck",
+  "link": "https://www.thedrive.com/news/new-volvo-heavy-hauler-looks-like-a-supersized-tonka-truck",
+  "source": "The Drive",
+  "ts": 1792088573.1965213
+ },
+ {
+  "cat": "araba",
+  "baslik": "Alfa Romeo İç Mekanlarda Sadeliğe Dönüyor",
+  "ozet": "Alfa Romeo'nun Cuorerosso konsepti, gelecekte devasa ekranlar yerine daha az ekran ve fiziksel kontrol düğmeleri barındıracağını gösteriyor.",
+  "puan": 6.5,
+  "grup": "alfa-romeo-detox-interiors-concept",
+  "link": "https://www.motor1.com/news/812118/alfa-romeo-detox-car-interiors-touchscreens/",
+  "source": "Motor1",
+  "ts": 1792088573.1965213
+ },
+ {
+  "cat": "araba",
+  "baslik": "Tesla Roadster Beklentisi ve Sektör Gündemi",
+  "ozet": "Tesla Roadster tanıtımına saatler kala, Avrupa'nın Çinli üreticiler için test sahası olması ve Kanada'daki pazar tercihleri ele alındı.",
+  "puan": 8.5,
+  "grup": "tesla-roadster-reveal-october",
+  "link": "https://www.jalopnik.com/2287580/tesla-new-roadster-coming-tonight/",
+  "source": "Jalopnik",
+  "ts": 1792088573.1965213
+ },
+ {
+  "cat": "araba",
+  "baslik": "En Çok Dinlenen Sürüş Şarkıları",
+  "ozet": "Yolculuk sırasında dinlenmekten keyif alınan popüler müzik parçaları ve sanatçıları derlendi.",
+  "puan": 1.5,
+  "grup": "favorite-cruising-songs-list",
+  "link": "https://www.jalopnik.com/2287178/these-are-your-favorite-cruising-songs-right-now-reader-answers/",
+  "source": "Jalopnik",
+  "ts": 1792088573.1965213
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Elektrikli Fiat Multiplina Hafifleme Aşamasında",
+  "ozet": "Topolino ile benzer boyutlara sahip dört kişilik elektrikli microcar Fiat Multiplina, üretime geçebilmek için kilo vermeye çalışıyor.",
+  "puan": 5.5,
+  "grup": "fiat-multiplina-electric-microcar",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/fiat-multiplina-tiny-four-seater-must-lose-weight-make-production",
+  "source": "Autocar",
+  "ts": 1792088573.1965213
+ },
+ {
+  "cat": "f1",
+  "baslik": "Rafael Camara: Haas'a 2027'de Katılmak Çılgınca Bir Başarı",
+  "ozet": "Haas'ın yeni pilotu Rafael Camara, 2027 koltuğunu garantileme sürecini ve bu fırsatı elde etmenin heyecanını anlattı.",
+  "puan": 7.0,
+  "grup": "haas-camara-2027-signing",
+  "link": "https://www.formula1.com/en/latest/article/exclusive-its-really-crazy-to-achieve-this-camara-on-joining-haas-in-2027-and-the-intense-shoot-out-test-he-faced.Sx8HzUOO7WsUm0afvDcP4",
+  "source": "Formula1.com",
+  "ts": 1792088573.1965213
+ },
+ {
+  "cat": "f1",
+  "baslik": "Williams'tan 2027'deki 50. Yıl Kutlama Planları",
+  "ozet": "Williams, 2027'deki 50. yıl dönümü kapsamında özel şasi numarası, Londra'da sürükleyici bir deneyim ve taraftar oylamalı Silverstone livery tasarımı planlıyor.",
+  "puan": 4.5,
+  "grup": "williams-50th-anniversary-2027",
+  "link": "https://www.formula1.com/en/latest/article/williams-outline-plans-for-50th-anniversary-year-with-calendar-of-special-events.wxPd7X2kbw2bUHstwFeZB",
+  "source": "Formula1.com",
+  "ts": 1792088573.1965213
+ },
+ {
+  "cat": "f1",
+  "baslik": "Haas'ın Geri Çevireemediği Ferrari Yeteneği",
+  "ozet": "F1.com, Rafael Camara'nın 2027 için neden ideal bir aday olduğunu ve şu ana kadar sergilediği özellikleri inceliyor.",
+  "puan": 5.0,
+  "grup": "haas-camara-2027-signing",
+  "link": "https://www.formula1.com/en/latest/article/rafael-camara-the-next-ferrari-protege-haas-couldnt-turn-down.24Vz3MR6I5GVOywy1z8C39",
+  "source": "Formula1.com",
+  "ts": 1792088573.1965213
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ayao Komatsu: Camara Ferrari Bağlantıları İçin Değil Hızı İçin Seçildi",
+  "ozet": "Haas takım patronu Ayao Komatsu, Rafael Camara'nın Ferrari bağları nedeniyle değil, testlerde gösterdiği hız ve adaptasyon sayesinde seçildiğini belirtti.",
+  "puan": 7.0,
+  "grup": "haas-camara-2027-signing",
+  "link": "https://www.motorsport.com/f1/news/komatsu-camara-chosen-for-f1-2027-seat-on-speed-not-ferrari-links/10865447/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792088573.1965213
+ },
+ {
+  "cat": "f1",
+  "baslik": "Bernie Collins'ten Verstappen'in Telsiz Arızası Yorumu",
+  "ozet": "Eski stratejist Bernie Collins, Max Verstappen'in Singapur'daki tek yönlü telsiz arızasına rağmen yarışı domine etme becerisini övdü.",
+  "puan": 5.5,
+  "grup": "max-verstappen-singapore-lambiase",
+  "link": "https://www.motorsport.com/f1/news/bernie-collins-on-what-max-verstappens-singapore-radio-failure-revealed-about-him/10865430/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792088573.1965213
+ },
+ {
+  "cat": "f1",
+  "baslik": "Williams Marvel Tasarımını ABD GP'ye Getiriyor",
+  "ozet": "Williams, Marvel temalı özel gösteri aracını 2026 ABD Grand Prix'si fan bölgesinde sergileyecek ancak araç yarışta kullanılmayacak.",
+  "puan": 3.5,
+  "grup": "williams-marvel-livery-us-gp",
+  "link": "https://www.motorsport.com/f1/news/avengers-doomsday-is-coming-to-the-united-states-grand-prix/10865428/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792088573.1965213
+ },
+ {
+  "cat": "f1",
+  "baslik": "Haas, Camara Hamlesiyle Doğru Kararı mı Verdi?",
+  "ozet": "2027 sezonunda Esteban Ocon'un yerine geçecek olan genç pilot Rafael Camara'nın Haas'taki potansiyeli değerlendiriliyor.",
+  "puan": 6.5,
+  "grup": "haas-camara-2027-signing",
+  "link": "https://www.autosport.com/f1/news/camara-over-ocon-did-haas-make-the-correct-call-for-f1-2027/10865424/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1792088573.1965213
+ },
+ {
+  "cat": "f1",
+  "baslik": "Haas'ın Rafael Camara Transferi Doğru Bir Karar mı?",
+  "ozet": "Genç yetenek Rafael Camara'nın 2027 için Ocon'un yerine transfer edilmesi ve junior serilerindeki hızlı yükselişi ele alınıyor.",
+  "puan": 6.5,
+  "grup": "haas-camara-2027-signing",
+  "link": "https://www.motorsport.com/f1/news/did-haas-make-the-correct-decision-in-signing-rafael-camara-for-f1-2027/10865413/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792088573.1965213
  }
 ]
