@@ -1,66 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Motosiysekte Yüksek Hız Neden Yavaş Hissettirebilir?",
-  "ozet": "Autobahn gibi yollarda yüksek hızlarda motosiklet sürerken, aracın türüne bağlı olarak beklendiği kadar heyecan verici hissettirmemesinin nedenleri ele alınıyor.",
-  "puan": 3.0,
-  "grup": "motorcycle-high-speed-perception",
-  "link": "https://www.jalopnik.com/2284672/why-160-mph-on-a-motorcycle-can-feel-slow/",
-  "source": "Jalopnik",
-  "ts": 1791863829.740129
- },
- {
-  "cat": "araba",
-  "baslik": "Nissan Skyline GT-R İsminin Anlamı Nedir?",
-  "ozet": "Nissan'ın en ünlü performans otomobili olan Skyline GT-R'ın taşıdığı simgesel rozetin ve ismin kökenindeki özel anlam inceleniyor.",
-  "puan": 3.5,
-  "grup": "nissan-skyline-gtr-name-meaning",
-  "link": "https://www.jalopnik.com/2283161/what-does-gtr-stand-for-nissan-skyline/",
-  "source": "Jalopnik",
-  "ts": 1791863829.740129
- },
- {
-  "cat": "araba",
-  "baslik": "Volkswagen'den ID.4 İçin Yangın Riski Geri Çağırması",
-  "ozet": "ABD'de batarya yangını vakaları araştırılırken, Volkswagen 22.524 adet ID.4 modelini geri çağırdı ve sahiplerinden şarjı yüzde 80 ile sınırlandırmaları istendi.",
-  "puan": 8.5,
-  "grup": "volkswagen-us-sales-decline",
-  "link": "https://www.motor1.com/news/811614/volkswagen-id-4-recall-imposes/",
-  "source": "Motor1",
-  "ts": 1791863829.740129
- },
- {
-  "cat": "araba",
-  "baslik": "Trafik Işıkları Araçları Nasıl Algılar?",
-  "ozet": "Trafik ışıklarının her zaman bir zamanlayıcıyla çalışmadığı, bazı sistemlerin araçları tespit ederek trafiğe göre uyum sağlayabildiği anlatılıyor.",
-  "puan": 2.5,
-  "grup": "traffic-light-detection-system",
-  "link": "https://www.motor1.com/features/811620/can-traffic-lights-change-based-on-traffic/",
-  "source": "Motor1",
-  "ts": 1791863829.740129
- },
- {
-  "cat": "f1",
-  "baslik": "Toto Wolff'tan Russell'ın Singapur'daki Yükselişi İçin Açıklama",
-  "ozet": "Toto Wolff, George Russell'ın Singapur GP'sinde 19'unculuktan dokuzunculuğa yükselmesini değerlendirerek, aracın önündeki araçlara yaklaşırken yaşadığı aerodinamik zorluklara dikkat çekti.",
-  "puan": 5.5,
-  "grup": "singapore-gp-russell-recovery-wolff",
-  "link": "https://www.motorsport.com/f1/news/toto-wolff-reveals-the-problem-behind-george-russells-singapore-gp-recovery/10864793/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1791863829.740129
- },
- {
-  "cat": "f1",
-  "baslik": "McLaren'dan 2026 Mücadelesi İçin Kademeli Güncelleme Planı",
-  "ozet": "McLaren, hem bu yılki açığı kapatmak hem de gelecek sezonun aerodinamik konseptini belirlemek amacıyla güncellemelerini kademeli olarak devreye sokmayı planlıyor.",
-  "puan": 5.0,
-  "grup": "mclaren-2026-upgrade-strategy",
-  "link": "https://www.motorsport.com/f1/news/mclaren-to-phase-upgrades-for-2026-fight-and-next-years-f1-development/10864787/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1791863829.740129
- },
- {
-  "cat": "araba",
   "baslik": "Renault 8 Gordini Gündemde",
   "ozet": "Renault CEO'su, R5 Turbo 3E modelinin ardından 8 Gordini konseptini temel alan sınırlı üretim yüksek performanslı bir spor otomobilin olası olduğunu doğruladı.",
   "puan": 7.0,
@@ -1858,5 +1798,15 @@
   "link": "https://www.motor1.com/news/811927/mercedes-benz-recalls-30-064/",
   "source": "Motor1",
   "ts": 1792021954.1864455
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Mercedes-AMG GLE53 PHEV Tantıldı",
+  "ozet": "577 beygir güç ve 45 mil tamamen elektrikli menzil sunan güncellenmiş Mercedes-AMG GLE53 PHEV, performans odaklı şarj edilebilir hibrit yapısıyla dikkat çekiyor.",
+  "puan": 7.5,
+  "grup": "2027-mercedes-amg-gle53-phev",
+  "link": "https://www.jalopnik.com/2285823/2027-mercedes-amg-gle53-phev-first-drive-review/",
+  "source": "Jalopnik",
+  "ts": 1792038280.951172
  }
 ]
