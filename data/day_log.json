@@ -1,186 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "GM Defense'ten Sürücüsüz Askeri Araç",
-  "ozet": "GM Defense, ABD Ordusu tarafından kullanılma potansiyeline sahip otonom bir Silverado prototipi geliştiriyor.",
-  "puan": 7.5,
-  "grup": "gm-defense-silverado-ugv",
-  "link": "https://www.caranddriver.com/news/a74124718/gm-defense-autonomous-silverado-us-military/",
-  "source": "Car and Driver",
-  "ts": 1791932675.5235643
- },
- {
-  "cat": "araba",
-  "baslik": "Rwanda, 2030'larda Formula 1'e Ev Sahipliği Yapacak",
-  "ozet": "Ruanda'da başkentin kuzeyinde inşa edilecek yeni pist ile Formula 1 2030'ların başında Afrika'ya geri dönüyor.",
-  "puan": 8.0,
-  "grup": "rwanda-f1-african-grand-prix-2030s",
-  "link": "https://www.caranddriver.com/news/a74124765/formula-1-african-grand-prix-returns/",
-  "source": "Car and Driver",
-  "ts": 1791932675.5235643
- },
- {
-  "cat": "araba",
-  "baslik": "102.4 Litrelik Devasa Motoru İpli Çalıştırdılar",
-  "ozet": "Bir pikap kamyonet kullanılarak 102.4 litrelik dev bir dizel motor ip çekme yöntemiyle çalıştırıldı.",
-  "puan": 4.5,
-  "grup": "legendary-twin-engine-logging-truck",
-  "link": "https://www.jalopnik.com/2286009/pickup-truck-pull-start-102-point-4-liter-engine-like-lawnmower/",
-  "source": "Jalopnik",
-  "ts": 1791932675.5235643
- },
- {
-  "cat": "araba",
-  "baslik": "Acura Yeni SUV ve Hibrit Modeller Üzerinde Çalışıyor",
-  "ozet": "Acura, Passport tabanlı bir arazi aracı, 8 kişilik büyük bir SUV ve yeni bir V6 hibrit model hazırlıyor.",
-  "puan": 7.0,
-  "grup": "acura-new-suv-v6-hybrid-models",
-  "link": "https://www.jalopnik.com/2286050/acura-working-on-passport-based-off-roader-8-passenger-suv/",
-  "source": "Jalopnik",
-  "ts": 1791932675.5235643
- },
- {
-  "cat": "araba",
-  "baslik": "EPA Araçların Yakıt Tüketimini Nasıl Hesaplıyor?",
-  "ozet": "EPA yakıt ekonomisi derecelendirmeleri sürücülere maliyet tahmini sunsa da gerçek dünyada bu rakamlara her zaman ulaşılamayabiliyor.",
-  "puan": 3.0,
-  "grup": "epa-car-mpg-calculation-guide",
-  "link": "https://www.motor1.com/features/811778/why-your-car-has-an-epa-mpg-rating/",
-  "source": "Motor1",
-  "ts": 1791932675.5235643
- },
- {
-  "cat": "araba",
-  "baslik": "Acura'dan Yeni Arazi Odaklı SUV Modeli",
-  "ozet": "Honda'nın lüks markası Acura, Honda TrailSport modellerini andıran macera odaklı yeni bir büyük SUV geliştiriyor.",
-  "puan": 6.5,
-  "grup": "acura-new-suv-v6-hybrid-models",
-  "link": "https://www.caranddriver.com/news/a74123942/acura-confirms-new-off-road-suv-2028/",
-  "source": "Car and Driver",
-  "ts": 1791932675.5235643
- },
- {
-  "cat": "araba",
-  "baslik": "Formula 1 Rwanda ile 10 Yıllık Anlaşma İmzaladı",
-  "ozet": "F1'in Ruanda ile imzaladığı 10 yıllık yarış anlaşması, ülkenin insan hakları sicili nedeniyle bazı endişelere yol açtı.",
-  "puan": 8.0,
-  "grup": "rwanda-f1-african-grand-prix-2030s",
-  "link": "https://www.jalopnik.com/2285973/formula-1-signs-10-year-deal-to-race-in-rwanda/",
-  "source": "Jalopnik",
-  "ts": 1791932675.5235643
- },
- {
-  "cat": "araba",
-  "baslik": "BMW M Patronu: Hibrit Teknolojisi Manuel Vitesleri Zorlaştırıyor",
-  "ozet": "Frank van Meel, 48 volt sistemler ve tork limitleri nedeniyle gelecekteki BMW M modellerinde manuel vites sunmanın zorlaştığını belirtti.",
-  "puan": 6.5,
-  "grup": "bmw-m-manual-hybrid-challenges",
-  "link": "https://www.motor1.com/news/811763/bmw-m-manual-gearbox-48/",
-  "source": "Motor1",
-  "ts": 1791932675.5235643
- },
- {
-  "cat": "araba",
-  "baslik": "Citroën 2CV Fourgonnette Konsepti Tanıtıldı",
-  "ozet": "İkonik modelin orijinal van versiyonundan ilham alan Citroën 2CV Fourgonnette konsepti görücüye çıktı.",
-  "puan": 6.0,
-  "grup": "citroen-2cv-fourgonnette-concept",
-  "link": "https://www.jalopnik.com/2285827/citroen-2cv-fourgonnette-van-concept-reveal/",
-  "source": "Jalopnik",
-  "ts": 1791932675.5235643
- },
- {
-  "cat": "araba",
-  "baslik": "2028 Ford Fathom İçin Ön Sipariş Listesi Oluşturuluyor",
-  "ozet": "Ford'un 30 bin dolar altındaki elektrikli aracı henüz tanıtılmasa da şimdiden ön sipariş sırası listesi oluşturulmaya başlandı.",
-  "puan": 7.0,
-  "grup": "ford-fathom-ev-preorder-list",
-  "link": "https://www.caranddriver.com/news/a74123201/2028-ford-fathom-ev-early-preorder-list/",
-  "source": "Car and Driver",
-  "ts": 1791932675.5235643
- },
- {
-  "cat": "araba",
-  "baslik": "İkinci El Fiat 500C Abarth Liste Fiyatının İki Katına Satıldı",
-  "ozet": "Temiz durumdaki küçük performans hatchback modeli Fiat 500C Abarth, sıfır fiyatının iki katı olan 45 bin dolara alıcı buldu.",
-  "puan": 4.0,
-  "grup": "fiat-500c-abarth-high-auction-price",
-  "link": "https://www.jalopnik.com/2285807/why-did-this-fiat-500c-abarth-sell-for-45000/",
-  "source": "Jalopnik",
-  "ts": 1791932675.5235643
- },
- {
-  "cat": "araba",
-  "baslik": "2026 Toyota RAV4 Woodland PHEV İncelemesi",
-  "ozet": "Sahte bir arazi karakterine sahip olsa da 2026 Toyota RAV4 Woodland PHEV, güçlü aktarma organı ve 49 millik elektrikli menziliyle dikkat çekiyor.",
-  "puan": 5.5,
-  "grup": "toyota-rav4-woodland-phev-review",
-  "link": "https://www.thedrive.com/car-reviews/2026-toyota-rav4-woodland-phev-review-when-a-48k-rav4-is-still-worth-it",
-  "source": "The Drive",
-  "ts": 1791932675.5235643
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Volvo EX60 Test Sürüşü",
-  "ozet": "İskandinav minimalliğiyle tasarlanan ve gelişmiş yazılım altyapısına sahip yeni Volvo EX60 test edildi.",
-  "puan": 6.5,
-  "grup": "volvo-ex60-test-drive",
-  "link": "https://www.caranddriver.com/reviews/a71317567/2027-volvo-ex60-drive/",
-  "source": "Car and Driver",
-  "ts": 1791932675.5235643
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Volvo EX60 Dış Tasarım Fotoğrafları",
-  "ozet": "Yeni tamamen elektrikli Volvo EX60 modelinin dış tasarımını farklı açılardan gösteren fotoğraflar yayınlandı.",
-  "puan": 5.5,
-  "grup": "volvo-ex60-test-drive",
-  "link": "https://www.caranddriver.com/photos/g71296565/2027-volvo-ex60-drive-exterior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1791932675.5235643
- },
- {
-  "cat": "araba",
-  "baslik": "Volkswagen Grubu Seat'ın Geleceğini Değerlendiriyor",
-  "ozet": "Seat ve Cupra yöneticisi, VW Grubu'nun gelecekte Seat markasını aşamalı olarak sonlandırma ihtimalinin masadaki senaryolardan biri olduğunu açıkladı.",
-  "puan": 7.0,
-  "grup": "seat-brand-future-regulation",
-  "link": "https://www.motor1.com/news/811827/seat-ceo-brand-not-dead/",
-  "source": "Motor1",
-  "ts": 1791932675.5235643
- },
- {
-  "cat": "f1",
-  "baslik": "Singapur GP Paddock'unda Dikkat Çeken Saatler",
-  "ozet": "Singapur Grand Prix'si hafta sonunda pilotların, takım patronlarının ve konukların taktığı saatler 400 dolarlık Swatch'tan 430.000 dolarlık Richard Mille'e kadar büyük bir fiyat aralığına sahne oldu.",
-  "puan": 2.5,
-  "grup": "singapore-gp-watch-game",
-  "link": "https://www.motorsport.com/f1/news/the-watches-worn-at-the-singapore-gp-from-400-to-430000/10865040/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1791932675.5235643
- },
- {
-  "cat": "f1",
-  "baslik": "FIA, Red Bull'un Yan Pod Açığını Yasaklayabilir",
-  "ozet": "FIA'nın, 2027 sezonu öncesinde Red Bull Racing'in kural kitabındaki gri noktaları kullanarak geliştirdiği akıllı aerodinamik hileyi ortadan kaldırmaya hazırlanıldığı iddia edildi.",
-  "puan": 7.5,
-  "grup": "red-bull-sidepod-loophole-2027",
-  "link": "https://www.motorsport.com/f1/news/fia-outlaws-red-bulls-clever-sidepod-aerodynamic-loophole-ahead-of-2027-season/10864930/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1791932675.5235643
- },
- {
-  "cat": "f1",
-  "baslik": "Christian Horner'dan Red Bull'un Yeni Kimliğine Eleştiri",
-  "ozet": "Christian Horner, Laurent Mekies yönetimindeki Red Bull Racing'in eski asi ve kural tanımaz 'Maverick' kimliğini sorguladı.",
-  "puan": 6.0,
-  "grup": "christian-horner-red-bull-identity",
-  "link": "https://www.motorsport.com/f1/news/christian-horner-questions-red-bulls-maverick-identity-under-laurent-mekies-era/10864837/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1791932675.5235643
- },
- {
-  "cat": "araba",
   "baslik": "Modern Otomobiller Sürücünün Agresif Olduğunu Nasıl Anlıyor?",
   "ozet": "Modern araçlar sert frenleme, ani hızlanma ve keskin virajlar gibi sürüş alışkanlıklarını takip ederek sürücünün agresif olup olmadığını analiz edebiliyor.",
   "puan": 4.5,
@@ -1958,5 +1778,75 @@
   "link": "https://www.racefans.net/2026/10/15/f1-could-make-call-to-move-finale-to-imola-as-late-as-mid-november-report/",
   "source": "RaceFans",
   "ts": 1792100521.7761512
+ },
+ {
+  "cat": "araba",
+  "baslik": "Tesla Roadster Sonunda Tanıtılıyor",
+  "ozet": "Yıllarca süren gecikmelerin ardından Tesla Roadster 2 sonunda bugün ilk kez gösteriliyor.",
+  "puan": 8.5,
+  "grup": "tesla-roadster-reveal-october",
+  "link": "https://www.thedrive.com/news/tesla-roadster-reveal-updates",
+  "source": "The Drive",
+  "ts": 1792108491.004809
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yüksek Oktanlı Benzin İçin Fazla Para mı Ödüyorsunuz?",
+  "ozet": "Yanlış oktan yakıt kullanımı aracınızın performansını etkileyebilir; düzenli ve premium benzin seçimi arasındaki farklar ele alınıyor.",
+  "puan": 3.0,
+  "grup": "premium-gas-octane-performance-guide",
+  "link": "https://www.motor1.com/features/812041/what-if-you-put-the-wrong-gas-in-your-car/",
+  "source": "Motor1",
+  "ts": 1792108491.004809
+ },
+ {
+  "cat": "araba",
+  "baslik": "Larte Design'dan Cadillac Escalade-V İçin Agresif Dokunuş",
+  "ozet": "Süper şarjlı Cadillac Escalade-V modeline Larte Design tarafından iddialı bir görünüm ve egzoz güncellemesi kazandırıldı.",
+  "puan": 4.5,
+  "grup": "larte-design-cadillac-escalade-v",
+  "link": "https://www.caranddriver.com/news/a74149934/larte-design-cadillac-escalade-v-body-kit/",
+  "source": "Car and Driver",
+  "ts": 1792108491.004809
+ },
+ {
+  "cat": "araba",
+  "baslik": "Dodge NASCAR'a Geri Dönüyor",
+  "ozet": "Dodge'un önümüzdeki Şubat ayında Daytona 500'de yarışması için hazırlıklar sürerken bazı zorluklar da devam ediyor.",
+  "puan": 7.5,
+  "grup": "automaker-nascar-cup-series-participation",
+  "link": "https://www.motor1.com/news/812144/dodge-nascar-return-2027-season/",
+  "source": "Motor1",
+  "ts": 1792108491.004809
+ },
+ {
+  "cat": "araba",
+  "baslik": "Lamborghini Revuelto'nun Karbon Fiber Opsiyonları",
+  "ozet": "Test edilen Lamborghini Revuelto üzerindeki 133.227 dolarlık opsiyonların 50.601 dolarını iki karbon fiber paket oluşturuyor.",
+  "puan": 6.0,
+  "grup": "lamborghini-revuelto-carbon-fiber-options",
+  "link": "https://www.jalopnik.com/2288310/lamborghini-revuelto-optional-carbon-fiber-costs-more-than-average-new-car/",
+  "source": "Jalopnik",
+  "ts": 1792108491.004809
+ },
+ {
+  "cat": "f1",
+  "baslik": "Stroll'ün F1 Öncesi Son Zaferi",
+  "ozet": "Lance Stroll, Formula 1 pilotu olmadan önceki son yarışında galibiyet elde etmişti.",
+  "puan": 2.0,
+  "grup": "on-this-day-stroll-pre-f1-win",
+  "link": "https://www.racefans.net/2026/10/16/on-this-day-european-formula-three-hockenheimring-race-three/",
+  "source": "RaceFans",
+  "ts": 1792108491.004809
+ },
+ {
+  "cat": "f1",
+  "baslik": "Bottas'tan Cadillac ve Mercedes Karşılaştırması",
+  "ozet": "Valtteri Bottas, henüz puanı bulunmayan Cadillac takımının tesislerinin, hibrit dönemin en başarılı takımı Mercedes'ten daha iyi olduğunu belirtti.",
+  "puan": 4.5,
+  "grup": "valtteri-bottas-cadillac-mercedes-facilities",
+  "link": "https://www.motorsport.com/f1/news/valtteri-bottas-makes-surprising-mercedes-comparison-as-cadillac-builds-f1-future/10865491/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792108491.004809
  }
 ]
