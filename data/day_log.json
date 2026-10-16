@@ -1,46 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Modern Otomobiller Sürücünün Agresif Olduğunu Nasıl Anlıyor?",
-  "ozet": "Modern araçlar sert frenleme, ani hızlanma ve keskin virajlar gibi sürüş alışkanlıklarını takip ederek sürücünün agresif olup olmadığını analiz edebiliyor.",
-  "puan": 4.5,
-  "grup": "modern-car-aggressive-driving-detection",
-  "link": "https://www.motor1.com/features/811766/can-your-car-detect-aggressive-driving/",
-  "source": "Motor1",
-  "ts": 1791942599.3170764
- },
- {
-  "cat": "f1",
-  "baslik": "Red Bull'dan Rakiplere Motor Geliştirme Uyarısı",
-  "ozet": "Red Bull teknik direktörü Pierre Wache, kendi bünyelerinde geliştirdikleri ilk Formula 1 güç ünitesinin henüz yolun başında olduğunu ancak rakiplerine gözdağı verdiklerini belirtti.",
-  "puan": 6.0,
-  "grup": "red-bull-powertrain-development",
-  "link": "https://www.motorsport.com/f1/news/red-bull-sends-warning-to-f1-rivals-with-engine-development-admission/10865049/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1791942599.3170764
- },
- {
-  "cat": "f1",
-  "baslik": "Zara'dan Ayrton Senna Koleksiyonu",
-  "ozet": "Zara, Formula 1 efsanesi Ayrton Senna'nın yarış tulumlarından ziyade günlük giyim tarzından ilham alan yeni erkek giyim koleksiyonunu satışa sundu.",
-  "puan": 2.5,
-  "grup": "ayrton-senna-zara-collection",
-  "link": "https://www.motorsport.com/f1/news/zara-launches-new-ayrton-senna-clothing-collection-inspired-by-f1-legend/10865047/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1791942599.3170764
- },
- {
-  "cat": "f1",
-  "baslik": "Lando Norris'ten VIP Ağırlama Şirketine Yatırım",
-  "ozet": "McLaren pilotu Lando Norris, İngiltere merkezli biletleme ve VIP deneyim sağlayıcısı Seat Unique'in 20 milyon sterlinlik finansman turuna katılarak ortak oldu.",
-  "puan": 3.0,
-  "grup": "lando-norris-seat-unique-investment",
-  "link": "https://www.motorsport.com/f1/news/lando-norris-makes-big-business-move-with-investment-in-500m-hospitality-company/10865045/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1791942599.3170764
- },
- {
-  "cat": "araba",
   "baslik": "DeLorean, Elektrikli Uçan Araba Yarışlarına Katılıyor",
   "ozet": "DeLorean, Airspeeder Uluslararası Serisi'nde ABD takımını çalıştırarak gökyüzüne adım atıyor. Önce Mk3C yarış aracını kullanacak, ardından kendi hava aracını geliştirecek.",
   "puan": 7.0,
@@ -1848,5 +1808,65 @@
   "link": "https://www.motorsport.com/f1/news/valtteri-bottas-makes-surprising-mercedes-comparison-as-cadillac-builds-f1-future/10865491/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1792108491.004809
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Tesla Roadster'ın İç Mekan Fotoğrafları",
+  "ozet": "Gelecekçi tasarıma sahip yeni Tesla Roadster'ın iç mekanını her açıyla gösteren fotoğraflar yayınlandı.",
+  "puan": 8.5,
+  "grup": "tesla-roadster-reveal-october",
+  "link": "https://www.caranddriver.com/photos/a74152694/tesla-roadster-revealed-interior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1792124398.6871696
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Tesla Roadster'ın Dış Tasarım Fotoğrafları",
+  "ozet": "İtki sistemine sahip yeni Tesla Roadster modelinin dış tasarımını farklı açılardan gözler önüne seren fotoğraflar paylaşıldı.",
+  "puan": 8.5,
+  "grup": "tesla-roadster-reveal-october",
+  "link": "https://www.caranddriver.com/photos/a74152579/tesla-roadster-revealed-exterior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1792124398.6871696
+ },
+ {
+  "cat": "araba",
+  "baslik": "Tesla Roadster Yeniden Tanıtıldı",
+  "ozet": "Uzun süredir beklenen ikinci nesil Tesla Roadster, tamamen yeni tasarımı ve 2028'deki üretim hedefiyle yeniden duyuruldu.",
+  "puan": 9.0,
+  "grup": "tesla-roadster-reveal-october",
+  "link": "https://www.jalopnik.com/2288450/tesla-roadster-rereveal-new-design-production-plans-for-flying-car/",
+  "source": "Jalopnik",
+  "ts": 1792124398.6871696
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Roadster Son Manuel Sürülecek Tesla Olacak",
+  "ozet": "Elon Musk'ın açıklamasına göre, yeni Roadster'dan sonra üretilecek her yeni Tesla modeli tamamen otonom olacak.",
+  "puan": 8.5,
+  "grup": "tesla-roadster-reveal-october",
+  "link": "https://www.motor1.com/news/812153/tesla-roadster-last-manually-driven-model/",
+  "source": "Motor1",
+  "ts": 1792124398.6871696
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yıllarca Süren Bekleyişin Ardından Tesla Roadster Çıktı",
+  "ozet": "Tesla'nın uzun süredir merakla beklenen tamamen elektrikli süperspor modeli nihayet resmi olarak tanıtıldı.",
+  "puan": 9.0,
+  "grup": "tesla-roadster-reveal-october",
+  "link": "https://www.motor1.com/news/812150/new-tesla-roadster-revealed/",
+  "source": "Motor1",
+  "ts": 1792124398.6871696
+ },
+ {
+  "cat": "araba",
+  "baslik": "LeBron James'in Maybach S-Class'ı Açık Artırmada",
+  "ozet": "Gooding Christie's Retromobile müzayedesinde, LeBron James'in vakfı için üretilen ikiz model olan özel Maybach S680 satışa çıkıyor.",
+  "puan": 3.0,
+  "grup": "lebron-james-maybach-s-class-auction",
+  "link": "https://www.motor1.com/news/812084/lebron-james-mercedes-maybach-s/",
+  "source": "Motor1",
+  "ts": 1792124398.6871696
  }
 ]
