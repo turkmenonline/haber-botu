@@ -1,186 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Küresel Güneş Enerjisi Patlaması",
-  "ozet": "Dünya genelindeki güneş enerjisi artışı, elektrikli araçlara geçişi destekleyen elektrik şebekesi ekonomisini hızla değiştiriyor.",
-  "puan": 4.5,
-  "grup": "global-solar-power-ev-transition",
-  "link": "https://www.jalopnik.com/2287047/worldwide-boom-in-solar-power-brings-hope/",
-  "source": "Jalopnik",
-  "ts": 1792011368.4647133
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Mercedes-Benz GLC400 Elektrikli Test Edildi",
-  "ozet": "Elektrikli GLC varyantı; uzun menzil, gelişmiş kabin teknolojisi, devasa 39.1 inç ekran ve büyük bir panjur sunuyor.",
-  "puan": 6.5,
-  "grup": "2027-mercedes-benz-glc-electric",
-  "link": "https://www.caranddriver.com/reviews/a70790815/2027-mercedes-benz-glc400-ev-drive/",
-  "source": "Car and Driver",
-  "ts": 1792011368.4647133
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Mercedes-Benz GLC EV İç Mekan Fotoğrafları",
-  "ozet": "Yeni 2027 model Mercedes-Benz GLC EV'nin iç mekanını her açıdan inceleyin.",
-  "puan": 5.0,
-  "grup": "2027-mercedes-benz-glc-electric",
-  "link": "https://www.caranddriver.com/photos/g70780985/2027-mercedes-benz-glc-ev-drive-interior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1792011368.4647133
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Mercedes-Benz GLC EV Dış Mekan Fotoğrafları",
-  "ozet": "Yeni 2027 model Mercedes-Benz GLC EV'nin dış tasarımını her açıdan görün.",
-  "puan": 5.0,
-  "grup": "2027-mercedes-benz-glc-electric",
-  "link": "https://www.caranddriver.com/photos/g70780970/2027-mercedes-benz-glc-ev-drive-exterior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1792011368.4647133
- },
- {
-  "cat": "araba",
-  "baslik": "Zenos E10 Spor Otomobil Geri Döndü",
-  "ozet": "Zenos, 380 beygire kadar güç ve manuel şanzıman seçenekleriyle hafif yapılı E10 modelini yeniden hayata geçiriyor.",
-  "puan": 8.0,
-  "grup": "zenos-e10-sports-car-return",
-  "link": "https://www.motor1.com/news/811923/zenos-e10-returns-385-hp/",
-  "source": "Motor1",
-  "ts": 1792011368.4647133
- },
- {
-  "cat": "araba",
-  "baslik": "Porsche'nin Yeni Benzinli Macan Alternatifi Gizleniyor",
-  "ozet": "Octan adını alabileceği söylenen yeni kompakt crossover, 2028'de dört silindirli, V6 ve hibrit seçenekleriyle tanıtılacak.",
-  "puan": 7.5,
-  "grup": "porsche-gas-macan-replacement-octan",
-  "link": "https://www.jalopnik.com/2287002/porsche-gas-powered-macan-replacement-widebody-audi-q5-test-mule-spied/",
-  "source": "Jalopnik",
-  "ts": 1792011368.4647133
- },
- {
-  "cat": "araba",
-  "baslik": "Nissan Altima 2027 Modeliyle Devam Ediyor",
-  "ozet": "Altima artık 29,065 dolardan başlıyor ve baz SV donanımında dört tekerlekten çekiş seçeneğini kaybediyor.",
-  "puan": 4.0,
-  "grup": "nissan-altima-2027-price-update",
-  "link": "https://www.motor1.com/news/811971/2027-nissan-altima-price-engines-trims-specs/",
-  "source": "Motor1",
-  "ts": 1792011368.4647133
- },
- {
-  "cat": "araba",
-  "baslik": "Kawasaki Versys 900 Sport Tourer Segmentinde",
-  "ozet": "Kawasaki yeni motosikletinde macera yerine cadde odaklı bir strateji izleyerek pazar trendlerini takip ediyor.",
-  "puan": 5.5,
-  "grup": "kawasaki-versys-900-debut",
-  "link": "https://www.jalopnik.com/2286911/kawasaki-versys-900-sport-tourer-bike-revealed/",
-  "source": "Jalopnik",
-  "ts": 1792011368.4647133
- },
- {
-  "cat": "araba",
-  "baslik": "2026 Hyundai Palisade İçin Uygun Kiralama Fırsatı",
-  "ozet": "En çok övülen üç sıra koltuklu SUV'lerden biri için aylık yaklaşık 250 dolara cazip bir kiralama anlaşması yapılabilir.",
-  "puan": 2.5,
-  "grup": "hyundai-palisade-lease-deal",
-  "link": "https://www.thedrive.com/news/lease-hack-lands-you-in-a-2026-hyundai-palisade-for-about-250-a-month",
-  "source": "The Drive",
-  "ts": 1792011368.4647133
- },
- {
-  "cat": "araba",
-  "baslik": "2028 Alfa Romeo Stelvio Hakkında Bilinenler",
-  "ozet": "Yeni nesil Alfa Romeo Stelvio hakkında şu ana kadar ortaya çıkan detaylar ve beklentiler.",
-  "puan": 6.5,
-  "grup": "2028-alfa-romeo-stelvio-details",
-  "link": "https://www.caranddriver.com/alfa-romeo/stelvio-2028",
-  "source": "Car and Driver",
-  "ts": 1792011368.4647133
- },
- {
-  "cat": "araba",
-  "baslik": "Yunanistan Korint Kanalı Batabilir Köprüleri",
-  "ozet": "Korint Kanalı'ndaki suya batabilen köprüler, pek mantıklı görünmese de iş başında izlemesi büyüleyici bir mühendislik çözümü.",
-  "puan": 3.0,
-  "grup": "greece-corinth-canal-submersible-bridges",
-  "link": "https://www.jalopnik.com/2286780/greece-corinth-canal-submersible-bridge/",
-  "source": "Jalopnik",
-  "ts": 1792011368.4647133
- },
- {
-  "cat": "araba",
-  "baslik": "Elektrikli Corvette Modeli Gelecek",
-  "ozet": "GM performans şefi Tony Roma, Corvette'in bir gün tamamen elektrikli olacağını ancak bunun bugün gerçekleşmeyeceğini belirtti.",
-  "puan": 7.5,
-  "grup": "chevrolet-corvette-next-gen-details",
-  "link": "https://www.thedrive.com/news/an-electric-corvette-is-still-coming-gm-wont-say-when",
-  "source": "The Drive",
-  "ts": 1792011368.4647133
- },
- {
-  "cat": "araba",
-  "baslik": "Yeni Volvo EX60 ABD'de 2027'ye Kadar Nadir Olabilir",
-  "ozet": "Siparişlerin açılmasının ardından birkaç EX60 ABD'ye ulaşsa da üretim aksaklıkları nedeniyle çoğunlukla gecikebilir.",
-  "puan": 5.5,
-  "grup": "volvo-ex60-test-drive",
-  "link": "https://www.caranddriver.com/news/a74134828/2027-volvo-ex60-production-issues-report/",
-  "source": "Car and Driver",
-  "ts": 1792011368.4647133
- },
- {
-  "cat": "araba",
-  "baslik": "2026 Alfa Romeo Giulia Fotoğrafları",
-  "ozet": "2026 model Alfa Romeo Giulia sedan modelinin iç ve dış tasarım detaylarını fotoğraflarla inceleyin.",
-  "puan": 5.0,
-  "grup": "2026-alfa-romeo-giulia-photos",
-  "link": "https://www.caranddriver.com/photos/a74135322/2026-alfa-romeo-giulia-buyers-guide-gallery/",
-  "source": "Car and Driver",
-  "ts": 1792011368.4647133
- },
- {
-  "cat": "araba",
-  "baslik": "2026 Alfa Romeo Stelvio Veloce Fotoğrafları",
-  "ozet": "2026 Alfa Romeo Stelvio Veloce modelinin iç ve dış mekan görsellerine göz atın.",
-  "puan": 5.0,
-  "grup": "2026-alfa-romeo-stelvio-veloce",
-  "link": "https://www.caranddriver.com/photos/a74135324/2026-alfa-romeo-stelvio-veloce-buyers-guide-gallery/",
-  "source": "Car and Driver",
-  "ts": 1792011368.4647133
- },
- {
-  "cat": "araba",
-  "baslik": "Ford Nürburgring Rekorunu Aldı, Corvette Planlamıyor",
-  "ozet": "GM performans ekibi Nürburgring yerine Pikes Peak'e odaklandıklarını ve şimdilik bir rövanş planlamadıklarını açıkladı.",
-  "puan": 6.0,
-  "grup": "ford-nurburgring-record-corvette-stance",
-  "link": "https://www.thedrive.com/news/ford-retook-the-nurburgring-record-corvette-isnt-planning-a-rematch",
-  "source": "The Drive",
-  "ts": 1792011368.4647133
- },
- {
-  "cat": "f1",
-  "baslik": "Horner, Red Bull'da Alonso ve Leclerc'i İstemiş",
-  "ozet": "Christian Horner'ın yeni kitabında, Red Bull'un 2025 koltuğu için Fernando Alonso ve Charles Leclerc'i eşit derecede istediği ancak Helmut Marko engeliyle karşılaştığı ortaya çıktı.",
-  "puan": 6.0,
-  "grup": "christian-horner-red-bull-exit",
-  "link": "https://www.motorsport.com/f1/news/christian-horner-wanted-fernando-alonso-and-charles-leclerc-at-red-bull/10865251/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792011368.4647133
- },
- {
-  "cat": "f1",
-  "baslik": "Horner, Red Bull Motor Fabrikasında Mercedes Adını Yasaklamış",
-  "ozet": "Eski Red Bull takım patronu Christian Horner, kendi F1 motor projelerini geliştirirken güç ünitesi bölümündeki çalışanların Mercedes adını anmasını neden yasakladığını açıkladı.",
-  "puan": 5.5,
-  "grup": "red-bull-powertrain-development",
-  "link": "https://www.motorsport.com/f1/news/why-horner-banned-mercedes-name-as-red-bull-built-its-own-f1-engine/10864996/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792011368.4647133
- },
- {
-  "cat": "araba",
   "baslik": "İkinci El Ford F-150 Lightning İlgi Görüyor",
   "ozet": "Üretimi durdurulan F-150 Lightning, orijinal fiyatının yarı yarıya düşmesiyle ikinci el pazarında yoğun talep görmeye başladı.",
   "puan": 4.5,
@@ -1838,5 +1658,145 @@
   "link": "https://www.motorsport.com/f1/news/why-mercedes-switched-george-russell-to-its-old-f1-car-spec-in-singapore/10865660/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1792173420.9374137
+ },
+ {
+  "cat": "araba",
+  "baslik": "Araba Tamir Maliyetleri Enflasyonun İki Katı Hızla Artıyor",
+  "ozet": "Yeni araç almanın maliyeti artarken, eski aracı tamir ettirmek de enflasyondan çok daha hızlı bir şekilde pahalılaşıyor.",
+  "puan": 5.5,
+  "grup": "car-repair-costs-inflation",
+  "link": "https://www.jalopnik.com/2289134/car-repair-costs-risen-twice-fast-inflation/",
+  "source": "Jalopnik",
+  "ts": 1792184220.960333
+ },
+ {
+  "cat": "araba",
+  "baslik": "Araç Yağ Değişiminde Yapılabilecek Hatalar",
+  "ozet": "Rutin bakım olan yağ değişimi sırasında yapılacak basit hatalar motor hasarına ve masraflı onarımlara yol açabilir.",
+  "puan": 2.5,
+  "grup": "car-oil-change-maintenance-guide",
+  "link": "https://www.motor1.com/features/812056/what-happens-during-an-oil-change/",
+  "source": "Motor1",
+  "ts": 1792184220.960333
+ },
+ {
+  "cat": "araba",
+  "baslik": "Porsche CEO'sundan Manuel Vites Açıklaması",
+  "ozet": "Porsche CEO'su Michael Leiters, Mission S platformunun manuel şanzımanla uyumlu olduğunu ve gelecekteki üretimin müşteri talebine göre şekilleneceğini belirtti.",
+  "puan": 7.0,
+  "grup": "porsche-mission-s-supercar",
+  "link": "https://www.caranddriver.com/news/a74163104/porsche-mission-s-manual-transmission-compatible/",
+  "source": "Car and Driver",
+  "ts": 1792184220.960333
+ },
+ {
+  "cat": "araba",
+  "baslik": "Otomobil Severler İçin Hediye Rehberi",
+  "ozet": "Otomobil tutkunları için editörler tarafından seçilen en iyi hediye fikirleri bu rehberde bir araya getirildi.",
+  "puan": 1.5,
+  "grup": "car-lovers-gift-guide",
+  "link": "https://www.caranddriver.com/shopping-advice/g41300371/best-gifts-for-car-lovers-enthusiasts/",
+  "source": "Car and Driver",
+  "ts": 1792184220.960333
+ },
+ {
+  "cat": "araba",
+  "baslik": "Elektrikli Araç Sahibi Olmak İçin En İyi ve En Kötü Şehirler",
+  "ozet": "Yeni bir çalışma, ABD şehirlerini şarj istasyonu sayılarına göre sıralayarak altyapıdaki büyük uçurumu gözler önüne serdi.",
+  "puan": 4.5,
+  "grup": "ev-ownership-city-charging-study",
+  "link": "https://www.motor1.com/news/812282/best-worst-cities-for-evs-study/",
+  "source": "Motor1",
+  "ts": 1792184220.960333
+ },
+ {
+  "cat": "araba",
+  "baslik": "2026 Ford F-150 STX Lobo'nun İç Mekan Fotoğrafları",
+  "ozet": "2026 model Ford F-150 STX Lobo'nun iç mekanını farklı açılardan detaylıca inceleyin.",
+  "puan": 4.0,
+  "grup": "2026-ford-f150-stx-lobo",
+  "link": "https://www.caranddriver.com/photos/a74102731/2026-ford-f-150-stx-lobo-test-interior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1792184220.960333
+ },
+ {
+  "cat": "araba",
+  "baslik": "2026 Ford F-150 STX Lobo'nun Dış Tasarım Fotoğrafları",
+  "ozet": "2026 model Ford F-150 STX Lobo'nun dış tasarımını her açısıyla keşfedin.",
+  "puan": 4.0,
+  "grup": "2026-ford-f150-stx-lobo",
+  "link": "https://www.caranddriver.com/photos/a74102719/2026-ford-f-150-stx-lobo-test-exterior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1792184220.960333
+ },
+ {
+  "cat": "araba",
+  "baslik": "2026 Ford F-150 STX Lobo Test Sürüşü",
+  "ozet": "Ford'un 5.0 litrelik V8 motoru hala başarılı olsa da, performans artışı sunmayan STX Lobo bazı eksiklikler hisseddiriyor.",
+  "puan": 5.0,
+  "grup": "2026-ford-f150-stx-lobo",
+  "link": "https://www.caranddriver.com/reviews/a74132962/2026-ford-f-150-stx-lobo-test/",
+  "source": "Car and Driver",
+  "ts": 1792184220.960333
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ford Ranger'a 800 Beygirlik Godzilla V8 Motor Swap'i",
+  "ozet": "511 kübik inçlik devasa Godzilla V8 motoruyla donatılan bu Ford Ranger, çeyrek mili deviren güçlü bir canavara dönüşüyor.",
+  "puan": 7.5,
+  "grup": "ford-ranger-godzilla-v8-swap",
+  "link": "https://www.thedrive.com/news/cramming-a-511-cubic-inch-godzilla-v8-into-a-ford-ranger-is-a-great-way-to-go-fast",
+  "source": "The Drive",
+  "ts": 1792184220.960333
+ },
+ {
+  "cat": "araba",
+  "baslik": "Bolivyalı Çiftçi Plastik Atıkları Traktör Yakıtına Dönüştürdü",
+  "ozet": "Daha ucuz alternatifler arayan bir çiftçi, plastik atıkları işleyerek piyasa fiyatının yarısına traktörleri için yakıt üretiyor.",
+  "puan": 6.0,
+  "grup": "plastic-waste-to-fuel-farmer",
+  "link": "https://www.jalopnik.com/2287087/bolivian-farmer-turns-plastic-waste-into-tractor-fuel/",
+  "source": "Jalopnik",
+  "ts": 1792184220.960333
+ },
+ {
+  "cat": "araba",
+  "baslik": "Araba Anahtarlığınızın Menzilini Etkileyen Faktörler",
+  "ozet": "Aracınızın anahtarlık kumandası sandığınızdan daha uzak mesafelerden çalışabilir ancak bazı unsurlar bu menzili düşürebilir.",
+  "puan": 2.0,
+  "grup": "car-key-fob-range-tips",
+  "link": "https://www.motor1.com/features/812265/how-far-can-key-fobs-work-range/",
+  "source": "Motor1",
+  "ts": 1792184220.960333
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yağmurda Honda Prelude Test Sürüşü",
+  "ozet": "Karmaşık hibrit sistemi ve 200 beygir gücüne rağmen Honda Prelude, ıslak zeminlerde eğlenceli bir sürüş deneyimi sunuyor.",
+  "puan": 5.5,
+  "grup": "honda-prelude-test-drive",
+  "link": "https://www.thedrive.com/news/i-drove-the-honda-prelude-hard-in-the-rain-and-found-out-what-the-haters-are-missing",
+  "source": "The Drive",
+  "ts": 1792184220.960333
+ },
+ {
+  "cat": "f1",
+  "baslik": "Liam Lawson'dan Austin'deki Konser Öncesi Özel Gitar",
+  "ozet": "Racing Bulls pilotu Liam Lawson, ABD Grand Prix'si öncesinde Austin'de gerçekleştireceği canlı müzik performansı için Taylor Guitars iş birliğiyle özel bir gitar tanıttı.",
+  "puan": 3.0,
+  "grup": "liam-lawson-us-gp-music-performance",
+  "link": "https://www.motorsport.com/f1/news/liam-lawson-unveils-limited-edition-guitar-ahead-of-austin-live-performance/10865745/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792184220.960333
+ },
+ {
+  "cat": "f1",
+  "baslik": "Max Verstappen'in Portimao GT Seansında Zorlu Sıralaması",
+  "ozet": "Max Verstappen ve takım arkadaşları, Portimao'daki GT World Challenge yarışına 15. sıradan başlayacak.",
+  "puan": 4.5,
+  "grup": "max-verstappen-portimao-gt-qualifying",
+  "link": "https://www.the-race.com/gt/verstappen-has-troubled-qualifying-in-latest-gt-outing/",
+  "source": "The Race",
+  "ts": 1792184220.960333
  }
 ]
