@@ -1,76 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "DeLorean, Elektrikli Uçan Araba Yarışlarına Katılıyor",
-  "ozet": "DeLorean, Airspeeder Uluslararası Serisi'nde ABD takımını çalıştırarak gökyüzüne adım atıyor. Önce Mk3C yarış aracını kullanacak, ardından kendi hava aracını geliştirecek.",
-  "puan": 7.0,
-  "grup": "delorean-electric-flying-car-racing",
-  "link": "https://www.motor1.com/news/811861/delorean-enters-airspeeder-electric-flying/",
-  "source": "Motor1",
-  "ts": 1791960404.0941644
- },
- {
-  "cat": "araba",
-  "baslik": "ZF Lifetec'ten Hatalı Emniyet Kemerini Tespit Eden Kızılötesi Sistem",
-  "ozet": "ZF Lifetec'in yeni kızılötesi kemeri, kamera tabanlı sistemlerin emniyet kemerini doğru takıp takmadığınızı görmesini sağlıyor. AB'nin sıkılaşan güvenlik yasaları ve Euro NCAP'in dikkat izleme odaklı testleri bu teknolojiyi öne çıkarıyor.",
-  "puan": 6.5,
-  "grup": "zf-lifetec-infrared-seatbelt-system",
-  "link": "https://www.autocar.co.uk/car-news/technology/buckle-seatbelt-knows-if-youre-wearing-it-wrong",
-  "source": "Autocar",
-  "ts": 1791960404.0941644
- },
- {
-  "cat": "araba",
-  "baslik": "Polestar'ın 2026 ABD Envanteri Yasak Yaklaşırken Tükeniyor",
-  "ozet": "ABD'li alıcılar, Bağlantılı Araç Kuralı yeni satışları kesmeden önce son Polestar 3 ve Polestar 4 modellerini hızla satın alıyor.",
-  "puan": 5.5,
-  "grup": "polestar-us-inventory-ban-2026",
-  "link": "https://www.motor1.com/news/811784/polestar-2026-us-inventory-almost/",
-  "source": "Motor1",
-  "ts": 1791960404.0941644
- },
- {
-  "cat": "araba",
-  "baslik": "Volkswagen Ürün Gamını Doğal Geçişle Yarıya İndirecek",
-  "ozet": "Volkswagen CEO'su Thomas Schäfer, elektrifikasyon sürecinin bir parçası olarak model yelpazesinin zamanla doğal geçişle küçültüleceğini açıkladı. Şirket, portföyündeki model ve varyant sayısını azaltmayı hedefliyor.",
-  "puan": 7.5,
-  "grup": "volkswagen-lineup-reduction-schafer",
-  "link": "https://www.autocar.co.uk/car-news/motor-shows-paris-motor-show/volkswagen-gradually-halve-line-through-natural-transition",
-  "source": "Autocar",
-  "ts": 1791960404.0941644
- },
- {
-  "cat": "araba",
-  "baslik": "Jaguar Type 01 Lüks Elektrikli Dönüşümünü New York'ta Tanıttı",
-  "ozet": "Yıllar süren hazırlıkların ardından Jaguar, tamamen elektrikli lüks bir markaya dönüşümünü New York'ta düzenlenen özel bir etkinlikle gözler önüne serdi.",
-  "puan": 8.0,
-  "grup": "jaguar-type-01-ev-debut",
-  "link": "https://www.autocar.co.uk/car-news/features/jaguar-type-01-what-really-happened-when-wraps-came",
-  "source": "Autocar",
-  "ts": 1791960404.0941644
- },
- {
-  "cat": "araba",
-  "baslik": "Okuyucuların Garajlarındaki İlginç Araçlar ve Projeler",
-  "ozet": "Otomobil severler garajlarında çeşitli eğlenceli proje arabaları, günlük araçlar, alet kutuları ve hatta motosikletler bulunduruyor.",
-  "puan": 2.0,
-  "grup": "readers-garage-project-cars-list",
-  "link": "https://www.jalopnik.com/2285703/whats-in-your-garage-right-now-reader-answers/",
-  "source": "Jalopnik",
-  "ts": 1791960404.0941644
- },
- {
-  "cat": "araba",
-  "baslik": "2027 BMW M760, V8 Motoru Büyük Lüks Sedana Geri Getiriyor",
-  "ozet": "760i modelinin yerini alacak olan yeni M Performance serisi 7 serisi, yaklaşık 570 beygir güç üreten bir V8 motorla geliyor.",
-  "puan": 8.5,
-  "grup": "2027-bmw-m760-v8-luxury-sedan",
-  "link": "https://www.caranddriver.com/news/a74126337/2027-bmw-m760-xdrive-v8-revealed/",
-  "source": "Car and Driver",
-  "ts": 1791960404.0941644
- },
- {
-  "cat": "araba",
   "baslik": "1987 Model Nissan Be-1 Satışta",
   "ozet": "Düşük güç ve konfora sahip sevimli tasarımlı 1987 model Nissan Be-1, 9.500 dolar fiyatla alıcı arıyor.",
   "puan": 2.5,
@@ -1868,5 +1798,125 @@
   "link": "https://www.motor1.com/news/812084/lebron-james-mercedes-maybach-s/",
   "source": "Motor1",
   "ts": 1792124398.6871696
+ },
+ {
+  "cat": "araba",
+  "baslik": "Maserati GT2 Stradale Fuoriserie Tanıtıldı",
+  "ozet": "Maserati, MC12 yarış otomobiline göndermeler yapan ve özel Blu Victory rengine sahip tek seferlik GT2 Stradale Fuoriserie modelini tanıttı.",
+  "puan": 7.5,
+  "grup": "maserati-gt2-stradale-fuoriserie-one-off",
+  "link": "https://www.motor1.com/news/812203/maserati-gt2-stradale-fuoriserie-honors/",
+  "source": "Motor1",
+  "ts": 1792141606.9301994
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Tesla Roadster'ın Tasarımı Konseptten Farklı",
+  "ozet": "Tesla, dokuz yıllık geliştirme sürecinin ardından yeni Roadster'ı daha keskin ve köşeli bir tasarımla güncelledi.",
+  "puan": 8.0,
+  "grup": "tesla-roadster-reveal-october",
+  "link": "https://www.motor1.com/news/812197/new-tesla-roadster-design/",
+  "source": "Motor1",
+  "ts": 1792141606.9301994
+ },
+ {
+  "cat": "araba",
+  "baslik": "Tesla Roadster'dan Havada Takla Gösterisi",
+  "ozet": "Texas'taki bir SpaceX tesisinde gerçekleştirilen test gösterisinde Tesla Roadster, soğuk gaz iticileri kullanarak bağlı bir şekilde havada takla attı.",
+  "puan": 7.5,
+  "grup": "tesla-roadster-reveal-october",
+  "link": "https://www.motor1.com/news/812195/tesla-roadster-stunt-2028-production/",
+  "source": "Motor1",
+  "ts": 1792141606.9301994
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Kia Sorento Hybrid Fiyatlandırıldı",
+  "ozet": "2027 model Kia Sorento Hybrid, yeni X-Line EX donanım paketiyle birlikte 39.090 dolardan başlayan fiyatlarla satışa sunuldu.",
+  "puan": 5.0,
+  "grup": "2027-kia-sorento-hybrid-pricing",
+  "link": "https://www.motor1.com/news/812181/2027-kia-sorento-hybrid-pricing/",
+  "source": "Motor1",
+  "ts": 1792141606.9301994
+ },
+ {
+  "cat": "araba",
+  "baslik": "Toyota'dan Yenilenebilir Yakıtlı Araçlar İçin 'VEEF' Kategorisi Önerisi",
+  "ozet": "Toyota, Avrupa'da yenilenebilir yakıtlarla çalışan içten yanmalı motorlu araçların elektrikli araçlarla aynı teşviklerden yararlanması için 'VEEF' adında yeni bir kategori önerdi.",
+  "puan": 7.5,
+  "grup": "toyota-veef-renewable-fuel-category",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/veef-toyota-proposes-new-category-ice-cars-using-renewable-fuel",
+  "source": "Autocar",
+  "ts": 1792141606.9301994
+ },
+ {
+  "cat": "araba",
+  "baslik": "Porsche Mission S Süper Otomobilin Öne Çıkan Özellikleri",
+  "ozet": "Porsche Mission S, sürücü odaklı kokpiti ve 'On Your Own' butonu gibi yenilikçi detaylarıyla klasik spor araba hissini modern teknolojiyle birleştiriyor.",
+  "puan": 8.5,
+  "grup": "porsche-mission-s-supercar",
+  "link": "https://www.motor1.com/news/812165/porsche-mission-s-supercar-features/",
+  "source": "Motor1",
+  "ts": 1792141606.9301994
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Nesil Tesla Roadster Uçma Yeteneğiyle Tanıtıldı",
+  "ozet": "Dokuz yıllık bir bekleyişin ardından tanıtılan yeni nesil Tesla Roadster, dünyanın en hızlı hızlanan elektrikli hiper otomobili olmasının yanı sıra kısa süreliğine uçabileceği iddia ediliyor.",
+  "puan": 9.0,
+  "grup": "tesla-roadster-reveal-october",
+  "link": "https://www.autocar.co.uk/car-news/electric-cars/tesla-roadster-revealed-new-electric-hypercar-%E2%80%93-can-fly",
+  "source": "Autocar",
+  "ts": 1792141606.9301994
+ },
+ {
+  "cat": "araba",
+  "baslik": "Dubai Polisi Filosuna Lamborghini Temerario Ekledi",
+  "ozet": "Dubai Polisi, yüksek hızlı takiplerden ziyade turizm ve tanıtım amaçlı kullanılacak 920 beygir gücündeki hibrit Lamborghini Temerario'yu filosuna kattı.",
+  "puan": 6.0,
+  "grup": "dubai-police-lamborghini-temerario",
+  "link": "https://www.motor1.com/news/812164/dubai-police-lamborghini-temerario-tourist/",
+  "source": "Motor1",
+  "ts": 1792141606.9301994
+ },
+ {
+  "cat": "f1",
+  "baslik": "Komatsu'dan Rafael Camara Açıklaması",
+  "ozet": "Haas Takım Patronu Ayao Komatsu, Rafael Camara'yı 2027 sezonu için transfer etmelerindeki etkenleri anlattı.",
+  "puan": 7.5,
+  "grup": "haas-camara-2027-signing",
+  "link": "https://www.formula1.com/en/latest/article/exclusive-we-see-huge-potential-komatsu-explains-haas-camara-signing-and-whos-likely-to-partner-him.1UnMir55PpgFWVwqGsny4k",
+  "source": "Formula1.com",
+  "ts": 1792141606.9301994
+ },
+ {
+  "cat": "f1",
+  "baslik": "Test Günü Haas'ın 2027 Kararını Değiştirdi",
+  "ozet": "Haas, kendi eski araç test programını başlatmasaydı 2027 pilot kadrosu için farklı bir seçim yapabilirdi.",
+  "puan": 6.0,
+  "grup": "haas-camara-2027-signing",
+  "link": "https://www.the-race.com/formula-1/why-one-f1-test-day-decided-2027-haas-driver-choice/",
+  "source": "The Race",
+  "ts": 1792141606.9301994
+ },
+ {
+  "cat": "f1",
+  "baslik": "F2'den Savaş Gölgesine Rağmen Takvim Kararı",
+  "ozet": "Formula 2 CEO'su Bruno Michel, Orta Doğu'daki çatışmalara rağmen sezon sonu Katar ve Abu Dabi yarışlarının iptal edilmeyeceğini açıkladı.",
+  "puan": 5.5,
+  "grup": "f2-middle-east-calendar-2026",
+  "link": "https://www.motorsport.com/fia-f2/news/f2-rebuffs-suggestion-it-might-already-have-a-2026-champion-because-of-the-iran-war/10865537/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792141606.9301994
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen Singapur Zaferiyle Rekora Yaklaştı",
+  "ozet": "Max Verstappen, Singapur'daki galibiyetiyle henüz kazanmadığı tek pist olan kalan tek yarışa bir adım daha yaklaştı.",
+  "puan": 5.0,
+  "grup": "singapore-gp-race-result",
+  "link": "https://www.racefans.net/2026/10/16/singapore-victory-leaves-verstappen-one-win-away-from-a-full-set-but-not-for-long/",
+  "source": "RaceFans",
+  "ts": 1792141606.9301994
  }
 ]
