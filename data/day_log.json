@@ -1798,5 +1798,35 @@
   "link": "https://www.the-race.com/gt/verstappen-has-troubled-qualifying-in-latest-gt-outing/",
   "source": "The Race",
   "ts": 1792184220.960333
+ },
+ {
+  "cat": "f1",
+  "baslik": "Collins'ten Hamilton ve Ferrari Açıklaması",
+  "ozet": "Eski F1 stratejisti Bernie Collins, Singapur GP'sinin ardından Lewis Hamilton ile Ferrari pit duvarı arasında artan bir güven eksikliği olduğunu belirtti.",
+  "puan": 4.5,
+  "grup": "bernie-collins-hamilton-ferrari-trust",
+  "link": "https://www.motorsport.com/f1/news/bernie-collins-warns-of-growing-trust-issues-between-lewis-hamilton-and-ferrari/10865751/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792193294.244363
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ferrari'den Eğlenceli Sosyal Medya Videosu",
+  "ozet": "Ferrari, Singapur GP hafta sonunda Lewis Hamilton ve Charles Leclerc'in takımın sosyal medya hesaplarını devraldığı eğlenceli ve kaotik arkasındaki kamera görüntülerini yayınladı.",
+  "puan": 2.0,
+  "grup": "ferrari-hamilton-leclerc-social-media",
+  "link": "https://www.motorsport.com/f1/news/ferrari-releases-chaotic-footage-of-lewis-hamilton-and-charles-leclercs-social-media-takeover/10865748/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792193294.244363
+ },
+ {
+  "cat": "f1",
+  "baslik": "Tarihte Bugün: Dan Wheldon'ın Kazası",
+  "ozet": "Las Vegas'taki IndyCar sezon finalinde IndyCar şampiyonu Dan Wheldon'ın hayatını kaybettiği korkunç kaza, tarihte bu gün anılıyor.",
+  "puan": 2.0,
+  "grup": "on-this-day-dan-wheldon-crash",
+  "link": "https://www.racefans.net/2026/10/16/on-this-day-wheldon-killed-in-indycar-horror-crash-at-las-vegas-finale/",
+  "source": "RaceFans",
+  "ts": 1792193294.244363
  }
 ]
