@@ -1,336 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "GM'den Camaro Açıklaması",
-  "ozet": "GM performans şefi Tony Roma, Camaro'nun geri dönmesi için büyük yatırımlara karşı rekabet etmesi gerektiğini belirtti.",
-  "puan": 5.5,
-  "grup": "chevrolet-camaro-return-future",
-  "link": "https://www.thedrive.com/news/camaros-on-hiatus-gm-says-ford-proves-mustang-has-a-market",
-  "source": "The Drive",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "araba",
-  "baslik": "Tom Cruise ARCA Yarışlarında Yer Alabilir mi?",
-  "ozet": "NASCAR CEO'su Steve O'Donnell, Tom Cruise'un bir 'Days Of Thunder' devam filmi için ARCA serisinde yarışma ihtimalini değerlendirdi.",
-  "puan": 2.5,
-  "grup": "tom-cruise-arca-days-of-thunder",
-  "link": "https://www.jalopnik.com/2286717/tom-cruise-wants-to-race-in-arca-for-days-of-thunder-sequel/",
-  "source": "Jalopnik",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "araba",
-  "baslik": "Boeing 737 İçinde Ford Maverick Taşındı",
-  "ozet": "Kanada'nın uzak bir bölgesindeki müşteriye ulaşım imkanlarının kısıtlı olması nedeniyle Ford Maverick kargo uçağıyla teslim edildi.",
-  "puan": 4.0,
-  "grup": "ford-maverick-boeing-737-transport",
-  "link": "https://www.thedrive.com/news/stuffing-a-ford-maverick-inside-a-boeing-737-isnt-easy-but-its-doable",
-  "source": "The Drive",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "araba",
-  "baslik": "Yeni DS F3VER Konsepti Tanıtıldı",
-  "ozet": "Gelecek nesil DS 3 hatchback modeline ışık tutan DS F3VER konsepti cesur tasarımıyla dikkat çekiyor.",
-  "puan": 5.0,
-  "grup": "ds-f3ver-concept-next-gen-ds3",
-  "link": "https://www.jalopnik.com/2286683/ds-f3ver-concept-reveal-paris-motor-show/",
-  "source": "Jalopnik",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "araba",
-  "baslik": "Traktör Red Bull Ring'de Rekor Kırdı",
-  "ozet": "Finli bir çiftlik traktörü, Red Bull Ring pistinde hız rekoru kırmayı başardı.",
-  "puan": 3.0,
-  "grup": "farm-tractor-red-bull-ring-record",
-  "link": "https://www.caranddriver.com/news/a74132890/farm-tractor-red-bull-ring-speed-record/",
-  "source": "Car and Driver",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "araba",
-  "baslik": "BMW'den Escalade Rakibi Yeni SUV",
-  "ozet": "Neue Klasse tasarım diline sahip olabilecek yeni BMW X9, Amerikan pazarı için amiral gemisi bir SUV olarak planlanıyor.",
-  "puan": 7.5,
-  "grup": "bmw-x9-flagship-suv-escalade-rival",
-  "link": "https://www.motor1.com/features/811944/bmw-x9-suv-specs-details-powertrain-price/",
-  "source": "Motor1",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "araba",
-  "baslik": "DeLorean Elektrikli Uçan Araba Yarışlarında",
-  "ozet": "Efsanevi marka DeLorean, tamamen elektrikli havadan yarış şampiyonası Airspeeder'da yarışacak ilk Amerikan üretici oluyor.",
-  "puan": 6.0,
-  "grup": "delorean-electric-flying-car-racing",
-  "link": "https://www.caranddriver.com/news/a74133768/delorean-airspeeder-electric-flying-car-racing-series/",
-  "source": "Car and Driver",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "araba",
-  "baslik": "2026 Hyundai Elantra N TCR İç Mekan Fotoğrafları",
-  "ozet": "2026 model Hyundai Elantra N TCR'ın iç mekan tasarımı detaylı fotoğraflarla görücüye çıktı.",
-  "puan": 4.5,
-  "grup": "hyundai-elantra-n-tcr-2026-photos",
-  "link": "https://www.caranddriver.com/photos/a74123250/2026-hyundai-elantra-n-tcr-test-interior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "araba",
-  "baslik": "2026 Hyundai Elantra N TCR Dış Mekan Fotoğrafları",
-  "ozet": "Motorsporlarından ilham alan 2026 Hyundai Elantra N TCR modelinin dış tasarımı tüm detaylarıyla sergilendi.",
-  "puan": 4.5,
-  "grup": "hyundai-elantra-n-tcr-2026-photos",
-  "link": "https://www.caranddriver.com/photos/a74123225/2026-hyundai-elantra-n-tcr-test-exterior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "araba",
-  "baslik": "Test Sürüşü: 2026 Hyundai Elantra N TCR",
-  "ozet": "Sınırlı sayıda üretilen motorsporları odaklı kompakt model, agresif görünümüne rağmen dengeli sürüşüyle öne çıkıyor.",
-  "puan": 6.5,
-  "grup": "hyundai-elantra-n-tcr-2026-photos",
-  "link": "https://www.caranddriver.com/reviews/a74091528/2026-hyundai-elantra-n-tcr-test/",
-  "source": "Car and Driver",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "araba",
-  "baslik": "Porsche Cayenne Electric Şarj Portu Detayı",
-  "ozet": "Elektrikli Porsche Cayenne, farklı amaçlar için kullanılan çift şarj portuyla kullanıcılarına yeni bir deneyim sunuyor.",
-  "puan": 5.0,
-  "grup": "porsche-cayenne-electric-charge-ports",
-  "link": "https://www.thedrive.com/news/want-to-charge-your-porsche-cayenne-electric-the-right-way-maybe-do-it-yourself",
-  "source": "The Drive",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "araba",
-  "baslik": "Çinli Üreticilerden Avrupa Fabrikalarına Yatırım",
-  "ozet": "Çinli otomobil üreticileri, katı ticaret yasalarını aşmak için Avrupa'daki fabrikalara yöneliyor.",
-  "puan": 7.0,
-  "grup": "chinese-automakers-european-factories",
-  "link": "https://www.jalopnik.com/2286474/chinese-automakers-use-european-factories-to-beat-isolationist-laws/",
-  "source": "Jalopnik",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "araba",
-  "baslik": "Okuyucuların Gençlere Yönelik Otomobil Fikirleri",
-  "ozet": "Otomobil tutkunları, gençlerin yeniden sürüş tutkusu kazanması için hayallerindeki ideal projeleri paylaştı.",
-  "puan": 2.0,
-  "grup": "readers-garage-project-cars-list",
-  "link": "https://www.jalopnik.com/2286130/youth-focused-car-programs-readers-would-create/",
-  "source": "Jalopnik",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "araba",
-  "baslik": "Gelecek Nesil Chevrolet Corvette Hakkında Açıklama",
-  "ozet": "Corvette baş mühendisi Tony Roma, C8 platformunun ömrü ve gelecekteki modellerin sınırları hakkında konuştu.",
-  "puan": 6.5,
-  "grup": "chevrolet-corvette-next-gen-details",
-  "link": "https://www.thedrive.com/podcast/the-next-corvette-is-coming-its-top-engineer-told-us-what-it-cant-be",
-  "source": "The Drive",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "araba",
-  "baslik": "Rivian R2'nin Arazi Lastikleri Asfaltta Şaşırttı",
-  "ozet": "Rivian R2 modelinin arazi lastiklerinin yol tutuşu ve frenlemede beklenmedik avantajlar sağladığı görüldü.",
-  "puan": 5.0,
-  "grup": "rivian-r2-all-terrain-tires-test",
-  "link": "https://www.caranddriver.com/news/a74107053/2027-rivian-r2-all-terrain-tire-test/",
-  "source": "Car and Driver",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "araba",
-  "baslik": "Renault CEO'sundan Platform Ortaklığı Uyarısı",
-  "ozet": "François Provost, Renault platformlarını kullanan ortak markaların tasarımlarında yeterince farklılaşması gerektiğini vurguladı.",
-  "puan": 6.0,
-  "grup": "renault-platform-partner-differentiation",
-  "link": "https://www.autocar.co.uk/car-news/motor-shows-paris-motor-show/renault-ceo-rival-firms-using-our-platform-must-make-their",
-  "source": "Autocar",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "araba",
-  "baslik": "En Saf Baz Model Otomobiller Hangileri?",
-  "ozet": "Geçmişten günümüze en sade ve donanımsız giriş seviyesi otomobil detayları nostaljik bir bakışla ele alındı.",
-  "puan": 2.0,
-  "grup": "base-model-cars-history-nostalgia",
-  "link": "https://www.jalopnik.com/2286134/what-car-makes-it-most-obvious-you-bought-base-model-reader-question/",
-  "source": "Jalopnik",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "araba",
-  "baslik": "Araç İçi Temizlik Masraflarına Alternatif Çözüm",
-  "ozet": "TuxMat paspaslar, araç halılarını koruyarak uzun vadede detaylı temizlik masraflarından tasarruf etmenizi sağlıyor.",
-  "puan": 1.5,
-  "grup": "car-interior-protection-tuxmat",
-  "link": "https://www.thedrive.com/sponsored/detailing-costs-you-every-season-tuxmat-costs-you-once",
-  "source": "The Drive",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "araba",
-  "baslik": "Rétromobile New York ABD'ye Geliyor",
-  "ozet": "Dünyanın en önemli klasik araba fuarlarından Rétromobile, ilk ABD etkinliğiyle Amerika'daki otomobil severlerle buluşacak.",
-  "puan": 4.5,
-  "grup": "retromobile-new-york-debut",
-  "link": "https://www.jalopnik.com/2286205/retromobile-nyc-ceo-interview-worlds-best-car-show-in-america/",
-  "source": "Jalopnik",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "f1",
-  "baslik": "Laurent Mekies, 2031'e Kadar Red Bull'da Kalacak",
-  "ozet": "Red Bull, Takım Patronu Laurent Mekies'in sözleşmesini 2031 sonuna kadar uzattığını resmi olarak doğruladı.",
-  "puan": 8.0,
-  "grup": "laurent-mekies-red-bull-contract-extension",
-  "link": "https://www.formula1.com/en/latest/article/mekies-commits-to-long-term-contract-extension-as-red-bull-team-principal.1NfCP1Zas2IAzVa3sNa3yf",
-  "source": "Formula1.com",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "f1",
-  "baslik": "Freddie Hunt'tan Babası James Hunt'ın Mirası Üzerine Açıklamalar",
-  "ozet": "Freddie Hunt, Beyond The Grid podcast yayınında babası James Hunt'ın yarış yeteneğini, Niki Lauda ile dostluğunu ve F1'deki kalıcı etkisini değerlendirdi.",
-  "puan": 2.5,
-  "grup": "freddie-hunt-james-hunt-legacy",
-  "link": "https://www.formula1.com/en/latest/article/he-glamorised-the-sport-freddie-hunt-on-father-james-legacy-50-years-after-his-world-championship-triumph.UAidcqvfpEBQjBwmemKdP",
-  "source": "Formula1.com",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "f1",
-  "baslik": "Max Verstappen Singapur Zaferiyle Kazandığı Pist Sayısını 27'ye Çıkardı",
-  "ozet": "Max Verstappen, Singapur'daki Marina Bay Pisti'nde kariyerinin ilk zaferini elde ederek kazandığı farklı pist sayısını 27'ye yükseltti.",
-  "puan": 8.5,
-  "grup": "singapore-gp-race-result",
-  "link": "https://www.formula1.com/en/latest/article/the-27-circuits-verstappen-has-won-at-after-he-finally-triumphs-in-singapore.4BEyXdB3iqKR3unfWTWgAj",
-  "source": "Formula1.com",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "f1",
-  "baslik": "Mekies'ten Hadjar'ın Singapur'daki Sorunları İçin Özür",
-  "ozet": "Laurent Mekies, Singapur Grand Prix'sinde güvenilirlik sorunları yaşayan Isack Hadjar'dan özür diledi.",
-  "puan": 5.0,
-  "grup": "singapore-gp-hadjar-nightmare-weekend",
-  "link": "https://www.formula1.com/en/latest/article/mekies-admits-we-owe-him-one-after-red-bull-issues-ruin-hadjars-singapore-weekend.3SefuqCazWON4v6nv9gz6h",
-  "source": "Formula1.com",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "f1",
-  "baslik": "Netflix'in Schumacher '94 Belgeselinin Yapım Süreci Anlatıldı",
-  "ozet": "Yönetmen Christin Freitag, Michael Schumacher'in 1994 sezonunu yeniden canlandırmak için 1.300 saatlik arşiv görüntüsü ve röportaj kullandıklarını açıkladı.",
-  "puan": 2.0,
-  "grup": "schumacher-94-netflix-documentary",
-  "link": "https://www.formula1.com/en/latest/article/bringing-schumacher-94-to-life-the-story-behind-the-new-netflix-documentary.39iir7vodRPo6aXOtNkMrx",
-  "source": "Formula1.com",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "f1",
-  "baslik": "Red Bull'dan Laurent Mekies'e Uzun Vadeli Güvenoyu",
-  "ozet": "Red Bull, Laurent Mekies'in liderliğini 2031'e kadar uzatan yeni sözleşmeyle açıkça desteklediğini gösterdi.",
-  "puan": 8.0,
-  "grup": "laurent-mekies-red-bull-contract-extension",
-  "link": "https://www.the-race.com/formula-1/red-bull-f1-team-principal-laurent-mekies-deal-extended/",
-  "source": "The Race",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "f1",
-  "baslik": "Laurent Mekies Red Bull'daki Sözleşmesini 2031'e Kadar Uzattı",
-  "ozet": "Red Bull Takım Patronu Laurent Mekies, 2031 sezonunun sonuna kadar takımda kalmasını sağlayacak yeni bir sözleşmeye imza attı.",
-  "puan": 8.0,
-  "grup": "laurent-mekies-red-bull-contract-extension",
-  "link": "https://www.autosport.com/f1/news/laurent-mekies-extends-contract-as-red-bulls-f1-team-boss/10865235/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "f1",
-  "baslik": "Laurent Mekies Red Bull Takım Patronluğuna Devam Ediyor",
-  "ozet": "Laurent Mekies, Red Bull Formula 1 takımıyla olan sözleşmesini 2031 sonuna kadar uzattı.",
-  "puan": 8.0,
-  "grup": "laurent-mekies-red-bull-contract-extension",
-  "link": "https://www.motorsport.com/f1/news/laurent-mekies-extends-contract-as-red-bulls-f1-team-boss/10865232/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "f1",
-  "baslik": "Mekies 2031'e Kadar Red Bull'da Kalacak",
-  "ozet": "Laurent Mekies, Red Bull ile 2031 yılına kadar devam edecek yeni bir anlaşmaya imza attı.",
-  "puan": 8.0,
-  "grup": "laurent-mekies-red-bull-contract-extension",
-  "link": "https://www.racefans.net/2026/10/14/social-media-mekies-extends-contract-to-lead-red-bull-until-2031/",
-  "source": "RaceFans",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "f1",
-  "baslik": "Christian Horner Anı Kitabına Neden 2021 Abu Dabi GP ile Başladığını Açıkladı",
-  "ozet": "Eski Red Bull patronu Christian Horner, anı kitabı 'Drive'da neden çocukluk yılları yerine 2021 Abu Dabi Grand Prix'si ile başladığını açıkladı.",
-  "puan": 3.0,
-  "grup": "christian-horner-memoir-abu-dabi",
-  "link": "https://www.motorsport.com/f1/news/christian-horner-reveals-why-he-chose-2021-abu-dhabi-gp-to-open-his-memoir/10865209/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "f1",
-  "baslik": "Martin Brundle'dan Lewis Hamilton'ın Singapur Stratejisine Eleştiri",
-  "ozet": "Martin Brundle, 2026 Singapur Grand Prix'sinde pite girmemeyi tercih eden ve podyumu kaçıran Lewis Hamilton'ın stratejisini 'garip' olarak nitelendirdi.",
-  "puan": 6.0,
-  "grup": "singapore-gp-hamilton-strategy",
-  "link": "https://www.motorsport.com/f1/news/martin-brundle-reacts-to-bizarre-lewis-hamilton-singapore-gp-strategy-choice/10865194/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "f1",
-  "baslik": "George Russell En Sönük Sezon Öncesi Favori mi?",
-  "ozet": "The Race F1 Podcast'inde George Russell'ın sönük şampiyonluk mücadelesi ve Mercedes'in güncelleme stratejisi masaya yatırıldı.",
-  "puan": 4.0,
-  "grup": "george-russell-mercedes-podcast",
-  "link": "https://www.the-race.com/formula-1/podcast-is-geroge-russell-f1-most-underwhelming-pre-season-favourite/",
-  "source": "The Race",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "f1",
-  "baslik": "Christian Horner'dan Red Bull'dan Ayrılış Açıklaması",
-  "ozet": "Christian Horner, Red Bull'daki görevinden ayrılmasının arkasında takım üzerinde çok fazla nüfuza sahip olduğunun algılanmasının yatabileceğini belirtti.",
-  "puan": 6.5,
-  "grup": "christian-horner-red-bull-exit",
-  "link": "https://www.motorsport.com/f1/news/christian-horner-opens-up-on-red-bull-f1-exit-perhaps-it-was-perceived-i-had-too-much-influence-ove/10864999/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "f1",
-  "baslik": "Valentino Rossi'den Max Verstappen'in Portimao Katılımı İçin Uyarı",
-  "ozet": "Valentino Rossi, GT World Challenge Europe sezon finalinde aynı pisti paylaşacağı Max Verstappen'in büyük bir rakip olacağını belirtti.",
-  "puan": 3.5,
-  "grup": "max-verstappen-gt-portimao",
-  "link": "https://www.motorsport.com/f1/news/valentino-rossi-wary-of-max-verstappen-threat-at-portimao-big-problem/10865174/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1791999200.8362057
- },
- {
-  "cat": "araba",
   "baslik": "Küresel Güneş Enerjisi Patlaması",
   "ozet": "Dünya genelindeki güneş enerjisi artışı, elektrikli araçlara geçişi destekleyen elektrik şebekesi ekonomisini hızla değiştiriyor.",
   "puan": 4.5,
@@ -1888,5 +1558,285 @@
   "link": "https://www.motorsport.com/f1/news/ferrari-promotes-f2-racer-to-f1-reserve-driver-role/10865590/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1792158914.3151236
+ },
+ {
+  "cat": "araba",
+  "baslik": "Porsche Mission S Modelinde Analog Devir Saati",
+  "ozet": "Porsche'nin yeni süper otomobili Mission S, tamamen dijital ekranlar yerine lüks bir dijital detoks yaklaşımıyla analog bir devir saati iğnesine sahip.",
+  "puan": 8.5,
+  "grup": "porsche-mission-s-supercar",
+  "link": "https://www.thedrive.com/news/the-porsche-mission-s-has-an-analog-tach-needle-because-digital-detox-is-luxury-now",
+  "source": "The Drive",
+  "ts": 1792173420.9374137
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Tesla Roadster Gerçek Hissiyatı Veriyor",
+  "ozet": "Tesla'nın elektrikli Roadster modeli bu kez gerçeğe daha yakın hissediliyor ancak SpaceX iticilerinin yer alıp almayacağı belirsiz.",
+  "puan": 8.0,
+  "grup": "tesla-roadster-reveal-october",
+  "link": "https://www.caranddriver.com/news/a74159909/new-tesla-roadster-production-expectations/",
+  "source": "Car and Driver",
+  "ts": 1792173420.9374137
+ },
+ {
+  "cat": "araba",
+  "baslik": "Hyundai'den Yangın Riski Nedeniyle Geri Çağırma",
+  "ozet": "Hyundai, yangın riski taşıyan Genesis modelleri ve G80 sedanları içeren 95.000 aracını geri çağırdı ve sahiplerinden araçlarını dışarıda park etmelerini istedi.",
+  "puan": 8.5,
+  "grup": "hyundai-genesis-fire-recall",
+  "link": "https://www.caranddriver.com/news/a74158165/hyundai-genesis-sedan-fire-risk-recall/",
+  "source": "Car and Driver",
+  "ts": 1792173420.9374137
+ },
+ {
+  "cat": "araba",
+  "baslik": "Tesla Roadster Modelinin Yılan Hikayesine Dönen Geleceği",
+  "ozet": "Yıllardır beklenen Tesla Roadster'ın geleceği hala belirsizliğini korurken, yeni modelin çıkışı konusunda eleştiriler devam ediyor.",
+  "puan": 5.0,
+  "grup": "tesla-roadster-reveal-october",
+  "link": "https://www.jalopnik.com/2288906/tesla-roadster-vaporware-concept/",
+  "source": "Jalopnik",
+  "ts": 1792173420.9374137
+ },
+ {
+  "cat": "araba",
+  "baslik": "Porsche Mission S Süper Otomobilin Motor Sesi",
+  "ozet": "Yeni Porsche Mission S konseptinin gizemli motor sesi, sekiz silindirli bir ünite saklıyor olabileceğini düşündürendiriyor.",
+  "puan": 8.0,
+  "grup": "porsche-mission-s-supercar",
+  "link": "https://www.motor1.com/news/812264/porsche-mission-s-revving-engine-videos/",
+  "source": "Motor1",
+  "ts": 1792173420.9374137
+ },
+ {
+  "cat": "araba",
+  "baslik": "Tesla Roadster Tasarımı Tartışma Yaratıyor",
+  "ozet": "Tesla'nın yeni elektrikli spor otomobilinin tasarımı, dokuz yıl önceki ilk versiyondan oldukça farklı olduğu için ön sipariş sahiplerini kafasını karıştırıyor.",
+  "puan": 6.5,
+  "grup": "tesla-roadster-reveal-october",
+  "link": "https://www.caranddriver.com/news/a74158531/2029-tesla-roadster-design-changes/",
+  "source": "Car and Driver",
+  "ts": 1792173420.9374137
+ },
+ {
+  "cat": "araba",
+  "baslik": "Alfa Romeo'nun Gelecekteki Tasarım Planları",
+  "ozet": "Alfa Romeo'nun tasarım şefi Alejandro Mesonero, Cuorerosso konseptini ve markanın gelecekteki modellerini değerlendirdi.",
+  "puan": 5.5,
+  "grup": "alfa-romeo-detox-interiors-concept",
+  "link": "https://www.motor1.com/news/812258/alfa-romeo-cuorerosso-designer-interview-video/",
+  "source": "Motor1",
+  "ts": 1792173420.9374137
+ },
+ {
+  "cat": "araba",
+  "baslik": "550 Beygirlik Charger Scat Pack Performansı",
+  "ozet": "Dodge Charger Scat Pack, geniş gövde duruşu ve güçlü çift turbolu sıralı altı silindirli motoruyla yüksek performans sunuyor.",
+  "puan": 7.5,
+  "grup": "dodge-charger-scat-pack-performance",
+  "link": "https://www.caranddriver.com/sponsored/a74083478/factory-performance-is-just-the-starting-line-for-the-550-hp-charger-scat-pack/",
+  "source": "Car and Driver",
+  "ts": 1792173420.9374137
+ },
+ {
+  "cat": "araba",
+  "baslik": "İkinci El Porsche Macan Alınır Mı?",
+  "ozet": "Birinci nesil Porsche Macan, uygun ikinci el fiyatlarıyla spor otomobil sürüş dinamikleri sunuyor ancak yüksek bakım masraflarına dikkat etmek gerekiyor.",
+  "puan": 3.0,
+  "grup": "road-trip-used-car-buying-guide",
+  "link": "https://www.motor1.com/reviews/811250/used-porsche-macan-buying-guide/",
+  "source": "Motor1",
+  "ts": 1792173420.9374137
+ },
+ {
+  "cat": "araba",
+  "baslik": "Subaru'dan Titreşimi Azaltan Yeni Patent",
+  "ozet": "Subaru, içi boş eksantrik miline denge ağırlığı ekleyerek motor titreşimlerini azaltan yenilikçi bir patent geliştirdi.",
+  "puan": 6.5,
+  "grup": "subaru-hollow-camshaft-patent",
+  "link": "https://www.caranddriver.com/news/a74158213/subaru-patent-details/",
+  "source": "Car and Driver",
+  "ts": 1792173420.9374137
+ },
+ {
+  "cat": "araba",
+  "baslik": "2028 Chrysler Airflow SUV Modeli",
+  "ozet": "Tamamen yeni bir platform üzerine kurulacak olan 2028 Chrysler Airflow, benzinli ve hibrit motor seçenekleriyle 40.000 doların altında bir fiyatla geliyor.",
+  "puan": 8.0,
+  "grup": "chrysler-airflow-suv-debut",
+  "link": "https://www.caranddriver.com/news/a74158452/2028-chrysler-airflow-future-cars/",
+  "source": "Car and Driver",
+  "ts": 1792173420.9374137
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Fiat Başkanından Euro NCAP Açıklaması",
+  "ozet": "Fiat'ın yeni patronu Arnaud Belloni, hızlı değişen Euro NCAP test rejiminin müşteriler tarafından artık anlaşılmadığını ve üreticiler için önceliğini yitirdiğini belirtti.",
+  "puan": 6.0,
+  "grup": "fiat-boss-euro-ncap-comments",
+  "link": "https://www.autocar.co.uk/car-news/motor-shows-paris-motor-show/new-fiat-boss-buyers-dont-get-euro-ncap-any-more",
+  "source": "Autocar",
+  "ts": 1792173420.9374137
+ },
+ {
+  "cat": "araba",
+  "baslik": "ABD ve Meksika Arasında Ticaret Anlaşması Belirsizliği",
+  "ozet": "ABD ve Meksika arasındaki ticaret anlaşmalarının yakın zamanda yapılması beklenmezken, otomotiv sektöründe farklı gelişmeler de yaşanıyor.",
+  "puan": 5.0,
+  "grup": "us-mexico-trade-deal-status",
+  "link": "https://www.jalopnik.com/2288764/u-s-mexico-trade-deal-falls-apart/",
+  "source": "Jalopnik",
+  "ts": 1792173420.9374137
+ },
+ {
+  "cat": "araba",
+  "baslik": "Temel Donanım Seviyesini Belli Eden Otomobiller",
+  "ozet": "Otomobil severlerin yorumlarına göre, bazı detaylar bir aracın en boş paket olduğunu hemen ele veriyor.",
+  "puan": 2.0,
+  "grup": "car-features-base-model-signs",
+  "link": "https://www.jalopnik.com/2287210/cars-make-it-most-obvious-you-bought-base-model-reader-answers/",
+  "source": "Jalopnik",
+  "ts": 1792173420.9374137
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Tesla Model Y L İç Mekan Fotoğrafları",
+  "ozet": "Üç sıralı ve altı kişilik oturma kapasitesi sunan 2027 Tesla Model Y L'nin iç mekan detayları her açıdan görüntülendi.",
+  "puan": 6.0,
+  "grup": "tesla-model-y-l-debut",
+  "link": "https://www.caranddriver.com/photos/g73334711/2027-tesla-model-y-l-launch-drive-interior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1792173420.9374137
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Tesla Model Y L Dış Tasarımı",
+  "ozet": "Station wagon hissiyatı veren üç sıralı yeni Tesla Model Y L modelinin dış tasarım fotoğrafları paylaşıldı.",
+  "puan": 6.0,
+  "grup": "tesla-model-y-l-debut",
+  "link": "https://www.caranddriver.com/photos/g73334627/2027-tesla-model-y-l-launch-drive-exterior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1792173420.9374137
+ },
+ {
+  "cat": "araba",
+  "baslik": "Satılık Düşük Kilometreli 1977 Lincoln Continental",
+  "ozet": "Sadece 31.000 mildeki 1977 model Lincoln Continental coupe uygun fiyata satışta ancak 460 V8 motorunun masrafları göz önünde bulundurulmalı.",
+  "puan": 2.5,
+  "grup": "classic-lincoln-continental-sale",
+  "link": "https://www.jalopnik.com/2288696/1977-lincoln-continental-for-sale-31000-miles-460-v8/",
+  "source": "Jalopnik",
+  "ts": 1792173420.9374137
+ },
+ {
+  "cat": "araba",
+  "baslik": "Test Sürüşü: 2027 Tesla Model Y L",
+  "ozet": "Station wagon tarzını yeniden yorumlayan altı kişilik yeni Tesla Model Y L modelini test sürüşüne aldık.",
+  "puan": 6.5,
+  "grup": "tesla-model-y-l-debut",
+  "link": "https://www.caranddriver.com/reviews/a73332713/2027-tesla-model-y-l-launch-drive/",
+  "source": "Car and Driver",
+  "ts": 1792173420.9374137
+ },
+ {
+  "cat": "araba",
+  "baslik": "Detroit Seçimlerinde Benzin Fiyatı Tartışması",
+  "ozet": "Abdul El-Sayed'in rakibinin seçmenlerin oyunu değiştirmek için 3 galondan az benzin üzerinden yaptığı siyasi hamle dikkat çekti.",
+  "puan": 2.0,
+  "grup": "detroit-politics-gas-stunt",
+  "link": "https://www.jalopnik.com/2288714/abdul-el-sayed-opponent-gas-cards-detroit/",
+  "source": "Jalopnik",
+  "ts": 1792173420.9374137
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 Sezonunda Takımların Güç Dağılımı Nasıl Değişti?",
+  "ozet": "F1.com verileri inceleyerek 2026 sezonunun başından bu yana hangi takımların ileri gittiğini ve hangilerinin geride kaldığını analiz ediyor.",
+  "puan": 5.0,
+  "grup": "2026-season-pecking-order-analysis",
+  "link": "https://www.formula1.com/en/latest/article/in-numbers-how-the-pecking-order-has-changed-since-the-2026-season-opener.5audfzy7TXq7Jzl92vs6Pd",
+  "source": "Formula1.com",
+  "ts": 1792173420.9374137
+ },
+ {
+  "cat": "f1",
+  "baslik": "Zak Brown: Piastri Eski Formuna Geri Dönüyor",
+  "ozet": "McLaren CEO'su Zak Brown, zorlu bir dönemin ardından Oscar Piastri'nin MCL40 direksiyonundaki özgüvenini yeniden kazanarak formuna döndüğüne inanıyor.",
+  "puan": 4.5,
+  "grup": "mclaren-zak-brown-oscar-piastri-form",
+  "link": "https://www.formula1.com/en/latest/article/piastri-back-to-the-driver-i-know-brown-encouraged-by-mclaren-drivers-growing-confidence.5XI6KWGDCPVvoHn5sybz22",
+  "source": "Formula1.com",
+  "ts": 1792173420.9374137
+ },
+ {
+  "cat": "f1",
+  "baslik": "Alba Larsen 2027'de F1 Academy'de Ferrari ile Devam Edecek",
+  "ozet": "Ferrari, Alba Larsen'in F1 Academy'de üçüncü sezonuna katılan ilk sürücü olacağını ve gelecek sezon da Scuderia Ferrari Sürücü Akademisi'nin bir parçası olarak kalacağını duyurdu.",
+  "puan": 5.0,
+  "grup": "ferrari-alba-larsen-f1-academy-2027",
+  "link": "https://www.formula1.com/en/latest/article/ferraris-larsen-to-return-for-2027-f1-academy-campaign.5eeThwId7hnIzVMd8zkTPB",
+  "source": "Formula1.com",
+  "ts": 1792173420.9374137
+ },
+ {
+  "cat": "f1",
+  "baslik": "Franco Colapinto'dan Taraftarlara: \"Çevrimiçi Tacizi Bırakın\"",
+  "ozet": "Franco Colapinto, son aylarda FIA hakemlerine, diğer pilotlara ve ailelerine yönelik internet üzerindeki nefret söylemlerini durdurmaları için Arjantinli taraftarlara çağrıda bulundu.",
+  "puan": 6.0,
+  "grup": "franco-colapinto-online-abuse-warning",
+  "link": "https://www.autosport.com/f1/news/colapinto-urges-fans-to-stop-the-abuse-youre-not-helping-me-or-my-future/10865685/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1792173420.9374137
+ },
+ {
+  "cat": "f1",
+  "baslik": "Franco Colapinto'dan Taraftarlara: \"Çevrimiçi Tacizi Bırakın\"",
+  "ozet": "Franco Colapinto, son aylarda FIA hakemlerine, diğer pilotlara ve ailelerine yönelik internet üzerindeki nefret söylemlerini durdurmaları için Arjantinli taraftarlara çağrıda bulundu.",
+  "puan": 6.0,
+  "grup": "franco-colapinto-online-abuse-warning",
+  "link": "https://www.motorsport.com/f1/news/franco-colapinto-urges-fans-to-stop-the-abuse-youre-not-helping-me-or-my-future/10865682/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792173420.9374137
+ },
+ {
+  "cat": "f1",
+  "baslik": "F1 Patronları Servetlerini Nasıl Kazandı?",
+  "ozet": "Christian Horner, Zak Brown ve Toto Wolff, Formula 1'in olağanüstü büyümesindeki en etkili üç takım patronu olarak farklı yollardan servet elde ettiler.",
+  "puan": 3.0,
+  "grup": "f1-team-bosses-wealth-history",
+  "link": "https://www.the-race.com/business/how-horner-brown-wolff-made-their-fortunes-from-f1/",
+  "source": "The Race",
+  "ts": 1792173420.9374137
+ },
+ {
+  "cat": "f1",
+  "baslik": "Liam Lawson ABD Grand Prix'si Öncesi Canlı Müzik Performansı Sergileyecek",
+  "ozet": "Liam Lawson, ABD Grand Prix'si öncesinde Austin'deki VCARB Garage Sessions etkinlikleri kapsamında canlı bir müzik performansı sergileyecek.",
+  "puan": 2.5,
+  "grup": "liam-lawson-us-gp-music-performance",
+  "link": "https://www.motorsport.com/f1/news/liam-lawson-to-perform-live-music-set-ahead-of-f1-united-states-grand-prix-in-austin/10865675/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792173420.9374137
+ },
+ {
+  "cat": "f1",
+  "baslik": "Colton Herta 2027'de Indy 500 ve IMSA'ya Dönmek İstiyor",
+  "ozet": "Cadillac Formula 1 test pilotu Colton Herta, programı elverdiği takdirde Indy 500 ve IMSA dayanışma yarışlarına geri dönmeyi hedefliyor.",
+  "puan": 4.0,
+  "grup": "colton-herta-indy-500-imsa-2027",
+  "link": "https://www.motorsport.com/fia-f2/news/colton-herta-eyes-potential-indy-500-return-and-imsa-enduros-as-2027-plans-remain-in-flux/10865671/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792173420.9374137
+ },
+ {
+  "cat": "f1",
+  "baslik": "Mercedes Singapur'da Neden Eski Araç Spesifikasyonuna Döndü?",
+  "ozet": "Mercedes, güncellemelerden sonra yaşanan performans sorunlarının ardından Singapur GP'sinde George Russell'ı eski araç spesifikasyonuna döndürme kararı aldı.",
+  "puan": 5.5,
+  "grup": "mercedes-singapore-gp-russell-spec-change",
+  "link": "https://www.motorsport.com/f1/news/why-mercedes-switched-george-russell-to-its-old-f1-car-spec-in-singapore/10865660/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792173420.9374137
  }
 ]
