@@ -1,136 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "İçten yanmalı motorlu yeni nesil Porsche Macan prototipi görüntülendi",
-  "ozet": "Q5 gövdesi gizlenen yeni prototip, Porsche'nin 2028'de benzinli, hibrit ve şarj edilebilir hibrit motor seçenekleriyle sunacağı içten yanmalı SUV stratejisini gözler önüne seriyor.",
-  "puan": 7.5,
-  "grup": "porsche-gas-macan-replacement-octan",
-  "link": "https://www.motor1.com/news/812043/porsche-gas-macan-replacement-spied/",
-  "source": "Motor1",
-  "ts": 1792056059.6655173
- },
- {
-  "cat": "araba",
-  "baslik": "Chery'nin alt markası iCaur, 2027'de İngiltere pazarına giriş yapıyor",
-  "ozet": "Chery, arazi odaklı yeni markası iCaur'un ilk modeli olan Defender boyutlarındaki menzil uzatıcı elektrikli V27 4x4'ü 2027 yılında İngiltere'de satışa sunacağını onayladı.",
-  "puan": 5.0,
-  "grup": "jaecoo-icaur-uk-launch-2027",
-  "link": "https://www.autocar.co.uk/car-news/new-cars/jaecoo-sibling-icaur-confirms-uk-launch-2027-v27-4x4",
-  "source": "Autocar",
-  "ts": 1792056059.6655173
- },
- {
-  "cat": "araba",
-  "baslik": "Renault'nun 180 bin dolarlık elektrikli modeline yoğun ilgi",
-  "ozet": "Renault'nun yüksek fiyatlı elektrikli hot hatch modeli şimdiden yaklaşık 1.000 sipariş alırken, bazı alıcılar tamamen kişiselleştirilmiş versiyonlar için 400 bin dolara yakın ödeme yapıyor.",
-  "puan": 5.5,
-  "grup": "renault-electric-hot-hatch-orders",
-  "link": "https://www.motor1.com/news/812030/renault-electric-hot-hatch-orders/",
-  "source": "Motor1",
-  "ts": 1792056059.6655173
- },
- {
-  "cat": "araba",
-  "baslik": "Tarım traktörü Red Bull Ring pistinde rekor kırdı",
-  "ozet": "Finlandiya'nın Valtra T236 modeli, Red Bull Ring'de 3:36.4'lük tur süresi ve 54 mph azami hıza ulaşarak normal yol yasal sınırlarını geride bıraktı.",
-  "puan": 4.0,
-  "grup": "farm-tractor-red-bull-ring-record",
-  "link": "https://www.motor1.com/news/812027/valtra-t236-tractor-sets-record/",
-  "source": "Motor1",
-  "ts": 1792056059.6655173
- },
- {
-  "cat": "araba",
-  "baslik": "GM'den Corvette açıklaması: Tamamen elektrikli model hala yolda",
-  "ozet": "General Motors'un baş mühendisi, elektrikli araçların nihai hedef olduğunu ve tamamen elektrikli bir Corvette'in gelecekte ürün gamına katılacağını doğruladı.",
-  "puan": 6.5,
-  "grup": "chevrolet-corvette-next-gen-details",
-  "link": "https://www.motor1.com/news/812011/electric-corvette-still-happening/",
-  "source": "Motor1",
-  "ts": 1792056059.6655173
- },
- {
-  "cat": "araba",
-  "baslik": "2028 model içten yanmalı Porsche Macan şekilleniyor",
-  "ozet": "Yeni test mule, Audi Q5 ile ortak altyapıyı paylaşacak benzinli Macan'ın daha alçak, geniş ve agresif bir duruşa sahip olacağını gösteriyor.",
-  "puan": 7.5,
-  "grup": "porsche-gas-macan-replacement-octan",
-  "link": "https://www.autocar.co.uk/car-news/new-cars/2028-replacement-ice-porsche-macan-begins-take-shape",
-  "source": "Autocar",
-  "ts": 1792056059.6655173
- },
- {
-  "cat": "araba",
-  "baslik": "Volvo EX60 üretim gecikmeleriyle karşı karşıya",
-  "ozet": "Torslanda fabrikasındaki yavaş üretim nedeniyle yeni Volvo EX60, güvenlik veya performans sorunu olmamasına rağmen 2027'ye kadar ABD'li alıcılara geç ulaşacak.",
-  "puan": 5.5,
-  "grup": "volvo-ex60-test-drive",
-  "link": "https://www.motor1.com/news/812009/volvo-ex60-us-deliveries-delayed/",
-  "source": "Motor1",
-  "ts": 1792056059.6655173
- },
- {
-  "cat": "araba",
-  "baslik": "Yeni nesil Hyundai Elantra N ilk kez görüntülendi",
-  "ozet": "Performans odaklı sedan modelin yeni nesline ait ilk casus fotoğraflar ortaya çıkarken, aracın 2027 gibi erken bir tarihte tanıtılabileceği belirtiliyor.",
-  "puan": 6.0,
-  "grup": "hyundai-elantra-n-tcr-2026-photos",
-  "link": "https://www.motor1.com/news/812003/new-hyundai-elantra-n-spied/",
-  "source": "Motor1",
-  "ts": 1792056059.6655173
- },
- {
-  "cat": "araba",
-  "baslik": "Audi Q7, Euro NCAP kaza sonrası testinden tam puan aldı",
-  "ozet": "Audi Q7, Euro NCAP'in otomatik acil durum çağrıları, çoklu çarpışma frenlemesi ve hızlı kurtarma erişimini değerlendiren kaza sonrası güvenlik testinde yüzde 100 başarı elde etti.",
-  "puan": 7.0,
-  "grup": "audi-q7-euroncap-post-crash-score",
-  "link": "https://www.motor1.com/news/812002/audi-q7-euro-ncap-post/",
-  "source": "Motor1",
-  "ts": 1792056059.6655173
- },
- {
-  "cat": "f1",
-  "baslik": "Red Bull'un Geliştirdiği Yeni Motorun Sırrı",
-  "ozet": "Red Bull'un ilk Formula 1 motorunun başarısı ve teknik direktörün projeyle ilgili açıklamaları ele alınıyor.",
-  "puan": 5.5,
-  "grup": "red-bull-powertrain-development",
-  "link": "https://www.the-race.com/formula-1/key-gains-red-bull-has-made-with-its-race-winning-f1-engine/",
-  "source": "The Race",
-  "ts": 1792056059.6655173
- },
- {
-  "cat": "f1",
-  "baslik": "George Russell'dan ABD GP İçin Motor Cezası Sinyali",
-  "ozet": "Mercedes pilotu George Russell, güç ünitesi bileşenleri değişimi nedeniyle ABD Grand Prix'sinde grid cezası almayı hedefliyor.",
-  "puan": 7.0,
-  "grup": "george-russell-mercedes-engine-penalty",
-  "link": "https://www.motorsport.com/f1/news/george-russell-targets-las-vegas-gp-for-looming-mercedes-engine-grid-penalty/10865295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792056059.6655173
- },
- {
-  "cat": "f1",
-  "baslik": "Christian Horner'dan Toto Wolff Açıklaması",
-  "ozet": "Christian Horner, Toto Wolff ile aralarındaki rekabetin bir tiyatroya dönüştüğünü ancak yine de otantik kaldığını kabul etti.",
-  "puan": 4.5,
-  "grup": "christian-horner-toto-wolff-rivalry",
-  "link": "https://www.motorsport.com/f1/news/christian-horner-admits-that-f1-rivalry-with-toto-wolff-became-theatre/10865113/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792056059.6655173
- },
- {
-  "cat": "f1",
-  "baslik": "Franco Colapinto'dan Taraftarlarına Sosyal Medya Uyarısı",
-  "ozet": "Franco Colapinto, destekçilerinden rakip pilotlara ve F1 camiasındaki diğer kişilere yönelik sosyal medya tacizini durdurmalarını istedi.",
-  "puan": 4.0,
-  "grup": "franco-colapinto-social-media-abuse",
-  "link": "https://www.racefans.net/2026/10/15/colapinto-tells-his-supporters-to-stop-abusing-rival-drivers-they-dont-help-me/",
-  "source": "RaceFans",
-  "ts": 1792056059.6655173
- },
- {
-  "cat": "araba",
   "baslik": "Elon Musk'tan X'te Kişisel Bilgi Hatası",
   "ozet": "Elon Musk, X uygulamasında e-posta adresi ve kredi kartının son dört hanesi dahil olmak üzere özel bilgiler paylaştı.",
   "puan": 2.0,
@@ -1798,5 +1668,115 @@
   "link": "https://www.autocar.co.uk/car-news/new-cars/porsche-designer-mission-s-sets-heritage-template-next-911",
   "source": "Autocar",
   "ts": 1792217079.5439456
+ },
+ {
+  "cat": "araba",
+  "baslik": "Avrupa'da Neden Küçük Otomobiller Tercih Ediliyor?",
+  "ozet": "Avrupalı sürücülerin küçük araba tercih etmesinin temel sebebi sadece yakıt fiyatları değil; kıtanın yasaları ve altyapısı da büyük araçları dezavantajlı kılıyor.",
+  "puan": 4.5,
+  "grup": "european-car-size-infrastructure",
+  "link": "https://www.jalopnik.com/2284186/why-cars-in-europe-are-smaller/",
+  "source": "Jalopnik",
+  "ts": 1792233204.7849815
+ },
+ {
+  "cat": "araba",
+  "baslik": "Otomotivde Retro Tasarım Akımı Geri Dönüyor",
+  "ozet": "Avrupalı üreticiler, Çinli rakipleriyle rekabet etmek için Citroën 2CV ve Renault Espace gibi az bilinen klasik modellerini retro tasarımlarla yeniden canlandırmaya hazırlanıyor.",
+  "puan": 5.0,
+  "grup": "retro-car-revivals-europe",
+  "link": "https://www.autocar.co.uk/opinion/new-cars/retro-cars-work-even-if-originals-arent-very-well-known",
+  "source": "Autocar",
+  "ts": 1792233204.7849815
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ruanda'nın F1 Anlaşması Afrika İçin Yeni Bir Dönem Başlatıyor",
+  "ozet": "Yapılan cesur Ruanda anlaşması, F1'in önemli bir kıtada yeni bir tarih yazmasının önünü açtı.",
+  "puan": 6.5,
+  "grup": "rwanda-f1-circuit-assetto-corsa",
+  "link": "https://www.formula1.com/en/latest/article/rwanda-will-write-a-new-chapter-in-africas-rich-f1-heritage.7If5jA3uz9KtpTP3lzoCrk",
+  "source": "Formula1.com",
+  "ts": 1792233204.7849815
+ },
+ {
+  "cat": "f1",
+  "baslik": "Laurent Mekies Red Bull'da İz Bırakmaya Başladı",
+  "ozet": "Laurent Mekies, geçen yaz devraldığı Red Bull takımında insanları ve doğru yerleşimleri önceliklendirerek takımın zirveye dönüşünü planladı.",
+  "puan": 5.5,
+  "grup": "laurent-mekies-red-bull-impact",
+  "link": "https://www.formula1.com/en/latest/article/how-mekies-has-already-made-his-mark-at-red-bull-and-why-the-teams-future-looks-safe-in-his-hands.4Z7kqYHKxjyWTKVxQDFgfk",
+  "source": "Formula1.com",
+  "ts": 1792233204.7849815
+ },
+ {
+  "cat": "f1",
+  "baslik": "Jos Verstappen'in F1 Hayali Neden Hüsranla Bitti?",
+  "ozet": "Max Verstappen'in kariyeri babası Jos'un başarısızlıklarıyla şekillendi, peki Verstappen Sr. gerçekten ne kadar iddialıydı ve rüyası nerede söndü?",
+  "puan": 2.5,
+  "grup": "jos-verstappen-f1-career-analysis",
+  "link": "https://www.the-race.com/formula-1/jos-verstappen-was-hyped-like-max-until-it-all-went-wrong/",
+  "source": "The Race",
+  "ts": 1792233204.7849815
+ },
+ {
+  "cat": "f1",
+  "baslik": "Mercedes F1'in 2025 Finansal Raporları Açıklandı",
+  "ozet": "Mercedes F1 takımı 2025 yılında 633.4 milyon sterlin gelir elde ederken, hissedarlarına 125 milyon sterlin temettü ödedi.",
+  "puan": 6.0,
+  "grup": "mercedes-f1-2025-financial-accounts",
+  "link": "https://www.motorsport.com/f1/news/mercedes-f1-accounts-reveal-633m-revenue-and-125m-payout-to-shareholders/10865823/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792233204.7849815
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ferrari'den ABD GP'si İçin Büyük Güncelleme Bekleniyor",
+  "ozet": "Ferrari, 2026 sezonunun son büyük güncellemesinin bir parçası olarak ABD Grand Prix'sine yeni bir taban getirmeyi planlıyor.",
+  "puan": 5.5,
+  "grup": "ferrari-us-gp-major-upgrade",
+  "link": "https://www.motorsport.com/f1/news/ferrari-expected-to-introduce-major-upgrade-package-at-united-states-gp/10865819/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792233204.7849815
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen Yeni Sözleşmesini İmzalarken Red Bull Güncellemesini Biliyor muydu?",
+  "ozet": "Max Verstappen Monza'da galibiyetsiz bir sezon geçirmeyi düşünürken, son yarışlardaki çıkış ve Red Bull'un büyük güncellemesi yeni anlaşmasını nasıl etkiledi?",
+  "puan": 6.0,
+  "grup": "max-verstappen-red-bull-contract-upgrade",
+  "link": "https://www.autosport.com/f1/news/did-max-verstappen-already-know-the-impact-of-red-bulls-big-upgrade-when-he-signed-his-new-deal/10865791/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1792233204.7849815
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen Yeni Anlaşmayı İmzalarken Red Bull'un Güncellemesini Biliyor muydu?",
+  "ozet": "Max Verstappen Monza'daki kara tablodan çıkıp son yarışlarda galibiyetlere uzanırken, yeni sözleşmesini imzalamadan önce Red Bull'un güncellemelerinden haberdar mıydı?",
+  "puan": 6.0,
+  "grup": "max-verstappen-red-bull-contract-upgrade",
+  "link": "https://www.motorsport.com/f1/news/did-max-verstappen-already-know-the-impact-of-red-bulls-big-upgrade-when-he-signed-his-new-deal/10865786/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792233204.7849815
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 Sezonunun Ortak 'Sprint Yarışı Şampiyonları' Russell ve Leclerc",
+  "ozet": "Eğer Formula 1'de resmi bir sprint yarış şampiyonası olsaydı, bu unvanın mücadelesi Singapur'da heyecanlı bir sona sahne olacaktı.",
+  "puan": 4.5,
+  "grup": "russell-leclerc-sprint-champions-2026",
+  "link": "https://www.racefans.net/2026/10/17/russell-and-leclerc-are-the-joint-sprint-race-champions-of-2026/",
+  "source": "RaceFans",
+  "ts": 1792233204.7849815
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ruanda F1 Pisti Hakkında Tek Fotoğrafın Gösteremedikleri",
+  "ozet": "Yeni Ruanda F1 pistinin tek bir görseli detayları anlamak için yeterli değil; pist düzeninde gizli çok daha fazla unsur var.",
+  "puan": 4.0,
+  "grup": "rwanda-f1-circuit-assetto-corsa",
+  "link": "https://www.the-race.com/formula-1/what-one-image-cant-show-you-about-rwanda-f1-track/",
+  "source": "The Race",
+  "ts": 1792233204.7849815
  }
 ]
