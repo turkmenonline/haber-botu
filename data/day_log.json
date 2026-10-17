@@ -1,16 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "2027 Mercedes-AMG GLE53 PHEV Tantıldı",
-  "ozet": "577 beygir güç ve 45 mil tamamen elektrikli menzil sunan güncellenmiş Mercedes-AMG GLE53 PHEV, performans odaklı şarj edilebilir hibrit yapısıyla dikkat çekiyor.",
-  "puan": 7.5,
-  "grup": "2027-mercedes-amg-gle53-phev",
-  "link": "https://www.jalopnik.com/2285823/2027-mercedes-amg-gle53-phev-first-drive-review/",
-  "source": "Jalopnik",
-  "ts": 1792038280.951172
- },
- {
-  "cat": "araba",
   "baslik": "İçten yanmalı motorlu yeni nesil Porsche Macan prototipi görüntülendi",
   "ozet": "Q5 gövdesi gizlenen yeni prototip, Porsche'nin 2028'de benzinli, hibrit ve şarj edilebilir hibrit motor seçenekleriyle sunacağı içten yanmalı SUV stratejisini gözler önüne seriyor.",
   "puan": 7.5,
@@ -1798,5 +1788,15 @@
   "link": "https://www.caranddriver.com/news/a74165059/tesla-roadster-thrusters-fan-system-explained/",
   "source": "Car and Driver",
   "ts": 1792200566.995698
+ },
+ {
+  "cat": "araba",
+  "baslik": "Porsche'nin Yeni Tasarım Dili ve Mission S",
+  "ozet": "Porsche'nin yeni tasarım başkanı Tobias Sühlmann, markanın gelecek stil yönünü ve 911'in üzerinde konumlanacak yeni ortadan motorlu amiral gemisi Mission S'in detaylarını paylaştı.",
+  "puan": 8.5,
+  "grup": "porsche-mission-s-supercar",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/porsche-designer-mission-s-sets-heritage-template-next-911",
+  "source": "Autocar",
+  "ts": 1792217079.5439456
  }
 ]
