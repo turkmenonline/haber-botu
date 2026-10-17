@@ -1,126 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Porsche Mission S Konsepti Tanıtıldı",
-  "ozet": "Porsche'nin orta motorlu yeni süper otomobil konsepti Mission S, 911 modelinin üzerinde yer alacak bir geleceğe işaret ediyor.",
-  "puan": 9.0,
-  "grup": "porsche-mission-s-supercar",
-  "link": "https://www.motor1.com/news/812133/porsche-mission-s-concept-debut-details/",
-  "source": "Motor1",
-  "ts": 1792100521.7761512
- },
- {
-  "cat": "araba",
-  "baslik": "Porsche 911'in Üzerinde Konumlanacak Süper Otomobil Geliyor",
-  "ozet": "Porsche, sürücü odaklı tasarımıyla 911'in amiral gemisi unvanını devralmaya hazırlanan orta motorlu yeni süper otomobilini resmi olarak geliştiriyor.",
-  "puan": 9.0,
-  "grup": "porsche-mission-s-supercar",
-  "link": "https://www.caranddriver.com/news/a74145375/porsche-mission-s-concept-revealed/",
-  "source": "Car and Driver",
-  "ts": 1792100521.7761512
- },
- {
-  "cat": "araba",
-  "baslik": "2029 Porsche Mission S Hakkında Bilinenler",
-  "ozet": "Porsche'nin 911 üzerindeki yeni amiral gemisi süper otomobili Mission S hakkında şu ana kadar ortaya çıkan detaylar.",
-  "puan": 8.5,
-  "grup": "porsche-mission-s-supercar",
-  "link": "https://www.caranddriver.com/porsche/mission-s-2029",
-  "source": "Car and Driver",
-  "ts": 1792100521.7761512
- },
- {
-  "cat": "araba",
-  "baslik": "Porsche Mission S Konsept Fotoğrafları",
-  "ozet": "Porsche'nin gelecekteki orta motorlu süper otomobilini önizleyen Mission S konseptinin tasarım detayları her açıdan sergileniyor.",
-  "puan": 8.0,
-  "grup": "porsche-mission-s-supercar",
-  "link": "https://www.caranddriver.com/photos/a74147892/porsche-mission-s-concept-revealed-gallery/",
-  "source": "Car and Driver",
-  "ts": 1792100521.7761512
- },
- {
-  "cat": "araba",
-  "baslik": "Porsche Mission S Tanıtıldı: Orta Motorlu Yeni Süper Otomobil",
-  "ozet": "Performans ve fiyat olarak 911'in üzerinde konumlanacak olan Mission S, kokpitinde merkez ekran bulundurmayacak kadar sürücü odaklı tasarlandı.",
-  "puan": 9.0,
-  "grup": "porsche-mission-s-supercar",
-  "link": "https://www.thedrive.com/news/porsche-mission-s-revealed-new-mid-engine-supercar-gets-a-permanent-place-in-the-lineup",
-  "source": "The Drive",
-  "ts": 1792100521.7761512
- },
- {
-  "cat": "araba",
-  "baslik": "Resmi: Porsche Mission S Yeni Amiral Gemisini Önizliyor",
-  "ozet": "Yeni tasarım şefi Tobias Sühlmann imzasını taşıyan Mission S konsepti, 911'in üzerinde yer alacak güçlü spor otomobilin sinyallerini veriyor.",
-  "puan": 9.0,
-  "grup": "porsche-mission-s-supercar",
-  "link": "https://www.autocar.co.uk/car-news/new-cars/official-porsche-mission-s-previews-new-flagship-supercar",
-  "source": "Autocar",
-  "ts": 1792100521.7761512
- },
- {
-  "cat": "araba",
-  "baslik": "Sürücü Odaklı Porsche Mission S Konsepti Görücüye Çıktı",
-  "ozet": "Dikkat dağıtıcı ekranlardan arındırılmış kokpite sahip Mission S, sınırlı üretilen bir model değil markanın seri üretim ürün gamının bir parçası olacak.",
-  "puan": 9.0,
-  "grup": "porsche-mission-s-supercar",
-  "link": "https://www.jalopnik.com/2288175/porsche-mission-s-supercar-concept-design-details-reveal/",
-  "source": "Jalopnik",
-  "ts": 1792100521.7761512
- },
- {
-  "cat": "araba",
-  "baslik": "ABD Ordusundan Helikopter Pilotları İçin Yeni Tuvalet Teknolojisi",
-  "ozet": "ABD Ordusu, helikopter pilotlarının uçuş sırasında ihtiyaçlarını giderebilmesi için yeni bir uçuş içi teknoloji test ediyor.",
-  "puan": 3.0,
-  "grup": "us-army-helicopter-pilot-tech",
-  "link": "https://www.jalopnik.com/2286924/us-army-tests-in-flight-peeing-technology-for-helicopter-pilots/",
-  "source": "Jalopnik",
-  "ts": 1792100521.7761512
- },
- {
-  "cat": "araba",
-  "baslik": "Sadece Polis Plakalarını Tarayan Ev Yapımı Kamera Sistemi",
-  "ozet": "Bir kişi,ironik bir nokta oluşturmak amacıyla sadece polis araçlarının plakalarını tarayan ev yapımı bir kamera sistemi tasarladı.",
-  "puan": 2.5,
-  "grup": "diy-police-plate-camera",
-  "link": "https://www.jalopnik.com/2288078/man-diy-flock-cameras-police-dont-like-it/",
-  "source": "Jalopnik",
-  "ts": 1792100521.7761512
- },
- {
-  "cat": "araba",
-  "baslik": "Honda'dan Accord ve CR-V Modelleri İçin Yeni Geri Çağırma",
-  "ozet": "Honda, daha önce milyonlarca aracı kapsayan hatalı parça sorunu nedeniyle Accord ve CR-V modelleri için geri çağırmayı yineliyor.",
-  "puan": 8.0,
-  "grup": "honda-accord-crv-recall",
-  "link": "https://www.caranddriver.com/news/a74148608/honda-accord-crv-hybrids-flying-bottle-cap-recall/",
-  "source": "Car and Driver",
-  "ts": 1792100521.7761512
- },
- {
-  "cat": "araba",
-  "baslik": "20.000 Dolarlık Bütçeyle Yol Gezisi İçin Araç Arayışı",
-  "ozet": "Güvenilir, dört tekerlekten çekişli ve çekme kapasitesine sahip bir yol gezisi aracı arayan sürücü için alternatifler değerlendiriliyor.",
-  "puan": 2.0,
-  "grup": "road-trip-used-car-buying-guide",
-  "link": "https://www.jalopnik.com/2287960/cross-country-road-trip-car-20-000-wcsyb/",
-  "source": "Jalopnik",
-  "ts": 1792100521.7761512
- },
- {
-  "cat": "f1",
-  "baslik": "F1 Sezon Finali Imola'ya Taşınabilir",
-  "ozet": "Raporlara göre Formula 1, sezon finalini kasım ortasına kadar Imola'ya taşıma kararını değerlendirebilir.",
-  "puan": 6.5,
-  "grup": "imola-f1-season-finale-2027",
-  "link": "https://www.racefans.net/2026/10/15/f1-could-make-call-to-move-finale-to-imola-as-late-as-mid-november-report/",
-  "source": "RaceFans",
-  "ts": 1792100521.7761512
- },
- {
-  "cat": "araba",
   "baslik": "Tesla Roadster Sonunda Tanıtılıyor",
   "ozet": "Yıllarca süren gecikmelerin ardından Tesla Roadster 2 sonunda bugün ilk kez gösteriliyor.",
   "puan": 8.5,
@@ -1688,5 +1568,25 @@
   "link": "https://www.caranddriver.com/mercedes-amg/gt-suv",
   "source": "Car and Driver",
   "ts": 1792272656.1855187
+ },
+ {
+  "cat": "araba",
+  "baslik": "Modern Polis Araçlarında V8 Motorların Sonu",
+  "ozet": "Polis departmanlarının büyük V8 motorlu devriye araçlarını neden geçmişte bıraktığı ve kaputun altında nelerin değiştiği inceleniyor.",
+  "puan": 4.5,
+  "grup": "modern-police-cars-v8-engines",
+  "link": "https://www.jalopnik.com/2285367/most-common-police-car-engine-v6-not-v8/",
+  "source": "Jalopnik",
+  "ts": 1792279262.021224
+ },
+ {
+  "cat": "f1",
+  "baslik": "Aston Martin Esintili Gizemli Araç Testte",
+  "ozet": "Aston Martin F1'den ilham alan gizemli tek koltuklu araç, Fransa'daki Paul Ricard pistinde test edilirken görüntülendi.",
+  "puan": 4.5,
+  "grup": "aston-martin-f1-inspired-mystery-car",
+  "link": "https://www.motorsport.com/culture/news/aston-martins-f1-inspired-monster-spotted-testing-as-record-breaking-claims-emerge/10865964/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792279262.021224
  }
 ]
