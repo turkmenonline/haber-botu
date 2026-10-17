@@ -1628,5 +1628,65 @@
   "link": "https://www.motorsport.com/f1/news/alpines-2024-f1-car-has-been-turned-into-the-ultimate-collectors-display/10865939/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1792264451.5135663
+ },
+ {
+  "cat": "araba",
+  "baslik": "Bisikletçi 165 Yıllık Pony Express Rekorunu Kırdı",
+  "ozet": "Profesyonel bir bisikletçi, Missouri ve Kaliforniya arasındaki tarihi Pony Express posta servisi rotasında 165 yıllık rekoru kırmayı başardı.",
+  "puan": 3.5,
+  "grup": "pony-express-bicycle-record",
+  "link": "https://www.jalopnik.com/2289112/pro-cyclist-breaks-165-year-old-pony-express-record/",
+  "source": "Jalopnik",
+  "ts": 1792272656.1855187
+ },
+ {
+  "cat": "araba",
+  "baslik": "Keskin Kayalara Dayanıklı 7 Off-Road Lastiği",
+  "ozet": "En zorlu arazi koşulları için tasarlanan ve keskin kayalara karşı dayanıklılık vaat eden 7 ekstrem off-road lastiği listelendi.",
+  "puan": 2.5,
+  "grup": "puncture-resistant-off-road-tires",
+  "link": "https://www.jalopnik.com/2287101/puncture-resistant-off-road-tires/",
+  "source": "Jalopnik",
+  "ts": 1792272656.1855187
+ },
+ {
+  "cat": "araba",
+  "baslik": "Pahalı Benzin Elektrikli Araçları Cazip Kılıyor mu?",
+  "ozet": "Artan benzin fiyatlarının tüketicileri elektrikli araçlara geçiş konusunda yeniden düşünmeye sevkedip sevkeğinde tartışılıyor.",
+  "puan": 4.0,
+  "grup": "gasoline-prices-ev-adoption",
+  "link": "https://www.jalopnik.com/2288182/is-expensive-gasoline-making-you-reconsider-electric-vehicles-reader-questions/",
+  "source": "Jalopnik",
+  "ts": 1792272656.1855187
+ },
+ {
+  "cat": "araba",
+  "baslik": "4.000 Mil Altındaki 1970 Dodge Super Bee Satışta",
+  "ozet": "4.000 milin altında orijinal kilometreye sahip olan 1970 model tertemiz Dodge Super Bee yeni alıcısını bekliyor.",
+  "puan": 4.5,
+  "grup": "1970-dodge-super-bee-for-sale",
+  "link": "https://www.jalopnik.com/2287312/1970-dodge-super-bee-for-sale-under-4000-miles-super-clean/",
+  "source": "Jalopnik",
+  "ts": 1792272656.1855187
+ },
+ {
+  "cat": "araba",
+  "baslik": "En Uzun ve Kapsamlı Garantiye Sahip 7 Yeni Araba",
+  "ozet": "Piyasadaki artan maliyetler arasında alıcılara en uzun ve en kapsamlı fabrika garantisini sunan 7 sıfır kilometre otomobil derlendi.",
+  "puan": 2.5,
+  "grup": "new-cars-longest-warranties",
+  "link": "https://www.jalopnik.com/2285290/new-cars-longest-most-comprehensive-warranties/",
+  "source": "Jalopnik",
+  "ts": 1792272656.1855187
+ },
+ {
+  "cat": "araba",
+  "baslik": "2028 Mercedes-AMG GT SUV Hakkında Bildiklerimiz",
+  "ozet": "Mercedes-AMG'nin performans odaklı yeni elektrikli SUV modeli hakkında şu ana kadar ortaya çıkan detaylar derlendi.",
+  "puan": 8.0,
+  "grup": "mercedes-amg-gt-electric-suv",
+  "link": "https://www.caranddriver.com/mercedes-amg/gt-suv",
+  "source": "Car and Driver",
+  "ts": 1792272656.1855187
  }
 ]
