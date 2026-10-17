@@ -1,56 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "İkinci El Ford F-150 Lightning İlgi Görüyor",
-  "ozet": "Üretimi durdurulan F-150 Lightning, orijinal fiyatının yarı yarıya düşmesiyle ikinci el pazarında yoğun talep görmeye başladı.",
-  "puan": 4.5,
-  "grup": "ford-f150-lightning-used-market",
-  "link": "https://www.jalopnik.com/2287179/used-ford-f-150-ev-pickup-trucks-selling-well-half-price/",
-  "source": "Jalopnik",
-  "ts": 1792021954.1864455
- },
- {
-  "cat": "araba",
-  "baslik": "WD-40 Otomobillerde Nasıl Kullanılır?",
-  "ozet": "Garajların vazgeçilmezi WD-40'ın çalışma prensibi, araçlarda nerede işe yaradığı ve hangi durumlarda kullanılmaması gerektiği ele alınıyor.",
-  "puan": 2.0,
-  "grup": "wd40-car-maintenance-guide",
-  "link": "https://www.motor1.com/features/811914/what-wd40-actually-does/",
-  "source": "Motor1",
-  "ts": 1792021954.1864455
- },
- {
-  "cat": "araba",
-  "baslik": "Volkswagen'den Daha Ucuz Yeni ID.Buzz Müjdesi",
-  "ozet": "Volkswagen yöneticisi, ABD pazarı için daha uygun fiyatlı olacak tamamen yeni bir elektrikli Microbus planlandığını açıkladı.",
-  "puan": 5.5,
-  "grup": "volkswagen-id-buzz-us-cheaper",
-  "link": "https://www.caranddriver.com/news/a74137138/id-buzz-second-generation-cheaper-price/",
-  "source": "Car and Driver",
-  "ts": 1792021954.1864455
- },
- {
-  "cat": "araba",
-  "baslik": "Maserati'den Yeni Elektrikli SUV ve Crossover Sinyali",
-  "ozet": "Maserati CEO'su, elektrikli Levante ve shooting brake silüetine sahip bir Quattroporte halefi dahil yeni modellerin yolda olduğunu duyurdu.",
-  "puan": 7.0,
-  "grup": "maserati-new-ev-suv-wagon",
-  "link": "https://www.caranddriver.com/news/a74137603/maserati-future-plans-revealed-december-2026/",
-  "source": "Car and Driver",
-  "ts": 1792021954.1864455
- },
- {
-  "cat": "araba",
-  "baslik": "Mercedes-Benz'den S-Serisi Geri Çağırma Operasyonu",
-  "ozet": "Fren hortumu riskinden ötürü 30.064 adet S-Serisi, Maybach ve AMG modelinin ön fren hortumları ücretsiz olarak değiştirilecek.",
-  "puan": 8.0,
-  "grup": "mercedes-benz-s-class-recall-brakes",
-  "link": "https://www.motor1.com/news/811927/mercedes-benz-recalls-30-064/",
-  "source": "Motor1",
-  "ts": 1792021954.1864455
- },
- {
-  "cat": "araba",
   "baslik": "2027 Mercedes-AMG GLE53 PHEV Tantıldı",
   "ozet": "577 beygir güç ve 45 mil tamamen elektrikli menzil sunan güncellenmiş Mercedes-AMG GLE53 PHEV, performans odaklı şarj edilebilir hibrit yapısıyla dikkat çekiyor.",
   "puan": 7.5,
@@ -1828,5 +1778,25 @@
   "link": "https://www.racefans.net/2026/10/16/on-this-day-wheldon-killed-in-indycar-horror-crash-at-las-vegas-finale/",
   "source": "RaceFans",
   "ts": 1792193294.244363
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yol Tuzunun Araç Boyasına Zararları",
+  "ozet": "Kışın yolları güvenli tutan tuzlar, araç boyasına zarar vererek paslanmaya yol açabilir. Bu sürecin nasıl işlediğini ve aracınızı nasıl koruyabileceğinizi öğrenin.",
+  "puan": 2.5,
+  "grup": "car-road-salt-paint-damage",
+  "link": "https://www.motor1.com/features/811919/why-road-salt-damages-car-paint/",
+  "source": "Motor1",
+  "ts": 1792200566.995698
+ },
+ {
+  "cat": "araba",
+  "baslik": "Tesla Roadster'ın SpaceX Teknolojisi",
+  "ozet": "Tesla, iddialı elektrikli spor otomobilinin gösterişli tanıtımı için arkasındaki bazı sihirlerle birlikte SpaceX teknolojisini ekliyor.",
+  "puan": 8.5,
+  "grup": "tesla-roadster-reveal-october",
+  "link": "https://www.caranddriver.com/news/a74165059/tesla-roadster-thrusters-fan-system-explained/",
+  "source": "Car and Driver",
+  "ts": 1792200566.995698
  }
 ]
