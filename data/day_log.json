@@ -1,145 +1,5 @@
 [
  {
-  "cat": "araba",
-  "baslik": "Araba Tamir Maliyetleri Enflasyonun İki Katı Hızla Artıyor",
-  "ozet": "Yeni araç almanın maliyeti artarken, eski aracı tamir ettirmek de enflasyondan çok daha hızlı bir şekilde pahalılaşıyor.",
-  "puan": 5.5,
-  "grup": "car-repair-costs-inflation",
-  "link": "https://www.jalopnik.com/2289134/car-repair-costs-risen-twice-fast-inflation/",
-  "source": "Jalopnik",
-  "ts": 1792184220.960333
- },
- {
-  "cat": "araba",
-  "baslik": "Araç Yağ Değişiminde Yapılabilecek Hatalar",
-  "ozet": "Rutin bakım olan yağ değişimi sırasında yapılacak basit hatalar motor hasarına ve masraflı onarımlara yol açabilir.",
-  "puan": 2.5,
-  "grup": "car-oil-change-maintenance-guide",
-  "link": "https://www.motor1.com/features/812056/what-happens-during-an-oil-change/",
-  "source": "Motor1",
-  "ts": 1792184220.960333
- },
- {
-  "cat": "araba",
-  "baslik": "Porsche CEO'sundan Manuel Vites Açıklaması",
-  "ozet": "Porsche CEO'su Michael Leiters, Mission S platformunun manuel şanzımanla uyumlu olduğunu ve gelecekteki üretimin müşteri talebine göre şekilleneceğini belirtti.",
-  "puan": 7.0,
-  "grup": "porsche-mission-s-supercar",
-  "link": "https://www.caranddriver.com/news/a74163104/porsche-mission-s-manual-transmission-compatible/",
-  "source": "Car and Driver",
-  "ts": 1792184220.960333
- },
- {
-  "cat": "araba",
-  "baslik": "Otomobil Severler İçin Hediye Rehberi",
-  "ozet": "Otomobil tutkunları için editörler tarafından seçilen en iyi hediye fikirleri bu rehberde bir araya getirildi.",
-  "puan": 1.5,
-  "grup": "car-lovers-gift-guide",
-  "link": "https://www.caranddriver.com/shopping-advice/g41300371/best-gifts-for-car-lovers-enthusiasts/",
-  "source": "Car and Driver",
-  "ts": 1792184220.960333
- },
- {
-  "cat": "araba",
-  "baslik": "Elektrikli Araç Sahibi Olmak İçin En İyi ve En Kötü Şehirler",
-  "ozet": "Yeni bir çalışma, ABD şehirlerini şarj istasyonu sayılarına göre sıralayarak altyapıdaki büyük uçurumu gözler önüne serdi.",
-  "puan": 4.5,
-  "grup": "ev-ownership-city-charging-study",
-  "link": "https://www.motor1.com/news/812282/best-worst-cities-for-evs-study/",
-  "source": "Motor1",
-  "ts": 1792184220.960333
- },
- {
-  "cat": "araba",
-  "baslik": "2026 Ford F-150 STX Lobo'nun İç Mekan Fotoğrafları",
-  "ozet": "2026 model Ford F-150 STX Lobo'nun iç mekanını farklı açılardan detaylıca inceleyin.",
-  "puan": 4.0,
-  "grup": "2026-ford-f150-stx-lobo",
-  "link": "https://www.caranddriver.com/photos/a74102731/2026-ford-f-150-stx-lobo-test-interior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1792184220.960333
- },
- {
-  "cat": "araba",
-  "baslik": "2026 Ford F-150 STX Lobo'nun Dış Tasarım Fotoğrafları",
-  "ozet": "2026 model Ford F-150 STX Lobo'nun dış tasarımını her açısıyla keşfedin.",
-  "puan": 4.0,
-  "grup": "2026-ford-f150-stx-lobo",
-  "link": "https://www.caranddriver.com/photos/a74102719/2026-ford-f-150-stx-lobo-test-exterior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1792184220.960333
- },
- {
-  "cat": "araba",
-  "baslik": "2026 Ford F-150 STX Lobo Test Sürüşü",
-  "ozet": "Ford'un 5.0 litrelik V8 motoru hala başarılı olsa da, performans artışı sunmayan STX Lobo bazı eksiklikler hisseddiriyor.",
-  "puan": 5.0,
-  "grup": "2026-ford-f150-stx-lobo",
-  "link": "https://www.caranddriver.com/reviews/a74132962/2026-ford-f-150-stx-lobo-test/",
-  "source": "Car and Driver",
-  "ts": 1792184220.960333
- },
- {
-  "cat": "araba",
-  "baslik": "Ford Ranger'a 800 Beygirlik Godzilla V8 Motor Swap'i",
-  "ozet": "511 kübik inçlik devasa Godzilla V8 motoruyla donatılan bu Ford Ranger, çeyrek mili deviren güçlü bir canavara dönüşüyor.",
-  "puan": 7.5,
-  "grup": "ford-ranger-godzilla-v8-swap",
-  "link": "https://www.thedrive.com/news/cramming-a-511-cubic-inch-godzilla-v8-into-a-ford-ranger-is-a-great-way-to-go-fast",
-  "source": "The Drive",
-  "ts": 1792184220.960333
- },
- {
-  "cat": "araba",
-  "baslik": "Bolivyalı Çiftçi Plastik Atıkları Traktör Yakıtına Dönüştürdü",
-  "ozet": "Daha ucuz alternatifler arayan bir çiftçi, plastik atıkları işleyerek piyasa fiyatının yarısına traktörleri için yakıt üretiyor.",
-  "puan": 6.0,
-  "grup": "plastic-waste-to-fuel-farmer",
-  "link": "https://www.jalopnik.com/2287087/bolivian-farmer-turns-plastic-waste-into-tractor-fuel/",
-  "source": "Jalopnik",
-  "ts": 1792184220.960333
- },
- {
-  "cat": "araba",
-  "baslik": "Araba Anahtarlığınızın Menzilini Etkileyen Faktörler",
-  "ozet": "Aracınızın anahtarlık kumandası sandığınızdan daha uzak mesafelerden çalışabilir ancak bazı unsurlar bu menzili düşürebilir.",
-  "puan": 2.0,
-  "grup": "car-key-fob-range-tips",
-  "link": "https://www.motor1.com/features/812265/how-far-can-key-fobs-work-range/",
-  "source": "Motor1",
-  "ts": 1792184220.960333
- },
- {
-  "cat": "araba",
-  "baslik": "Yağmurda Honda Prelude Test Sürüşü",
-  "ozet": "Karmaşık hibrit sistemi ve 200 beygir gücüne rağmen Honda Prelude, ıslak zeminlerde eğlenceli bir sürüş deneyimi sunuyor.",
-  "puan": 5.5,
-  "grup": "honda-prelude-test-drive",
-  "link": "https://www.thedrive.com/news/i-drove-the-honda-prelude-hard-in-the-rain-and-found-out-what-the-haters-are-missing",
-  "source": "The Drive",
-  "ts": 1792184220.960333
- },
- {
-  "cat": "f1",
-  "baslik": "Liam Lawson'dan Austin'deki Konser Öncesi Özel Gitar",
-  "ozet": "Racing Bulls pilotu Liam Lawson, ABD Grand Prix'si öncesinde Austin'de gerçekleştireceği canlı müzik performansı için Taylor Guitars iş birliğiyle özel bir gitar tanıttı.",
-  "puan": 3.0,
-  "grup": "liam-lawson-us-gp-music-performance",
-  "link": "https://www.motorsport.com/f1/news/liam-lawson-unveils-limited-edition-guitar-ahead-of-austin-live-performance/10865745/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792184220.960333
- },
- {
-  "cat": "f1",
-  "baslik": "Max Verstappen'in Portimao GT Seansında Zorlu Sıralaması",
-  "ozet": "Max Verstappen ve takım arkadaşları, Portimao'daki GT World Challenge yarışına 15. sıradan başlayacak.",
-  "puan": 4.5,
-  "grup": "max-verstappen-portimao-gt-qualifying",
-  "link": "https://www.the-race.com/gt/verstappen-has-troubled-qualifying-in-latest-gt-outing/",
-  "source": "The Race",
-  "ts": 1792184220.960333
- },
- {
   "cat": "f1",
   "baslik": "Collins'ten Hamilton ve Ferrari Açıklaması",
   "ozet": "Eski F1 stratejisti Bernie Collins, Singapur GP'sinin ardından Lewis Hamilton ile Ferrari pit duvarı arasında artan bir güven eksikliği olduğunu belirtti.",
@@ -1238,5 +1098,45 @@
   "link": "https://www.jalopnik.com/2289377/wrench-video-game-teach-how-cars-are-put-together/",
   "source": "Jalopnik",
   "ts": 1792352151.3677754
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mekanik Debriyajlardan Hidrolik Debriyajlara Geçişin Sebepleri",
+  "ozet": "Manuel şanzımanlarda geleneksel kablolu sistemler yerine hidrolik debriyajların kullanılmaya başlanması, sürücülere önemli avantajlar ve bazı ödünleşmeler sunuyor.",
+  "puan": 4.5,
+  "grup": "manual-car-hydraulic-clutches",
+  "link": "https://www.jalopnik.com/2287214/why-manual-transmission-cars-hydraulic-vs-cable-clutches/",
+  "source": "Jalopnik",
+  "ts": 1792360185.3516486
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mercedes G-Wagon İçin Daha Ucuz 6 Alternatif",
+  "ozet": "İkonik ve yetenekli Mercedes G-Wagon son derece pahalıdır, ancak bu daha ucuz alternatifler benzer kutu gibi tasarım ve off-road hissini yaşatabilir.",
+  "puan": 2.5,
+  "grup": "cheaper-alternatives-to-mercedes-g-wagon",
+  "link": "https://www.jalopnik.com/2288207/cheaper-alternatives-to-mercedes-g-wagon/",
+  "source": "Jalopnik",
+  "ts": 1792360185.3516486
+ },
+ {
+  "cat": "araba",
+  "baslik": "Rakipleriyle Karşılaştırıldığında Toyota 4Runner",
+  "ozet": "Toyota 4Runner, pazardaki en benzersiz SUV'lerden biri olmaya devam ediyor ve kullanıcıların ihtiyaçlarına göre ya harika ya da çağın gerisinde kalmış duruyor.",
+  "puan": 5.0,
+  "grup": "toyota-4runner-competitor-comparison",
+  "link": "https://www.jalopnik.com/2286707/compared-to-its-competitors-toyota-4runner-archaic-civilized/",
+  "source": "Jalopnik",
+  "ts": 1792360185.3516486
+ },
+ {
+  "cat": "f1",
+  "baslik": "Fornaroli ve Hughes, McLaren ile Paul Ricard'da Test Sürüşüne Çıktı",
+  "ozet": "Leonardo Fornaroli ve Jake Hughes, Paul Ricard pistinde McLaren aracıyla bir kez daha test sürüşü gerçekleştirdi.",
+  "puan": 4.5,
+  "grup": "mclaren-paul-ricard-test-fornaroli-hughes",
+  "link": "https://www.racefans.net/2026/10/18/spotlight-fornaroli-tests-for-mclaren-again-alongside-hughes-at-paul-ricard/",
+  "source": "RaceFans",
+  "ts": 1792360185.3516486
  }
 ]
