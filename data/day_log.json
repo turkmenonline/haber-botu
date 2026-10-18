@@ -1,216 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Porsche Mission S ve Manuel Vites İddiası",
-  "ozet": "Porsche CEO'su, 911'in üzerinde yer alacak yeni amiral gemisi süper otomobil platformunun müşteri taleplerine göre şekilleneceğini belirtti.",
-  "puan": 8.5,
-  "grup": "porsche-mission-s-supercar",
-  "link": "https://www.thedrive.com/news/it-definitely-sounds-like-porsche-built-the-mission-s-with-a-manual-in-mind-tds",
-  "source": "The Drive",
-  "ts": 1792158914.3151236
- },
- {
-  "cat": "araba",
-  "baslik": "En İyi Araç Çizik Gidericiler Test Edildi",
-  "ozet": "Yapılan testlerde hangi araç çizik giderici ürünlerin gerçekten işe yaradığı incelendi.",
-  "puan": 2.5,
-  "grup": "car-scratch-removers-test-guide",
-  "link": "https://www.caranddriver.com/shopping-advice/a41032488/best-car-scratch-removers-tested/",
-  "source": "Car and Driver",
-  "ts": 1792158914.3151236
- },
- {
-  "cat": "araba",
-  "baslik": "Tesla Roadster'ın Tartışmalı Özellikleri",
-  "ozet": "Tesla Roadster'ın uçuş sağlayan iticileri ve vakum fanlarının üretime girip girmeyeceği merak konusu olmaya devam ediyor.",
-  "puan": 6.5,
-  "grup": "tesla-roadster-reveal-october",
-  "link": "https://www.jalopnik.com/2288498/whats-your-tesla-roadster-take-reader-question/",
-  "source": "Jalopnik",
-  "ts": 1792158914.3151236
- },
- {
-  "cat": "araba",
-  "baslik": "Çin Gizli Kapı Kollarını Yasaklayabilir",
-  "ozet": "Çin'in taslak güvenlik kuralları, mekanik dış kapı kollarını zorunlu kılıyor ve gizli tasarımlar için 2027'ye kadar sıkı süreler öngörüyor.",
-  "puan": 7.0,
-  "grup": "china-hidden-door-handles-ban",
-  "link": "https://www.motor1.com/news/812238/china-hidden-door-handle-rules/",
-  "source": "Motor1",
-  "ts": 1792158914.3151236
- },
- {
-  "cat": "araba",
-  "baslik": "1985 Model Volkswagen Scirocco 16V Satışta",
-  "ozet": "Arızalı ve çalışmayan 1985 model Volkswagen Scirocco 16V, 4.999 dolarlık fiyatıyla alıcı bekliyor.",
-  "puan": 2.0,
-  "grup": "1985-volkswagen-scirocco-16v-sale",
-  "link": "https://www.jalopnik.com/2287798/1989-volkswagen-scirocco-16v-for-sale-4999/",
-  "source": "Jalopnik",
-  "ts": 1792158914.3151236
- },
- {
-  "cat": "araba",
-  "baslik": "Skoda Kodiaq Macera İçin Neden Uygun?",
-  "ozet": "Skoda Kodiaq, hem hafta içi kullanıma uygun yapısıyla hem de hafta sonu maceralarıyla çok yönlü bir SUV deneyimi sunuyor.",
-  "puan": 4.5,
-  "grup": "skoda-kodiaq-adventure-suv",
-  "link": "https://www.autocar.co.uk/car-news/advertising-promotions-promoted-by-skoda/why-skoda-kodiaq-perfect-adventure-suv",
-  "source": "Autocar",
-  "ts": 1792158914.3151236
- },
- {
-  "cat": "araba",
-  "baslik": "Chevrolet Nürburgring Rekoruna Yanıt Vermeyecek",
-  "ozet": "Ford Nürburgring rekorunu geri alırken, Chevrolet Corvette performans ekibi Pikes Peak odaklı çalışmalarına ağırlık veriyor.",
-  "puan": 7.5,
-  "grup": "chevrolet-corvette-nurburgring-stance",
-  "link": "https://www.motor1.com/news/812231/ford-mustang-gtd-competition-beats/",
-  "source": "Motor1",
-  "ts": 1792158914.3151236
- },
- {
-  "cat": "araba",
-  "baslik": "Yapay Zeka Otomobil Tasarımcılarını Endişelendiriyor",
-  "ozet": "Skoda'nın dış tasarım departmanı başkanı, yapay zekanın tasarım alanındaki hızlı gelişiminden etkilendiğini ifade etti.",
-  "puan": 5.0,
-  "grup": "ai-car-design-skoda",
-  "link": "https://www.motor1.com/news/812215/skoda-designer-shocked-ai-good/",
-  "source": "Motor1",
-  "ts": 1792158914.3151236
- },
- {
-  "cat": "araba",
-  "baslik": "Larte Design'dan Cadillac Escalade-V Dokunuşu",
-  "ozet": "Larte Design, Cadillac Escalade-V ESV modeli için karbon fiber detaylara sahip yeni Esthete gövde kitini tanıttı.",
-  "puan": 6.0,
-  "grup": "larte-design-cadillac-escalade-v",
-  "link": "https://www.motor1.com/news/812219/cadillac-escalade-v-larte-kit/",
-  "source": "Motor1",
-  "ts": 1792158914.3151236
- },
- {
-  "cat": "f1",
-  "baslik": "En İyi F1 Pilot ve Takım Kombinasyonları",
-  "ozet": "Max Verstappen'in Singapur Grand Prix'sindeki zaferi, onun F1 tarihindeki en iyi pilot-takım kombinasyonları listesinde yükselmesini sağladı.",
-  "puan": 2.5,
-  "grup": "f1-history-driver-team-wins",
-  "link": "https://www.formula1.com/en/latest/article/the-top-10-driver-team-combination-wins-in-f1-history.6H3YLvCRZN9e3kGTEQWGGx",
-  "source": "Formula1.com",
-  "ts": 1792158914.3151236
- },
- {
-  "cat": "f1",
-  "baslik": "2027 ve Sonrası İçin F1 Pilot Sözleşmeleri",
-  "ozet": "Formula 1 pilotlarının mevcut sözleşmelerinin ne zaman sona ereceği ve 2027 gridinde kimlerin yer alacağı merak konusu olmaya devam ediyor.",
-  "puan": 8.0,
-  "grup": "f1-2027-grid-confirmed-drivers",
-  "link": "https://www.formula1.com/en/latest/article/f1-driver-contracts-from-max-verstappen-to-lewis-hamilton-how-long-do-the-drivers-current-deals-last.4ub4xFggoaKgzMCTZhdSXw",
-  "source": "Formula1.com",
-  "ts": 1792158914.3151236
- },
- {
-  "cat": "f1",
-  "baslik": "Rwanda Pisti Assetto Corsa'da Canlandırıldı",
-  "ozet": "F1'in Ruanda ile uzun vadeli anlaşma duyurusundan kısa süre sonra, simülasyon oyuncuları gelecekteki olası pist düzenini Assetto Corsa'ya uyarladı.",
-  "puan": 2.0,
-  "grup": "rwanda-f1-circuit-assetto-corsa",
-  "link": "https://www.motorsport.com/f1/news/f1-fan-brings-rwandas-future-grand-prix-circuit-to-life-in-assetto-corsa-simulation/10865657/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792158914.3151236
- },
- {
-  "cat": "f1",
-  "baslik": "Ollie Bearman Monaco'da Ferrari Süper Otomobiliyle Görüntülendi",
-  "ozet": "Haas F1 pilotu Ollie Bearman, Monaco'da yeni bir Ferrari süper otomobili kullanırken görüntülendi ve sosyal medyada ilgi topladı.",
-  "puan": 2.0,
-  "grup": "ollie-bearman-monaco-ferrari",
-  "link": "https://www.motorsport.com/f1/news/ollie-bearman-spotted-driving-1000hp-ferrari-supercar-through-monaco/10865638/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792158914.3151236
- },
- {
-  "cat": "f1",
-  "baslik": "Amerika Grand Prix'sine Dev Cowboy Şapkası",
-  "ozet": "Amerika Grand Prix organizatörleri, Austin pistinde içinde bar bulunan dünyanın en büyük cowboy şapkasını inşa ederek Guinness Rekorlar Kitabı'na girmeyi hedefliyor.",
-  "puan": 3.0,
-  "grup": "united-states-gp-giant-cowboy-hat",
-  "link": "https://www.motorsport.com/f1/news/the-united-states-grand-prix-is-getting-a-bizarre-new-attraction/10865626/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792158914.3151236
- },
- {
-  "cat": "f1",
-  "baslik": "Karun Chandhok'tan Mercedes Güncellemelerine Eleştiri",
-  "ozet": "Eski F1 pilotu Karun Chandhok, Mercedes'in son getirdiği aerodinamik güncelleme paketinin istenen performans artışını sağlayamadığını belirterek takımın endişelenmesi gerektiğini söyledi.",
-  "puan": 4.5,
-  "grup": "mercedes-f1-upgrade-performance-chandhok",
-  "link": "https://www.motorsport.com/f1/news/karun-chandhok-raises-concerns-about-mercedes-f1-upgrade-performance/10865623/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792158914.3151236
- },
- {
-  "cat": "f1",
-  "baslik": "Toto Wolff Singapur'da Neden İki Saat Taktı?",
-  "ozet": "Mercedes takım patronu Toto Wolff, farklı saat dilimlerini takip edebilmek amacıyla Singapur Grand Prix'sinde sol bileğine iki farklı saat taktı.",
-  "puan": 2.0,
-  "grup": "toto-wolff-two-watches-singapore",
-  "link": "https://www.motorsport.com/f1/news/why-toto-wolff-wore-two-watches-at-the-singapore-grand-prix/10865603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792158914.3151236
- },
- {
-  "cat": "f1",
-  "baslik": "F1 Rüya Bileti İçin Finalistler Belirlendi",
-  "ozet": "Yüzlerce başvuru arasından seçilen altı finalist, F1 sezon biletini kazanmak ve hayallerindeki maceraya ulaşmak için taraftar oylamasına kaldı.",
-  "puan": 1.5,
-  "grup": "heineken-f1-season-ticket-competition",
-  "link": "https://www.motorsport.com/general/news/who-will-win-this-years-ultimate-f1-dream-ticket-you-decide-/10865593/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792158914.3151236
- },
- {
-  "cat": "f1",
-  "baslik": "F1 Rüya Bileti İçin Finalistler Belirlendi",
-  "ozet": "Yüzlerce başvuru arasından seçilen altı finalist, F1 sezon biletini kazanmak ve hayallerindeki maceraya ulaşmak için taraftar oylamasına kaldı.",
-  "puan": 1.5,
-  "grup": "heineken-f1-season-ticket-competition",
-  "link": "https://www.autosport.com/general/news/who-will-win-this-years-ultimate-f1-dream-ticket-you-decide-/10865598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1792158914.3151236
- },
- {
-  "cat": "f1",
-  "baslik": "Aston Martin'in Pol Potansiyeli Üzerine İnceleme",
-  "ozet": "Mark Hughes, Honda motorunun maliyetini ve AMR26 aracının pole pozisyonu için mücadele edip edemeyeceğini analiz ediyor.",
-  "puan": 5.0,
-  "grup": "aston-martin-amr26-pole-potential",
-  "link": "https://www.the-race.com/formula-1/aston-martin-f1-pole-potential-extraordinary-figures/",
-  "source": "The Race",
-  "ts": 1792158914.3151236
- },
- {
-  "cat": "f1",
-  "baslik": "Isack Hadjar'dan Max Verstappen Yorumu",
-  "ozet": "Red Bull pilotu Isack Hadjar, kariyerinin zirvesindeki Max Verstappen ile takım arkadaşı olmaktan duyduğu şansı dile getirdi.",
-  "puan": 4.0,
-  "grup": "isack-hadjar-max-verstappen-red-bull",
-  "link": "https://www.motorsport.com/f1/news/isack-hadjar-on-reality-of-racing-alongside-prime-of-the-prime-max-verstappen-/10861847/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792158914.3151236
- },
- {
-  "cat": "f1",
-  "baslik": "Ferrari Genç Pilotu Beganovic'i Rezerv Pilot Yaptı",
-  "ozet": "Ferrari, genç sürücüsü Dino Beganovic'i 2027 sezonu için Formula 1 rezerv pilotluğu görevine terfi ettirdi.",
-  "puan": 7.5,
-  "grup": "ferrari-dino-beganovic-reserve-driver-2027",
-  "link": "https://www.motorsport.com/f1/news/ferrari-promotes-f2-racer-to-f1-reserve-driver-role/10865590/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792158914.3151236
- },
- {
-  "cat": "araba",
   "baslik": "Porsche Mission S Modelinde Analog Devir Saati",
   "ozet": "Porsche'nin yeni süper otomobili Mission S, tamamen dijital ekranlar yerine lüks bir dijital detoks yaklaşımıyla analog bir devir saati iğnesine sahip.",
   "puan": 8.5,
@@ -1448,5 +1238,165 @@
   "link": "https://www.racefans.net/2026/10/18/poll-does-f1-needs-its-cost-cap-or-is-it-just-holding-back-the-smaller-teams/",
   "source": "RaceFans",
   "ts": 1792320833.0733593
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yolda Kalma Hikayeleri",
+  "ozet": "Sürücülerin yolda mahsur kaldığı en kötü anları ve kar fırtınası ya da sıcakta çekici beklerken yaşadıkları deneyimler derleniyor.",
+  "puan": 2.0,
+  "grup": "stranded-on-the-road-stories",
+  "link": "https://www.jalopnik.com/2289323/whats-your-worst-stranded-on-the-side-of-the-road-story-reader-question/",
+  "source": "Jalopnik",
+  "ts": 1792333774.430276
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Polaris RZR Pro R Boost Fotoğrafları",
+  "ozet": "Yeni 2027 model Polaris RZR Pro R Boost'un aksiyon anlarına ait fotoğraflar yayınlandı.",
+  "puan": 4.5,
+  "grup": "polaris-rzr-pro-r-boost",
+  "link": "https://www.caranddriver.com/photos/a74049993/2026-polaris-rzr-pro-r-boost-drive-gallery/",
+  "source": "Car and Driver",
+  "ts": 1792333774.430276
+ },
+ {
+  "cat": "araba",
+  "baslik": "Makyajlı Hyundai Santa Fe EREV Yolda",
+  "ozet": "Hyundai'nin ilk menzil uzatcılı hibrit modeli Santa Fe EREV, 600 mil menzil ile 2027'nin ilk yarısında tanıtılacak.",
+  "puan": 7.5,
+  "grup": "hyundai-santa-fe-erev",
+  "link": "https://www.jalopnik.com/2289165/hyundai-santa-fe-facelift-erev-range-extender-hybrid-spied/",
+  "source": "Jalopnik",
+  "ts": 1792333774.430276
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Polaris RZR Pro R Boost İncelemesi",
+  "ozet": "Utah'ın zorlu arazilerinde test edilen yeni Polaris buggy modeli, performansıyla dikkat çekiyor.",
+  "puan": 5.0,
+  "grup": "polaris-rzr-pro-r-boost",
+  "link": "https://www.caranddriver.com/reviews/a74109201/2027-polaris-rzr-pro-r-boost-drive/",
+  "source": "Car and Driver",
+  "ts": 1792333774.430276
+ },
+ {
+  "cat": "araba",
+  "baslik": "Los Angeles'ta VinFast Filosu",
+  "ozet": "Green SM, Los Angeles'ta hizmet vermek üzere 500 adet VinFast VF8 modelinden oluşan yeni bir araç kiralama filosu başlattı.",
+  "puan": 4.0,
+  "grup": "vinfast-la-ride-hailing",
+  "link": "https://www.caranddriver.com/news/a74162971/green-sm-los-angeles-ride-hailing-vinfast-vf8-ev/",
+  "source": "Car and Driver",
+  "ts": 1792333774.430276
+ },
+ {
+  "cat": "araba",
+  "baslik": "90'lardan 11 Japon Performans Otomobili",
+  "ozet": "Japon otomotiv tarihinin en ikonik ve nostaljik 90'lar performans arabaları listelendi.",
+  "puan": 2.5,
+  "grup": "japanese-90s-performance-cars",
+  "link": "https://www.jalopnik.com/2287365/japanese-performance-cars-90s/",
+  "source": "Jalopnik",
+  "ts": 1792333774.430276
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ucuz Araç Parçası Kullanan 5 Egzozik Otomobil",
+  "ozet": "Oldukça pahalı ve egzozik süper arabaların sıradan araçlardan ve hatta otobüslerden parça ödünç aldığı modeller inceleniyor.",
+  "puan": 3.0,
+  "grup": "exotics-using-cheap-car-parts",
+  "link": "https://www.jalopnik.com/2284792/exotics-supercars-luxury-with-parts-from-normal-cheap-cars/",
+  "source": "Jalopnik",
+  "ts": 1792333774.430276
+ },
+ {
+  "cat": "araba",
+  "baslik": "440 Big Block Motorlu Son Chrysler Modelleri",
+  "ozet": "Mopar'ın efsanevi 440 big block motoruna veda eden son Chrysler modelleri derlendi.",
+  "puan": 3.0,
+  "grup": "chrysler-440-big-block",
+  "link": "https://www.jalopnik.com/2284708/last-chrysler-mopar-440-big-block-v8-under-hood/",
+  "source": "Jalopnik",
+  "ts": 1792333774.430276
+ },
+ {
+  "cat": "araba",
+  "baslik": "Güneş Işınlarının Araç Boyasına Etkisi",
+  "ozet": "Güneş ışığının araç boyasını nasıl solup matlaştırdığı ve bu hasara karşı alınabilecek koruma yöntemleri anlatılıyor.",
+  "puan": 2.0,
+  "grup": "car-paint-sun-protection",
+  "link": "https://www.motor1.com/features/812079/why-car-paint-fades-in-the-sun/",
+  "source": "Motor1",
+  "ts": 1792333774.430276
+ },
+ {
+  "cat": "araba",
+  "baslik": "Arnold Schwarzenegger ve Sivil Hummer",
+  "ozet": "Askeri bir araç olarak doğan Hummer'ın Arnold Schwarzenegger sayesinde sivil yollara çıkış hikayesi aktarılıyor.",
+  "puan": 3.0,
+  "grup": "civilian-hummer-arnold-schwarzenegger",
+  "link": "https://www.jalopnik.com/2284294/civilians-can-own-hummers-thanks-to-arnold-schwarzenegger/",
+  "source": "Jalopnik",
+  "ts": 1792333774.430276
+ },
+ {
+  "cat": "araba",
+  "baslik": "Jeep Willys Efsanesini Geri Getirebilir",
+  "ozet": "Jeep, Avrupa'daki Çinli rekabetine karşı askeri kökenli Willys modelini elektrikli olarak yeniden canlandırmayı değerlendiriyor.",
+  "puan": 6.5,
+  "grup": "jeep-willys-ev-revival",
+  "link": "https://www.autocar.co.uk/car-news/motor-shows-paris-motor-show/jeep-mulls-willys-revival-it-plots-affordable-ev-after-2030",
+  "source": "Autocar",
+  "ts": 1792333774.430276
+ },
+ {
+  "cat": "f1",
+  "baslik": "BBC, F1 Radyo Yayın Haklarını Kaybetme Tehlikesiyle Karşı Karşıya",
+  "ozet": "TalkSPORT'un İngiltere'deki Formula 1 radyo yayın hakları için teklif vermeyi düşünmesi, BBC'nin 32 yıllık yayın serüvenini sona erdirebilir.",
+  "puan": 3.5,
+  "grup": "bbc-f1-radio-rights-talksport",
+  "link": "https://www.motorsport.com/f1/news/bbc-could-lose-f1-radio-rights-after-32-years-as-rival-broadcaster-considers-bid/10866051/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792333774.430276
+ },
+ {
+  "cat": "f1",
+  "baslik": "Aston Martin'in Form Düşüşündeki Gizemli Fernando Alonso Detayı",
+  "ozet": "Aston Martin'in B-spec aracı tanıttığı dönemeçten bu yana sergilediği kafa karıştırıcı form grafiği, Fernando Alonso ile ilgili garip olayları da beraberinde getirdi.",
+  "puan": 4.5,
+  "grup": "aston-martin-alonso-b-spec-form",
+  "link": "https://www.the-race.com/formula-1/strange-fernando-alonso-subplot-aston-martin-weird-f1-form/",
+  "source": "The Race",
+  "ts": 1792333774.430276
+ },
+ {
+  "cat": "f1",
+  "baslik": "Max Verstappen'den 2026 Regülasyonlarını Eleştirenlere Tepki",
+  "ozet": "Max Verstappen, eski pilotların ve yorumcuların 2026 kurallarına yönelik eleştirilerinin bu yeni regülasyonları anlamamalarından kaynaklandığını belirtti.",
+  "puan": 5.0,
+  "grup": "max-verstappen-2026-regulations-criticism",
+  "link": "https://www.motorsport.com/f1/news/max-verstappen-hits-back-at-former-f1-drivers-over-criticism-of-2026-regulations/10866045/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792333774.430276
+ },
+ {
+  "cat": "f1",
+  "baslik": "Mercedes, Yeni Güncellemelerin Aracı Neden Zorlaştırdığını Açıkladı",
+  "ozet": "Singapore GP hafta sonunda iki pilotun araçlarında farklı konfigürasyonlar deneyen Mercedes, yeni paketle ilgili kritik verilere ulaştı.",
+  "puan": 5.0,
+  "grup": "mercedes-singapore-upgrade-data-analysis",
+  "link": "https://www.autosport.com/f1/news/mercedes-explains-why-its-upgrade-made-its-f1-car-harder-to-drive/10866035/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1792333774.430276
+ },
+ {
+  "cat": "f1",
+  "baslik": "Christian Horner, Geri Halliwell'in Hayran Tepkileriyle Baş Etmesine Nasıl Yardımcı Olduğunu Anlattı",
+  "ozet": "Christian Horner, Drive to Survive sonrası artan şöhret ve hayran tepkileriyle başa çıkmasında ünlü eşi Geri Halliwell'in kendisine nasıl destek olduğunu açıkladı.",
+  "puan": 2.0,
+  "grup": "christian-horner-geri-halliwell-fame",
+  "link": "https://www.motorsport.com/f1/news/how-geri-halliwell-helped-christian-horner-deal-with-fan-hate/10865211/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792333774.430276
  }
 ]
