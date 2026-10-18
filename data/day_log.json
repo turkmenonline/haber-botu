@@ -1,35 +1,5 @@
 [
  {
-  "cat": "f1",
-  "baslik": "Collins'ten Hamilton ve Ferrari Açıklaması",
-  "ozet": "Eski F1 stratejisti Bernie Collins, Singapur GP'sinin ardından Lewis Hamilton ile Ferrari pit duvarı arasında artan bir güven eksikliği olduğunu belirtti.",
-  "puan": 4.5,
-  "grup": "bernie-collins-hamilton-ferrari-trust",
-  "link": "https://www.motorsport.com/f1/news/bernie-collins-warns-of-growing-trust-issues-between-lewis-hamilton-and-ferrari/10865751/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792193294.244363
- },
- {
-  "cat": "f1",
-  "baslik": "Ferrari'den Eğlenceli Sosyal Medya Videosu",
-  "ozet": "Ferrari, Singapur GP hafta sonunda Lewis Hamilton ve Charles Leclerc'in takımın sosyal medya hesaplarını devraldığı eğlenceli ve kaotik arkasındaki kamera görüntülerini yayınladı.",
-  "puan": 2.0,
-  "grup": "ferrari-hamilton-leclerc-social-media",
-  "link": "https://www.motorsport.com/f1/news/ferrari-releases-chaotic-footage-of-lewis-hamilton-and-charles-leclercs-social-media-takeover/10865748/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792193294.244363
- },
- {
-  "cat": "f1",
-  "baslik": "Tarihte Bugün: Dan Wheldon'ın Kazası",
-  "ozet": "Las Vegas'taki IndyCar sezon finalinde IndyCar şampiyonu Dan Wheldon'ın hayatını kaybettiği korkunç kaza, tarihte bu gün anılıyor.",
-  "puan": 2.0,
-  "grup": "on-this-day-dan-wheldon-crash",
-  "link": "https://www.racefans.net/2026/10/16/on-this-day-wheldon-killed-in-indycar-horror-crash-at-las-vegas-finale/",
-  "source": "RaceFans",
-  "ts": 1792193294.244363
- },
- {
   "cat": "araba",
   "baslik": "Yol Tuzunun Araç Boyasına Zararları",
   "ozet": "Kışın yolları güvenli tutan tuzlar, araç boyasına zarar vererek paslanmaya yol açabilir. Bu sürecin nasıl işlediğini ve aracınızı nasıl koruyabileceğinizi öğrenin.",
@@ -1138,5 +1108,55 @@
   "link": "https://www.racefans.net/2026/10/18/spotlight-fornaroli-tests-for-mclaren-again-alongside-hughes-at-paul-ricard/",
   "source": "RaceFans",
   "ts": 1792360185.3516486
+ },
+ {
+  "cat": "araba",
+  "baslik": "Hidrolik Yağ ile Motor Yağı Arasındaki Farklar",
+  "ozet": "Her ikisi de madeni veya sentetik bazlı olabilen hidrolik yağ ve motor yağının temel farkları ve kaput altında üstlendikleri görevler inceleniyor.",
+  "puan": 3.5,
+  "grup": "hydraulic-vs-motor-oil-differences",
+  "link": "https://www.jalopnik.com/2287384/difference-between-hydraulic-and-motor-oil/",
+  "source": "Jalopnik",
+  "ts": 1792367056.5190196
+ },
+ {
+  "cat": "araba",
+  "baslik": "Roma'da Gezinmenin En Mükemmel Yolu: Fiat 500 Jolly",
+  "ozet": "Fiat 500 Jolly modellerinin Roma sokaklarında seyahat etmek için ne kadar keyifli ve kusursuz bir araç olduğu ele alınıyor.",
+  "puan": 2.5,
+  "grup": "fiat-500-jolly-rome-drive",
+  "link": "https://www.jalopnik.com/2289431/fiat-500-jolly-mercedes-benz-g500-rome-carspotting/",
+  "source": "Jalopnik",
+  "ts": 1792367056.5190196
+ },
+ {
+  "cat": "araba",
+  "baslik": "Elektrikli ve İçten Yanmalı Arazi SUV'lerinin Artıları ve Eksileri",
+  "ozet": "Elektrikli araçların yüksek maliyetlerine karşın sunduğu anlık tork ve dayanıklılık avantajları, içten yanmalı off-road araçlarla kıyaslanıyor.",
+  "puan": 5.0,
+  "grup": "ev-vs-ice-off-road-suvs",
+  "link": "https://www.jalopnik.com/2287315/pros-cons-ev-vs-internal-combustion-gas-diesel-off-road-suvs/",
+  "source": "Jalopnik",
+  "ts": 1792367056.5190196
+ },
+ {
+  "cat": "araba",
+  "baslik": "İngiliz Polis Otomobilleri Neden 'Reçel Sandviç' Olarak Anılıyor?",
+  "ozet": "İngiliz polis arabaları için kullanılan klasik bir argo terim olan 'jam sandwich' ifadesinin kökeni ve arkasındaki ikonik otomobiller açıklanıyor.",
+  "puan": 2.5,
+  "grup": "uk-police-car-jam-sandwich-slang",
+  "link": "https://www.jalopnik.com/2287084/british-police-cars-jam-sandwich/",
+  "source": "Jalopnik",
+  "ts": 1792367056.5190196
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton ve Alonso'nun 2007 Rekabeti Belgesel Oluyor",
+  "ozet": "BBC'nin, Lewis Hamilton ve Fernando Alonso'nun McLaren'daki kaotik 2007 sezonunu konu alan bir belgesel hazırladığı öne sürüldü. Proje henüz resmi olarak doğrulanmadı.",
+  "puan": 2.5,
+  "grup": "hamilton-alonso-2007-documentary-bbc",
+  "link": "https://www.motorsport.com/f1/news/lewis-hamilton-and-fernando-alonsos-infamous-mclaren-rivalry-set-for-bbc-documentary/10866138/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792367056.5190196
  }
 ]
