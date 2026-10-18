@@ -1,76 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Tesla Roadster Sonunda Tanıtılıyor",
-  "ozet": "Yıllarca süren gecikmelerin ardından Tesla Roadster 2 sonunda bugün ilk kez gösteriliyor.",
-  "puan": 8.5,
-  "grup": "tesla-roadster-reveal-october",
-  "link": "https://www.thedrive.com/news/tesla-roadster-reveal-updates",
-  "source": "The Drive",
-  "ts": 1792108491.004809
- },
- {
-  "cat": "araba",
-  "baslik": "Yüksek Oktanlı Benzin İçin Fazla Para mı Ödüyorsunuz?",
-  "ozet": "Yanlış oktan yakıt kullanımı aracınızın performansını etkileyebilir; düzenli ve premium benzin seçimi arasındaki farklar ele alınıyor.",
-  "puan": 3.0,
-  "grup": "premium-gas-octane-performance-guide",
-  "link": "https://www.motor1.com/features/812041/what-if-you-put-the-wrong-gas-in-your-car/",
-  "source": "Motor1",
-  "ts": 1792108491.004809
- },
- {
-  "cat": "araba",
-  "baslik": "Larte Design'dan Cadillac Escalade-V İçin Agresif Dokunuş",
-  "ozet": "Süper şarjlı Cadillac Escalade-V modeline Larte Design tarafından iddialı bir görünüm ve egzoz güncellemesi kazandırıldı.",
-  "puan": 4.5,
-  "grup": "larte-design-cadillac-escalade-v",
-  "link": "https://www.caranddriver.com/news/a74149934/larte-design-cadillac-escalade-v-body-kit/",
-  "source": "Car and Driver",
-  "ts": 1792108491.004809
- },
- {
-  "cat": "araba",
-  "baslik": "Dodge NASCAR'a Geri Dönüyor",
-  "ozet": "Dodge'un önümüzdeki Şubat ayında Daytona 500'de yarışması için hazırlıklar sürerken bazı zorluklar da devam ediyor.",
-  "puan": 7.5,
-  "grup": "automaker-nascar-cup-series-participation",
-  "link": "https://www.motor1.com/news/812144/dodge-nascar-return-2027-season/",
-  "source": "Motor1",
-  "ts": 1792108491.004809
- },
- {
-  "cat": "araba",
-  "baslik": "Lamborghini Revuelto'nun Karbon Fiber Opsiyonları",
-  "ozet": "Test edilen Lamborghini Revuelto üzerindeki 133.227 dolarlık opsiyonların 50.601 dolarını iki karbon fiber paket oluşturuyor.",
-  "puan": 6.0,
-  "grup": "lamborghini-revuelto-carbon-fiber-options",
-  "link": "https://www.jalopnik.com/2288310/lamborghini-revuelto-optional-carbon-fiber-costs-more-than-average-new-car/",
-  "source": "Jalopnik",
-  "ts": 1792108491.004809
- },
- {
-  "cat": "f1",
-  "baslik": "Stroll'ün F1 Öncesi Son Zaferi",
-  "ozet": "Lance Stroll, Formula 1 pilotu olmadan önceki son yarışında galibiyet elde etmişti.",
-  "puan": 2.0,
-  "grup": "on-this-day-stroll-pre-f1-win",
-  "link": "https://www.racefans.net/2026/10/16/on-this-day-european-formula-three-hockenheimring-race-three/",
-  "source": "RaceFans",
-  "ts": 1792108491.004809
- },
- {
-  "cat": "f1",
-  "baslik": "Bottas'tan Cadillac ve Mercedes Karşılaştırması",
-  "ozet": "Valtteri Bottas, henüz puanı bulunmayan Cadillac takımının tesislerinin, hibrit dönemin en başarılı takımı Mercedes'ten daha iyi olduğunu belirtti.",
-  "puan": 4.5,
-  "grup": "valtteri-bottas-cadillac-mercedes-facilities",
-  "link": "https://www.motorsport.com/f1/news/valtteri-bottas-makes-surprising-mercedes-comparison-as-cadillac-builds-f1-future/10865491/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792108491.004809
- },
- {
-  "cat": "araba",
   "baslik": "Yeni Tesla Roadster'ın İç Mekan Fotoğrafları",
   "ozet": "Gelecekçi tasarıma sahip yeni Tesla Roadster'ın iç mekanını her açıyla gösteren fotoğraflar yayınlandı.",
   "puan": 8.5,
@@ -1588,5 +1518,35 @@
   "link": "https://www.motorsport.com/culture/news/aston-martins-f1-inspired-monster-spotted-testing-as-record-breaking-claims-emerge/10865964/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1792279262.021224
+ },
+ {
+  "cat": "araba",
+  "baslik": "Consumer Reports'tan Uber'in Yapay Zeka Fiyatlandırma İncelemesi",
+  "ozet": "Consumer Reports, Uber'in dinamik yolculuk paylaşımı ücretlerini belirleyen yapay zeka fiyatlandırma algoritmasını inceledi.",
+  "puan": 4.5,
+  "grup": "uber-ai-rideshare-pricing",
+  "link": "https://www.jalopnik.com/2285732/consumer-reports-uber-uses-ai-to-set-rideshare-prices/",
+  "source": "Jalopnik",
+  "ts": 1792286015.3621507
+ },
+ {
+  "cat": "araba",
+  "baslik": "2021 Model BMW M340i Ne Kadar Değer Kaybetti?",
+  "ozet": "Spor otomobil hızına ve günlük pratikliğe sahip 2021 model BMW M340i'nin beş yılda yaşadığı değer kaybı incelendi.",
+  "puan": 3.0,
+  "grup": "bmw-m340i-depreciation",
+  "link": "https://www.jalopnik.com/2285600/how-much-2021-bmw-m340i-have-depreciated-five-years/",
+  "source": "Jalopnik",
+  "ts": 1792286015.3621507
+ },
+ {
+  "cat": "f1",
+  "baslik": "Lando Norris'in Takımı F2 Geleceğini Bekliyor",
+  "ozet": "Lando Norris'in yeni yarış takımı LN4 Fusion, 2027-2029 sezonları için Formula 2'de yer alıp almayacağının açıklanmasını bekliyor. FIA F2 CEO'su Bruno Michel, yeni takım seçimlerinin yakında netleşeceğini doğruladı.",
+  "puan": 4.5,
+  "grup": "lando-norris-ln4-fusion-f2-grid",
+  "link": "https://www.motorsport.com/f1/news/lando-norris-faces-anxious-wait-as-f2-prepares-to-decide-future-of-his-racing-team/10865969/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792286015.3621507
  }
 ]
