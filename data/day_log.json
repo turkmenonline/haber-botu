@@ -1,66 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Yeni Tesla Roadster'ın İç Mekan Fotoğrafları",
-  "ozet": "Gelecekçi tasarıma sahip yeni Tesla Roadster'ın iç mekanını her açıyla gösteren fotoğraflar yayınlandı.",
-  "puan": 8.5,
-  "grup": "tesla-roadster-reveal-october",
-  "link": "https://www.caranddriver.com/photos/a74152694/tesla-roadster-revealed-interior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1792124398.6871696
- },
- {
-  "cat": "araba",
-  "baslik": "Yeni Tesla Roadster'ın Dış Tasarım Fotoğrafları",
-  "ozet": "İtki sistemine sahip yeni Tesla Roadster modelinin dış tasarımını farklı açılardan gözler önüne seren fotoğraflar paylaşıldı.",
-  "puan": 8.5,
-  "grup": "tesla-roadster-reveal-october",
-  "link": "https://www.caranddriver.com/photos/a74152579/tesla-roadster-revealed-exterior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1792124398.6871696
- },
- {
-  "cat": "araba",
-  "baslik": "Tesla Roadster Yeniden Tanıtıldı",
-  "ozet": "Uzun süredir beklenen ikinci nesil Tesla Roadster, tamamen yeni tasarımı ve 2028'deki üretim hedefiyle yeniden duyuruldu.",
-  "puan": 9.0,
-  "grup": "tesla-roadster-reveal-october",
-  "link": "https://www.jalopnik.com/2288450/tesla-roadster-rereveal-new-design-production-plans-for-flying-car/",
-  "source": "Jalopnik",
-  "ts": 1792124398.6871696
- },
- {
-  "cat": "araba",
-  "baslik": "Yeni Roadster Son Manuel Sürülecek Tesla Olacak",
-  "ozet": "Elon Musk'ın açıklamasına göre, yeni Roadster'dan sonra üretilecek her yeni Tesla modeli tamamen otonom olacak.",
-  "puan": 8.5,
-  "grup": "tesla-roadster-reveal-october",
-  "link": "https://www.motor1.com/news/812153/tesla-roadster-last-manually-driven-model/",
-  "source": "Motor1",
-  "ts": 1792124398.6871696
- },
- {
-  "cat": "araba",
-  "baslik": "Yıllarca Süren Bekleyişin Ardından Tesla Roadster Çıktı",
-  "ozet": "Tesla'nın uzun süredir merakla beklenen tamamen elektrikli süperspor modeli nihayet resmi olarak tanıtıldı.",
-  "puan": 9.0,
-  "grup": "tesla-roadster-reveal-october",
-  "link": "https://www.motor1.com/news/812150/new-tesla-roadster-revealed/",
-  "source": "Motor1",
-  "ts": 1792124398.6871696
- },
- {
-  "cat": "araba",
-  "baslik": "LeBron James'in Maybach S-Class'ı Açık Artırmada",
-  "ozet": "Gooding Christie's Retromobile müzayedesinde, LeBron James'in vakfı için üretilen ikiz model olan özel Maybach S680 satışa çıkıyor.",
-  "puan": 3.0,
-  "grup": "lebron-james-maybach-s-class-auction",
-  "link": "https://www.motor1.com/news/812084/lebron-james-mercedes-maybach-s/",
-  "source": "Motor1",
-  "ts": 1792124398.6871696
- },
- {
-  "cat": "araba",
   "baslik": "Maserati GT2 Stradale Fuoriserie Tanıtıldı",
   "ozet": "Maserati, MC12 yarış otomobiline göndermeler yapan ve özel Blu Victory rengine sahip tek seferlik GT2 Stradale Fuoriserie modelini tanıttı.",
   "puan": 7.5,
@@ -1548,5 +1488,35 @@
   "link": "https://www.motorsport.com/f1/news/lando-norris-faces-anxious-wait-as-f2-prepares-to-decide-future-of-his-racing-team/10865969/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1792286015.3621507
+ },
+ {
+  "cat": "araba",
+  "baslik": "Kia'nın GT Departmanı ve Elektrikli Performans Modelleri",
+  "ozet": "Kia'nın elektrikli GT modellerinin arkasındaki felsefe inceleniyor ve Güney Kore'deki test süreçlerinden detaylar aktarılıyor.",
+  "puan": 5.5,
+  "grup": "kia-gt-division-electric-cars",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/inside-kias-gt-division-why-its-cars-are-fun-not-fearsome",
+  "source": "Autocar",
+  "ts": 1792303312.0744107
+ },
+ {
+  "cat": "araba",
+  "baslik": "Kaliforniya'nın Tarihi İçinden Araçla Geçilen Sekoya Ağaçları",
+  "ozet": "1878 yılından beri oyulan ve günümüzde hala araç trafiğine açık olan Kaliforniya'daki devasa sekoya ağaçları anlatılıyor.",
+  "puan": 2.5,
+  "grup": "california-drive-through-redwood-trees",
+  "link": "https://www.jalopnik.com/2286479/driving-through-california-redwood-popular-tourists/",
+  "source": "Jalopnik",
+  "ts": 1792303312.0744107
+ },
+ {
+  "cat": "araba",
+  "baslik": "Silindir Kapatma Teknolojisi Neden Mekanik Sorunlara Yol Açabilir?",
+  "ozet": "Kırk yılı aşkın süredir kullanılan silindir kapatma teknolojisi, yakıt verimliliği sağlarken beraberinde getirdiği ciddi mekanik sorunlar nedeniyle tartışılmaya devam ediyor.",
+  "puan": 4.5,
+  "grup": "car-cylinder-deactivation-issues",
+  "link": "https://www.jalopnik.com/2285818/why-cars-cylinder-deactivation-more-problems/",
+  "source": "Jalopnik",
+  "ts": 1792303312.0744107
  }
 ]
