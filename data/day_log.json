@@ -1,16 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Porsche'nin Yeni Tasarım Dili ve Mission S",
-  "ozet": "Porsche'nin yeni tasarım başkanı Tobias Sühlmann, markanın gelecek stil yönünü ve 911'in üzerinde konumlanacak yeni ortadan motorlu amiral gemisi Mission S'in detaylarını paylaştı.",
-  "puan": 8.5,
-  "grup": "porsche-mission-s-supercar",
-  "link": "https://www.autocar.co.uk/car-news/new-cars/porsche-designer-mission-s-sets-heritage-template-next-911",
-  "source": "Autocar",
-  "ts": 1792217079.5439456
- },
- {
-  "cat": "araba",
   "baslik": "Avrupa'da Neden Küçük Otomobiller Tercih Ediliyor?",
   "ozet": "Avrupalı sürücülerin küçük araba tercih etmesinin temel sebebi sadece yakıt fiyatları değil; kıtanın yasaları ve altyapısı da büyük araçları dezavantajlı kılıyor.",
   "puan": 4.5,
@@ -1168,5 +1158,75 @@
   "link": "https://www.motorsport.com/f1/news/stray-kids-felix-sends-fans-into-frenzy-with-behind-the-scenes-ferrari-f1-photos/10866141/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1792374611.2383072
+ },
+ {
+  "cat": "araba",
+  "baslik": "Elon Musk'tan Tesla Roadster Açıklaması",
+  "ozet": "Elon Musk, yeni Tesla Roadster'ın 'canlı' gibi olacağını ve Texas'taki bir pistte otonom akrobasi hareketleri yapabileceğini belirtti.",
+  "puan": 6.5,
+  "grup": "tesla-roadster-autonomous-stunts",
+  "link": "https://www.motor1.com/news/812362/tesla-roadster-autonomous-stunts-texas/",
+  "source": "Motor1",
+  "ts": 1792393135.113745
+ },
+ {
+  "cat": "araba",
+  "baslik": "Uygun Fiyatlı Porsche 968 İncelemesi",
+  "ozet": "Gözden kaçan nadir önden motorlu Porsche 968, 911 modeline kıyasla uygun fiyatı ve sürüş keyfiyle dikkat çekiyor.",
+  "puan": 3.5,
+  "grup": "porsche-968-buying-guide",
+  "link": "https://www.autocar.co.uk/car-news/used-cars/overlooked-porsche-legend-%C2%A311k-its-time-buy-968",
+  "source": "Autocar",
+  "ts": 1792393135.113745
+ },
+ {
+  "cat": "araba",
+  "baslik": "Porsche'den Elektrikli Süper Otomobil Kararı",
+  "ozet": "Porsche, yeterli talep olmaması nedeniyle yeni orta motorlu süper otomobilinde tamamen elektrikli güç ünitesi yerine içten yanmalı veya hibrit sistemleri tercih edeceğini açıkladı.",
+  "puan": 7.5,
+  "grup": "porsche-electric-supercar-no-demand",
+  "link": "https://www.motor1.com/news/812361/porsche-says-zero-demand-electric-supercar/",
+  "source": "Motor1",
+  "ts": 1792393135.113745
+ },
+ {
+  "cat": "araba",
+  "baslik": "Fiat'tan Yeni Panda Tabanlı Elektrikli Model",
+  "ozet": "Fiat, Citroën 2CV ikizi olması beklenen ve 'Koala' adını alabilecek yeni giriş seviyesi elektrikli modelini tanıtmaya hazırlanıyor.",
+  "puan": 7.0,
+  "grup": "fiat-koala-electric-car",
+  "link": "https://www.autocar.co.uk/car-news/electric-cars/fiat-koala-company-ready-reveal-panda-inspired-2cv-twin",
+  "source": "Autocar",
+  "ts": 1792393135.113745
+ },
+ {
+  "cat": "araba",
+  "baslik": "İngiltere'de Elektrikli Araç Teşviki",
+  "ozet": "İngiltere'de yeni elektrikli araç alımlarında 3.750 sterline varan devlet teşviki sağlanırken, bu destek her modeli kapsamıyor.",
+  "puan": 4.0,
+  "grup": "uk-electric-car-grant",
+  "link": "https://www.autocar.co.uk/car-news/electric-cars/electric-car-grant-how-save-%C2%A33750-these-64-new-evs",
+  "source": "Autocar",
+  "ts": 1792393135.113745
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 ABD Grand Prix Yayın Rehberi",
+  "ozet": "Şampiyonluk mücadelesine sahne olabilecek 2026 Amerika Birleşik Devletleri Grand Prix'sini hafta sonu canlı izleme rehberi ve yayın saatleri açıklandı.",
+  "puan": 7.5,
+  "grup": "us-gp-2026-how-to-watch",
+  "link": "https://www.racefans.net/2026/10/19/how-to-watch-the-2026-united-states-grand-prix-live-this-weekend/",
+  "source": "RaceFans",
+  "ts": 1792393135.113745
+ },
+ {
+  "cat": "f1",
+  "baslik": "Horner'a Red Bull Yöneticilerinden Tebrik",
+  "ozet": "Christian Horner, şirketle olan ayrılığına rağmen Red Bull motorlarının 2026 zaferlerinin ardından takım yöneticileri tarafından arandığını belirtti.",
+  "puan": 6.0,
+  "grup": "christian-horner-red-bull-2026-wins",
+  "link": "https://www.the-race.com/formula-1/horner-was-congratulated-by-red-bull-bosses-after-f1-engines-wins/",
+  "source": "The Race",
+  "ts": 1792393135.113745
  }
 ]
