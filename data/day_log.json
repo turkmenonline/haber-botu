@@ -1,26 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Yol Tuzunun Araç Boyasına Zararları",
-  "ozet": "Kışın yolları güvenli tutan tuzlar, araç boyasına zarar vererek paslanmaya yol açabilir. Bu sürecin nasıl işlediğini ve aracınızı nasıl koruyabileceğinizi öğrenin.",
-  "puan": 2.5,
-  "grup": "car-road-salt-paint-damage",
-  "link": "https://www.motor1.com/features/811919/why-road-salt-damages-car-paint/",
-  "source": "Motor1",
-  "ts": 1792200566.995698
- },
- {
-  "cat": "araba",
-  "baslik": "Tesla Roadster'ın SpaceX Teknolojisi",
-  "ozet": "Tesla, iddialı elektrikli spor otomobilinin gösterişli tanıtımı için arkasındaki bazı sihirlerle birlikte SpaceX teknolojisini ekliyor.",
-  "puan": 8.5,
-  "grup": "tesla-roadster-reveal-october",
-  "link": "https://www.caranddriver.com/news/a74165059/tesla-roadster-thrusters-fan-system-explained/",
-  "source": "Car and Driver",
-  "ts": 1792200566.995698
- },
- {
-  "cat": "araba",
   "baslik": "Porsche'nin Yeni Tasarım Dili ve Mission S",
   "ozet": "Porsche'nin yeni tasarım başkanı Tobias Sühlmann, markanın gelecek stil yönünü ve 911'in üzerinde konumlanacak yeni ortadan motorlu amiral gemisi Mission S'in detaylarını paylaştı.",
   "puan": 8.5,
@@ -1158,5 +1138,35 @@
   "link": "https://www.motorsport.com/f1/news/lewis-hamilton-and-fernando-alonsos-infamous-mclaren-rivalry-set-for-bbc-documentary/10866138/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1792367056.5190196
+ },
+ {
+  "cat": "araba",
+  "baslik": "Tesla'lar İçin Yeni Cadılar Bayramı Modu Yayınlandı",
+  "ozet": "Tesla, 2026.38.3 yazılım güncellemesiyle araçlarına eğlenceli ve sıra dışı özellikler içeren Cadılar Bayramı Modu'nu getirdi.",
+  "puan": 4.5,
+  "grup": "tesla-halloween-mode-update",
+  "link": "https://www.jalopnik.com/2287470/teslas-have-halloween-mode-what-it-does/",
+  "source": "Jalopnik",
+  "ts": 1792374611.2383072
+ },
+ {
+  "cat": "f1",
+  "baslik": "Christian Horner'dan Ferrari Söylentileri ve Newey Açıklaması",
+  "ozet": "Eski Red Bull takım patronu Christian Horner, The Race F1 Podcast'e katılarak Ferrari iddiaları, Adrian Newey'in Aston Martin'e geçişi ve kariyeri hakkında geniş kapsamlı açıklamalarda bulundu.",
+  "puan": 5.0,
+  "grup": "christian-horner-podcast-ferrari-newey",
+  "link": "https://www.the-race.com/formula-1/podcast-horner-on-ferrari-rumours-neweys-aston-martin-and-more/",
+  "source": "The Race",
+  "ts": 1792374611.2383072
+ },
+ {
+  "cat": "f1",
+  "baslik": "Stray Kids Üyesi Felix'in Ferrari Singapur GP Ziyareti",
+  "ozet": "K-pop grubu Stray Kids'in üyesi Felix, Singapur Grand Prix'sinde Ferrari garajını ziyaret ederek arkada plan fotoğrafları paylaştı ve hayranlarının büyük ilgisini çekti.",
+  "puan": 2.5,
+  "grup": "stray-kids-felix-ferrari-singapore",
+  "link": "https://www.motorsport.com/f1/news/stray-kids-felix-sends-fans-into-frenzy-with-behind-the-scenes-ferrari-f1-photos/10866141/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792374611.2383072
  }
 ]
