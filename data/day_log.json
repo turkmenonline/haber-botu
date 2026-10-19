@@ -1,296 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Mercedes-AMG GT Elektrikli SUV Tantıldı",
-  "ozet": "Mercedes-AMG, 1.153 beygire kadar güç üretebilen üç elektrikli motorlu yeni elektrikli GT SUV modelini tanıttı.",
-  "puan": 8.5,
-  "grup": "mercedes-amg-gt-electric-suv",
-  "link": "https://www.motor1.com/news/812304/2028-mercedes-amg-gt-suv-horsepower-range-charging-specs/",
-  "source": "Motor1",
-  "ts": 1792256460.9161956
- },
- {
-  "cat": "araba",
-  "baslik": "2028 Mercedes-AMG GT63 Elektrikli SUV",
-  "ozet": "AMG'nin kendi bünyesinde geliştirdiği ilk SUV olan 2028 Mercedes-AMG GT63, 1153 beygirlik elektrikli bir güç merkezi olarak geliyor.",
-  "puan": 8.5,
-  "grup": "mercedes-amg-gt-electric-suv",
-  "link": "https://www.caranddriver.com/news/a74163550/2028-mercedes-amg-gt-suv-revealed/",
-  "source": "Car and Driver",
-  "ts": 1792256460.9161956
- },
- {
-  "cat": "araba",
-  "baslik": "2028 Mercedes-AMG GT SUV Hakkında Bildiklerimiz",
-  "ozet": "Tamamen elektrikli ve yüksek performanslı yeni Mercedes-AMG GT SUV hakkında şimdiye kadar ortaya çıkan detaylar.",
-  "puan": 7.0,
-  "grup": "mercedes-amg-gt-electric-suv",
-  "link": "https://www.caranddriver.com/mercedes-amg/gt-suv-2028",
-  "source": "Car and Driver",
-  "ts": 1792256460.9161956
- },
- {
-  "cat": "araba",
-  "baslik": "2028 Mercedes-AMG GT SUV İç Mekan Fotoğrafları",
-  "ozet": "Yeni 2028 Mercedes-AMG GT SUV modelinin lüks ve teknolojik iç mekanını farklı açılardan inceleyin.",
-  "puan": 6.5,
-  "grup": "mercedes-amg-gt-electric-suv",
-  "link": "https://www.caranddriver.com/photos/a74160864/2028-mercedes-amg-gt-suv-revealed-interior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1792256460.9161956
- },
- {
-  "cat": "araba",
-  "baslik": "2028 Mercedes-AMG GT SUV Dış Tasarım Detayları",
-  "ozet": "Tamamen özgün bir tasarıma sahip olan yeni 2028 Mercedes-AMG GT SUV dış fotoğraflarıyla karşımızda.",
-  "puan": 6.5,
-  "grup": "mercedes-amg-gt-electric-suv",
-  "link": "https://www.caranddriver.com/photos/a74160859/2028-mercedes-amg-gt-suv-revealed-exterior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1792256460.9161956
- },
- {
-  "cat": "araba",
-  "baslik": "98 Yıllık Ford Model A Araziye Meydan Okuyor",
-  "ozet": "1928 model klasik Ford sedan, modern kamyonlar için hazırlanan zorlu arazi parkurunda başarılı bir sürüş sergiledi.",
-  "puan": 3.0,
-  "grup": "1928-ford-model-a-offroad",
-  "link": "https://www.thedrive.com/news/1928-ford-model-a-unfazed-by-off-road-course-made-for-modern-trucks",
-  "source": "The Drive",
-  "ts": 1792256460.9161956
- },
- {
-  "cat": "araba",
-  "baslik": "Mercedes-AMG GT SUV, Porsche Cayenne Turbo EV'yi Hedefliyor",
-  "ozet": "AMG'nin ilk bağımsız SUV'si, 1.153 beygir gücü ve gelişmiş teknolojisiyle elektrikli segmentte rekabeti kızıştırıyor.",
-  "puan": 8.0,
-  "grup": "mercedes-amg-gt-electric-suv",
-  "link": "https://www.jalopnik.com/2289599/2028-mercedes-amg-gt-ev-suv-design-specs-details-revealed/",
-  "source": "Jalopnik",
-  "ts": 1792256460.9161956
- },
- {
-  "cat": "araba",
-  "baslik": "Cadılar Bayramı İçin Katil Araç Filmleri",
-  "ozet": "Cadılar Bayramı'nda izlenebilecek, tehlikeli ve tuhaf kamyon ile otomobillerin yer aldığı 7 korku filmi derlendi.",
-  "puan": 1.5,
-  "grup": "halloween-killer-cars-movies",
-  "link": "https://www.jalopnik.com/2287893/horror-movies-with-homicidal-cars-and-trucks-add-to-halloween-watch-list/",
-  "source": "Jalopnik",
-  "ts": 1792256460.9161956
- },
- {
-  "cat": "araba",
-  "baslik": "ABS Olmadan Araba Sürmek Nasıl Bir Deneyim?",
-  "ozet": "Modern otomobillerin en önemli güvenlik donanımlarından biri olan ABS fren sistemi olmadan araç kullanmanın ne anlama geldiği inceleniyor.",
-  "puan": 3.5,
-  "grup": "driving-without-abs-brakes",
-  "link": "https://www.jalopnik.com/2284941/what-its-like-drive-without-abs-brakes/",
-  "source": "Jalopnik",
-  "ts": 1792256460.9161956
- },
- {
-  "cat": "araba",
-  "baslik": "Otomobiller Yolcu Koltuğunda Biri Olduğunu Nasıl Anlar?",
-  "ozet": "Araçların yolcu koltuğundaki kişileri algılayan, emniyet kemeri uyarılarını tetikleyen ve hava yastıklarını kontrol eden gizli sensörleri anlatılıyor.",
-  "puan": 3.0,
-  "grup": "car-passenger-seat-sensors",
-  "link": "https://www.motor1.com/features/812214/how-cars-detect-seated-passengers/",
-  "source": "Motor1",
-  "ts": 1792256460.9161956
- },
- {
-  "cat": "araba",
-  "baslik": "GM'den Manuel Vitesli C9 Corvette İddialarına Yalanlama",
-  "ozet": "Corvette mühendislik ekibi, orta motorlu yeni nesil C9 Corvette için yeni bir manuel şanzıman geliştirme maliyetini haklı çıkaramadıklarını belirtti.",
-  "puan": 7.5,
-  "grup": "gm-manual-c9-corvette-rumors",
-  "link": "https://www.thedrive.com/news/dont-count-on-manual-transmissions-returning-to-the-corvette",
-  "source": "The Drive",
-  "ts": 1792256460.9161956
- },
- {
-  "cat": "araba",
-  "baslik": "Satın Alabileceğiniz En Güçlü 6 Crate Motor",
-  "ozet": "Proje araçları için tercih edilebilecek en yüksek beygir gücüne sahip crate motorlar sıralandı.",
-  "puan": 3.0,
-  "grup": "most-powerful-crate-engines",
-  "link": "https://www.jalopnik.com/2284502/most-powerful-crate-engines-ranked-hp/",
-  "source": "Jalopnik",
-  "ts": 1792256460.9161956
- },
- {
-  "cat": "araba",
-  "baslik": "Porsche Mission S Manuel Vites Seçeneği Alabilir",
-  "ozet": "Porsche'nin gelecekteki amiral gemisini önizleyen konsept otomobil, müşteri taleplerine göre şekillenebilir.",
-  "puan": 6.5,
-  "grup": "porsche-mission-s-supercar",
-  "link": "https://www.motor1.com/news/812275/porsche-mission-s-platform-manual-transmission-possible/",
-  "source": "Motor1",
-  "ts": 1792256460.9161956
- },
- {
-  "cat": "araba",
-  "baslik": "Sadece Tek Sahibinden 37 Bin Millik 1976 Chevy Pickup",
-  "ozet": "Çok iyi korunmuş ve yalnızca tek bir sahibi olmuş 1976 model Chevrolet kamyonet satışa çıkarıldı.",
-  "puan": 2.5,
-  "grup": "1976-chevy-pickup-single-owner",
-  "link": "https://www.caranddriver.com/news/a74149071/1976-chevy-k10-pickup-bring-a-trailer-auction/",
-  "source": "Car and Driver",
-  "ts": 1792256460.9161956
- },
- {
-  "cat": "araba",
-  "baslik": "Üçüncü Nesil Sıradışı Chevy Camaro 'Carralo'",
-  "ozet": "GTA oyunlarından fırlamış gibi duran garip modifiyeli üçüncü nesil Chevrolet Camaro gerçek hayatta görüntülendi.",
-  "puan": 2.5,
-  "grup": "chevy-camaro-carralo-custom",
-  "link": "https://www.thedrive.com/news/somehow-this-chevy-camaro-carralo-is-real-and-not-something-from-gta",
-  "source": "The Drive",
-  "ts": 1792256460.9161956
- },
- {
-  "cat": "araba",
-  "baslik": "Kanada Emekli Polis Araçlarının Satışını Yasakladı",
-  "ozet": "Kanada Kraliyet Atlı Polisi'ne ait emekli polis araçları, halka satışının yasak olması nedeniyle hurdaya çıkarılıyor.",
-  "puan": 4.0,
-  "grup": "retired-rcmp-police-cars-crushed",
-  "link": "https://www.jalopnik.com/2284176/police-cars-rcmp-sale-moratorium-crusher-canada/",
-  "source": "Jalopnik",
-  "ts": 1792256460.9161956
- },
- {
-  "cat": "araba",
-  "baslik": "Tesla Roadster Rezervasyonları İçin Teslimat Garantisi Yok",
-  "ozet": "Tesla Roadster rezervasyonu yapmak isteyen müşterilerin imzalaması gereken belge, aracın ne zaman teslim edileceğinin garanti edilemediğini belirtiyor.",
-  "puan": 6.5,
-  "grup": "tesla-roadster-reveal-october",
-  "link": "https://www.thedrive.com/news/tesla-cannot-guarantee-roadster-reservation-holders-will-ever-get-a-car",
-  "source": "The Drive",
-  "ts": 1792256460.9161956
- },
- {
-  "cat": "f1",
-  "baslik": "Ferrari'den Lewis Hamilton İçin Brezilya GP Özel Kasketi",
-  "ozet": "Ferrari ve Puma, Lewis Hamilton'ın Brezilya Grand Prix'sinde giyeceği özel tasarımı duyurdu ve kasketin 3 Kasım'da satışa çıkacağını açıkladı.",
-  "puan": 2.5,
-  "grup": "lewis-hamilton-brazil-gp-cap",
-  "link": "https://www.motorsport.com/f1/news/lewis-hamiltons-brazilian-gp-cap-unveiled-with-release-date-confirmed/10865933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792256460.9161956
- },
- {
-  "cat": "f1",
-  "baslik": "F2 Patronu Bruno Michel'den Colton Herta Değerlendirmesi",
-  "ozet": "Formula 2 CEO'su Bruno Michel, 2026'da Avrupa'ya dönen Colton Herta'nın IndyCar ile F1 merdiven serisi arasındaki farkı küçümsemiş olabileceğini belirtti.",
-  "puan": 4.0,
-  "grup": "colton-herta-f2-boss-comment",
-  "link": "https://www.motorsport.com/fia-f2/news/colton-herta-maybe-underestimated-the-difference-from-indycar-f2-boss/10865706/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792256460.9161956
- },
- {
-  "cat": "f1",
-  "baslik": "Cadillac F1'den ABD GP İçin Özel Koleksiyon",
-  "ozet": "Cadillac F1 Takımı ve ortağı Tommy Hilfiger, Austin'deki Amerika Birleşik Devletleri Grand Prix'si öncesinde Texas temalı giyim koleksiyonunu tanıttı.",
-  "puan": 2.0,
-  "grup": "cadillac-f1-us-gp-tommy-hilfiger",
-  "link": "https://www.motorsport.com/f1/news/cadillac-f1-goes-full-texas-with-new-tommy-hilfiger-collection-for-us-grand-prix/10865849/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792256460.9161956
- },
- {
-  "cat": "f1",
-  "baslik": "Paraguay Devlet Başkanından Mercedes Sürücüsüne Tebrik Telefonu",
-  "ozet": "Mercedes, Paraguay Devlet Başkanı Santiago Pena'nın ilk F1 testini kutlamak için gelişim sürücüsü Joshua Durksen'i aradığı anların görüntüsünü paylaştı.",
-  "puan": 3.0,
-  "grup": "joshua-durksen-paraguay-president-call",
-  "link": "https://www.motorsport.com/f1/news/mercedes-shares-emotional-call-between-joshua-durksen-and-paraguay-president/10865884/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792256460.9161956
- },
- {
-  "cat": "f1",
-  "baslik": "Mercedes 'Macarena' Arka Kanat Fikrinden Neden Vazgeçtiğini Açıkladı",
-  "ozet": "Mercedes, rakip bir takım pistte kullanmadan çok önce kendi 'Macarena' arka kanat tasarımını incelediklerini ancak bu yenilikten vazgeçtiklerini açıkladı.",
-  "puan": 4.5,
-  "grup": "mercedes-macarena-rear-wing-rejection",
-  "link": "https://www.motorsport.com/f1/news/mercedes-reveals-why-it-rejected-f1s-macarena-wing-over-a-year-ago/10865869/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792256460.9161956
- },
- {
-  "cat": "araba",
-  "baslik": "BMW F 450 RR Yarış Tasarımıyla Tanıtıldı",
-  "ozet": "Giriş seviyesindeki gücü yarış odaklı görünümle buluşturan BMW F 450 RR, yeni başlayan sürücülere yarışçısı hissi vaat ediyor.",
-  "puan": 6.5,
-  "grup": "bmw-f-450-rr-debut",
-  "link": "https://www.jalopnik.com/2289077/bmw-f450rr-race-ready-looks-entry-level-power-reveal/",
-  "source": "Jalopnik",
-  "ts": 1792264451.5135663
- },
- {
-  "cat": "araba",
-  "baslik": "Araba Beyin (ECU) Ayarı Yapıldığında Gerçekte Ne Olur?",
-  "ozet": "ECU optimizasyonu güç ve tork artışı sağlarken tepki süresini keskinleştirir, ancak beraberinde bazı potansiyel riskler de getirir.",
-  "puan": 3.0,
-  "grup": "car-ecu-tuning-risks",
-  "link": "https://www.motor1.com/features/812227/what-an-ecu-tune-actually-changes/",
-  "source": "Motor1",
-  "ts": 1792264451.5135663
- },
- {
-  "cat": "araba",
-  "baslik": "Datsun 1959'da ABD'ye İlk Kompakt Kamyoneti Getirdi",
-  "ozet": "Bugünlerde kompakt kamyonetler popüler olsa da, ilk gerçekten küçük pikap 1950'lerin sonlarında Japonya'dan ABD pazarına sunulmuştu.",
-  "puan": 2.5,
-  "grup": "datsun-first-compact-truck-us",
-  "link": "https://www.jalopnik.com/2285149/datsun-220-first-compact-truck-in-us-1959/",
-  "source": "Jalopnik",
-  "ts": 1792264451.5135663
- },
- {
-  "cat": "araba",
-  "baslik": "İki Aşağı Ok İşaretli Sarı Yol Tabelası Ne Anlama Gelir?",
-  "ozet": "Genellikle tek yönlü otoyollarda bulunan bu sarı veya turuncu tabela, potansiyel tehlikeli bir engele karşı sürücüleri uyarır.",
-  "puan": 2.0,
-  "grup": "yellow-road-sign-arrows-meaning",
-  "link": "https://www.jalopnik.com/2285226/yellow-road-sign-double-arrow-pointing-down/",
-  "source": "Jalopnik",
-  "ts": 1792264451.5135663
- },
- {
-  "cat": "araba",
-  "baslik": "Yeni Mercedes-AMG GT Elektrikli SUV Tanıtıldı",
-  "ozet": "Üç motorlu kurulumuyla 1153 beygir güç sunan yeni Mercedes-AMG GT SUV, dünyanın en güçlü seri üretim SUV modeli olarak rakiplerinin önüne geçiyor.",
-  "puan": 9.0,
-  "grup": "mercedes-amg-gt-electric-suv",
-  "link": "https://www.autocar.co.uk/car-news/electric-cars/new-mercedes-amg-gt-suv-revealed-1153bhp-family-supercar",
-  "source": "Autocar",
-  "ts": 1792264451.5135663
- },
- {
-  "cat": "f1",
-  "baslik": "Verstappen'in GT Yarışı Dönüşü Ceza ve Mücadeleyle Geçti",
-  "ozet": "F1 arasını GT yarışlarında değerlendiren Max Verstappen, aldığı cezanın ardından ilk 10 içerisinde finiş görerek dramatik bir yarış çıkardı.",
-  "puan": 4.5,
-  "grup": "max-verstappen-portimao-gt-qualifying",
-  "link": "https://www.the-race.com/gt/penalty-sets-up-epic-verstappen-charge-in-his-gt-return/",
-  "source": "The Race",
-  "ts": 1792264451.5135663
- },
- {
-  "cat": "f1",
-  "baslik": "Alpine'in 2024 F1 Aracı Parçası Müzayedeye Çıkıyor",
-  "ozet": "Alpine'in 2024 Formula 1 aracına ait şanzıman taşıyıcısı ve arka kanadı, özel bir stantla birlikte koleksiyonerler için müzayedeye sunuluyor.",
-  "puan": 2.0,
-  "grup": "alpine-2024-f1-car-auction-memorabilia",
-  "link": "https://www.motorsport.com/f1/news/alpines-2024-f1-car-has-been-turned-into-the-ultimate-collectors-display/10865939/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792264451.5135663
- },
- {
-  "cat": "araba",
   "baslik": "Bisikletçi 165 Yıllık Pony Express Rekorunu Kırdı",
   "ozet": "Profesyonel bir bisikletçi, Missouri ve Kaliforniya arasındaki tarihi Pony Express posta servisi rotasında 165 yıllık rekoru kırmayı başardı.",
   "puan": 3.5,
@@ -1458,5 +1168,245 @@
   "link": "https://www.motorsport.com/gtwce-endurance/news/max-verstappen-and-anthony-hamiltons-wholesome-reunion-earns-f1-fan-praise/10866143/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1792420547.9315727
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ayni Fiyata Sahip Farkli Otomobiller",
+  "ozet": "108.000 dolar fiyat etiketine sahip GMC Hummer EV, BMW M2 CS ve Infiniti QX80 gibi birbirinden tamamen farklı karakterdeki araçlar fiyatlari üzerinden karşılaştırılıyor.",
+  "puan": 4.5,
+  "grup": "108k-dollar-cars-price-comparison",
+  "link": "https://www.jalopnik.com/2290630/cross-section-of-108000-dollar-cars-vast-and-strange/",
+  "source": "Jalopnik",
+  "ts": 1792440565.5178854
+ },
+ {
+  "cat": "araba",
+  "baslik": "Advance Auto Parts Bakim Indirimleri",
+  "ozet": "Advance Auto Parts, Carquest hava filtresi paketlerinde indirim sunarken çevrim içi siparişlerde FALLDRIVE koduyla yüzde 20ye varan fırsatlar sağlıyor.",
+  "puan": 2.0,
+  "grup": "car-maintenance-parts-discount-deals",
+  "link": "https://www.thedrive.com/news/your-car-probably-has-two-air-filters-and-advance-auto-parts-has-a-deal-on-replacing-both",
+  "source": "The Drive",
+  "ts": 1792440565.5178854
+ },
+ {
+  "cat": "araba",
+  "baslik": "2026 Yilinin En Çok Satan Araclari",
+  "ozet": "2026 yılında en çok satan 27 otomobil, kamyon ve SUV listelenirken; RAV4 zorlanmaya devam ediyor ve Ford F-serisi liderliğini sürdürüyor.",
+  "puan": 3.0,
+  "grup": "bestselling-cars-trucks-suvs-2026",
+  "link": "https://www.caranddriver.com/news/a71006285/bestselling-cars-2026/",
+  "source": "Car and Driver",
+  "ts": 1792440565.5178854
+ },
+ {
+  "cat": "araba",
+  "baslik": "Porsche Sürüş Okulu Deneyimi",
+  "ozet": "Porsche sürüş okulu katılımcılara sadece daha hızlı bir sürücü olmayı değil, aynı zamanda kendi sınırlarını ve potansiyellerini keşfetmeyi öğretiyor.",
+  "puan": 4.0,
+  "grup": "porsche-driving-school-experience",
+  "link": "https://www.thedrive.com/features/porsches-driving-school-wont-just-teach-you-how-to-be-a-better-driver-itll-teach-you-about-yourself",
+  "source": "The Drive",
+  "ts": 1792440565.5178854
+ },
+ {
+  "cat": "araba",
+  "baslik": "Hot Wheels Audi 90 Quattro Detayi",
+  "ozet": "2026 model Audi 90 Quattro Hot Wheels oyuncak arabasında yer alan gizli bir detay, modele olağanüstü bir otantiklik katıyor.",
+  "puan": 2.5,
+  "grup": "hot-wheels-audi-90-quattro-easter-egg",
+  "link": "https://www.thedrive.com/news/is-this-the-best-hot-wheels-easter-egg-ever",
+  "source": "The Drive",
+  "ts": 1792440565.5178854
+ },
+ {
+  "cat": "araba",
+  "baslik": "Hyundai Elantra N Monochrome Tanitildi",
+  "ozet": "Performans odaklı sedan modelin sade ve şık tasarım çizgilerini öne çıkaran yeni özel versiyonu Elantra N Monochrome, Amerika pazarında satışa sunulmayacak.",
+  "puan": 5.5,
+  "grup": "hyundai-elantra-n-monochrome",
+  "link": "https://www.caranddriver.com/news/a74182986/hyundai-elantra-n-monochrome-details/",
+  "source": "Car and Driver",
+  "ts": 1792440565.5178854
+ },
+ {
+  "cat": "araba",
+  "baslik": "Hyundai Genesis Koltuk Yangini Geri Cagirmasi",
+  "ozet": "Hyundai, koltukların alev alma riski taşıması nedeniyle 95.000 adet Genesis G80 modelini geri çağırıyor ve henüz çözümü bulunmuyor.",
+  "puan": 8.5,
+  "grup": "hyundai-genesis-seat-fire-recall",
+  "link": "https://www.jalopnik.com/2290738/hyundai-recalls-genesis-g80s-seats-fire/",
+  "source": "Jalopnik",
+  "ts": 1792440565.5178854
+ },
+ {
+  "cat": "araba",
+  "baslik": "İkinci El Otomobilde İyi Deger Nasil Anlasilir?",
+  "ozet": "İkinci el bir aracın gerçek değerini belirlerken amortisman payı, kullanım geçmişi, kilometre ve genel durum gibi faktörlerin dikkate alınması gerekiyor.",
+  "puan": 2.5,
+  "grup": "used-car-value-evaluation-guide",
+  "link": "https://www.caranddriver.com/shopping-advice/a74179065/used-car-what-makes-a-good-value/",
+  "source": "Car and Driver",
+  "ts": 1792440565.5178854
+ },
+ {
+  "cat": "araba",
+  "baslik": "MapQuest'e Flock Kamera Konumlari Eklendi",
+  "ozet": "MapQuest, harita devleri arasinda rekabeti sürdürmek için platformuna Flock gözetleme kameralarının konumlarını entegre etti.",
+  "puan": 3.5,
+  "grup": "mapquest-flock-surveillance-cameras",
+  "link": "https://www.jalopnik.com/2290532/mapquest-includes-flock-camera-locations-now/",
+  "source": "Jalopnik",
+  "ts": 1792440565.5178854
+ },
+ {
+  "cat": "araba",
+  "baslik": "Sadece 50 Adet Üretilecek 870 Beygirlik Mustang",
+  "ozet": "RTR tarafından geliştirilen ve sadece 50 adet üretilecek olan bu özel Mustang; süper şarjlı V8 motoru ve geniş gövde kitiyle dikkat çekiyor.",
+  "puan": 7.0,
+  "grup": "rtr-mustang-limited-edition-870hp",
+  "link": "https://www.motor1.com/news/812481/2026-mustang-rtr-spec-5-deliveries/",
+  "source": "Motor1",
+  "ts": 1792440565.5178854
+ },
+ {
+  "cat": "araba",
+  "baslik": "Toyota 86 İçin Açilir Far Kiti",
+  "ozet": "Scion, Toyota ve Subaru spor otomobillerine klasik AE86 görünümü kazandıran retro açılır far kiti kolayca monte edilebiliyor.",
+  "puan": 4.0,
+  "grup": "toyota-86-pop-up-headlight-kit",
+  "link": "https://www.thedrive.com/news/that-jdm-body-kit-giving-the-toyota-86-pop-up-headlights-actually-works",
+  "source": "The Drive",
+  "ts": 1792440565.5178854
+ },
+ {
+  "cat": "araba",
+  "baslik": "Manuel Vitesli Corvette Yakinda Gelmiyor",
+  "ozet": "C8 Corvette modelinin ortadan motorlu yerleşimi, eski tip manuel şanzımanın yeni nesle aktarılmasını imkansız kılıyor.",
+  "puan": 6.0,
+  "grup": "manual-transmission-corvette-future",
+  "link": "https://www.motor1.com/news/812444/chevy-corvette-c8-manual-transmission-future/",
+  "source": "Motor1",
+  "ts": 1792440565.5178854
+ },
+ {
+  "cat": "araba",
+  "baslik": "Honda'nin Arazi Uygulamasi Test Edildi",
+  "ozet": "Honda'nın iPhone ve CarPlay destekli HTX arazi uygulaması, Passport TrailSport ile yapılan sürüşlerde video üzerine canlı araç verileri ekleyerek eğlenceli bir deneyim sunuyor.",
+  "puan": 4.0,
+  "grup": "honda-off-road-htx-app-review",
+  "link": "https://www.thedrive.com/news/hondas-htx-app-makes-your-off-road-videos-cooler-with-real-time-driving-data",
+  "source": "The Drive",
+  "ts": 1792440565.5178854
+ },
+ {
+  "cat": "araba",
+  "baslik": "Subaru'dan 2029'da Gelecek Yeni EV Platformu",
+  "ozet": "Subaru, elektrikli araç yatırımlarını büyütmek ve en büyük hissedarı Toyota'ya olan bağımlılığını azaltmak amacıyla 2029'da devreye girecek yeni elektrikli araç platformunu duyurdu.",
+  "puan": 7.5,
+  "grup": "subaru-new-ev-platform-2029",
+  "link": "https://www.caranddriver.com/news/a74181224/subaru-first-details-new-ev-platform-2029/",
+  "source": "Car and Driver",
+  "ts": 1792440565.5178854
+ },
+ {
+  "cat": "araba",
+  "baslik": "Volkswagen'in Kurdugu Alman Sehri: Wolfsburg",
+  "ozet": "Wolfsburg kenti, Volkswagen'in devasa üretim fabrikası, otomobil müzesi ve Autostadt cam kuleleri gibi pek çok otomotiv odaklı cazibe merkezine ev sahipliği yapıyor.",
+  "puan": 3.0,
+  "grup": "wolfsburg-volkswagen-factory-city",
+  "link": "https://www.motor1.com/features/812411/volkswagen-wolfsburg-city-autostadt-car-towers/",
+  "source": "Motor1",
+  "ts": 1792440565.5178854
+ },
+ {
+  "cat": "araba",
+  "baslik": "Georgia'da 1 Dolardan Satan Benzin Rekabeti",
+  "ozet": "Georgia'daki komşu iki benzin istasyonunun rekabeti fiyatların galon başına 1 doların altına düşmesine yol açarken bölgede büyük bir hareketlilik yaşandı.",
+  "puan": 3.5,
+  "grup": "georgia-gas-stations-price-war",
+  "link": "https://www.thedrive.com/news/1-gas-gridlocks-georgia-town-after-gas-station-price-war-goes-nuclear",
+  "source": "The Drive",
+  "ts": 1792440565.5178854
+ },
+ {
+  "cat": "araba",
+  "baslik": "McLaren Bes Tarihi Formula 1 Araci Satisa Çikiyor",
+  "ozet": "Tom Hartley Jnr aracılığıyla 1991 MP4/6A modelinden Lando Norris'in 2023 MCL37A aracına kadar beş tarihi McLaren F1 aracı koleksiyonerler için satışa sunuluyor.",
+  "puan": 7.0,
+  "grup": "historic-mclaren-f1-cars-auction",
+  "link": "https://www.motor1.com/news/812421/mclaren-f1-cars-sale/",
+  "source": "Motor1",
+  "ts": 1792440565.5178854
+ },
+ {
+  "cat": "f1",
+  "baslik": "Haas'ın Özel Godzilla Renk Düzeninin Hikayesi",
+  "ozet": "Haas takımının Amerika Grand Prix'si için hazırladığı özel Godzilla iş birliği renk düzeninin hayata geçirilme süreci inceleniyor.",
+  "puan": 4.0,
+  "grup": "haas-godzilla-livery-us-gp",
+  "link": "https://www.formula1.com/en/latest/article/insight-how-f1-teams-create-special-one-off-liveries.3IKjr0jMfgr4NIZkbt5K2z",
+  "source": "Formula1.com",
+  "ts": 1792440565.5178854
+ },
+ {
+  "cat": "f1",
+  "baslik": "Valtteri Bottas'tan Gergedan Vakfı İçin Başarılı Bağış Kampanyası",
+  "ozet": "Valtteri Bottas, Azerbaycan Grand Prix'sinde kullandığı özel kaskın açık artırmasıyla Güney Afrikalı bir gergedan koruma vakfı için yaklaşık 50.000 euro topladı.",
+  "puan": 3.0,
+  "grup": "valtteri-bottas-rhino-charity-fundraiser",
+  "link": "https://www.motorsport.com/f1/news/valtteri-bottas-raises-almost-50000-for-rhino-charity-with-f1-helmet-fundraiser/10866360/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792440565.5178854
+ },
+ {
+  "cat": "f1",
+  "baslik": "Sergio Perez: Cadillac'taki İlk Sezonum En İyi Yıllarımdan Biriydi",
+  "ozet": "Puansız geçirdiği 2026 sezonuna rağmen Sergio Perez, Cadillac'taki ilk yılını kariyerinin en iyi dönemlerinden biri olarak değerlendiriyor.",
+  "puan": 4.5,
+  "grup": "sergio-perez-cadillac-2026-season",
+  "link": "https://www.motorsport.com/f1/news/sergio-perez-debut-cadillac-season-without-a-doubt-one-of-my-best-years/10866353/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792440565.5178854
+ },
+ {
+  "cat": "f1",
+  "baslik": "Lewis Hamilton Tribünü Las Vegas GP'ye Geri Dönüyor",
+  "ozet": "Lewis Hamilton'a özel tribün paketi, özel ürünler ve genişletilmiş fan alanı erişimiyle 2026 Las Vegas Grand Prix'sinde yerini alacak.",
+  "puan": 3.5,
+  "grup": "lewis-hamilton-las-vegas-grandstand",
+  "link": "https://www.motorsport.com/f1/news/lewis-hamilton-grandstand-returns-to-las-vegas-gp-with-expanded-access-for-fans/10866351/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792440565.5178854
+ },
+ {
+  "cat": "f1",
+  "baslik": "Fernando Alonso Vakfı İçin Hot Lap Deneyimi Açık Artırmada",
+  "ozet": "Bir Formula 1 hayranı, Fernando Alonso ile Barcelona'da pist turu deneyimi yaşamak için vakif açık artırmasına katılabilecek.",
+  "puan": 3.0,
+  "grup": "fernando-alonso-charity-hot-lap",
+  "link": "https://www.motorsport.com/f1/news/fernando-alonso-auctions-off-rare-hot-lap-experience-for-charity/10866347/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792440565.5178854
+ },
+ {
+  "cat": "f1",
+  "baslik": "McLaren 2026 Son Güncellemelerini 2027 Aracı İçin Test Edecek",
+  "ozet": "McLaren, 2026 sezonunun son güncellemelerini gelecek yılın araç konseptlerini test etmek için kullanacağını açıkladı.",
+  "puan": 5.5,
+  "grup": "mclaren-2026-upgrades-2027-testing",
+  "link": "https://www.motorsport.com/f1/news/mclaren-to-use-final-2026-developments-to-test-2027-f1-car-concepts/10866094/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792440565.5178854
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton ve Verstappen'den Singapur Pisti İçin Değişim Çağrısı",
+  "ozet": "Lewis Hamilton ve Max Verstappen, Marina Bay pistinde yarış kalitesini artırmak için uzun düzlük veya saç tokası viraj gibi düzenlemeler yapılması gerektiğini belirtti.",
+  "puan": 4.5,
+  "grup": "hamilton-verstappen-singapore-track-changes",
+  "link": "https://www.motorsport.com/f1/news/lewis-hamilton-and-max-verstappen-call-for-singapore-f1-track-changes/10866335/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792440565.5178854
  }
 ]
