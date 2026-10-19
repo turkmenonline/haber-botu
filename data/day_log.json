@@ -1,86 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Bisikletçi 165 Yıllık Pony Express Rekorunu Kırdı",
-  "ozet": "Profesyonel bir bisikletçi, Missouri ve Kaliforniya arasındaki tarihi Pony Express posta servisi rotasında 165 yıllık rekoru kırmayı başardı.",
-  "puan": 3.5,
-  "grup": "pony-express-bicycle-record",
-  "link": "https://www.jalopnik.com/2289112/pro-cyclist-breaks-165-year-old-pony-express-record/",
-  "source": "Jalopnik",
-  "ts": 1792272656.1855187
- },
- {
-  "cat": "araba",
-  "baslik": "Keskin Kayalara Dayanıklı 7 Off-Road Lastiği",
-  "ozet": "En zorlu arazi koşulları için tasarlanan ve keskin kayalara karşı dayanıklılık vaat eden 7 ekstrem off-road lastiği listelendi.",
-  "puan": 2.5,
-  "grup": "puncture-resistant-off-road-tires",
-  "link": "https://www.jalopnik.com/2287101/puncture-resistant-off-road-tires/",
-  "source": "Jalopnik",
-  "ts": 1792272656.1855187
- },
- {
-  "cat": "araba",
-  "baslik": "Pahalı Benzin Elektrikli Araçları Cazip Kılıyor mu?",
-  "ozet": "Artan benzin fiyatlarının tüketicileri elektrikli araçlara geçiş konusunda yeniden düşünmeye sevkedip sevkeğinde tartışılıyor.",
-  "puan": 4.0,
-  "grup": "gasoline-prices-ev-adoption",
-  "link": "https://www.jalopnik.com/2288182/is-expensive-gasoline-making-you-reconsider-electric-vehicles-reader-questions/",
-  "source": "Jalopnik",
-  "ts": 1792272656.1855187
- },
- {
-  "cat": "araba",
-  "baslik": "4.000 Mil Altındaki 1970 Dodge Super Bee Satışta",
-  "ozet": "4.000 milin altında orijinal kilometreye sahip olan 1970 model tertemiz Dodge Super Bee yeni alıcısını bekliyor.",
-  "puan": 4.5,
-  "grup": "1970-dodge-super-bee-for-sale",
-  "link": "https://www.jalopnik.com/2287312/1970-dodge-super-bee-for-sale-under-4000-miles-super-clean/",
-  "source": "Jalopnik",
-  "ts": 1792272656.1855187
- },
- {
-  "cat": "araba",
-  "baslik": "En Uzun ve Kapsamlı Garantiye Sahip 7 Yeni Araba",
-  "ozet": "Piyasadaki artan maliyetler arasında alıcılara en uzun ve en kapsamlı fabrika garantisini sunan 7 sıfır kilometre otomobil derlendi.",
-  "puan": 2.5,
-  "grup": "new-cars-longest-warranties",
-  "link": "https://www.jalopnik.com/2285290/new-cars-longest-most-comprehensive-warranties/",
-  "source": "Jalopnik",
-  "ts": 1792272656.1855187
- },
- {
-  "cat": "araba",
-  "baslik": "2028 Mercedes-AMG GT SUV Hakkında Bildiklerimiz",
-  "ozet": "Mercedes-AMG'nin performans odaklı yeni elektrikli SUV modeli hakkında şu ana kadar ortaya çıkan detaylar derlendi.",
-  "puan": 8.0,
-  "grup": "mercedes-amg-gt-electric-suv",
-  "link": "https://www.caranddriver.com/mercedes-amg/gt-suv",
-  "source": "Car and Driver",
-  "ts": 1792272656.1855187
- },
- {
-  "cat": "araba",
-  "baslik": "Modern Polis Araçlarında V8 Motorların Sonu",
-  "ozet": "Polis departmanlarının büyük V8 motorlu devriye araçlarını neden geçmişte bıraktığı ve kaputun altında nelerin değiştiği inceleniyor.",
-  "puan": 4.5,
-  "grup": "modern-police-cars-v8-engines",
-  "link": "https://www.jalopnik.com/2285367/most-common-police-car-engine-v6-not-v8/",
-  "source": "Jalopnik",
-  "ts": 1792279262.021224
- },
- {
-  "cat": "f1",
-  "baslik": "Aston Martin Esintili Gizemli Araç Testte",
-  "ozet": "Aston Martin F1'den ilham alan gizemli tek koltuklu araç, Fransa'daki Paul Ricard pistinde test edilirken görüntülendi.",
-  "puan": 4.5,
-  "grup": "aston-martin-f1-inspired-mystery-car",
-  "link": "https://www.motorsport.com/culture/news/aston-martins-f1-inspired-monster-spotted-testing-as-record-breaking-claims-emerge/10865964/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792279262.021224
- },
- {
-  "cat": "araba",
   "baslik": "Consumer Reports'tan Uber'in Yapay Zeka Fiyatlandırma İncelemesi",
   "ozet": "Consumer Reports, Uber'in dinamik yolculuk paylaşımı ücretlerini belirleyen yapay zeka fiyatlandırma algoritmasını inceledi.",
   "puan": 4.5,
@@ -1408,5 +1328,105 @@
   "link": "https://www.motorsport.com/f1/news/lewis-hamilton-and-max-verstappen-call-for-singapore-f1-track-changes/10866335/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1792440565.5178854
+ },
+ {
+  "cat": "araba",
+  "baslik": "Subaru'nun Boxer Motoru Avrupa'ya Veda Ediyor",
+  "ozet": "Subaru, tamamen elektrikli araç stratejisi kapsamında ikonik boxer motorunun Avrupa'daki satışına 2027 yılı itibarıyla son vermeye hazırlanıyor.",
+  "puan": 7.5,
+  "grup": "subaru-boxer-engine-europe-exit",
+  "link": "https://www.motor1.com/news/812488/subaru-boxer-engine-dead-europe-2027/",
+  "source": "Motor1",
+  "ts": 1792453635.7630897
+ },
+ {
+  "cat": "araba",
+  "baslik": "GTA VI'nın Yeni Fragmanı Yayınlandı",
+  "ozet": "Tüm zamanların en çok beklenen video oyunlarından biri olan GTA VI'nın çıkışına bir ay kala yeni fragmanı görücüye çıktı.",
+  "puan": 2.0,
+  "grup": "gta-vi-final-trailer-launch",
+  "link": "https://www.caranddriver.com/news/a74181412/watch-gta-6-launch-trailer-one-month-before-release/",
+  "source": "Car and Driver",
+  "ts": 1792453635.7630897
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Ford Ranger Güçlü V6 Motor Seçeneğine Kavuşuyor",
+  "ozet": "2027 model Ford Ranger'ın kaputu altında, Bronco Raptor'dan alınan ve 380 beygir güç üreten çift turbolu 3.0 litrelik V-6 motorun yer alacağı görüldü.",
+  "puan": 7.0,
+  "grup": "2027-ford-ranger-v6-engine",
+  "link": "https://www.caranddriver.com/news/a74184201/2027-ford-ranger-new-twin-turbo-3-liter-v-6/",
+  "source": "Car and Driver",
+  "ts": 1792453635.7630897
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mercedes-AMG Elektrikli Araçlarında Sahte Sesler Kullanacak",
+  "ozet": "Gelecekteki elektrikli AMG modellerinde altı silindirli sahte sesler sunulurken, gerçekçi V8 motor sesleri ise yalnızca üst paketlerde ekstra ücretle sunulacak.",
+  "puan": 6.5,
+  "grup": "mercedes-amg-ev-fake-engine-sounds",
+  "link": "https://www.thedrive.com/news/base-mercedes-amg-ev-gets-fake-six-cylinder-noises-v8-sounds-cost-extra",
+  "source": "The Drive",
+  "ts": 1792453635.7630897
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mercedes: 'Coupe SUV Modelleri Hayatta Kalmaya Devam Edecek'",
+  "ozet": "Mercedes-Benz, geniş bir hayran kitlesine sahip olduğunu belirterek coupe SUV segmentindeki araçları üretmeye devam edeceklerini açıkladı.",
+  "puan": 4.5,
+  "grup": "mercedes-coupe-suv-future",
+  "link": "https://www.motor1.com/news/812500/mercedes-says-coupe-suvs-remain/",
+  "source": "Motor1",
+  "ts": 1792453635.7630897
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Kia Sorento PHEV Fiyatı Arttı",
+  "ozet": "Kia, giriş seviyesi şarj edilebilir hibrit Sorento modelini listeden çıkarırken, geriye kalan en üst donanımlı versiyonun başlangıç fiyatı 5.600 dolar zamlandı.",
+  "puan": 5.0,
+  "grup": "2027-kia-sorento-phev-price-increase",
+  "link": "https://www.caranddriver.com/news/a74183660/2027-kia-sorento-phev-price/",
+  "source": "Car and Driver",
+  "ts": 1792453635.7630897
+ },
+ {
+  "cat": "f1",
+  "baslik": "Amerika GP Bahis Rehberi ve Oranlar",
+  "ozet": "Uzmanlar, Amerika Grand Prix'si öncesinde Circuit of the Americas'da tahmin yapmanız için gereken önemli bahis bilgilerini ve güncel oranları paylaşıyor.",
+  "puan": 2.5,
+  "grup": "us-gp-2026-betting-guide",
+  "link": "https://www.formula1.com/en/latest/article/united-states-grand-prix-race-betting-guide-and-what-the-markets-expect-to-happen.6yb8E2FEmrXYHRRfyE0RpE",
+  "source": "Formula1.com",
+  "ts": 1792453635.7630897
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ralf Schumacher'in Formula Nippon Zaferi",
+  "ozet": "Ralf Schumacher, spin atmasına rağmen sağanak yağış altında dramatik bir şekilde Formula Nippon şampiyonluğunu kazandı.",
+  "puan": 2.0,
+  "grup": "on-this-day-ralf-schumacher-formula-nippon",
+  "link": "https://www.racefans.net/2026/10/20/on-this-day-ralf-schumacher-wins-formula-nippon-title/",
+  "source": "RaceFans",
+  "ts": 1792453635.7630897
+ },
+ {
+  "cat": "f1",
+  "baslik": "Christian Horner: Red Bull Motorunu Üretmek Korkunçtu",
+  "ozet": "Eski Red Bull takım patronu Christian Horner, 2026 sezonunda ilk yarış zaferlerini kazanan takımdaki sıfırdan güç ünitesi üretiminin 'cehennem kadar korkutucu' olduğunu itiraf etti.",
+  "puan": 6.0,
+  "grup": "christian-horner-red-bull-2026-wins",
+  "link": "https://www.motorsport.com/f1/news/christian-horner-receives-unexpected-call-from-red-bull-after-breakthrough/10866228/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792453635.7630897
+ },
+ {
+  "cat": "f1",
+  "baslik": "Mercedes 2026 Takımlar Şampiyonluğunu Ne Zaman Garantileyebilir?",
+  "ozet": "Kimi Antonelli bu hafta sonu şampiyonluğunu ilan edebilecek olsa da, Mercedes takımlar şampiyonluğu için Meksika Grand Prix'sini beklemek zorunda.",
+  "puan": 7.5,
+  "grup": "mercedes-2026-constructors-championship-timeline",
+  "link": "https://www.motorsport.com/f1/news/how-soon-can-mercedes-win-the-2026-f1-constructors-championship/10866296/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792453635.7630897
  }
 ]
