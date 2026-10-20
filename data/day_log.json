@@ -1,55 +1,5 @@
 [
  {
-  "cat": "f1",
-  "baslik": "Telsiz İletişimini Kaybeden Pilotlar",
-  "ozet": "Max Verstappen'in Singapur GP'deki telsiz sorunlarının ardından F1.com, pilotların pit duvarı ile iletişimi kaybettiği geçmiş olayları derledi.",
-  "puan": 2.5,
-  "grup": "f1-drivers-lost-radio-history",
-  "link": "https://www.formula1.com/en/latest/article/from-hand-signals-to-flying-blind-6-times-drivers-improvised-after-losing-radio-during-a-race.qMMirE3y23MNEsrJ9qQfv",
-  "source": "Formula1.com",
-  "ts": 1792320833.0733593
- },
- {
-  "cat": "f1",
-  "baslik": "Ferrari'den 2026 Sezonunun En Büyük Güncellemesi",
-  "ozet": "Sezonun sonlarına yaklaşılırken Ferrari, ABD GP için 2026 sezonundaki en büyük arac güncellemesini hazırlıyor.",
-  "puan": 5.5,
-  "grup": "ferrari-us-gp-biggest-upgrade",
-  "link": "https://www.the-race.com/formula-1/what-ferrari-is-changing-biggest-f1-2026-upgrade/",
-  "source": "The Race",
-  "ts": 1792320833.0733593
- },
- {
-  "cat": "f1",
-  "baslik": "Mercedes 2026 Şampiyonluğunu Ne Zaman Garantileyebilir?",
-  "ozet": "2026 sezonunda üstün bir performans sergileyen Mercedes ve pilotları Kimi Antonelli ile George Russell'ın şampiyonluğu matematiksel olarak ne zaman ilan edebileceği inceleniyor.",
-  "puan": 6.5,
-  "grup": "mercedes-2026-world-champions-maths",
-  "link": "https://www.autosport.com/f1/news/the-maths-behind-when-mercedes-could-become-f1-world-champions-in-2026/10866008/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1792320833.0733593
- },
- {
-  "cat": "f1",
-  "baslik": "Mercedes 2026 Şampiyonluğunu Ne Zaman Kazanacak?",
-  "ozet": "Puan tablosunda liderliğini sürdüren Mercedes'in ve pilotlarının 2026 şampiyonluğunu matematiksel olarak ne zaman garantileyebileceği hesaplanıyor.",
-  "puan": 6.5,
-  "grup": "mercedes-2026-world-champions-maths",
-  "link": "https://www.motorsport.com/f1/news/when-can-mercedes-become-f1-world-champions-in-2026/10865358/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792320833.0733593
- },
- {
-  "cat": "f1",
-  "baslik": "Anket: F1 Bütçe Sınırına Gerçekten İhtiyaç Var mı?",
-  "ozet": "Takımların memnuniyetsizliği ve FIA başkanı Ben Sulayem'in açıklamaları sonrasında Formula 1'in bütçe sınırına gerçekten ihtiyacı olup olmadığı tartışılıyor.",
-  "puan": 4.0,
-  "grup": "f1-cost-cap-debate-poll",
-  "link": "https://www.racefans.net/2026/10/18/poll-does-f1-needs-its-cost-cap-or-is-it-just-holding-back-the-smaller-teams/",
-  "source": "RaceFans",
-  "ts": 1792320833.0733593
- },
- {
   "cat": "araba",
   "baslik": "Yolda Kalma Hikayeleri",
   "ozet": "Sürücülerin yolda mahsur kaldığı en kötü anları ve kar fırtınası ya da sıcakta çekici beklerken yaşadıkları deneyimler derleniyor.",
@@ -1478,5 +1428,275 @@
   "link": "https://www.racefans.net/2026/10/20/early-coronation-for-antonelli-five-talking-points-for-the-united-states-grand-prix/",
   "source": "RaceFans",
   "ts": 1792482191.6219227
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mercedes Uzatılmış Menzilli Elektrikli Araçlara Mesafeli",
+  "ozet": "Mercedes, şarj edilebilir hibrit modellerinin günlük sürüş ihtiyaçları için halihazırda yeterli elektrik menzili sunduğunu belirterek EREV teknolojisine şüpheyle yaklaşıyor.",
+  "puan": 5.0,
+  "grup": "mercedes-extended-range-ev-stance",
+  "link": "https://www.motor1.com/news/812504/mercedes-isnt-sold-on-erevs/",
+  "source": "Motor1",
+  "ts": 1792501369.7092419
+ },
+ {
+  "cat": "araba",
+  "baslik": "Kusursuz Kondisyondaki 1987 Chevy Sprint Turbo Satışta",
+  "ozet": "Çok iyi durumda bulunan nadir 1987 model Chevrolet Sprint Turbo, 10.000 dolarlık fiyat etiketiyle alıcı bekliyor.",
+  "puan": 2.5,
+  "grup": "1987-chevy-sprint-turbo-sale",
+  "link": "https://www.jalopnik.com/2290987/1987-chevrolet-sprint-turbo-10000-dollars-nice-price/",
+  "source": "Jalopnik",
+  "ts": 1792501369.7092419
+ },
+ {
+  "cat": "araba",
+  "baslik": "Otomobil Direksiyonlarının Karmaşık Evrimi",
+  "ozet": "Geçmişte basit birer çember olan direksiyonlar, günümüzde üzerlerinde barındırdıkları sayısız düğme ve kumandayla karmaşık kontrol merkezlerine dönüştü.",
+  "puan": 3.0,
+  "grup": "car-steering-wheels-evolution",
+  "link": "https://www.autocar.co.uk/opinion/new-cars/best-steering-wheels-define-car-%E2%80%93-and-some-are-works-art",
+  "source": "Autocar",
+  "ts": 1792501369.7092419
+ },
+ {
+  "cat": "araba",
+  "baslik": "Bugatti'den Ayna Gibi Alüminyum Gövdeli Veyron Restorasyonu",
+  "ozet": "Özel üretim dikkat çekici Bugatti Veyron, üretiminden on yıl sonra tamamen yenilenmek üzere Molsheim'a geri döndü.",
+  "puan": 6.5,
+  "grup": "bugatti-veyron-aluminum-restoration",
+  "link": "https://www.motor1.com/news/812586/bugatti-restores-veyron-polished-aluminum-body/",
+  "source": "Motor1",
+  "ts": 1792501369.7092419
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Lexus NX Sadece Hibrit Motorlarla Geliyor",
+  "ozet": "Yenilenen Lexus NX 350h ve NX 450h+, daha güçlü hibrit sistemleri, sadeleştirilmiş donanım seçenekleri ve zenginleşen kabin teknolojileriyle tanıtıldı.",
+  "puan": 6.0,
+  "grup": "2027-lexus-nx-hybrid-lineup",
+  "link": "https://www.motor1.com/news/812567/2027-lexus-nx-drops-gas/",
+  "source": "Motor1",
+  "ts": 1792501369.7092419
+ },
+ {
+  "cat": "araba",
+  "baslik": "Pep Boys İsminin Arkasındaki İlginç Hikaye",
+  "ozet": "1921 yılında Philadelphia'da kurulan Pep Boys'un ismi; bir oto yedek parçası, bir polis memuru ve üç kurucu ortağın bir araya gelmesiyle ortaya çıktı.",
+  "puan": 2.0,
+  "grup": "pep-boys-name-history",
+  "link": "https://www.motor1.com/features/812471/who-are-the-pep-boys-name-origin-history/",
+  "source": "Motor1",
+  "ts": 1792501369.7092419
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Lexus NX'in İç Mekan Fotoğrafları",
+  "ozet": "Makyajlanan 2027 model Lexus NX'in yenilenen iç mekanını farklı açılardan inceleyin.",
+  "puan": 4.0,
+  "grup": "2027-lexus-nx-hybrid-lineup",
+  "link": "https://www.caranddriver.com/photos/a74167213/2027-lexus-nx-drive-interior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1792501369.7092419
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Lexus NX İlk Sürüş İzlenimleri",
+  "ozet": "2027 model Lexus NX'in dışarıdan fark edilmesi zor yeniliklerini ve sürüş karakterini test ettik.",
+  "puan": 5.5,
+  "grup": "2027-lexus-nx-hybrid-lineup",
+  "link": "https://www.caranddriver.com/reviews/a74163845/2027-lexus-nx-drive/",
+  "source": "Car and Driver",
+  "ts": 1792501369.7092419
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Lexus NX Dış Tasarım Detayları",
+  "ozet": "Görsel olarak güncellenen 2027 model Lexus NX'in dış tasarımını her açıdan keşfedin.",
+  "puan": 4.0,
+  "grup": "2027-lexus-nx-hybrid-lineup",
+  "link": "https://www.caranddriver.com/photos/a74167209/2027-lexus-nx-drive-exterior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1792501369.7092419
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Lexus NX Sessiz Lüksü Ön Plana Çıkarıyor",
+  "ozet": "Lexus NX, sunduğu konfor odaklı detaylar ve lüks atmosferle sürücüsüne üst düzey bir deneyim vadediyor.",
+  "puan": 5.0,
+  "grup": "2027-lexus-nx-hybrid-lineup",
+  "link": "https://www.jalopnik.com/2290975/2027-lexus-nx-facelift-nx350h-hybrid-nx450h-phev-first-drive-review/",
+  "source": "Jalopnik",
+  "ts": 1792501369.7092419
+ },
+ {
+  "cat": "araba",
+  "baslik": "Le Mans Yarışçısı Gibi Üretilen 1967 Alfa Romeo Giulia",
+  "ozet": "Hafif alaşım panellere ve 180 beygir güce sahip 1967 Alfa Romeo Giulia Low Drag, İngiltere tesciliyle yeni alıcısını arıyor.",
+  "puan": 3.5,
+  "grup": "1967-alfa-romeo-giulia-low-drag",
+  "link": "https://www.motor1.com/news/812578/1967-alfa-romeo-giulia-low/",
+  "source": "Motor1",
+  "ts": 1792501369.7092419
+ },
+ {
+  "cat": "araba",
+  "baslik": "Honda'dan Seyir Halinde Kablosuz Şarj Teknolojisi",
+  "ozet": "Honda ve Taisei ortaklığıyla geliştirilen dinamik kablosuz güç aktarım teknolojisi, ağır vasıtaların sürüş esnasında şarj edilmesini hedefliyor.",
+  "puan": 7.5,
+  "grup": "honda-dynamic-wireless-ev-charging",
+  "link": "https://www.autocar.co.uk/car-news/technology/no-stops-needed-new-honda-tech-can-charge-evs-while-driving",
+  "source": "Autocar",
+  "ts": 1792501369.7092419
+ },
+ {
+  "cat": "araba",
+  "baslik": "Benzinli BMW M3 Devam Ediyor: Yeni Nesil Prototipler Yollarda",
+  "ozet": "Tamamen elektrikli bir M3 yolda olsa da, altı silindirli içten yanmalı motorlu M3 versiyonu da yaşatmaya devam edecek.",
+  "puan": 7.0,
+  "grup": "bmw-m3-gas-engine-continuation",
+  "link": "https://www.motor1.com/news/812548/2028-bmw-m3-gas-engine/",
+  "source": "Motor1",
+  "ts": 1792501369.7092419
+ },
+ {
+  "cat": "araba",
+  "baslik": "Çinli Premium Marka Li Auto 2027'de İngiltere'ye Giriş Yapıyor",
+  "ozet": "Çin'in lider elektrikli araç üreticilerinden Li Auto, i6 elektrikli SUV modelini 2027 sonbaharında İngiltere pazarına sunmaya hazırlanıyor.",
+  "puan": 6.5,
+  "grup": "li-auto-uk-market-launch-2027",
+  "link": "https://www.autocar.co.uk/car-news/electric-cars/li-auto-chinese-premium-ev-brand-confirms-uk-launch-2027",
+  "source": "Autocar",
+  "ts": 1792501369.7092419
+ },
+ {
+  "cat": "araba",
+  "baslik": "ABD'de Yılda 350 Bin Kaza Hayvanların Katılımıyla Gerçekleşiyor",
+  "ozet": "AAA Vakfı'nın araştırması, geyik çarpışmalarının zirve yaptığı dönemleri ve ani manevralar yerine şeritte fren yapmanın önemini ortaya koyuyor.",
+  "puan": 4.5,
+  "grup": "us-animal-vehicle-crashes-study",
+  "link": "https://www.motor1.com/news/812547/aaa-study-deadly-animal-related/",
+  "source": "Motor1",
+  "ts": 1792501369.7092419
+ },
+ {
+  "cat": "araba",
+  "baslik": "Skoda Sürücülere Evde 3 Boyutlu Parça Basma İmkânı Sunuyor",
+  "ozet": "Çek üretici, müşterilerin kendi araç aksesuarlarını evlerinde 3D yazıcılar aracılığıyla üretebilmesinin önünü açıyor.",
+  "puan": 4.5,
+  "grup": "skoda-home-3d-print-accessories",
+  "link": "https://www.motor1.com/news/812544/skoda-free-3d-print-accessories/",
+  "source": "Motor1",
+  "ts": 1792501369.7092419
+ },
+ {
+  "cat": "araba",
+  "baslik": "Araştırma: Arazi Sürüşü En Az Süper Spor Otomobiller Kadar Heyecan Verici",
+  "ozet": "Castrol'ün insan psikolojisi üzerine yaptığı yeni araştırma, saf hız yerine arazi sürüşünün de benzer bir sürüş heyecanı yarattığını gösteriyor.",
+  "puan": 3.5,
+  "grup": "castrol-off-road-driving-thrill-study",
+  "link": "https://www.autocar.co.uk/car-news/technology/roading-just-thrilling-driving-mclaren-new-study-says",
+  "source": "Autocar",
+  "ts": 1792501369.7092419
+ },
+ {
+  "cat": "f1",
+  "baslik": "Red Bull'un Yükselişi F1 Nation'da Masaya Yatırıldı",
+  "ozet": "F1 Nation podcast'inin son bölümünde Jolyon Palmer ve Alex Jacques, Red Bull'un etkileyici geri dönüşünün ardından gelecekte neler başarabileceğini tartıştı.",
+  "puan": 4.5,
+  "grup": "red-bull-resurgence-f1-nation",
+  "link": "https://www.formula1.com/en/latest/article/i-dont-see-a-weakness-what-could-formidable-red-bull-achieve-after-massive-resurgence.5qNK8tS9Gi6aw3lCdaBGz3",
+  "source": "Formula1.com",
+  "ts": 1792501369.7092419
+ },
+ {
+  "cat": "f1",
+  "baslik": "Marcin Budkowski Cadillac'ın Yeni Dönemini Şekillendiriyor",
+  "ozet": "Yaz aylarında Graeme Lowdon'ın yerine Cadillac Takım Patronu olan Marcin Budkowski, F1'in en yeni takımını geliştirmek için yoğun bir gündeme sahip.",
+  "puan": 6.5,
+  "grup": "marcin-budkowski-cadillac-team-principal",
+  "link": "https://www.formula1.com/en/latest/article/exclusive-marcin-budkowski-on-shaping-cadillacs-next-chapter-creating-a-winning-culture-and-being-in-action-mode.MgVub5whPnC4Rn1VU5T1i",
+  "source": "Formula1.com",
+  "ts": 1792501369.7092419
+ },
+ {
+  "cat": "f1",
+  "baslik": "Rafael Camara 2027'de İstediği Numarayı Açıkladı",
+  "ozet": "Rafael Camara, Haas ile çaylak sezonunda yarışmak istediği sürücü numarasını belirledi.",
+  "puan": 3.0,
+  "grup": "rafael-camara-haas-2027-number",
+  "link": "https://www.formula1.com/en/latest/article/new-haas-signing-camara-indicates-the-driver-number-hed-like-to-use-in-2027.2gYYicm5lswBpzkn5Wh2v0",
+  "source": "Formula1.com",
+  "ts": 1792501369.7092419
+ },
+ {
+  "cat": "f1",
+  "baslik": "Haas, ABD GP İçin Godzilla Özel Boyasızını Tanıttı",
+  "ozet": "Haas takımı, COTA'daki ABD Grand Prix'sinde Godzilla temalı özel bir araç boyası ile yarışacak.",
+  "puan": 3.5,
+  "grup": "haas-godzilla-livery-us-gp",
+  "link": "https://www.racefans.net/2026/10/20/spotlight-haas-produces-another-godzilla-livery-for-united-states-gp/",
+  "source": "RaceFans",
+  "ts": 1792501369.7092419
+ },
+ {
+  "cat": "f1",
+  "baslik": "F1'in Eski Yakıt Akış Ölçer Tedarikçisinden Patent Davası",
+  "ozet": "Eski yakıt akış ölçer tedarikçisi Sentronics Holdings, patent ihlali iddiasıyla yeni tedarikçi Allengra'ya ABD'de dava açtı.",
+  "puan": 6.0,
+  "grup": "f1-fuel-flow-meter-patent-lawsuit",
+  "link": "https://www.motorsport.com/f1/news/f1s-former-fuel-flow-meter-supplier-sues-its-replacement-in-texas/10866487/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792501369.7092419
+ },
+ {
+  "cat": "f1",
+  "baslik": "F1'in 2027'deki Kısa Yarış Formatı Kalıcı Olmayacak",
+  "ozet": "FIA, bu yıl kısaltılan yarış mesafelerinin ardından 2028'de tam Grand Prix mesafelerine geri dönüleceğini onayladı.",
+  "puan": 7.5,
+  "grup": "f1-shorter-grands-prix-2027-2028",
+  "link": "https://www.racefans.net/2026/10/20/formula-1s-move-to-shorter-grands-prix-in-2027-will-not-be-permanent/",
+  "source": "RaceFans",
+  "ts": 1792501369.7092419
+ },
+ {
+  "cat": "f1",
+  "baslik": "Horner: Antonelli Mercedes'in 1 Numarası Olmayı Hak Etti",
+  "ozet": "Christian Horner, Dominan bir 2026 sezonu geçiren Kimi Antonelli'nin Mercedes'te 1 numara olmayı hak ettiğini söyledi.",
+  "puan": 7.0,
+  "grup": "christian-horner-kimi-antonelli-mercedes",
+  "link": "https://www.motorsport.com/f1/news/christian-horner-kimi-antonelli-has-earned-the-right-to-be-mercedes-number-one/10865153/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792501369.7092419
+ },
+ {
+  "cat": "f1",
+  "baslik": "Horner'dan Vasseur Açıklaması: 'Fred İçin Üzüldüm'",
+  "ozet": "Christian Horner, Ferrari takım patronluğu iddiaları ortaya çıktığında Ferrari patronu Fred Vasseur için üzüldüğünü belirtti.",
+  "puan": 5.0,
+  "grup": "christian-horner-fred-vasseur-rumours",
+  "link": "https://www.the-race.com/formula-1/i-felt-sorry-for-vasseur-horner-on-ferrari-f1-rumours/",
+  "source": "The Race",
+  "ts": 1792501369.7092419
+ },
+ {
+  "cat": "f1",
+  "baslik": "Lando Norris ve Rakipleri Dev Boyutlu UNO Karşılaşmasında",
+  "ozet": "Lando Norris, Oscar Piastri ve Pierre Gasly, paddockta devasa boyutlardaki kartlarla UNO oynayarak keyifli anlar yaşadı.",
+  "puan": 2.0,
+  "grup": "f1-drivers-uno-card-game-video",
+  "link": "https://www.motorsport.com/f1/news/lando-norris-suffers-embarrassing-defeat-to-f1-rivals-in-hilarious-uno-showdown/10866475/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792501369.7092419
+ },
+ {
+  "cat": "f1",
+  "baslik": "Bütçe Sınırı Kazanan Takım Sayısını Etkilemiyor",
+  "ozet": "F1'de daha fazla takımın yarış kazanmasına yardımcı olmak için bütçe sınırının suçlu olup olmadığı tartışılıyor.",
+  "puan": 4.0,
+  "grup": "f1-budget-cap-winning-teams-debate",
+  "link": "https://www.racefans.net/2026/10/20/featured-comment-budget-cap-not-to-blame-for-lack-of-winning-teams-in-f1/",
+  "source": "RaceFans",
+  "ts": 1792501369.7092419
  }
 ]
