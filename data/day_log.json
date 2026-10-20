@@ -1,26 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Lastik Tamir Kitleri Ne Kadar Etkili?",
-  "ozet": "Lastik tamir kitlerinin nasıl çalıştığı, hangi durumlarda hayat kurtardığı ve yetersiz kaldığı durumlar inceleniyor.",
-  "puan": 3.0,
-  "grup": "puncture-resistant-off-road-tires",
-  "link": "https://www.motor1.com/features/811645/how-to-use-a-tire-repair-kit/",
-  "source": "Motor1",
-  "ts": 1792352151.3677754
- },
- {
-  "cat": "araba",
-  "baslik": "Video Oyunları Araba Tamirini Öğretebilir mi?",
-  "ozet": "Wrench gibi simülasyon oyunları, pahalı bir proje arabaya ihtiyaç duymadan görsel öğrenenlerin araçların nasıl bir araya geldiğini anlamasına yardımcı oluyor.",
-  "puan": 2.5,
-  "grup": "car-cylinder-deactivation-issues",
-  "link": "https://www.jalopnik.com/2289377/wrench-video-game-teach-how-cars-are-put-together/",
-  "source": "Jalopnik",
-  "ts": 1792352151.3677754
- },
- {
-  "cat": "araba",
   "baslik": "Mekanik Debriyajlardan Hidrolik Debriyajlara Geçişin Sebepleri",
   "ozet": "Manuel şanzımanlarda geleneksel kablolu sistemler yerine hidrolik debriyajların kullanılmaya başlanması, sürücülere önemli avantajlar ve bazı ödünleşmeler sunuyor.",
   "puan": 4.5,
@@ -1788,5 +1768,155 @@
   "link": "https://www.racefans.net/2026/10/20/cadillac-and-haas-reveal-special-liveries-for-home-race-in-austin/",
   "source": "RaceFans",
   "ts": 1792518967.7443023
+ },
+ {
+  "cat": "araba",
+  "baslik": "Acura Ürün Gamını Genişletiyor",
+  "ozet": "Acura, satışlarını artırmak ve popüler segmentlerde daha fazla varlık göstermek için model sayısını dörtten altıya çıkarıyor.",
+  "puan": 5.5,
+  "grup": "acura-future-models-expansion",
+  "link": "https://www.caranddriver.com/news/a74192566/acura-targeting-sales-larger-lineup/",
+  "source": "Car and Driver",
+  "ts": 1792531933.7649908
+ },
+ {
+  "cat": "araba",
+  "baslik": "Subaru'dan 510 Beygirlik Elektrikli Station Wagon",
+  "ozet": "Subaru, Toyota'nın yardımı olmadan geliştirdiği çift motorlu ve hafif yapıya sahip 510 beygirlik elektrikli station wagon modelini tanıttı.",
+  "puan": 7.5,
+  "grup": "subaru-510hp-electric-wagon",
+  "link": "https://www.motor1.com/news/812601/subaru-ev-prototype-breaks-toyota/",
+  "source": "Motor1",
+  "ts": 1792531933.7649908
+ },
+ {
+  "cat": "araba",
+  "baslik": "Lexus TX550h+ Üretimden Kalkıyor",
+  "ozet": "Lexus, 2027 yılı için ürün gamını sadeleştirerek yavaş satan plug-in hibrit TX550h+ modelini satıştan kaldırıyor.",
+  "puan": 5.0,
+  "grup": "lexus-tx550h-plus-discontinued",
+  "link": "https://www.caranddriver.com/news/a74196402/lexus-tx550h-plug-in-hybrid-discontinued-2027/",
+  "source": "Car and Driver",
+  "ts": 1792531933.7649908
+ },
+ {
+  "cat": "araba",
+  "baslik": "Golf GTI Vites Topuzu Neden Golf Topu Şeklindeydi?",
+  "ozet": "Volkswagen'in ikonik modeli Golf GTI'ın efsanevi golf topu şeklindeki vites topuzunun arkasındaki eğlenceli hikaye.",
+  "puan": 3.0,
+  "grup": "vw-golf-gti-golf-ball-shifter",
+  "link": "https://www.motor1.com/features/812550/why-vw-golf-gti-golf-ball-gear-shifter/",
+  "source": "Motor1",
+  "ts": 1792531933.7649908
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Lexus RX Hibrit İncelemesi",
+  "ozet": "2027 model Lexus RX Hibrit hakkında fiyat, teknik özellikler ve değerlendirmeler.",
+  "puan": 5.0,
+  "grup": "2027-lexus-rx-hybrid-review",
+  "link": "https://www.caranddriver.com/lexus/rx-hybrid-2027",
+  "source": "Car and Driver",
+  "ts": 1792531933.7649908
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Lexus RX350 Dış Tasarım Fotoğrafları",
+  "ozet": "Yeni 2027 Lexus RX350 modelinin dış tasarımını farklı açılardan inceleyin.",
+  "puan": 2.5,
+  "grup": "2027-lexus-rx350-exterior-photos",
+  "link": "https://www.caranddriver.com/photos/a74195633/2027-lexus-rx350-buyers-guide-exterior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1792531933.7649908
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Lexus RX350 İç Mekan Fotoğrafları",
+  "ozet": "2027 Lexus RX350'nin yenilenen iç kabinine yakından bir bakış.",
+  "puan": 2.5,
+  "grup": "2027-lexus-rx350-interior-photos",
+  "link": "https://www.caranddriver.com/photos/a74195634/2027-lexus-rx350-buyers-guide-interior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1792531933.7649908
+ },
+ {
+  "cat": "araba",
+  "baslik": "Porsche Mission S Konsepti New York'ta",
+  "ozet": "Porsche'nin Mission S Konsepti tanıtım sahnesinden ayrılarak New York sokaklarında tur atıyor.",
+  "puan": 6.0,
+  "grup": "porsche-mission-s-new-york-tour",
+  "link": "https://www.motor1.com/news/812649/porsche-mission-s-photos-new-york/",
+  "source": "Motor1",
+  "ts": 1792531933.7649908
+ },
+ {
+  "cat": "araba",
+  "baslik": "GM İki Elektrikli ve Hidrojen Tesisini Kapatıyor",
+  "ozet": "Düşen EV talebi nedeniyle General Motors, Brownstown batarya montaj tesisini kapatıyor ve hidrojen tesisini dönüştürüyor.",
+  "puan": 8.0,
+  "grup": "gm-ev-hydrogen-plant-closures",
+  "link": "https://www.caranddriver.com/news/a74195327/gm-closing-repurposing-ev-hydrogen-fuel-cell-plants/",
+  "source": "Car and Driver",
+  "ts": 1792531933.7649908
+ },
+ {
+  "cat": "araba",
+  "baslik": "Pioneer'dan Retro Kaset Çalar ve Hoparlörler",
+  "ozet": "Pioneer, 80'ler ve 90'lar estetiğini yansıtan retro tasarımlı yeni kaset çalar oto teybini ve kutu tipi hoparlörlerini Amerika'ya getiriyor.",
+  "puan": 4.0,
+  "grup": "pioneer-retro-cassette-deck-stereo",
+  "link": "https://www.thedrive.com/news/old-school-box-speakers-are-back-and-pioneers-new-cassette-deck-car-stereo-is-finally-coming-to-america",
+  "source": "The Drive",
+  "ts": 1792531933.7649908
+ },
+ {
+  "cat": "araba",
+  "baslik": "İkinci El Araçta İdeal Kilometre Kaç Olmalı?",
+  "ozet": "Araç kilometresi bir otomobilin ömrü hakkında çok şey söyler ancak dikkate alınması gereken tek faktör değildir.",
+  "puan": 2.0,
+  "grup": "used-car-ideal-mileage-guide",
+  "link": "https://www.caranddriver.com/shopping-advice/a74183347/used-car-how-many-miles/",
+  "source": "Car and Driver",
+  "ts": 1792531933.7649908
+ },
+ {
+  "cat": "araba",
+  "baslik": "Petrol Fiyatları Yüksek Seyretmeye Devam Ediyor",
+  "ozet": "Politik gelişmelere ve anlaşmalara rağmen küresel çapta petrol fiyatları yüksek kalmaya devam ediyor.",
+  "puan": 4.5,
+  "grup": "global-oil-prices-high",
+  "link": "https://www.jalopnik.com/2292048/oil-expensive-trump-dirty-russian-oil-deal/",
+  "source": "Jalopnik",
+  "ts": 1792531933.7649908
+ },
+ {
+  "cat": "araba",
+  "baslik": "Volkswagen Bazı ID.4'lerin Şarjını Sınırlayacak",
+  "ozet": "Volkswagen, batarya yangını riski içeren geri çağırma kapsamında OTA güncellemesiyle bazı ID.4 modellerinin şarj kapasitesini yüzde 80 ile sınırlayacak.",
+  "puan": 8.5,
+  "grup": "vw-id4-battery-fire-recall-charging-cap",
+  "link": "https://www.caranddriver.com/news/a74194610/volkswagen-remotely-limiting-charging-id4-recall/",
+  "source": "Car and Driver",
+  "ts": 1792531933.7649908
+ },
+ {
+  "cat": "araba",
+  "baslik": "VinFast ABD'de Taksi Pazarına Giriyor",
+  "ozet": "VinFast, Amerika pazarında araç kalitesinden ziyade taksi filoları üzerinden yeni bir strateji deniyor.",
+  "puan": 5.0,
+  "grup": "vinfast-us-taxi-strategy",
+  "link": "https://www.jalopnik.com/2292071/vinfast-new-approach-u-s-taxis/",
+  "source": "Jalopnik",
+  "ts": 1792531933.7649908
+ },
+ {
+  "cat": "araba",
+  "baslik": "1970 Dodge Challenger R/T Satışta",
+  "ozet": "Sadece 287 adet üretilen orijinal Hemi V8 motora sahip kusursuz restorasyonlu Dodge Challenger R/T, 230 bin dolarlık fiyatla alıcı bekliyor.",
+  "puan": 4.5,
+  "grup": "1970-dodge-challenger-rt-hemi-sale",
+  "link": "https://www.jalopnik.com/2291602/1970-dodge-challenger-rt-hardtop-426-hemi-v8-230000-dollars/",
+  "source": "Jalopnik",
+  "ts": 1792531933.7649908
  }
 ]
