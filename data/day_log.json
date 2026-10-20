@@ -1,266 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Yolda Kalma Hikayeleri",
-  "ozet": "Sürücülerin yolda mahsur kaldığı en kötü anları ve kar fırtınası ya da sıcakta çekici beklerken yaşadıkları deneyimler derleniyor.",
-  "puan": 2.0,
-  "grup": "stranded-on-the-road-stories",
-  "link": "https://www.jalopnik.com/2289323/whats-your-worst-stranded-on-the-side-of-the-road-story-reader-question/",
-  "source": "Jalopnik",
-  "ts": 1792333774.430276
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Polaris RZR Pro R Boost Fotoğrafları",
-  "ozet": "Yeni 2027 model Polaris RZR Pro R Boost'un aksiyon anlarına ait fotoğraflar yayınlandı.",
-  "puan": 4.5,
-  "grup": "polaris-rzr-pro-r-boost",
-  "link": "https://www.caranddriver.com/photos/a74049993/2026-polaris-rzr-pro-r-boost-drive-gallery/",
-  "source": "Car and Driver",
-  "ts": 1792333774.430276
- },
- {
-  "cat": "araba",
-  "baslik": "Makyajlı Hyundai Santa Fe EREV Yolda",
-  "ozet": "Hyundai'nin ilk menzil uzatcılı hibrit modeli Santa Fe EREV, 600 mil menzil ile 2027'nin ilk yarısında tanıtılacak.",
-  "puan": 7.5,
-  "grup": "hyundai-santa-fe-erev",
-  "link": "https://www.jalopnik.com/2289165/hyundai-santa-fe-facelift-erev-range-extender-hybrid-spied/",
-  "source": "Jalopnik",
-  "ts": 1792333774.430276
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Polaris RZR Pro R Boost İncelemesi",
-  "ozet": "Utah'ın zorlu arazilerinde test edilen yeni Polaris buggy modeli, performansıyla dikkat çekiyor.",
-  "puan": 5.0,
-  "grup": "polaris-rzr-pro-r-boost",
-  "link": "https://www.caranddriver.com/reviews/a74109201/2027-polaris-rzr-pro-r-boost-drive/",
-  "source": "Car and Driver",
-  "ts": 1792333774.430276
- },
- {
-  "cat": "araba",
-  "baslik": "Los Angeles'ta VinFast Filosu",
-  "ozet": "Green SM, Los Angeles'ta hizmet vermek üzere 500 adet VinFast VF8 modelinden oluşan yeni bir araç kiralama filosu başlattı.",
-  "puan": 4.0,
-  "grup": "vinfast-la-ride-hailing",
-  "link": "https://www.caranddriver.com/news/a74162971/green-sm-los-angeles-ride-hailing-vinfast-vf8-ev/",
-  "source": "Car and Driver",
-  "ts": 1792333774.430276
- },
- {
-  "cat": "araba",
-  "baslik": "90'lardan 11 Japon Performans Otomobili",
-  "ozet": "Japon otomotiv tarihinin en ikonik ve nostaljik 90'lar performans arabaları listelendi.",
-  "puan": 2.5,
-  "grup": "japanese-90s-performance-cars",
-  "link": "https://www.jalopnik.com/2287365/japanese-performance-cars-90s/",
-  "source": "Jalopnik",
-  "ts": 1792333774.430276
- },
- {
-  "cat": "araba",
-  "baslik": "Ucuz Araç Parçası Kullanan 5 Egzozik Otomobil",
-  "ozet": "Oldukça pahalı ve egzozik süper arabaların sıradan araçlardan ve hatta otobüslerden parça ödünç aldığı modeller inceleniyor.",
-  "puan": 3.0,
-  "grup": "exotics-using-cheap-car-parts",
-  "link": "https://www.jalopnik.com/2284792/exotics-supercars-luxury-with-parts-from-normal-cheap-cars/",
-  "source": "Jalopnik",
-  "ts": 1792333774.430276
- },
- {
-  "cat": "araba",
-  "baslik": "440 Big Block Motorlu Son Chrysler Modelleri",
-  "ozet": "Mopar'ın efsanevi 440 big block motoruna veda eden son Chrysler modelleri derlendi.",
-  "puan": 3.0,
-  "grup": "chrysler-440-big-block",
-  "link": "https://www.jalopnik.com/2284708/last-chrysler-mopar-440-big-block-v8-under-hood/",
-  "source": "Jalopnik",
-  "ts": 1792333774.430276
- },
- {
-  "cat": "araba",
-  "baslik": "Güneş Işınlarının Araç Boyasına Etkisi",
-  "ozet": "Güneş ışığının araç boyasını nasıl solup matlaştırdığı ve bu hasara karşı alınabilecek koruma yöntemleri anlatılıyor.",
-  "puan": 2.0,
-  "grup": "car-paint-sun-protection",
-  "link": "https://www.motor1.com/features/812079/why-car-paint-fades-in-the-sun/",
-  "source": "Motor1",
-  "ts": 1792333774.430276
- },
- {
-  "cat": "araba",
-  "baslik": "Arnold Schwarzenegger ve Sivil Hummer",
-  "ozet": "Askeri bir araç olarak doğan Hummer'ın Arnold Schwarzenegger sayesinde sivil yollara çıkış hikayesi aktarılıyor.",
-  "puan": 3.0,
-  "grup": "civilian-hummer-arnold-schwarzenegger",
-  "link": "https://www.jalopnik.com/2284294/civilians-can-own-hummers-thanks-to-arnold-schwarzenegger/",
-  "source": "Jalopnik",
-  "ts": 1792333774.430276
- },
- {
-  "cat": "araba",
-  "baslik": "Jeep Willys Efsanesini Geri Getirebilir",
-  "ozet": "Jeep, Avrupa'daki Çinli rekabetine karşı askeri kökenli Willys modelini elektrikli olarak yeniden canlandırmayı değerlendiriyor.",
-  "puan": 6.5,
-  "grup": "jeep-willys-ev-revival",
-  "link": "https://www.autocar.co.uk/car-news/motor-shows-paris-motor-show/jeep-mulls-willys-revival-it-plots-affordable-ev-after-2030",
-  "source": "Autocar",
-  "ts": 1792333774.430276
- },
- {
-  "cat": "f1",
-  "baslik": "BBC, F1 Radyo Yayın Haklarını Kaybetme Tehlikesiyle Karşı Karşıya",
-  "ozet": "TalkSPORT'un İngiltere'deki Formula 1 radyo yayın hakları için teklif vermeyi düşünmesi, BBC'nin 32 yıllık yayın serüvenini sona erdirebilir.",
-  "puan": 3.5,
-  "grup": "bbc-f1-radio-rights-talksport",
-  "link": "https://www.motorsport.com/f1/news/bbc-could-lose-f1-radio-rights-after-32-years-as-rival-broadcaster-considers-bid/10866051/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792333774.430276
- },
- {
-  "cat": "f1",
-  "baslik": "Aston Martin'in Form Düşüşündeki Gizemli Fernando Alonso Detayı",
-  "ozet": "Aston Martin'in B-spec aracı tanıttığı dönemeçten bu yana sergilediği kafa karıştırıcı form grafiği, Fernando Alonso ile ilgili garip olayları da beraberinde getirdi.",
-  "puan": 4.5,
-  "grup": "aston-martin-alonso-b-spec-form",
-  "link": "https://www.the-race.com/formula-1/strange-fernando-alonso-subplot-aston-martin-weird-f1-form/",
-  "source": "The Race",
-  "ts": 1792333774.430276
- },
- {
-  "cat": "f1",
-  "baslik": "Max Verstappen'den 2026 Regülasyonlarını Eleştirenlere Tepki",
-  "ozet": "Max Verstappen, eski pilotların ve yorumcuların 2026 kurallarına yönelik eleştirilerinin bu yeni regülasyonları anlamamalarından kaynaklandığını belirtti.",
-  "puan": 5.0,
-  "grup": "max-verstappen-2026-regulations-criticism",
-  "link": "https://www.motorsport.com/f1/news/max-verstappen-hits-back-at-former-f1-drivers-over-criticism-of-2026-regulations/10866045/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792333774.430276
- },
- {
-  "cat": "f1",
-  "baslik": "Mercedes, Yeni Güncellemelerin Aracı Neden Zorlaştırdığını Açıkladı",
-  "ozet": "Singapore GP hafta sonunda iki pilotun araçlarında farklı konfigürasyonlar deneyen Mercedes, yeni paketle ilgili kritik verilere ulaştı.",
-  "puan": 5.0,
-  "grup": "mercedes-singapore-upgrade-data-analysis",
-  "link": "https://www.autosport.com/f1/news/mercedes-explains-why-its-upgrade-made-its-f1-car-harder-to-drive/10866035/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1792333774.430276
- },
- {
-  "cat": "f1",
-  "baslik": "Christian Horner, Geri Halliwell'in Hayran Tepkileriyle Baş Etmesine Nasıl Yardımcı Olduğunu Anlattı",
-  "ozet": "Christian Horner, Drive to Survive sonrası artan şöhret ve hayran tepkileriyle başa çıkmasında ünlü eşi Geri Halliwell'in kendisine nasıl destek olduğunu açıkladı.",
-  "puan": 2.0,
-  "grup": "christian-horner-geri-halliwell-fame",
-  "link": "https://www.motorsport.com/f1/news/how-geri-halliwell-helped-christian-horner-deal-with-fan-hate/10865211/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792333774.430276
- },
- {
-  "cat": "araba",
-  "baslik": "Yüksek Benzin Fiyatlarına Karşı Costco Çözümü",
-  "ozet": "Artan benzin fiyatları karşısında bütçeyi dengelemek için Costco'da ucuz yemek yemek ve indirimli akaryakıt almak bir seçenek olarak sunuluyor.",
-  "puan": 2.5,
-  "grup": "gasoline-prices-ev-adoption",
-  "link": "https://www.jalopnik.com/2286070/answer-balancing-budget-high-gas-prices-costco-date-night/",
-  "source": "Jalopnik",
-  "ts": 1792344622.9489603
- },
- {
-  "cat": "araba",
-  "baslik": "Amerikalıların Kei Truck Sevgisi",
-  "ozet": "Japon bir TV kanalının Amerikalıların küçük Kei kamyonetlerine duyduğu hayranlığı konu alan samimi röportajı yayınlandı.",
-  "puan": 3.0,
-  "grup": "japanese-kei-trucks-us",
-  "link": "https://www.thedrive.com/news/japanese-tv-station-interviews-americans-about-their-love-for-kei-trucks-and-its-too-wholesome",
-  "source": "The Drive",
-  "ts": 1792344622.9489603
- },
- {
-  "cat": "araba",
-  "baslik": "Nadir Bir Efsane: Dodge Dakota Li'l Red Express",
-  "ozet": "İlginç ismiyle bilinen kompakt kamyonetler arasında yer alan Dodge Dakota Li'l Red Express, 1990'lardan kalma nadir bir model olarak öne çıkıyor.",
-  "puan": 3.5,
-  "grup": "dodge-dakota-lil-red-express",
-  "link": "https://www.jalopnik.com/2285449/dodge-dakota-lil-red-express-mid-size-pickup-truck-rare-unicorn/",
-  "source": "Jalopnik",
-  "ts": 1792344622.9489603
- },
- {
-  "cat": "araba",
-  "baslik": "WD-40'ın Raf Ömrü Var mı?",
-  "ozet": "Pek çok farklı amaçla kullanılan popüler pas sökücü ve yağlayıcı WD-40'ın kullanım süresi ve raf ömrü üretici açıklamalarıyla ele alınıyor.",
-  "puan": 2.0,
-  "grup": "wd40-shelf-life-expiration",
-  "link": "https://www.jalopnik.com/2285309/how-long-wd-40-can-lasts-expiration-date/",
-  "source": "Jalopnik",
-  "ts": 1792344622.9489603
- },
- {
-  "cat": "araba",
-  "baslik": "Otomobillerde Kalıcı Ferahlık Rehberi",
-  "ozet": "Sürekli araç kokusu satın almadan, basit temizlik ipuçları ve koku giderme yöntemleriyle arabanızın nasıl taze kokabileceği anlatılıyor.",
-  "puan": 2.0,
-  "grup": "car-interior-odor-removal",
-  "link": "https://www.motor1.com/features/812064/how-to-make-your-car-smell-good-inside/",
-  "source": "Motor1",
-  "ts": 1792344622.9489603
- },
- {
-  "cat": "araba",
-  "baslik": "Neden Herkes V6 Motorlardan Nefret Ediyor?",
-  "ozet": "Birçok performans tutkunu favorisinde yer almasına rağmen V6 motorların neden geniş kesimler tarafından eleştirildiği inceleniyor.",
-  "puan": 4.0,
-  "grup": "v6-engine-criticism-history",
-  "link": "https://www.thedrive.com/news/this-is-why-everyone-hates-v6-engines",
-  "source": "The Drive",
-  "ts": 1792344622.9489603
- },
- {
-  "cat": "araba",
-  "baslik": "Dubai Polisi Filosuna Lamborghini Ekledi",
-  "ozet": "Dubai Polis teşkilatı, yüksek performanslı devriye araçları filosuna 907 beygir gücündeki yeni Lamborghini Temerario modelini dahil etti.",
-  "puan": 7.5,
-  "grup": "dubai-police-lamborghini-temerario",
-  "link": "https://www.motor1.com/news/812299/lamborghini-temerario-dubai-police/",
-  "source": "Motor1",
-  "ts": 1792344622.9489603
- },
- {
-  "cat": "araba",
-  "baslik": "Meyers Manx'in Devamı Nitelikli Çöl Buggy'si Satışta",
-  "ozet": "Yetmişlerin spor arabası olarak lanse edilen ve Meyers Manx'in ardından üretilen vahşi çöl buggy'si açık artırma platformunda alıcı bekliyor.",
-  "puan": 3.5,
-  "grup": "meyers-manx-successor-buggy-sale",
-  "link": "https://www.caranddriver.com/news/a74149042/karma-coachworks-manx-sr2-dune-buggy-bring-a-trailer-auction/",
-  "source": "Car and Driver",
-  "ts": 1792344622.9489603
- },
- {
-  "cat": "araba",
-  "baslik": "Fin Çiftçilerden Yokuşlu Traktör Çekişi",
-  "ozet": "Finlandiyalılar, zorlu arazi şartları ve devasa römorklar kullanarak geleneksel traktör çekme yarışmalarını çok daha heyecanlı hale getiriyor.",
-  "puan": 3.0,
-  "grup": "finnish-tractor-pull-competition",
-  "link": "https://www.thedrive.com/news/finnish-farmers-make-tractor-pulls-more-exciting-by-adding-a-big-hill",
-  "source": "The Drive",
-  "ts": 1792344622.9489603
- },
- {
-  "cat": "araba",
-  "baslik": "Yeni Zelanda'da 16 Saat Süren Uzun Polis Takibi",
-  "ozet": "Yeni Zelanda polisinin gerçekleştirdiği, 447 mil ve 16 saat süren araç kovalamacısı kayıtlara en uzun süren takiplerden biri olarak geçti.",
-  "puan": 4.0,
-  "grup": "new-zealand-longest-police-chase",
-  "link": "https://www.jalopnik.com/2285181/447-mile-16-hour-new-zealand-cops-police-car-chase/",
-  "source": "Jalopnik",
-  "ts": 1792344622.9489603
- },
- {
-  "cat": "araba",
   "baslik": "Lastik Tamir Kitleri Ne Kadar Etkili?",
   "ozet": "Lastik tamir kitlerinin nasıl çalıştığı, hangi durumlarda hayat kurtardığı ve yetersiz kaldığı durumlar inceleniyor.",
   "puan": 3.0,
@@ -1698,5 +1438,355 @@
   "link": "https://www.racefans.net/2026/10/20/featured-comment-budget-cap-not-to-blame-for-lack-of-winning-teams-in-f1/",
   "source": "RaceFans",
   "ts": 1792501369.7092419
+ },
+ {
+  "cat": "araba",
+  "baslik": "Sosyal Medyadaki Hot Wheels Kalite Eleştirileri Asılsız",
+  "ozet": "Sosyal medyada Hot Wheels oyuncak arabalarının kalitesinin düştüğüne dair yayılan viral gönderilerin çoğunun yapay zeka ile üretildiği ve manipülasyon amaçlı olduğu belirtiliyor.",
+  "puan": 2.5,
+  "grup": "hot-wheels-quality-social-media-myth",
+  "link": "https://www.thedrive.com/news/no-hot-wheels-quality-hasnt-tanked-social-media-just-wants-you-to-be-mad",
+  "source": "The Drive",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "araba",
+  "baslik": "Dolandırıcının El Konulan 90'dan Fazla Aracı Satışa Çıkarıldı",
+  "ozet": "Yasadışı parayla satın alınan V12 Lamborghiniler, Maseratiler ve askeri araçlar federal yetkililer tarafından açık artırmayla satışa sunuluyor.",
+  "puan": 5.0,
+  "grup": "fraudster-seized-luxury-cars-auction",
+  "link": "https://www.thedrive.com/news/fraudster-bought-90-cars-with-dirty-money-now-the-feds-are-selling-them-off",
+  "source": "The Drive",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Honda Passport TrailSport Daha Yüksek Tasarımıyla Karşımızda",
+  "ozet": "Yeni 2027 Honda Passport TrailSport, bir önceki yıla göre artırılmış yerden yüksekliği ve ince tasarım dokunuşlarıyla dikkat çekiyor.",
+  "puan": 6.5,
+  "grup": "2027-honda-passport-trailsport",
+  "link": "https://www.motor1.com/news/812616/2027-honda-passport-trailsport-compared-to-2026/",
+  "source": "Motor1",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "araba",
+  "baslik": "Cadillac'tan Checo Perez'e Özel Escalade V",
+  "ozet": "F1 pilotu Sergio Perez onuruna sadece 11 adet üretilecek olan sınırlı üretim Cadillac Escalade V tanıtıldı.",
+  "puan": 6.0,
+  "grup": "cadillac-escalade-v-checo-perez-edition",
+  "link": "https://www.thedrive.com/news/cadillac-f1-driver-checo-perez-gets-a-limited-edition-escalade-v-named-after-him",
+  "source": "The Drive",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "araba",
+  "baslik": "Anlamsız İsimlere Sahip 12 Otomobil",
+  "ozet": "Ford Probe ve Volkswagen Thing gibi otomobil tarihinin en tuhaf ve akıl almaz isimlerine sahip 12 modeli listeleniyor.",
+  "puan": 2.0,
+  "grup": "cars-with-weird-names-list",
+  "link": "https://www.motor1.com/features/812628/weirdest-car-names-ever/",
+  "source": "Motor1",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "araba",
+  "baslik": "Fransa'daki Soygunda Araç Takibi Hayat Kurtardı",
+  "ozet": "Fransa Rivierası'nda gerçekleşen 4.7 milyon dolarlık Renoir tablo soygununda polis, araç takibi sayesinde hızlıca müdahale etti.",
+  "puan": 4.5,
+  "grup": "french-riviera-renoir-heist-tracking",
+  "link": "https://www.jalopnik.com/2291695/police-vehicle-tracking-renoir-heist-french-riveria/",
+  "source": "Jalopnik",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "araba",
+  "baslik": "1979 Toyota Corona LE Liftback Fotoğrafları",
+  "ozet": "1979 model Toyota Corona LE Liftback'in iç ve dış detaylarını gösteren fotoğraf galerisi.",
+  "puan": 2.0,
+  "grup": "1979-toyota-corona-liftback-gallery",
+  "link": "https://www.caranddriver.com/photos/a74192865/1979-toyota-corona-le-liftback-archive-test-gallery/",
+  "source": "Car and Driver",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "araba",
+  "baslik": "Arşiv Testi: 1979 Toyota Corona LE Liftback",
+  "ozet": "Eski dönemlerin küçük boyutlu otomobilinde sunulan nostaljik lüks anlayışı arşiv testinde inceleniyor.",
+  "puan": 3.0,
+  "grup": "1979-toyota-corona-liftback-archive-test",
+  "link": "https://www.caranddriver.com/reviews/a74148544/1979-toyota-corona-le-liftback-archive-test/",
+  "source": "Car and Driver",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "araba",
+  "baslik": "MotoGP Motosikleti ile Süpersport Arasındaki Farklar",
+  "ozet": "En üst düzey bir MotoGP motosikleti ile ticari olarak satılan süpersport motosikletlerin arasındaki temel performans farkları ele alınıyor.",
+  "puan": 4.0,
+  "grup": "motogp-bike-vs-superbike-comparison",
+  "link": "https://www.jalopnik.com/2291469/different-motogp-bike-top-tier-superbike/",
+  "source": "Jalopnik",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "araba",
+  "baslik": "2026'nın En Çok Satan 10 Elektrikli Otomobili",
+  "ozet": "ABD pazarındaki zorluklara rağmen Tesla zirvedeki yerini korurken, Toyota bZ serisi satış artışı yaşamaya devam ediyor.",
+  "puan": 5.5,
+  "grup": "bestselling-evs-2026",
+  "link": "https://www.caranddriver.com/news/a71029465/bestselling-evs-2026/",
+  "source": "Car and Driver",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "araba",
+  "baslik": "Batarya Yangını Riski Nedeniyle VW ID.4 Şarjı Sınırlandırılıyor",
+  "ozet": "Volkswagen, olası batarya yangını riskini azaltmak amacıyla ID.4 modellerinin şarj kapasitesini uzaktan güncelleme ile yüzde 80 ile sınırlayacak.",
+  "puan": 8.0,
+  "grup": "vw-id4-battery-fire-recall-charging-cap",
+  "link": "https://www.thedrive.com/news/vw-will-remotely-cap-id-4-charging-at-80-amid-battery-fire-recall",
+  "source": "The Drive",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "araba",
+  "baslik": "Volvo EX60 Üretim Sorunları ABD Sevkiyatını Erteliyor",
+  "ozet": "Volvo'nun Gothenburg fabrikasında yaşanan üretim aksaklıkları, EX60 modelinin ABD bayilerine ulaşmasını 2027'ye kadar geciktirecek.",
+  "puan": 6.5,
+  "grup": "volvo-ex60-production-delays-us",
+  "link": "https://www.jalopnik.com/2291232/volvo-ex60-production-snafus-hamper-us-dealer-inventory-into-2027/",
+  "source": "Jalopnik",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Ford Ranger İçin Daha Büyük V6 Motor Yolda",
+  "ozet": "Ford, Ranger modelindeki 2.7 litrelik V6 motoru, Raptor'un çift turbolu 3.0 litrelik motorunun daha düşük güçteki versiyonuyla değiştirecek.",
+  "puan": 6.0,
+  "grup": "2027-ford-ranger-v6-engine",
+  "link": "https://www.motor1.com/news/812615/2027-ford-ranger-larger-v6-engine/",
+  "source": "Motor1",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Mercedes-Benz GLC-Class EV İnceleme ve Özellikleri",
+  "ozet": "Tamamen elektrikli 2027 Mercedes-Benz GLC-Class EV modeli için fiyat, teknik özellikler ve ilk değerlendirmeler.",
+  "puan": 6.0,
+  "grup": "2027-mercedes-glc-class-ev",
+  "link": "https://www.caranddriver.com/mercedes-benz/glc-class-ev",
+  "source": "Car and Driver",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Volvo EX60 Teknik Özellikleri ve Fiyatı",
+  "ozet": "Volvo'nun yeni tamamen elektrikli SUV modeli EX60 hakkında bilinen fiyatlandırma ve teknik detaylar.",
+  "puan": 6.0,
+  "grup": "2027-volvo-ex60-specs",
+  "link": "https://www.caranddriver.com/volvo/ex60",
+  "source": "Car and Driver",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "araba",
+  "baslik": "BMW'den Yeni i3 İçin Finansman Fırsatı",
+  "ozet": "2027 model BMW i3 50 xDrive için 72 aya varan yüzde 4.99 finansman oranı sunuluyor ancak düşük teşvikler maliyeti artırıyor.",
+  "puan": 4.5,
+  "grup": "2027-bmw-i3-financing-deal",
+  "link": "https://www.motor1.com/news/812593/2027-bmw-i3-financing-deals-us/",
+  "source": "Motor1",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "araba",
+  "baslik": "Tesla Roadster İçin Gelen Tepkiler ve Beklentiler",
+  "ozet": "2028 yılında teslim edileceği söylenen Tesla Roadster için ödenen yüksek depozito bedellerine ve araçtan beklentilere dair kullanıcı yorumları.",
+  "puan": 5.0,
+  "grup": "tesla-roadster-takes-and-deposits",
+  "link": "https://www.jalopnik.com/2291222/tesla-roadster-takes-reader-answers/",
+  "source": "Jalopnik",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "araba",
+  "baslik": "Honda ve Toyota'nın Robotik Gelecek Hedefleri",
+  "ozet": "Japon üreticilerin otomotiv dışında robotik geleceğe yönelik yatırımları ve sektördeki güncel gelişmeler ele alınıyor.",
+  "puan": 5.0,
+  "grup": "honda-toyota-robotic-future",
+  "link": "https://www.jalopnik.com/2291621/honda-toyota-robotic-future/",
+  "source": "Jalopnik",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "araba",
+  "baslik": "Söz Verilen 25.000 Dolarlık Elektrikli Tesla Nerede?",
+  "ozet": "Lüks projelere odaklanan Tesla'nın, toplumun elektrifikasyonu için vadettiği uygun fiyatlı 25.000 dolarlık elektrikli otomobili hala üretmemesi eleştiriliyor.",
+  "puan": 5.0,
+  "grup": "tesla-affordable-25k-ev-delay",
+  "link": "https://www.thedrive.com/news/hey-elon-wheres-my-25000-ev",
+  "source": "The Drive",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "araba",
+  "baslik": "GM'in Elektrikli Araç Küçülmesi Batarya Fabrikasını Vurdu",
+  "ozet": "General Motors'un elektrikli araç stratejisindeki geri çekilme hamleleri kapsamında Brownstown Batarya Montaj fabrikası kapanıyor.",
+  "puan": 7.5,
+  "grup": "gm-ev-pullback-battery-plant-closure",
+  "link": "https://www.thedrive.com/news/gms-ongoing-ev-pullback-has-claimed-a-battery-plant-tds",
+  "source": "The Drive",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "araba",
+  "baslik": "İkinci El Ford Flex Alınır Mı?",
+  "ozet": "Üç sıra koltuk pratikliği ve güçlü motor seçenekleriyle dikkat çeken ilginç SUV modeli Ford Flex, günümüzde cazip ikinci el fiyatlarıyla öne çıkıyor.",
+  "puan": 3.5,
+  "grup": "ford-flex-used-buy-guide",
+  "link": "https://www.motor1.com/reviews/812495/used-for-flex-buying-guide/",
+  "source": "Motor1",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "araba",
+  "baslik": "2026 Toyota Camry İncelemesi",
+  "ozet": "Toyota'nın hibrit sedan modeli, geleneksel sedan yapısını ve sürüş hissiyatını seven sürücülere nostaljik ve keyifli bir alternatif sunuyor.",
+  "puan": 5.0,
+  "grup": "2026-toyota-camry-review",
+  "link": "https://www.thedrive.com/news/the-2026-toyota-camry-made-me-miss-honest-to-goodness-sedans-all-over-again",
+  "source": "The Drive",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "araba",
+  "baslik": "Dixie Chopper Faaliyetlerini Durduruyor",
+  "ozet": "Dünyanın en hızlı çim biçme makinelerini üreten performans odaklı marka Dixie Chopper kapanma kararı aldı.",
+  "puan": 2.5,
+  "grup": "dixie-chopper-business-closure",
+  "link": "https://www.thedrive.com/news/dixie-chopper-maker-of-the-worlds-fastest-lawn-mower-is-going-out-of-business",
+  "source": "The Drive",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "araba",
+  "baslik": "Hayalinizdeki Otomobil Şovu Hangisi?",
+  "ozet": "Otomobil severlerin kendi hayallerindeki ideal motor sporları veya araba şovunu kurgulaması üzerine eğlenceli bir içerik.",
+  "puan": 1.5,
+  "grup": "dream-automotive-show-discussion",
+  "link": "https://www.jalopnik.com/2291459/dream-automotive-show-reader-question/",
+  "source": "Jalopnik",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "f1",
+  "baslik": "Williams'tan Marvel Temalı Özel Tasarım",
+  "ozet": "Williams, Doctor Doom'dan ilham alan özel bir F1 aracı boyaması ve Alex Albon ile Carlos Sainz'ın yer aldığı bir çizgi romanla Marvel Evreni'ne katıldı.",
+  "puan": 3.0,
+  "grup": "williams-marvel-livery-comic",
+  "link": "https://www.formula1.com/en/latest/article/from-the-circuit-to-comic-con-how-williams-joined-the-marvel-universe.2CRyGcEiwfgZ67ouVodMxF",
+  "source": "Formula1.com",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "f1",
+  "baslik": "Austin'de Pole Pozisyonu İçin En Güçlü Adaylar",
+  "ozet": "Bahis piyasaları analiz edilerek Circuit of the Americas'daki sıralama turlarında en hızlı olması muhtemel 5 pilot belirlendi.",
+  "puan": 3.0,
+  "grup": "us-gp-2026-betting-guide",
+  "link": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-qualify-quickest-for-the-united-states-grand-prix.3bsWMBT70xX9tDyfmCpKJQ",
+  "source": "Formula1.com",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hinchcliffe'e Göre Liam Lawson Koltuğunu Hak Ediyor",
+  "ozet": "IndyCar galibi ve F1 TV analisti Hinchcliffe, gelecek sezon öncesinde Racing Bulls yönetimini bekleyen pilot seçim sorununu değerlendirdi.",
+  "puan": 5.0,
+  "grup": "liam-lawson-racing-bulls-future",
+  "link": "https://www.formula1.com/en/latest/article/why-lawson-deserves-to-keep-his-seat-at-racing-bulls.6kJytSbdHiVxSlxgaLbjjU",
+  "source": "Formula1.com",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "f1",
+  "baslik": "FIA'dan Red Bull ve Audi'nin Taban Tasarımına 2027 Yasağı",
+  "ozet": "Mark Hughes, FIA'nın 2027'den itibaren Red Bull ve Audi'nin taban tasarımı avantajını ortadan kaldırmak için yapacağı kural değişikliğini açıkladı.",
+  "puan": 6.5,
+  "grup": "f1-floor-stay-ban-2027",
+  "link": "https://www.formula1.com/en/latest/article/the-floor-stay-loophole-behind-red-bull-and-audis-sidepods-and-why-it-is-being-closed-for-2027.4rwr2rImgcIIHLCLed473w",
+  "source": "Formula1.com",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "f1",
+  "baslik": "Amerika GP'yi Kazanma Favorileri",
+  "ozet": "Bahis oranlarına göre Circuit of the Americas'da yarış kazanma ihtimali en yüksek olan beş pilot incelendi.",
+  "puan": 3.0,
+  "grup": "us-gp-2026-betting-guide",
+  "link": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-united-states-grand-prix-according-to-the-betting-markets.3OhZRS9hatUzoRjV2rDe4m",
+  "source": "Formula1.com",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "f1",
+  "baslik": "FIA: Katar ve Abu Dabi GP'leri Planlandığı Gibi Yapılacak",
+  "ozet": "Orta Doğu'daki gerilimlere rağmen FIA Başkanı Muhammed Ben Sulayem, Katar ve Abu Dabi Grand Prix'lerinin planlandığı gibi gerçekleşeceğinden emin.",
+  "puan": 7.5,
+  "grup": "qatar-abu-dhabi-gps-fia-confirmation",
+  "link": "https://www.autosport.com/f1/news/fia-expects-f1-races-in-qatar-and-abu-dhabi-to-run-as-planned/10866553/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "f1",
+  "baslik": "FIA: Katar ve Abu Dabi Yarışları Devam Edecek",
+  "ozet": "Bölgedeki jeopolitik gerilimlere rağmen FIA Başkanı, sezon sonundaki Katar ve Abu Dabi yarışlarının planlandığı gibi yapılacağını belirtti.",
+  "puan": 7.5,
+  "grup": "qatar-abu-dhabi-gps-fia-confirmation",
+  "link": "https://www.motorsport.com/f1/news/fia-expects-f1-races-in-qatar-and-abu-dhabi-to-continue-as-planned/10866547/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "f1",
+  "baslik": "Isack Hadjar Neden Sprint Yarışlarını Sevmiyor?",
+  "ozet": "Singapur'daki zorlu hafta sonunun ardından Red Bull pilotu Isack Hadjar, sprint formatı hakkındaki olumsuz düşüncelerini paylaştı.",
+  "puan": 4.0,
+  "grup": "isack-hadjar-sprint-format-criticism",
+  "link": "https://www.motorsport.com/f1/news/why-isack-hadjar-doesnt-like-f1-sprints-anymore/10866320/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "f1",
+  "baslik": "FIA'dan Katar ve Abu Dabi GP Kesinliği",
+  "ozet": "FIA Başkanı Muhammed Ben Sulayem, Formula 1'in son iki yarışı olan Katar ve Abu Dabi'nin planlandığı gibi yapılmasında kararlı.",
+  "puan": 7.5,
+  "grup": "qatar-abu-dhabi-gps-fia-confirmation",
+  "link": "https://www.the-race.com/formula-1/fia-adamant-f1-qatar-abu-dhabi-gp-will-go-ahead/",
+  "source": "The Race",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "f1",
+  "baslik": "Mercedes'ten Singapur GP'si İtirafı",
+  "ozet": "Mercedes, Singapur Grand Prix'sinde 15 yıldır canlı pit stop yapmamış kişilerin pit ekibinde görev aldığını açıkladı.",
+  "puan": 4.5,
+  "grup": "mercedes-singapore-pitcrew-reveal",
+  "link": "https://www.motorsport.com/f1/news/mercedes-we-had-people-who-hadnt-done-a-live-pitstop-for-15-years-in-singapore-gp/10866416/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792518967.7443023
+ },
+ {
+  "cat": "f1",
+  "baslik": "Cadillac ve Haas'tan Austin İçin Özel Tasarımlar",
+  "ozet": "Formula 1'in iki Amerikan takımı, kendi ev yarışları olan Amerika Grand Prix'si için özel araç tasarımlarını tanıttı.",
+  "puan": 4.0,
+  "grup": "cadillac-haas-us-gp-liveries",
+  "link": "https://www.racefans.net/2026/10/20/cadillac-and-haas-reveal-special-liveries-for-home-race-in-austin/",
+  "source": "RaceFans",
+  "ts": 1792518967.7443023
  }
 ]
