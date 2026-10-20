@@ -1,35 +1,5 @@
 [
  {
-  "cat": "araba",
-  "baslik": "Kia'nın GT Departmanı ve Elektrikli Performans Modelleri",
-  "ozet": "Kia'nın elektrikli GT modellerinin arkasındaki felsefe inceleniyor ve Güney Kore'deki test süreçlerinden detaylar aktarılıyor.",
-  "puan": 5.5,
-  "grup": "kia-gt-division-electric-cars",
-  "link": "https://www.autocar.co.uk/car-news/new-cars/inside-kias-gt-division-why-its-cars-are-fun-not-fearsome",
-  "source": "Autocar",
-  "ts": 1792303312.0744107
- },
- {
-  "cat": "araba",
-  "baslik": "Kaliforniya'nın Tarihi İçinden Araçla Geçilen Sekoya Ağaçları",
-  "ozet": "1878 yılından beri oyulan ve günümüzde hala araç trafiğine açık olan Kaliforniya'daki devasa sekoya ağaçları anlatılıyor.",
-  "puan": 2.5,
-  "grup": "california-drive-through-redwood-trees",
-  "link": "https://www.jalopnik.com/2286479/driving-through-california-redwood-popular-tourists/",
-  "source": "Jalopnik",
-  "ts": 1792303312.0744107
- },
- {
-  "cat": "araba",
-  "baslik": "Silindir Kapatma Teknolojisi Neden Mekanik Sorunlara Yol Açabilir?",
-  "ozet": "Kırk yılı aşkın süredir kullanılan silindir kapatma teknolojisi, yakıt verimliliği sağlarken beraberinde getirdiği ciddi mekanik sorunlar nedeniyle tartışılmaya devam ediyor.",
-  "puan": 4.5,
-  "grup": "car-cylinder-deactivation-issues",
-  "link": "https://www.jalopnik.com/2285818/why-cars-cylinder-deactivation-more-problems/",
-  "source": "Jalopnik",
-  "ts": 1792303312.0744107
- },
- {
   "cat": "f1",
   "baslik": "Telsiz İletişimini Kaybeden Pilotlar",
   "ozet": "Max Verstappen'in Singapur GP'deki telsiz sorunlarının ardından F1.com, pilotların pit duvarı ile iletişimi kaybettiği geçmiş olayları derledi.",
@@ -1408,5 +1378,105 @@
   "link": "https://www.motor1.com/features/812418/why-saab-ignition-key-between-front-seats/",
   "source": "Motor1",
   "ts": 1792462165.514464
+ },
+ {
+  "cat": "araba",
+  "baslik": "BMW'den Çalışanlarına Yüksek Tazminat Teklifi",
+  "ozet": "BMW, çalışanlarına yaş, maaş ve kıdeme göre değişen şartlarla 730.000 dolara varan erken ayrılma ve tazminat teklifleri sunuyor.",
+  "puan": 6.0,
+  "grup": "bmw-employee-severance-offers",
+  "link": "https://www.motor1.com/news/812543/bmw-voluntary-exit-program-reportedly/",
+  "source": "Motor1",
+  "ts": 1792482191.6219227
+ },
+ {
+  "cat": "araba",
+  "baslik": "BMW'nin Gizli Kalan E36 Compact Projesi",
+  "ozet": "BMW'nin geçmişte dört kapılı bir E36 Compact prototipi geliştirdiği ancak bu 316i modelinin hiçbir zaman üretime alınmadığı ortaya çıktı.",
+  "puan": 4.0,
+  "grup": "bmw-e36-compact-four-door-prototype",
+  "link": "https://www.motor1.com/news/812535/bmw-five-door-hatchback-unique/",
+  "source": "Motor1",
+  "ts": 1792482191.6219227
+ },
+ {
+  "cat": "araba",
+  "baslik": "Teksas'ta Bulunan Gizli Corvette Koleksiyonu",
+  "ozet": "John Clay Wolfe, Corpus Christi'deki bir karavan parkında terk edilmiş halde bulunan iki adet klasiğin de aralarında olduğu Corvette projeleri için 175.000 dolar ödedi.",
+  "puan": 3.5,
+  "grup": "texas-trailer-park-hidden-corvettes",
+  "link": "https://www.motor1.com/news/812531/corvette-stash-became-a-two/",
+  "source": "Motor1",
+  "ts": 1792482191.6219227
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Nissan Pathfinder'a Retro Dokunuş",
+  "ozet": "Özel versiyon Nissan Pathfinder modelleri, 1987 köklerine sadık kalan bordo iç mekan detayları ve konfor özellikleriyle yenileniyor.",
+  "puan": 5.5,
+  "grup": "2027-nissan-pathfinder-40th-anniversary",
+  "link": "https://www.motor1.com/news/812518/2027-nissan-pathfinder-special-edition/",
+  "source": "Motor1",
+  "ts": 1792482191.6219227
+ },
+ {
+  "cat": "araba",
+  "baslik": "Fiat Multiplay Konsepti Üretime Yöneliyor",
+  "ozet": "Yeni Fiat yöneticisi Arnaud Belloni, Paris Otomobil Fuarı'nda sergilenen radikal SUV-pickup melezi Multiplay konseptinin üretime geçeceğini açıkladı.",
+  "puan": 6.5,
+  "grup": "fiat-multiplay-concept-production",
+  "link": "https://www.autocar.co.uk/car-news/electric-cars/multiplay-tipped-production-fiat-looks-next-big-thing",
+  "source": "Autocar",
+  "ts": 1792482191.6219227
+ },
+ {
+  "cat": "araba",
+  "baslik": "İkinci El Lüks Elektrikli Araçlar Değer Kaybediyor",
+  "ozet": "Araştırmalara göre lüks elektrikli araçlar, benzinli ve dizel modellere kıyasla ikinci elde yüzde 6.4'e varan oranlarda daha hızlı değer kaybediyor.",
+  "puan": 4.5,
+  "grup": "used-luxury-evs-higher-depreciation",
+  "link": "https://www.autocar.co.uk/car-news/company-cars/fleets-warned-used-luxury-evs-lag-ice-cars-64-resale",
+  "source": "Autocar",
+  "ts": 1792482191.6219227
+ },
+ {
+  "cat": "araba",
+  "baslik": "New York Central Park'ta Faytonlar Yasaklanıyor",
+  "ozet": "New York Şehri Belediye Meclis Üyesi Julie Menin ve Başkan Mandami, Central Park'taki atlı faytonların yasaklanması konusunda uzlaştı.",
+  "puan": 2.5,
+  "grup": "new-york-central-park-carriage-horses-ban",
+  "link": "https://www.jalopnik.com/2290795/new-york-city-ban-carriage-horses-central-park/",
+  "source": "Jalopnik",
+  "ts": 1792482191.6219227
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ford Maverick İçin 300 Beygirlik SV300T Paketi",
+  "ozet": "Bayiler üzerinden sunulan SV300T yükseltme paketi, 2025 ve sonrası AWD Ford Maverick modellerini 300 beygirlik bir sokak kamyonetine dönüştürüyor.",
+  "puan": 5.0,
+  "grup": "ford-maverick-sv300t-upgrade-package",
+  "link": "https://www.jalopnik.com/2290348/ford-maverick-more-horsepower-sv300t/",
+  "source": "Jalopnik",
+  "ts": 1792482191.6219227
+ },
+ {
+  "cat": "f1",
+  "baslik": "Gary Anderson'dan Red Bull ve Mercedes Tasarım Analizi",
+  "ozet": "Eski F1 teknik direktörü Gary Anderson, Red Bull ve Mercedes araç tasarımlarındaki temel teknik farklılıkları derinlemesine inceliyor.",
+  "puan": 5.0,
+  "grup": "red-bull-mercedes-design-analysis",
+  "link": "https://www.the-race.com/formula-1/details-that-really-separate-red-bull-and-mercedes/",
+  "source": "The Race",
+  "ts": 1792482191.6219227
+ },
+ {
+  "cat": "f1",
+  "baslik": "ABD Grand Prix'si Öncesi Önemli Konu Başlıkları",
+  "ozet": "Andrea Kimi Antonelli bu hafta sonu şampiyonluğu garantileyebilecek mi? İşte Amerika Birleşik Devletleri Grand Prix'si öncesindeki en önemli konuşulan konular.",
+  "puan": 6.0,
+  "grup": "us-gp-2026-preview-storylines",
+  "link": "https://www.racefans.net/2026/10/20/early-coronation-for-antonelli-five-talking-points-for-the-united-states-grand-prix/",
+  "source": "RaceFans",
+  "ts": 1792482191.6219227
  }
 ]
