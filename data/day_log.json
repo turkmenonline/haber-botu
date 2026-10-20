@@ -1,36 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Consumer Reports'tan Uber'in Yapay Zeka Fiyatlandırma İncelemesi",
-  "ozet": "Consumer Reports, Uber'in dinamik yolculuk paylaşımı ücretlerini belirleyen yapay zeka fiyatlandırma algoritmasını inceledi.",
-  "puan": 4.5,
-  "grup": "uber-ai-rideshare-pricing",
-  "link": "https://www.jalopnik.com/2285732/consumer-reports-uber-uses-ai-to-set-rideshare-prices/",
-  "source": "Jalopnik",
-  "ts": 1792286015.3621507
- },
- {
-  "cat": "araba",
-  "baslik": "2021 Model BMW M340i Ne Kadar Değer Kaybetti?",
-  "ozet": "Spor otomobil hızına ve günlük pratikliğe sahip 2021 model BMW M340i'nin beş yılda yaşadığı değer kaybı incelendi.",
-  "puan": 3.0,
-  "grup": "bmw-m340i-depreciation",
-  "link": "https://www.jalopnik.com/2285600/how-much-2021-bmw-m340i-have-depreciated-five-years/",
-  "source": "Jalopnik",
-  "ts": 1792286015.3621507
- },
- {
-  "cat": "f1",
-  "baslik": "Lando Norris'in Takımı F2 Geleceğini Bekliyor",
-  "ozet": "Lando Norris'in yeni yarış takımı LN4 Fusion, 2027-2029 sezonları için Formula 2'de yer alıp almayacağının açıklanmasını bekliyor. FIA F2 CEO'su Bruno Michel, yeni takım seçimlerinin yakında netleşeceğini doğruladı.",
-  "puan": 4.5,
-  "grup": "lando-norris-ln4-fusion-f2-grid",
-  "link": "https://www.motorsport.com/f1/news/lando-norris-faces-anxious-wait-as-f2-prepares-to-decide-future-of-his-racing-team/10865969/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792286015.3621507
- },
- {
-  "cat": "araba",
   "baslik": "Kia'nın GT Departmanı ve Elektrikli Performans Modelleri",
   "ozet": "Kia'nın elektrikli GT modellerinin arkasındaki felsefe inceleniyor ve Güney Kore'deki test süreçlerinden detaylar aktarılıyor.",
   "puan": 5.5,
@@ -1428,5 +1398,15 @@
   "link": "https://www.motorsport.com/f1/news/how-soon-can-mercedes-win-the-2026-f1-constructors-championship/10866296/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1792453635.7630897
+ },
+ {
+  "cat": "araba",
+  "baslik": "Saab Neden Kontak Anahtarını Koltuk Arasına Koydu?",
+  "ozet": "Saab'ın ikonikleşen ön koltuklar arasındaki kontak anahtarı tasarımı, sadece farklı olmak için değil güvenlik ve İsveç mühendisliği gereği ortaya çıkmıştı.",
+  "puan": 3.5,
+  "grup": "saab-ignition-key-between-seats",
+  "link": "https://www.motor1.com/features/812418/why-saab-ignition-key-between-front-seats/",
+  "source": "Motor1",
+  "ts": 1792462165.514464
  }
 ]
