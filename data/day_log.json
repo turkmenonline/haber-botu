@@ -1868,5 +1868,245 @@
   "link": "https://www.motorsport.com/f1/news/oscar-piastri-delivers-worrying-mclaren-verdict-with-six-races-remaining/10866598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1792593502.080205
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ford Bronco'ya Yeni ORV Paketi",
+  "ozet": "Ford Bronco, Fox süspansiyon kiti, LED aydınlatmalar ve özel jantlar içeren yeni ORV paketine kavuştu.",
+  "puan": 5.0,
+  "grup": "ford-bronco-orv-package",
+  "link": "https://www.caranddriver.com/news/a74207750/ford-bronco-orv-package-details/",
+  "source": "Car and Driver",
+  "ts": 1792609157.264851
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Ineos Grenadier Station Wagon",
+  "ozet": "2027 model Ineos Grenadier Station Wagon'un teknik özellikleri, fiyatlandırması ve incelemesi detaylandırıldı.",
+  "puan": 5.5,
+  "grup": "ineos-grenadier-station-wagon",
+  "link": "https://www.caranddriver.com/ineos/grenadier",
+  "source": "Car and Driver",
+  "ts": 1792609157.264851
+ },
+ {
+  "cat": "araba",
+  "baslik": "Gunther Werks'ten 860 Beygirlik Özel Porsche",
+  "ozet": "Martin Brundle'ın kızı tarafından tasarlanan 860 beygirlik bu özel Gunther Werks Turbo, efsanevi bir yarış kariyerine ithafen üretildi.",
+  "puan": 7.5,
+  "grup": "gunther-werks-porsche-brundle-tribute",
+  "link": "https://www.motor1.com/news/812799/gunter-werks-brundle-edition-porsche-911/",
+  "source": "Motor1",
+  "ts": 1792609157.264851
+ },
+ {
+  "cat": "araba",
+  "baslik": "Minnesota'da Çin Roketi Kalıntıları Bulundu",
+  "ozet": "Minnesota'daki bir mısır tarlasında, kolluk kuvvetlerinin dikkatini çekecek büyüklükte Çin roketine ait geniş uzay enkazı keşfedildi.",
+  "puan": 3.0,
+  "grup": "chinese-rocket-debris-minnesota",
+  "link": "https://www.jalopnik.com/2292318/debris-from-chinese-rocket-found-in-minnesota-cornfield/",
+  "source": "Jalopnik",
+  "ts": 1792609157.264851
+ },
+ {
+  "cat": "araba",
+  "baslik": "GM Teknoloji Günü: Otonom Sürüş ve OnStar",
+  "ozet": "General Motors, gelecekteki yeniliklerini ve otonom sürüş teknolojilerini önizlediği GM Forward etkinliğini düzenledi.",
+  "puan": 6.5,
+  "grup": "gm-tech-day-autonomous-driving",
+  "link": "https://www.caranddriver.com/news/a74195933/gm-tech-day-2026/",
+  "source": "Car and Driver",
+  "ts": 1792609157.264851
+ },
+ {
+  "cat": "araba",
+  "baslik": "GM'in Gelecek Yol Haritası Yapay Zekaya Dayanıyor",
+  "ozet": "General Motors; yapay zeka destekli OnStar, yeni nesil elektrikli araçlar ve otonom sürüşü içeren kapsamlı gelecek stratejisini açıkladı.",
+  "puan": 8.0,
+  "grup": "gm-tech-day-autonomous-driving",
+  "link": "https://www.thedrive.com/news/gm-just-laid-out-its-entire-future-it-runs-on-ai-eyes-off-driving-and-one-central-computer",
+  "source": "The Drive",
+  "ts": 1792609157.264851
+ },
+ {
+  "cat": "araba",
+  "baslik": "Hyundai Elantra N Monochrome Tanıtıldı",
+  "ozet": "Hyundai Elantra N Monochrome, şimdilik sadece Avustralya, Kanada ve Kore pazarında satışa sunulacak.",
+  "puan": 5.0,
+  "grup": "hyundai-elantra-n-monochrome",
+  "link": "https://www.jalopnik.com/2293306/hyundai-elantra-n-monochrome-special-edition-design-details/",
+  "source": "Jalopnik",
+  "ts": 1792609157.264851
+ },
+ {
+  "cat": "araba",
+  "baslik": "Nadir Bulunan Fabrika Çıkışlı Uzatılmış Volvo 240",
+  "ozet": "Fabrika çıkışlı olarak uzatılmış bu nadir Volvo 240 station wagon, uzun tavan tasarımıyla dikkat çekiyor.",
+  "puan": 3.5,
+  "grup": "rare-factory-stretched-volvo-240",
+  "link": "https://www.thedrive.com/news/this-factory-stretched-240-wagon-is-one-of-the-rarest-volvos",
+  "source": "The Drive",
+  "ts": 1792609157.264851
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ford'dan 102.000 Araçlık Gösterge Paneli Geri Çağırması",
+  "ozet": "Ford, gösterge paneli sorunları nedeniyle 2025 ve 2026 model F-Serisi kamyonetlerinden 102.000 adet aracı geri çağırıyor.",
+  "puan": 7.5,
+  "grup": "ford-f-series-gauge-recall",
+  "link": "https://www.motor1.com/news/812763/ford-f-series-recall-over/",
+  "source": "Motor1",
+  "ts": 1792609157.264851
+ },
+ {
+  "cat": "araba",
+  "baslik": "Pirelli'nin Sensörlü Cyber Tire Lastikleri",
+  "ozet": "Pirelli'nin akıllı sensörlere sahip Cyber Tire lastikleri, son testlerde fren mesafesini önemli ölçüde kısaltarak etkileyici bir performans sergiledi.",
+  "puan": 6.0,
+  "grup": "pirelli-cyber-tire-sensor",
+  "link": "https://www.thedrive.com/news/pirellis-sensor-filled-cyber-tire-is-no-joke-helping-cars-stop-way-shorter",
+  "source": "The Drive",
+  "ts": 1792609157.264851
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ukrayna'da Yaralı Asker Dev Drone ile Tahliye Edildi",
+  "ozet": "Savaş ortamında gerçek bir insanın dev bir drone ile ilk kez tahliye edilmesi operasyonel bir ilke imza attı.",
+  "puan": 4.0,
+  "grup": "ukraine-wounded-soldier-drone-evac",
+  "link": "https://www.jalopnik.com/2293129/ukraine-evacuates-wounded-soldier-giant-drone/",
+  "source": "Jalopnik",
+  "ts": 1792609157.264851
+ },
+ {
+  "cat": "araba",
+  "baslik": "Modifiye Miata ile Baja Yarışı Zaferi",
+  "ozet": "Buddy lakaplı arazi tipi Miata, NORRA yarışına katılarak sürpriz bir şekilde birincilik elde etti.",
+  "puan": 4.5,
+  "grup": "off-road-miata-baja-race-win",
+  "link": "https://www.jalopnik.com/2293093/buddy-off-road-miata-baja-race-winner/",
+  "source": "Jalopnik",
+  "ts": 1792609157.264851
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ineos Grenadier Helmsman Edition Tanıtıldı",
+  "ozet": "Grenadier ailesine katılan yeni Helmsman özel versiyonu, denizcilikten ilham alan tasarımı ve ek donanımlarıyla öne çıkıyor.",
+  "puan": 5.0,
+  "grup": "ineos-grenadier-helmsman-edition",
+  "link": "https://www.caranddriver.com/news/a74206170/ineos-grenadier-helmsman-edition-revealed/",
+  "source": "Car and Driver",
+  "ts": 1792609157.264851
+ },
+ {
+  "cat": "araba",
+  "baslik": "Honda'dan Büyük SUV Planı",
+  "ozet": "Honda, Pilot modelinin üzerinde yer alacak daha büyük bir amiral gemisi SUV üretmeyi değerlendiriyor.",
+  "puan": 6.5,
+  "grup": "honda-flagship-large-suv",
+  "link": "https://www.motor1.com/features/812785/honda-pilot-xxl-specs-engine-details/",
+  "source": "Motor1",
+  "ts": 1792609157.264851
+ },
+ {
+  "cat": "araba",
+  "baslik": "Alfa Romeo Giulia Quadrifoglio Tabanlı Cabrio",
+  "ozet": "Castagna Milano, Giulia Quadrifoglio modelini temel alan özel bir üstü açılır lüks otomobil konsepti hazırladı.",
+  "puan": 6.0,
+  "grup": "alfa-romeo-giulia-quadrifoglio-cabrio",
+  "link": "https://www.caranddriver.com/news/a74205374/castagna-milano-alfa-romeo-giulia-convertible-design/",
+  "source": "Car and Driver",
+  "ts": 1792609157.264851
+ },
+ {
+  "cat": "araba",
+  "baslik": "Michelin Adamı'nın Korkunç Orijinal Tasarımı",
+  "ozet": "Dünyanın en ikonik maskotlarından biri olan Michelin Adamı, ilk yıllarında cam ve çivi yutan garip bir figür olarak tasarlanmıştı.",
+  "puan": 2.0,
+  "grup": "michelin-man-history-design",
+  "link": "https://www.motor1.com/features/812752/strange-history-of-the-michelin-man/",
+  "source": "Motor1",
+  "ts": 1792609157.264851
+ },
+ {
+  "cat": "f1",
+  "baslik": "Amerika GP Bahis Önerileri",
+  "ozet": "Uzman yazarlar, Circuit of the Americas için podyum ve puan tahminlerini içeren dört ayaklı bir bahis kuponu hazırladı.",
+  "puan": 2.0,
+  "grup": "us-gp-bet-builder-predictions",
+  "link": "https://www.formula1.com/en/latest/article/our-early-bet-builder-selections-made-for-the-united-states-grand-prix.2kelGtDv9XOh9tWkKFeIV0",
+  "source": "Formula1.com",
+  "ts": 1792609157.264851
+ },
+ {
+  "cat": "f1",
+  "baslik": "Aston Martin'den Amerika GP Özel Renk Düzeni",
+  "ozet": "Aston Martin takımı, Amerika Birleşik Devletleri Grand Prix'si için AMR26 aracında farklı bir görünüm sergileyecek.",
+  "puan": 4.5,
+  "grup": "aston-martin-us-gp-livery",
+  "link": "https://www.formula1.com/en/latest/article/gallery-aston-martin-reveal-special-livery-for-united-states-grand-prix.54xJBwPZxuLxE2ON1Oh2bi",
+  "source": "Formula1.com",
+  "ts": 1792609157.264851
+ },
+ {
+  "cat": "f1",
+  "baslik": "Amerika, Meksika ve Brezilya için F1 Fantasy Stratejisi",
+  "ozet": "COTA, Mexico City ve Interlagos yarışları öncesinde F1 Fantasy kadronuzda yer alması gereken pilotlar ve takımlar değerlendiriliyor.",
+  "puan": 3.0,
+  "grup": "f1-fantasy-americas-strategy",
+  "link": "https://www.formula1.com/en/latest/article/f1-fantasy-strategist-preview-the-alpine-mini-league-and-what-you-need-to-know-for-the-us-mexico-and-brazil.5PalKAaeXaGqR6yYGvubuO",
+  "source": "Formula1.com",
+  "ts": 1792609157.264851
+ },
+ {
+  "cat": "f1",
+  "baslik": "Pilotlar COTA'nın Zorluklarıyla Nasıl Başa Çıkıyor?",
+  "ozet": "Formula 1'de performans ve strateji, anlık değişen koşullarda verilen kritik kararlarla şekilleniyor.",
+  "puan": 4.0,
+  "grup": "us-gp-circuit-strategy-analysis",
+  "link": "https://www.formula1.com/en/latest/article/the-risk-perspective-how-f1-drivers-engineers-and-strategists-tackle-the-circuit-of-the-americas.741JHFwQ3tVxbddx0ndKXz",
+  "source": "Formula1.com",
+  "ts": 1792609157.264851
+ },
+ {
+  "cat": "f1",
+  "baslik": "F1 Deneyimi Kazanma Şansı",
+  "ozet": "Taraftarlar, ızgarayı eşleştirerek nihai Formula 1 deneyimini kazanma şansı yakalıyor.",
+  "puan": 1.5,
+  "grup": "f1-experience-win-competition",
+  "link": "https://www.formula1.com/en/latest/article/match-the-grid-for-your-chance-to-win-the-ultimate-f1-experience-week5.2t2L2pj3NSCwiiwQiom4sv",
+  "source": "Formula1.com",
+  "ts": 1792609157.264851
+ },
+ {
+  "cat": "f1",
+  "baslik": "Mercedes'ten Amerika GP İçin Çarpıcı Mavi Renk Düzeni",
+  "ozet": "Mercedes, Kimi Antonelli'nin şampiyonluk mücadelesi vereceği Amerika Grand Prix'si için özel mavi renk düzenini tanıttı.",
+  "puan": 5.0,
+  "grup": "mercedes-us-gp-livery",
+  "link": "https://www.motorsport.com/f1/news/mercedes-f1-unveils-dramatic-new-look-for-united-states-grand-prix/10866765/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792609157.264851
+ },
+ {
+  "cat": "f1",
+  "baslik": "Takımlardan Amerika GP'ye Özel Koleksiyonlar",
+  "ozet": "Formula 1 takımları, Austin'deki ABD Grand Prix'si için denim, cowboy şapkaları ve Batı tarzı özel ürünlerini tanıttı.",
+  "puan": 3.0,
+  "grup": "us-gp-team-merchandise-collections",
+  "link": "https://www.motorsport.com/f1/news/f1-teams-reveal-special-united-states-gp-collections-with-denim-cowboy-hats-and-godzilla/10866761/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792609157.264851
+ },
+ {
+  "cat": "f1",
+  "baslik": "Amerika GP Öncesi Dikkat Edilmesi Gereken 5 Şey",
+  "ozet": "Kuzey Amerika'daki üçlü yarış serisinin ilk ayağı olan Austin'deki Amerika Grand Prix'si öncesinde öne çıkan beş başlık.",
+  "puan": 4.5,
+  "grup": "us-gp-five-things-to-watch",
+  "link": "https://www.motorsport.com/f1/news/five-things-to-watch-out-for-at-the-f1-united-states-gp/10866706/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792609157.264851
  }
 ]
