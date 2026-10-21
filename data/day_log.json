@@ -1,96 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Mekanik Debriyajlardan Hidrolik Debriyajlara Geçişin Sebepleri",
-  "ozet": "Manuel şanzımanlarda geleneksel kablolu sistemler yerine hidrolik debriyajların kullanılmaya başlanması, sürücülere önemli avantajlar ve bazı ödünleşmeler sunuyor.",
-  "puan": 4.5,
-  "grup": "manual-car-hydraulic-clutches",
-  "link": "https://www.jalopnik.com/2287214/why-manual-transmission-cars-hydraulic-vs-cable-clutches/",
-  "source": "Jalopnik",
-  "ts": 1792360185.3516486
- },
- {
-  "cat": "araba",
-  "baslik": "Mercedes G-Wagon İçin Daha Ucuz 6 Alternatif",
-  "ozet": "İkonik ve yetenekli Mercedes G-Wagon son derece pahalıdır, ancak bu daha ucuz alternatifler benzer kutu gibi tasarım ve off-road hissini yaşatabilir.",
-  "puan": 2.5,
-  "grup": "cheaper-alternatives-to-mercedes-g-wagon",
-  "link": "https://www.jalopnik.com/2288207/cheaper-alternatives-to-mercedes-g-wagon/",
-  "source": "Jalopnik",
-  "ts": 1792360185.3516486
- },
- {
-  "cat": "araba",
-  "baslik": "Rakipleriyle Karşılaştırıldığında Toyota 4Runner",
-  "ozet": "Toyota 4Runner, pazardaki en benzersiz SUV'lerden biri olmaya devam ediyor ve kullanıcıların ihtiyaçlarına göre ya harika ya da çağın gerisinde kalmış duruyor.",
-  "puan": 5.0,
-  "grup": "toyota-4runner-competitor-comparison",
-  "link": "https://www.jalopnik.com/2286707/compared-to-its-competitors-toyota-4runner-archaic-civilized/",
-  "source": "Jalopnik",
-  "ts": 1792360185.3516486
- },
- {
-  "cat": "f1",
-  "baslik": "Fornaroli ve Hughes, McLaren ile Paul Ricard'da Test Sürüşüne Çıktı",
-  "ozet": "Leonardo Fornaroli ve Jake Hughes, Paul Ricard pistinde McLaren aracıyla bir kez daha test sürüşü gerçekleştirdi.",
-  "puan": 4.5,
-  "grup": "mclaren-paul-ricard-test-fornaroli-hughes",
-  "link": "https://www.racefans.net/2026/10/18/spotlight-fornaroli-tests-for-mclaren-again-alongside-hughes-at-paul-ricard/",
-  "source": "RaceFans",
-  "ts": 1792360185.3516486
- },
- {
-  "cat": "araba",
-  "baslik": "Hidrolik Yağ ile Motor Yağı Arasındaki Farklar",
-  "ozet": "Her ikisi de madeni veya sentetik bazlı olabilen hidrolik yağ ve motor yağının temel farkları ve kaput altında üstlendikleri görevler inceleniyor.",
-  "puan": 3.5,
-  "grup": "hydraulic-vs-motor-oil-differences",
-  "link": "https://www.jalopnik.com/2287384/difference-between-hydraulic-and-motor-oil/",
-  "source": "Jalopnik",
-  "ts": 1792367056.5190196
- },
- {
-  "cat": "araba",
-  "baslik": "Roma'da Gezinmenin En Mükemmel Yolu: Fiat 500 Jolly",
-  "ozet": "Fiat 500 Jolly modellerinin Roma sokaklarında seyahat etmek için ne kadar keyifli ve kusursuz bir araç olduğu ele alınıyor.",
-  "puan": 2.5,
-  "grup": "fiat-500-jolly-rome-drive",
-  "link": "https://www.jalopnik.com/2289431/fiat-500-jolly-mercedes-benz-g500-rome-carspotting/",
-  "source": "Jalopnik",
-  "ts": 1792367056.5190196
- },
- {
-  "cat": "araba",
-  "baslik": "Elektrikli ve İçten Yanmalı Arazi SUV'lerinin Artıları ve Eksileri",
-  "ozet": "Elektrikli araçların yüksek maliyetlerine karşın sunduğu anlık tork ve dayanıklılık avantajları, içten yanmalı off-road araçlarla kıyaslanıyor.",
-  "puan": 5.0,
-  "grup": "ev-vs-ice-off-road-suvs",
-  "link": "https://www.jalopnik.com/2287315/pros-cons-ev-vs-internal-combustion-gas-diesel-off-road-suvs/",
-  "source": "Jalopnik",
-  "ts": 1792367056.5190196
- },
- {
-  "cat": "araba",
-  "baslik": "İngiliz Polis Otomobilleri Neden 'Reçel Sandviç' Olarak Anılıyor?",
-  "ozet": "İngiliz polis arabaları için kullanılan klasik bir argo terim olan 'jam sandwich' ifadesinin kökeni ve arkasındaki ikonik otomobiller açıklanıyor.",
-  "puan": 2.5,
-  "grup": "uk-police-car-jam-sandwich-slang",
-  "link": "https://www.jalopnik.com/2287084/british-police-cars-jam-sandwich/",
-  "source": "Jalopnik",
-  "ts": 1792367056.5190196
- },
- {
-  "cat": "f1",
-  "baslik": "Hamilton ve Alonso'nun 2007 Rekabeti Belgesel Oluyor",
-  "ozet": "BBC'nin, Lewis Hamilton ve Fernando Alonso'nun McLaren'daki kaotik 2007 sezonunu konu alan bir belgesel hazırladığı öne sürüldü. Proje henüz resmi olarak doğrulanmadı.",
-  "puan": 2.5,
-  "grup": "hamilton-alonso-2007-documentary-bbc",
-  "link": "https://www.motorsport.com/f1/news/lewis-hamilton-and-fernando-alonsos-infamous-mclaren-rivalry-set-for-bbc-documentary/10866138/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792367056.5190196
- },
- {
-  "cat": "araba",
   "baslik": "Tesla'lar İçin Yeni Cadılar Bayramı Modu Yayınlandı",
   "ozet": "Tesla, 2026.38.3 yazılım güncellemesiyle araçlarına eğlenceli ve sıra dışı özellikler içeren Cadılar Bayramı Modu'nu getirdi.",
   "puan": 4.5,
@@ -1918,5 +1828,95 @@
   "link": "https://www.jalopnik.com/2291602/1970-dodge-challenger-rt-hardtop-426-hemi-v8-230000-dollars/",
   "source": "Jalopnik",
   "ts": 1792531933.7649908
+ },
+ {
+  "cat": "araba",
+  "baslik": "Rolls-Royce'un Gizli Şemsiye Özelliği",
+  "ozet": "Rolls-Royce, kapıların içerisine entegre edilmiş yerleşik şemsiye özelliğiyle yağmurlu günlerde kullanıcılara büyük kolaylık sağlıyor.",
+  "puan": 3.0,
+  "grup": "rolls-royce-hidden-door-umbrella",
+  "link": "https://www.motor1.com/features/812562/why-rolls-royce-hides-umbrellas-inside-its-cars/",
+  "source": "Motor1",
+  "ts": 1792541116.2321885
+ },
+ {
+  "cat": "araba",
+  "baslik": "İngiltere'den Elektrikli Araç Şarj Kabloları İçin Kolaylık",
+  "ozet": "İngiltere hükümeti, sürücülerin kaldırıma engel olmadan evden araçlarına kablo çekmesini sağlayan şarj kanalları için planlama izni zorunluluğunu kaldırdı.",
+  "puan": 5.0,
+  "grup": "uk-ev-charging-gully-permission",
+  "link": "https://www.autocar.co.uk/car-news/electric-cars/government-removes-planning-requirement-ev-charging-gullies",
+  "source": "Autocar",
+  "ts": 1792541116.2321885
+ },
+ {
+  "cat": "araba",
+  "baslik": "Range Rover Electric Test Edildi",
+  "ozet": "Dört yıllık mühendislik sürecinin ardından lüks SUV segmentinin öncüsü Range Rover Electric nihayet test sürüşüne çıktı.",
+  "puan": 6.5,
+  "grup": "range-rover-electric-first-drive",
+  "link": "https://www.autocar.co.uk/car-review/land-rover/range-rover-electric",
+  "source": "Autocar",
+  "ts": 1792541116.2321885
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mate Rimac'ın İtki Gücü Fikri",
+  "ozet": "Mate Rimac, Tesla Roadster tarzı itme kuvveti sağlayan sistemleri yıllar önce düşündüğünü gösteren e-posta kayıtlarını paylaştı.",
+  "puan": 4.5,
+  "grup": "mate-rimac-tesla-roadster-thrusters",
+  "link": "https://www.jalopnik.com/2292440/mate-rimac-considered-using-tesla-roadster-style-thrusters-in-2019/",
+  "source": "Jalopnik",
+  "ts": 1792541116.2321885
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yenilenen Ayna Kaplamalı Bugatti Veyron",
+  "ozet": "Bugatti'nin restorasyon programı sayesinde tamamen aynayla kaplanan bu eşsiz Veyron, ilk günkü parlaklığına kavuştu.",
+  "puan": 5.5,
+  "grup": "bugatti-veyron-mirror-restoration",
+  "link": "https://www.caranddriver.com/news/a74196968/bugatti-veyron-grand-sport-vitesse-polished-aluminum-refurbished/",
+  "source": "Car and Driver",
+  "ts": 1792541116.2321885
+ },
+ {
+  "cat": "f1",
+  "baslik": "Aston Martin'in Yeni Ürün Koleksiyonu Dikkat Çekiyor",
+  "ozet": "Aston Martin, Smythson markasıyla iş birliği yaparak kırtasiye ve seyahat ürünlerinden oluşan yeni koleksiyonunu tanıttı. Ürün fiyatları 14 sterlinden başlayıp 595 sterline kadar çıkıyor.",
+  "puan": 2.5,
+  "grup": "aston-martin-smythson-merchandise-collection",
+  "link": "https://www.motorsport.com/f1/news/aston-martin-f1s-latest-merchandise-collection-comes-with-eye-watering-prices/10866584/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792541116.2321885
+ },
+ {
+  "cat": "f1",
+  "baslik": "Max Verstappen'den Isack Hadjar'a Destek",
+  "ozet": "Dört kez dünya şampiyonu Max Verstappen, Isack Hadjar'ın gelecekte Red Bull'da kendisinin yerini alabilecek potansiyele sahip olduğunu belirtti.",
+  "puan": 6.0,
+  "grup": "max-verstappen-isack-hadjar-red-bull",
+  "link": "https://www.motorsport.com/f1/news/max-verstappen-backs-isack-hadjar-to-take-over-red-bull-f1-role/10866581/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792541116.2321885
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ferrari Geliştirici Pilotundan 2027 Test Açıklaması",
+  "ozet": "Ferrari'nin simülatör ve geliştirici pilotu Sacha Fenestraz, İtalyan ekibinin kendisine 2027 yılında bir Formula 1 testi sözü verdiğini açıkladı.",
+  "puan": 5.5,
+  "grup": "ferrari-development-driver-sacha-fenestraz-test",
+  "link": "https://www.motorsport.com/f1/news/ferrari-development-driver-reveals-confirmed-f1-test-plans/10866579/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792541116.2321885
+ },
+ {
+  "cat": "f1",
+  "baslik": "Aston Martin'den Yeni Padel Ortaklığı",
+  "ozet": "Aston Martin, ABD Grand Prix'si öncesinde padel ve pickleball markası Padeltek ile yeni bir ortaklık duyurarak özel raket koleksiyonunu satışa çıkarıyor.",
+  "puan": 3.0,
+  "grup": "aston-martin-padeltek-partnership",
+  "link": "https://www.motorsport.com/f1/news/aston-martin-announces-first-of-its-kind-f1-partnership-ahead-of-us-gp/10866576/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792541116.2321885
  }
 ]
