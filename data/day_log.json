@@ -1,246 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Ayni Fiyata Sahip Farkli Otomobiller",
-  "ozet": "108.000 dolar fiyat etiketine sahip GMC Hummer EV, BMW M2 CS ve Infiniti QX80 gibi birbirinden tamamen farklı karakterdeki araçlar fiyatlari üzerinden karşılaştırılıyor.",
-  "puan": 4.5,
-  "grup": "108k-dollar-cars-price-comparison",
-  "link": "https://www.jalopnik.com/2290630/cross-section-of-108000-dollar-cars-vast-and-strange/",
-  "source": "Jalopnik",
-  "ts": 1792440565.5178854
- },
- {
-  "cat": "araba",
-  "baslik": "Advance Auto Parts Bakim Indirimleri",
-  "ozet": "Advance Auto Parts, Carquest hava filtresi paketlerinde indirim sunarken çevrim içi siparişlerde FALLDRIVE koduyla yüzde 20ye varan fırsatlar sağlıyor.",
-  "puan": 2.0,
-  "grup": "car-maintenance-parts-discount-deals",
-  "link": "https://www.thedrive.com/news/your-car-probably-has-two-air-filters-and-advance-auto-parts-has-a-deal-on-replacing-both",
-  "source": "The Drive",
-  "ts": 1792440565.5178854
- },
- {
-  "cat": "araba",
-  "baslik": "2026 Yilinin En Çok Satan Araclari",
-  "ozet": "2026 yılında en çok satan 27 otomobil, kamyon ve SUV listelenirken; RAV4 zorlanmaya devam ediyor ve Ford F-serisi liderliğini sürdürüyor.",
-  "puan": 3.0,
-  "grup": "bestselling-cars-trucks-suvs-2026",
-  "link": "https://www.caranddriver.com/news/a71006285/bestselling-cars-2026/",
-  "source": "Car and Driver",
-  "ts": 1792440565.5178854
- },
- {
-  "cat": "araba",
-  "baslik": "Porsche Sürüş Okulu Deneyimi",
-  "ozet": "Porsche sürüş okulu katılımcılara sadece daha hızlı bir sürücü olmayı değil, aynı zamanda kendi sınırlarını ve potansiyellerini keşfetmeyi öğretiyor.",
-  "puan": 4.0,
-  "grup": "porsche-driving-school-experience",
-  "link": "https://www.thedrive.com/features/porsches-driving-school-wont-just-teach-you-how-to-be-a-better-driver-itll-teach-you-about-yourself",
-  "source": "The Drive",
-  "ts": 1792440565.5178854
- },
- {
-  "cat": "araba",
-  "baslik": "Hot Wheels Audi 90 Quattro Detayi",
-  "ozet": "2026 model Audi 90 Quattro Hot Wheels oyuncak arabasında yer alan gizli bir detay, modele olağanüstü bir otantiklik katıyor.",
-  "puan": 2.5,
-  "grup": "hot-wheels-audi-90-quattro-easter-egg",
-  "link": "https://www.thedrive.com/news/is-this-the-best-hot-wheels-easter-egg-ever",
-  "source": "The Drive",
-  "ts": 1792440565.5178854
- },
- {
-  "cat": "araba",
-  "baslik": "Hyundai Elantra N Monochrome Tanitildi",
-  "ozet": "Performans odaklı sedan modelin sade ve şık tasarım çizgilerini öne çıkaran yeni özel versiyonu Elantra N Monochrome, Amerika pazarında satışa sunulmayacak.",
-  "puan": 5.5,
-  "grup": "hyundai-elantra-n-monochrome",
-  "link": "https://www.caranddriver.com/news/a74182986/hyundai-elantra-n-monochrome-details/",
-  "source": "Car and Driver",
-  "ts": 1792440565.5178854
- },
- {
-  "cat": "araba",
-  "baslik": "Hyundai Genesis Koltuk Yangini Geri Cagirmasi",
-  "ozet": "Hyundai, koltukların alev alma riski taşıması nedeniyle 95.000 adet Genesis G80 modelini geri çağırıyor ve henüz çözümü bulunmuyor.",
-  "puan": 8.5,
-  "grup": "hyundai-genesis-seat-fire-recall",
-  "link": "https://www.jalopnik.com/2290738/hyundai-recalls-genesis-g80s-seats-fire/",
-  "source": "Jalopnik",
-  "ts": 1792440565.5178854
- },
- {
-  "cat": "araba",
-  "baslik": "İkinci El Otomobilde İyi Deger Nasil Anlasilir?",
-  "ozet": "İkinci el bir aracın gerçek değerini belirlerken amortisman payı, kullanım geçmişi, kilometre ve genel durum gibi faktörlerin dikkate alınması gerekiyor.",
-  "puan": 2.5,
-  "grup": "used-car-value-evaluation-guide",
-  "link": "https://www.caranddriver.com/shopping-advice/a74179065/used-car-what-makes-a-good-value/",
-  "source": "Car and Driver",
-  "ts": 1792440565.5178854
- },
- {
-  "cat": "araba",
-  "baslik": "MapQuest'e Flock Kamera Konumlari Eklendi",
-  "ozet": "MapQuest, harita devleri arasinda rekabeti sürdürmek için platformuna Flock gözetleme kameralarının konumlarını entegre etti.",
-  "puan": 3.5,
-  "grup": "mapquest-flock-surveillance-cameras",
-  "link": "https://www.jalopnik.com/2290532/mapquest-includes-flock-camera-locations-now/",
-  "source": "Jalopnik",
-  "ts": 1792440565.5178854
- },
- {
-  "cat": "araba",
-  "baslik": "Sadece 50 Adet Üretilecek 870 Beygirlik Mustang",
-  "ozet": "RTR tarafından geliştirilen ve sadece 50 adet üretilecek olan bu özel Mustang; süper şarjlı V8 motoru ve geniş gövde kitiyle dikkat çekiyor.",
-  "puan": 7.0,
-  "grup": "rtr-mustang-limited-edition-870hp",
-  "link": "https://www.motor1.com/news/812481/2026-mustang-rtr-spec-5-deliveries/",
-  "source": "Motor1",
-  "ts": 1792440565.5178854
- },
- {
-  "cat": "araba",
-  "baslik": "Toyota 86 İçin Açilir Far Kiti",
-  "ozet": "Scion, Toyota ve Subaru spor otomobillerine klasik AE86 görünümü kazandıran retro açılır far kiti kolayca monte edilebiliyor.",
-  "puan": 4.0,
-  "grup": "toyota-86-pop-up-headlight-kit",
-  "link": "https://www.thedrive.com/news/that-jdm-body-kit-giving-the-toyota-86-pop-up-headlights-actually-works",
-  "source": "The Drive",
-  "ts": 1792440565.5178854
- },
- {
-  "cat": "araba",
-  "baslik": "Manuel Vitesli Corvette Yakinda Gelmiyor",
-  "ozet": "C8 Corvette modelinin ortadan motorlu yerleşimi, eski tip manuel şanzımanın yeni nesle aktarılmasını imkansız kılıyor.",
-  "puan": 6.0,
-  "grup": "manual-transmission-corvette-future",
-  "link": "https://www.motor1.com/news/812444/chevy-corvette-c8-manual-transmission-future/",
-  "source": "Motor1",
-  "ts": 1792440565.5178854
- },
- {
-  "cat": "araba",
-  "baslik": "Honda'nin Arazi Uygulamasi Test Edildi",
-  "ozet": "Honda'nın iPhone ve CarPlay destekli HTX arazi uygulaması, Passport TrailSport ile yapılan sürüşlerde video üzerine canlı araç verileri ekleyerek eğlenceli bir deneyim sunuyor.",
-  "puan": 4.0,
-  "grup": "honda-off-road-htx-app-review",
-  "link": "https://www.thedrive.com/news/hondas-htx-app-makes-your-off-road-videos-cooler-with-real-time-driving-data",
-  "source": "The Drive",
-  "ts": 1792440565.5178854
- },
- {
-  "cat": "araba",
-  "baslik": "Subaru'dan 2029'da Gelecek Yeni EV Platformu",
-  "ozet": "Subaru, elektrikli araç yatırımlarını büyütmek ve en büyük hissedarı Toyota'ya olan bağımlılığını azaltmak amacıyla 2029'da devreye girecek yeni elektrikli araç platformunu duyurdu.",
-  "puan": 7.5,
-  "grup": "subaru-new-ev-platform-2029",
-  "link": "https://www.caranddriver.com/news/a74181224/subaru-first-details-new-ev-platform-2029/",
-  "source": "Car and Driver",
-  "ts": 1792440565.5178854
- },
- {
-  "cat": "araba",
-  "baslik": "Volkswagen'in Kurdugu Alman Sehri: Wolfsburg",
-  "ozet": "Wolfsburg kenti, Volkswagen'in devasa üretim fabrikası, otomobil müzesi ve Autostadt cam kuleleri gibi pek çok otomotiv odaklı cazibe merkezine ev sahipliği yapıyor.",
-  "puan": 3.0,
-  "grup": "wolfsburg-volkswagen-factory-city",
-  "link": "https://www.motor1.com/features/812411/volkswagen-wolfsburg-city-autostadt-car-towers/",
-  "source": "Motor1",
-  "ts": 1792440565.5178854
- },
- {
-  "cat": "araba",
-  "baslik": "Georgia'da 1 Dolardan Satan Benzin Rekabeti",
-  "ozet": "Georgia'daki komşu iki benzin istasyonunun rekabeti fiyatların galon başına 1 doların altına düşmesine yol açarken bölgede büyük bir hareketlilik yaşandı.",
-  "puan": 3.5,
-  "grup": "georgia-gas-stations-price-war",
-  "link": "https://www.thedrive.com/news/1-gas-gridlocks-georgia-town-after-gas-station-price-war-goes-nuclear",
-  "source": "The Drive",
-  "ts": 1792440565.5178854
- },
- {
-  "cat": "araba",
-  "baslik": "McLaren Bes Tarihi Formula 1 Araci Satisa Çikiyor",
-  "ozet": "Tom Hartley Jnr aracılığıyla 1991 MP4/6A modelinden Lando Norris'in 2023 MCL37A aracına kadar beş tarihi McLaren F1 aracı koleksiyonerler için satışa sunuluyor.",
-  "puan": 7.0,
-  "grup": "historic-mclaren-f1-cars-auction",
-  "link": "https://www.motor1.com/news/812421/mclaren-f1-cars-sale/",
-  "source": "Motor1",
-  "ts": 1792440565.5178854
- },
- {
-  "cat": "f1",
-  "baslik": "Haas'ın Özel Godzilla Renk Düzeninin Hikayesi",
-  "ozet": "Haas takımının Amerika Grand Prix'si için hazırladığı özel Godzilla iş birliği renk düzeninin hayata geçirilme süreci inceleniyor.",
-  "puan": 4.0,
-  "grup": "haas-godzilla-livery-us-gp",
-  "link": "https://www.formula1.com/en/latest/article/insight-how-f1-teams-create-special-one-off-liveries.3IKjr0jMfgr4NIZkbt5K2z",
-  "source": "Formula1.com",
-  "ts": 1792440565.5178854
- },
- {
-  "cat": "f1",
-  "baslik": "Valtteri Bottas'tan Gergedan Vakfı İçin Başarılı Bağış Kampanyası",
-  "ozet": "Valtteri Bottas, Azerbaycan Grand Prix'sinde kullandığı özel kaskın açık artırmasıyla Güney Afrikalı bir gergedan koruma vakfı için yaklaşık 50.000 euro topladı.",
-  "puan": 3.0,
-  "grup": "valtteri-bottas-rhino-charity-fundraiser",
-  "link": "https://www.motorsport.com/f1/news/valtteri-bottas-raises-almost-50000-for-rhino-charity-with-f1-helmet-fundraiser/10866360/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792440565.5178854
- },
- {
-  "cat": "f1",
-  "baslik": "Sergio Perez: Cadillac'taki İlk Sezonum En İyi Yıllarımdan Biriydi",
-  "ozet": "Puansız geçirdiği 2026 sezonuna rağmen Sergio Perez, Cadillac'taki ilk yılını kariyerinin en iyi dönemlerinden biri olarak değerlendiriyor.",
-  "puan": 4.5,
-  "grup": "sergio-perez-cadillac-2026-season",
-  "link": "https://www.motorsport.com/f1/news/sergio-perez-debut-cadillac-season-without-a-doubt-one-of-my-best-years/10866353/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792440565.5178854
- },
- {
-  "cat": "f1",
-  "baslik": "Lewis Hamilton Tribünü Las Vegas GP'ye Geri Dönüyor",
-  "ozet": "Lewis Hamilton'a özel tribün paketi, özel ürünler ve genişletilmiş fan alanı erişimiyle 2026 Las Vegas Grand Prix'sinde yerini alacak.",
-  "puan": 3.5,
-  "grup": "lewis-hamilton-las-vegas-grandstand",
-  "link": "https://www.motorsport.com/f1/news/lewis-hamilton-grandstand-returns-to-las-vegas-gp-with-expanded-access-for-fans/10866351/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792440565.5178854
- },
- {
-  "cat": "f1",
-  "baslik": "Fernando Alonso Vakfı İçin Hot Lap Deneyimi Açık Artırmada",
-  "ozet": "Bir Formula 1 hayranı, Fernando Alonso ile Barcelona'da pist turu deneyimi yaşamak için vakif açık artırmasına katılabilecek.",
-  "puan": 3.0,
-  "grup": "fernando-alonso-charity-hot-lap",
-  "link": "https://www.motorsport.com/f1/news/fernando-alonso-auctions-off-rare-hot-lap-experience-for-charity/10866347/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792440565.5178854
- },
- {
-  "cat": "f1",
-  "baslik": "McLaren 2026 Son Güncellemelerini 2027 Aracı İçin Test Edecek",
-  "ozet": "McLaren, 2026 sezonunun son güncellemelerini gelecek yılın araç konseptlerini test etmek için kullanacağını açıkladı.",
-  "puan": 5.5,
-  "grup": "mclaren-2026-upgrades-2027-testing",
-  "link": "https://www.motorsport.com/f1/news/mclaren-to-use-final-2026-developments-to-test-2027-f1-car-concepts/10866094/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792440565.5178854
- },
- {
-  "cat": "f1",
-  "baslik": "Hamilton ve Verstappen'den Singapur Pisti İçin Değişim Çağrısı",
-  "ozet": "Lewis Hamilton ve Max Verstappen, Marina Bay pistinde yarış kalitesini artırmak için uzun düzlük veya saç tokası viraj gibi düzenlemeler yapılması gerektiğini belirtti.",
-  "puan": 4.5,
-  "grup": "hamilton-verstappen-singapore-track-changes",
-  "link": "https://www.motorsport.com/f1/news/lewis-hamilton-and-max-verstappen-call-for-singapore-f1-track-changes/10866335/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792440565.5178854
- },
- {
-  "cat": "araba",
   "baslik": "Subaru'nun Boxer Motoru Avrupa'ya Veda Ediyor",
   "ozet": "Subaru, tamamen elektrikli araç stratejisi kapsamında ikonik boxer motorunun Avrupa'daki satışına 2027 yılı itibarıyla son vermeye hazırlanıyor.",
   "puan": 7.5,
@@ -2108,5 +1868,165 @@
   "link": "https://www.motorsport.com/f1/news/five-things-to-watch-out-for-at-the-f1-united-states-gp/10866706/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1792609157.264851
+ },
+ {
+  "cat": "araba",
+  "baslik": "Acura'dan Model Yelpazesi Genişletme Hedefi",
+  "ozet": "Acura, on katı sonuna kadar ABD'de 200.000 satış hedefleyerek ürün gamını dört araçtan altıya çıkaracak.",
+  "puan": 5.0,
+  "grup": "acura-future-models-expansion",
+  "link": "https://www.motor1.com/news/812800/acura-product-lineup-expands-suvs/",
+  "source": "Motor1",
+  "ts": 1792620947.3401222
+ },
+ {
+  "cat": "araba",
+  "baslik": "GM'den Sürücüsüz Otoyol Sürüşü Hamlesi",
+  "ozet": "Gözler yoldan uzakta otoyol sürüşü teknolojisi ilk olarak 2028 Cadillac Escalade IQ'da görücüye çıkacak ve ardından popüler SUV ve kamyonetlere yayılacak.",
+  "puan": 7.5,
+  "grup": "gm-autonomous-driving-highway-system",
+  "link": "https://www.thedrive.com/news/gm-wants-your-truck-to-run-errands-without-you",
+  "source": "The Drive",
+  "ts": 1792620947.3401222
+ },
+ {
+  "cat": "araba",
+  "baslik": "GM ve Jeep İçin Yan Basamak İndirimi",
+  "ozet": "OEDRO markasına ait araca özel yan basamaklar indirimli fiyatlarla satışa sunuldu.",
+  "puan": 2.0,
+  "grup": "gm-jeep-running-boards-discount",
+  "link": "https://www.thedrive.com/news/save-20-on-bolt-on-running-boards-for-gm-trucks-and-jeep-wranglers",
+  "source": "The Drive",
+  "ts": 1792620947.3401222
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ferrari Luce Fiyatı Beklenenden Düşük Açıklandı",
+  "ozet": "Ferrari'nin ilk elektrikli otomobili ilk tahminlerden yaklaşık 80 bin dolar daha ucuz olacak ancak yine de piyasadaki en pahalı beş koltuklu üretim otomobili olma özelliğini koruyor.",
+  "puan": 8.5,
+  "grup": "ferrari-luce-electric-car-pricing",
+  "link": "https://www.caranddriver.com/news/a74208561/2027-ferrari-luce-pricing/",
+  "source": "Car and Driver",
+  "ts": 1792620947.3401222
+ },
+ {
+  "cat": "araba",
+  "baslik": "Nadir 2001 Volkswagen Beetle RSi İncelemesi",
+  "ozet": "2001 model Volkswagen Beetle RSi, günümüzdeki birçok hot hatch modelinden çok daha havalı ve dikkat çekici bir performans sunuyor.",
+  "puan": 4.0,
+  "grup": "volkswagen-beetle-rsi-classic",
+  "link": "https://www.jalopnik.com/2293533/2001-volkswagen-beetle-rsi-for-sale-bring-a-trailer-auction/",
+  "source": "Jalopnik",
+  "ts": 1792620947.3401222
+ },
+ {
+  "cat": "araba",
+  "baslik": "GM, OnStar'ı Yapay Zeka Asistanına Dönüştürüyor",
+  "ozet": "General Motors, OnStar sistemini araçla ilgili soruları yanıtlayabilen ve elektrikli araç sürücülerine şarj rotası planlamasında yardımcı olan yapay zeka destekli bir asistan haline getiriyor.",
+  "puan": 6.5,
+  "grup": "gm-onstar-ai-assistant-update",
+  "link": "https://www.motor1.com/news/812818/gm-onstar-ai-virtual-assistant/",
+  "source": "Motor1",
+  "ts": 1792620947.3401222
+ },
+ {
+  "cat": "araba",
+  "baslik": "GM, OnStar'ı Yenileyerek Yapay Zekaya Geçiyor",
+  "ozet": "Yeni 'Hey OnStar' asistanı önümüzdeki aylarda Cadillac Lyriq modellerine gelirken, ayrı marka uygulamaları da tek çat altında birleştiriliyor.",
+  "puan": 6.5,
+  "grup": "gm-onstar-ai-assistant-update",
+  "link": "https://www.thedrive.com/news/gm-is-rebooting-onstar-as-your-personal-ai-assistant-and-killing-off-its-brand-apps",
+  "source": "The Drive",
+  "ts": 1792620947.3401222
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Infiniti QX65 İnceleme ve Özellikleri",
+  "ozet": "2027 model Infiniti QX65'in teknik özellikleri, fiyatlandırması ve genel değerlendirmesi açıklandı.",
+  "puan": 4.5,
+  "grup": "infiniti-qx65-review-specs",
+  "link": "https://www.caranddriver.com/infiniti/qx65-2027",
+  "source": "Car and Driver",
+  "ts": 1792620947.3401222
+ },
+ {
+  "cat": "araba",
+  "baslik": "Honda'dan Japonya'da Kablosuz Şarj Yolu",
+  "ozet": "Honda, bir yol inşaat şirketiyle ortaklaşa çalışarak hareket halindeki sivil ve ticari araçları şarj edebilecek bir endüksiyon şarj otoyolu inşa ediyor.",
+  "puan": 8.0,
+  "grup": "honda-induction-charging-highway-japan",
+  "link": "https://www.caranddriver.com/news/a74207899/honda-building-induction-charging-highway-japan/",
+  "source": "Car and Driver",
+  "ts": 1792620947.3401222
+ },
+ {
+  "cat": "araba",
+  "baslik": "Chevy Parçalarıyla Onarılan Dayanıklı Yarış Fragmanı",
+  "ozet": "Baja şartlarına dayanıklı olarak tasarlanan bu özel yarış aracı römorku, herhangi bir hurdalıktan temin edilebilen Chevy kamyon parçalarıyla tamir edilebilecek şekilde üretildi.",
+  "puan": 3.5,
+  "grup": "baja-race-trailer-chevy-parts",
+  "link": "https://www.thedrive.com/news/totally-overbuilt-race-car-trailer-made-to-withstand-baja-can-be-fixed-with-chevy-truck-parts",
+  "source": "The Drive",
+  "ts": 1792620947.3401222
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ferrari'den ABD GP için özel renk düzeni",
+  "ozet": "Ferrari, Amerika Birleşik Devletleri Grand Prix hafta sonu için özel bir renk tasarımını tanıtan son takım oldu.",
+  "puan": 5.0,
+  "grup": "ferrari-us-gp-livery",
+  "link": "https://www.formula1.com/en/latest/article/gallery-ferrari-become-latest-team-to-unveil-special-livery-for-united-states-grand-prix.4EbG3ECmHt6RxHQYeFPkvD",
+  "source": "Formula1.com",
+  "ts": 1792620947.3401222
+ },
+ {
+  "cat": "f1",
+  "baslik": "TAG Heuer'den Red Bull'a özel saat",
+  "ozet": "TAG Heuer, Red Bull ile 10 yıllık ortaklığını kutlamak için özel üretim Solargraph saatini tanıttı.",
+  "puan": 2.5,
+  "grup": "red-bull-tag-heuer-watch",
+  "link": "https://www.motorsport.com/f1/news/tag-heuer-unveils-special-edition-red-bull-f1-watch-for-10-year-celebration/10866800/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792620947.3401222
+ },
+ {
+  "cat": "f1",
+  "baslik": "Lando Norris'ten kötü unvan savunması",
+  "ozet": "2025 şampiyonu Lando Norris, bu sezon sergilediği performansla tarihin en kötü unvan savunmalarından birini risk ediyor.",
+  "puan": 6.5,
+  "grup": "lando-norris-title-defence-struggle",
+  "link": "https://www.motorsport.com/f1/news/lando-norris-risks-unwanted-f1-record-as-disastrous-title-defence-continues/10866802/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792620947.3401222
+ },
+ {
+  "cat": "f1",
+  "baslik": "Lando Norris'ten yeni kıyafet koleksiyonu",
+  "ozet": "McLaren pilotu Lando Norris, ABD Grand Prix'si öncesinde 1970'lerden ilham alan yeni giyim koleksiyonunu tanıttı.",
+  "puan": 2.0,
+  "grup": "lando-norris-us-gp-clothing",
+  "link": "https://www.motorsport.com/f1/news/lando-norris-launches-new-clothing-collection-ahead-of-united-states-grand-prix/10866798/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792620947.3401222
+ },
+ {
+  "cat": "f1",
+  "baslik": "Kimi Antonelli'den mütevazı alışkanlık",
+  "ozet": "Bu hafta sonu şampiyonluk potasında olan Mercedes pilotu Kimi Antonelli, hâlâ arabasını kendi yıkadığını açıkladı.",
+  "puan": 3.0,
+  "grup": "kimi-antonelli-us-gp-habits",
+  "link": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-down-to-earth-habit-ahead-of-potential-f1-title-win/10866796/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792620947.3401222
+ },
+ {
+  "cat": "f1",
+  "baslik": "Austin'deki ücretsiz F1 taraftar alanları",
+  "ozet": "Bileti olmayan F1 severler için Austin genelinde takımlar ve sponsorlar tarafından ücretsiz taraftar bölgeleri kuruldu.",
+  "puan": 2.0,
+  "grup": "us-gp-free-fan-zones",
+  "link": "https://www.motorsport.com/f1/news/where-to-find-free-f1-fan-zones-across-austin-this-week/10866794/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792620947.3401222
  }
 ]
