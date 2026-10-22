@@ -1,106 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Subaru'nun Boxer Motoru Avrupa'ya Veda Ediyor",
-  "ozet": "Subaru, tamamen elektrikli araç stratejisi kapsamında ikonik boxer motorunun Avrupa'daki satışına 2027 yılı itibarıyla son vermeye hazırlanıyor.",
-  "puan": 7.5,
-  "grup": "subaru-boxer-engine-europe-exit",
-  "link": "https://www.motor1.com/news/812488/subaru-boxer-engine-dead-europe-2027/",
-  "source": "Motor1",
-  "ts": 1792453635.7630897
- },
- {
-  "cat": "araba",
-  "baslik": "GTA VI'nın Yeni Fragmanı Yayınlandı",
-  "ozet": "Tüm zamanların en çok beklenen video oyunlarından biri olan GTA VI'nın çıkışına bir ay kala yeni fragmanı görücüye çıktı.",
-  "puan": 2.0,
-  "grup": "gta-vi-final-trailer-launch",
-  "link": "https://www.caranddriver.com/news/a74181412/watch-gta-6-launch-trailer-one-month-before-release/",
-  "source": "Car and Driver",
-  "ts": 1792453635.7630897
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Ford Ranger Güçlü V6 Motor Seçeneğine Kavuşuyor",
-  "ozet": "2027 model Ford Ranger'ın kaputu altında, Bronco Raptor'dan alınan ve 380 beygir güç üreten çift turbolu 3.0 litrelik V-6 motorun yer alacağı görüldü.",
-  "puan": 7.0,
-  "grup": "2027-ford-ranger-v6-engine",
-  "link": "https://www.caranddriver.com/news/a74184201/2027-ford-ranger-new-twin-turbo-3-liter-v-6/",
-  "source": "Car and Driver",
-  "ts": 1792453635.7630897
- },
- {
-  "cat": "araba",
-  "baslik": "Mercedes-AMG Elektrikli Araçlarında Sahte Sesler Kullanacak",
-  "ozet": "Gelecekteki elektrikli AMG modellerinde altı silindirli sahte sesler sunulurken, gerçekçi V8 motor sesleri ise yalnızca üst paketlerde ekstra ücretle sunulacak.",
-  "puan": 6.5,
-  "grup": "mercedes-amg-ev-fake-engine-sounds",
-  "link": "https://www.thedrive.com/news/base-mercedes-amg-ev-gets-fake-six-cylinder-noises-v8-sounds-cost-extra",
-  "source": "The Drive",
-  "ts": 1792453635.7630897
- },
- {
-  "cat": "araba",
-  "baslik": "Mercedes: 'Coupe SUV Modelleri Hayatta Kalmaya Devam Edecek'",
-  "ozet": "Mercedes-Benz, geniş bir hayran kitlesine sahip olduğunu belirterek coupe SUV segmentindeki araçları üretmeye devam edeceklerini açıkladı.",
-  "puan": 4.5,
-  "grup": "mercedes-coupe-suv-future",
-  "link": "https://www.motor1.com/news/812500/mercedes-says-coupe-suvs-remain/",
-  "source": "Motor1",
-  "ts": 1792453635.7630897
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Kia Sorento PHEV Fiyatı Arttı",
-  "ozet": "Kia, giriş seviyesi şarj edilebilir hibrit Sorento modelini listeden çıkarırken, geriye kalan en üst donanımlı versiyonun başlangıç fiyatı 5.600 dolar zamlandı.",
-  "puan": 5.0,
-  "grup": "2027-kia-sorento-phev-price-increase",
-  "link": "https://www.caranddriver.com/news/a74183660/2027-kia-sorento-phev-price/",
-  "source": "Car and Driver",
-  "ts": 1792453635.7630897
- },
- {
-  "cat": "f1",
-  "baslik": "Amerika GP Bahis Rehberi ve Oranlar",
-  "ozet": "Uzmanlar, Amerika Grand Prix'si öncesinde Circuit of the Americas'da tahmin yapmanız için gereken önemli bahis bilgilerini ve güncel oranları paylaşıyor.",
-  "puan": 2.5,
-  "grup": "us-gp-2026-betting-guide",
-  "link": "https://www.formula1.com/en/latest/article/united-states-grand-prix-race-betting-guide-and-what-the-markets-expect-to-happen.6yb8E2FEmrXYHRRfyE0RpE",
-  "source": "Formula1.com",
-  "ts": 1792453635.7630897
- },
- {
-  "cat": "f1",
-  "baslik": "Ralf Schumacher'in Formula Nippon Zaferi",
-  "ozet": "Ralf Schumacher, spin atmasına rağmen sağanak yağış altında dramatik bir şekilde Formula Nippon şampiyonluğunu kazandı.",
-  "puan": 2.0,
-  "grup": "on-this-day-ralf-schumacher-formula-nippon",
-  "link": "https://www.racefans.net/2026/10/20/on-this-day-ralf-schumacher-wins-formula-nippon-title/",
-  "source": "RaceFans",
-  "ts": 1792453635.7630897
- },
- {
-  "cat": "f1",
-  "baslik": "Christian Horner: Red Bull Motorunu Üretmek Korkunçtu",
-  "ozet": "Eski Red Bull takım patronu Christian Horner, 2026 sezonunda ilk yarış zaferlerini kazanan takımdaki sıfırdan güç ünitesi üretiminin 'cehennem kadar korkutucu' olduğunu itiraf etti.",
-  "puan": 6.0,
-  "grup": "christian-horner-red-bull-2026-wins",
-  "link": "https://www.motorsport.com/f1/news/christian-horner-receives-unexpected-call-from-red-bull-after-breakthrough/10866228/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792453635.7630897
- },
- {
-  "cat": "f1",
-  "baslik": "Mercedes 2026 Takımlar Şampiyonluğunu Ne Zaman Garantileyebilir?",
-  "ozet": "Kimi Antonelli bu hafta sonu şampiyonluğunu ilan edebilecek olsa da, Mercedes takımlar şampiyonluğu için Meksika Grand Prix'sini beklemek zorunda.",
-  "puan": 7.5,
-  "grup": "mercedes-2026-constructors-championship-timeline",
-  "link": "https://www.motorsport.com/f1/news/how-soon-can-mercedes-win-the-2026-f1-constructors-championship/10866296/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792453635.7630897
- },
- {
-  "cat": "araba",
   "baslik": "Saab Neden Kontak Anahtarını Koltuk Arasına Koydu?",
   "ozet": "Saab'ın ikonikleşen ön koltuklar arasındaki kontak anahtarı tasarımı, sadece farklı olmak için değil güvenlik ve İsveç mühendisliği gereği ortaya çıkmıştı.",
   "puan": 3.5,
@@ -2028,5 +1928,55 @@
   "link": "https://www.motorsport.com/f1/news/where-to-find-free-f1-fan-zones-across-austin-this-week/10866794/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1792620947.3401222
+ },
+ {
+  "cat": "araba",
+  "baslik": "Satılık 1970 Model Modifiyeli Chevy Camaro",
+  "ozet": "Vortech süperşarjlı V8 motora ve 5 ileri manuel şanzımana sahip, 90.000 milindeki 1970 model Chevy Camaro satışa çıkarıldı.",
+  "puan": 3.5,
+  "grup": "1970-chevy-camaro-supercharged-for-sale",
+  "link": "https://www.jalopnik.com/2293712/1970-chevrolet-camaro-pro-street-build-90000-miles-supercharged-v8-5-speed/",
+  "source": "Jalopnik",
+  "ts": 1792629815.8888087
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ferrari'den ABD GP'ye Özel Renk Düzeni",
+  "ozet": "Ferrari, ABD Grand Prix'si için HP iş birliğiyle hazırlanan, motor kapağında çizimler ve blueprint tarzı illüstrasyonlar barındıran özel bir renk düzenini tanıttı.",
+  "puan": 5.0,
+  "grup": "ferrari-us-gp-livery",
+  "link": "https://www.motorsport.com/f1/news/ferrari-reveals-blueprint-style-livery-for-united-states-gp/10866813/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792629815.8888087
+ },
+ {
+  "cat": "f1",
+  "baslik": "F1 ve Leica'dan Sınırlı Üretim Kamera",
+  "ozet": "Formula 1, Leica iş birliğiyle geliştirilen ve karbon detaylara sahip sınırlı üretim Leica Q3 43 kamerasını 9.950 dolarlık fiyat etiketiyle duyurdu.",
+  "puan": 2.5,
+  "grup": "f1-leica-camera-limited-edition",
+  "link": "https://www.motorsport.com/f1/news/f1-unveils-limited-edition-leica-camera-with-eye-watering-9950-price-tag/10866811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792629815.8888087
+ },
+ {
+  "cat": "f1",
+  "baslik": "Tarihte Bugün: Alonso Şampiyon, Schumacher'in Veda Yarışı",
+  "ozet": "Bu tarihte Fernando Alonso ikinci şampiyonluğunu ilan ederken, Felipe Massa evinde kazanmış ve Michael Schumacher Ferrari'ye veda etmişti.",
+  "puan": 2.0,
+  "grup": "f1-on-this-day-history",
+  "link": "https://www.racefans.net/2026/10/22/on-this-day-brazilian-grand-prix/",
+  "source": "RaceFans",
+  "ts": 1792629815.8888087
+ },
+ {
+  "cat": "f1",
+  "baslik": "Las Vegas GP'de 'Smooth Operator' Lounge Geri Dönüyor",
+  "ozet": "Carlos Sainz'ın 'Smooth Operator' temalı lounge alanı, Las Vegas Grand Prix'si hafta sonu için ARIA'da özel ürünler ve kokteyllerle geri dönüyor.",
+  "puan": 3.0,
+  "grup": "carlos-sainz-las-vegas-lounge",
+  "link": "https://www.motorsport.com/f1/news/carlos-sainzs-smooth-operator-lounge-returns-for-f1-las-vegas-gp/10866809/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792629815.8888087
  }
 ]
