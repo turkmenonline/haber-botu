@@ -1,156 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Acura Ürün Gamını Genişletiyor",
-  "ozet": "Acura, satışlarını artırmak ve popüler segmentlerde daha fazla varlık göstermek için model sayısını dörtten altıya çıkarıyor.",
-  "puan": 5.5,
-  "grup": "acura-future-models-expansion",
-  "link": "https://www.caranddriver.com/news/a74192566/acura-targeting-sales-larger-lineup/",
-  "source": "Car and Driver",
-  "ts": 1792531933.7649908
- },
- {
-  "cat": "araba",
-  "baslik": "Subaru'dan 510 Beygirlik Elektrikli Station Wagon",
-  "ozet": "Subaru, Toyota'nın yardımı olmadan geliştirdiği çift motorlu ve hafif yapıya sahip 510 beygirlik elektrikli station wagon modelini tanıttı.",
-  "puan": 7.5,
-  "grup": "subaru-510hp-electric-wagon",
-  "link": "https://www.motor1.com/news/812601/subaru-ev-prototype-breaks-toyota/",
-  "source": "Motor1",
-  "ts": 1792531933.7649908
- },
- {
-  "cat": "araba",
-  "baslik": "Lexus TX550h+ Üretimden Kalkıyor",
-  "ozet": "Lexus, 2027 yılı için ürün gamını sadeleştirerek yavaş satan plug-in hibrit TX550h+ modelini satıştan kaldırıyor.",
-  "puan": 5.0,
-  "grup": "lexus-tx550h-plus-discontinued",
-  "link": "https://www.caranddriver.com/news/a74196402/lexus-tx550h-plug-in-hybrid-discontinued-2027/",
-  "source": "Car and Driver",
-  "ts": 1792531933.7649908
- },
- {
-  "cat": "araba",
-  "baslik": "Golf GTI Vites Topuzu Neden Golf Topu Şeklindeydi?",
-  "ozet": "Volkswagen'in ikonik modeli Golf GTI'ın efsanevi golf topu şeklindeki vites topuzunun arkasındaki eğlenceli hikaye.",
-  "puan": 3.0,
-  "grup": "vw-golf-gti-golf-ball-shifter",
-  "link": "https://www.motor1.com/features/812550/why-vw-golf-gti-golf-ball-gear-shifter/",
-  "source": "Motor1",
-  "ts": 1792531933.7649908
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Lexus RX Hibrit İncelemesi",
-  "ozet": "2027 model Lexus RX Hibrit hakkında fiyat, teknik özellikler ve değerlendirmeler.",
-  "puan": 5.0,
-  "grup": "2027-lexus-rx-hybrid-review",
-  "link": "https://www.caranddriver.com/lexus/rx-hybrid-2027",
-  "source": "Car and Driver",
-  "ts": 1792531933.7649908
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Lexus RX350 Dış Tasarım Fotoğrafları",
-  "ozet": "Yeni 2027 Lexus RX350 modelinin dış tasarımını farklı açılardan inceleyin.",
-  "puan": 2.5,
-  "grup": "2027-lexus-rx350-exterior-photos",
-  "link": "https://www.caranddriver.com/photos/a74195633/2027-lexus-rx350-buyers-guide-exterior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1792531933.7649908
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Lexus RX350 İç Mekan Fotoğrafları",
-  "ozet": "2027 Lexus RX350'nin yenilenen iç kabinine yakından bir bakış.",
-  "puan": 2.5,
-  "grup": "2027-lexus-rx350-interior-photos",
-  "link": "https://www.caranddriver.com/photos/a74195634/2027-lexus-rx350-buyers-guide-interior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1792531933.7649908
- },
- {
-  "cat": "araba",
-  "baslik": "Porsche Mission S Konsepti New York'ta",
-  "ozet": "Porsche'nin Mission S Konsepti tanıtım sahnesinden ayrılarak New York sokaklarında tur atıyor.",
-  "puan": 6.0,
-  "grup": "porsche-mission-s-new-york-tour",
-  "link": "https://www.motor1.com/news/812649/porsche-mission-s-photos-new-york/",
-  "source": "Motor1",
-  "ts": 1792531933.7649908
- },
- {
-  "cat": "araba",
-  "baslik": "GM İki Elektrikli ve Hidrojen Tesisini Kapatıyor",
-  "ozet": "Düşen EV talebi nedeniyle General Motors, Brownstown batarya montaj tesisini kapatıyor ve hidrojen tesisini dönüştürüyor.",
-  "puan": 8.0,
-  "grup": "gm-ev-hydrogen-plant-closures",
-  "link": "https://www.caranddriver.com/news/a74195327/gm-closing-repurposing-ev-hydrogen-fuel-cell-plants/",
-  "source": "Car and Driver",
-  "ts": 1792531933.7649908
- },
- {
-  "cat": "araba",
-  "baslik": "Pioneer'dan Retro Kaset Çalar ve Hoparlörler",
-  "ozet": "Pioneer, 80'ler ve 90'lar estetiğini yansıtan retro tasarımlı yeni kaset çalar oto teybini ve kutu tipi hoparlörlerini Amerika'ya getiriyor.",
-  "puan": 4.0,
-  "grup": "pioneer-retro-cassette-deck-stereo",
-  "link": "https://www.thedrive.com/news/old-school-box-speakers-are-back-and-pioneers-new-cassette-deck-car-stereo-is-finally-coming-to-america",
-  "source": "The Drive",
-  "ts": 1792531933.7649908
- },
- {
-  "cat": "araba",
-  "baslik": "İkinci El Araçta İdeal Kilometre Kaç Olmalı?",
-  "ozet": "Araç kilometresi bir otomobilin ömrü hakkında çok şey söyler ancak dikkate alınması gereken tek faktör değildir.",
-  "puan": 2.0,
-  "grup": "used-car-ideal-mileage-guide",
-  "link": "https://www.caranddriver.com/shopping-advice/a74183347/used-car-how-many-miles/",
-  "source": "Car and Driver",
-  "ts": 1792531933.7649908
- },
- {
-  "cat": "araba",
-  "baslik": "Petrol Fiyatları Yüksek Seyretmeye Devam Ediyor",
-  "ozet": "Politik gelişmelere ve anlaşmalara rağmen küresel çapta petrol fiyatları yüksek kalmaya devam ediyor.",
-  "puan": 4.5,
-  "grup": "global-oil-prices-high",
-  "link": "https://www.jalopnik.com/2292048/oil-expensive-trump-dirty-russian-oil-deal/",
-  "source": "Jalopnik",
-  "ts": 1792531933.7649908
- },
- {
-  "cat": "araba",
-  "baslik": "Volkswagen Bazı ID.4'lerin Şarjını Sınırlayacak",
-  "ozet": "Volkswagen, batarya yangını riski içeren geri çağırma kapsamında OTA güncellemesiyle bazı ID.4 modellerinin şarj kapasitesini yüzde 80 ile sınırlayacak.",
-  "puan": 8.5,
-  "grup": "vw-id4-battery-fire-recall-charging-cap",
-  "link": "https://www.caranddriver.com/news/a74194610/volkswagen-remotely-limiting-charging-id4-recall/",
-  "source": "Car and Driver",
-  "ts": 1792531933.7649908
- },
- {
-  "cat": "araba",
-  "baslik": "VinFast ABD'de Taksi Pazarına Giriyor",
-  "ozet": "VinFast, Amerika pazarında araç kalitesinden ziyade taksi filoları üzerinden yeni bir strateji deniyor.",
-  "puan": 5.0,
-  "grup": "vinfast-us-taxi-strategy",
-  "link": "https://www.jalopnik.com/2292071/vinfast-new-approach-u-s-taxis/",
-  "source": "Jalopnik",
-  "ts": 1792531933.7649908
- },
- {
-  "cat": "araba",
-  "baslik": "1970 Dodge Challenger R/T Satışta",
-  "ozet": "Sadece 287 adet üretilen orijinal Hemi V8 motora sahip kusursuz restorasyonlu Dodge Challenger R/T, 230 bin dolarlık fiyatla alıcı bekliyor.",
-  "puan": 4.5,
-  "grup": "1970-dodge-challenger-rt-hemi-sale",
-  "link": "https://www.jalopnik.com/2291602/1970-dodge-challenger-rt-hardtop-426-hemi-v8-230000-dollars/",
-  "source": "Jalopnik",
-  "ts": 1792531933.7649908
- },
- {
-  "cat": "araba",
   "baslik": "Rolls-Royce'un Gizli Şemsiye Özelliği",
   "ozet": "Rolls-Royce, kapıların içerisine entegre edilmiş yerleşik şemsiye özelliğiyle yağmurlu günlerde kullanıcılara büyük kolaylık sağlıyor.",
   "puan": 3.0,
@@ -2178,5 +2028,445 @@
   "link": "https://www.autosport.com/f1/news/when-cadillac-will-open-f1-engine-factory/10867020/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
   "source": "Autosport",
   "ts": 1792697219.8714597
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Nesil BMW X7 ve iX7 Test Sırasında Görüntülendi",
+  "ozet": "Neue Klasse tasarımıyla gelecek yeni nesil BMW X7; elektrikli iX7 ve V8 motorlu M60 versiyonlarıyla Mercedes GLS ve Audi Q9'a rakip olacak.",
+  "puan": 8.0,
+  "grup": "bmw-next-gen-x7-ix7",
+  "link": "https://www.jalopnik.com/2294917/next-gen-bmw-x7-spy-shots-electric-ix7-v8-powered-m60/",
+  "source": "Jalopnik",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Subaru Outback Daha Ucuz Baz Donanıma Kavuşuyor",
+  "ozet": "2027 model Subaru Outback, 2.000 dolar daha ucuz yeni baz donanım paketine rağmen ısıtmalı koltukları sunmaya devam ediyor.",
+  "puan": 5.0,
+  "grup": "subaru-outback-price-reduction-2027",
+  "link": "https://www.jalopnik.com/2294904/2027-subaru-outback-new-base-trim-cheaper-pricing/",
+  "source": "Jalopnik",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "araba",
+  "baslik": "Avrupa'nın Uzaydaki Geleceği Amerikasız mı Olacak?",
+  "ozet": "Avrupa ve Amerika Birleşik Devletleri arasındaki artan gerilimler, uzay araştırmalarında büyük değişikliklere yol açabilir.",
+  "puan": 2.0,
+  "grup": "europe-space-exploration-us-tension",
+  "link": "https://www.jalopnik.com/2294901/europes-future-in-space-could-be-without-america/",
+  "source": "Jalopnik",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "araba",
+  "baslik": "Aston Martin'in Tuhaf Şehir Otomobili Cygnet'in Hikayesi",
+  "ozet": "Toyota tabanlı bu küçük lüks şehir otomobili, premium tasarımı ve beklenmedik fiyat etiketiyle dikkat çekmişti.",
+  "puan": 2.5,
+  "grup": "aston-martin-cygnet-city-car-history",
+  "link": "https://www.motor1.com/features/812882/aston-martin-cygnet-city-car-toyota-iq-v8/",
+  "source": "Motor1",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "araba",
+  "baslik": "Honda ve Acura İçin HRC Performans Parçaları Çıkıyor",
+  "ozet": "Honda'nın motorsporları divizyonu HRC, uzun süredir beklenen performans parçaları programını gelecek yıl mart ayında başlatıyor.",
+  "puan": 6.5,
+  "grup": "honda-race-inspired-parts-passport",
+  "link": "https://www.caranddriver.com/news/a74221786/hrc-performance-parts-honda-acura-on-sale-date-announced/",
+  "source": "Car and Driver",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "araba",
+  "baslik": "Porsche'den Üst Model 911 ve 718 Araçlar İçin Geri Çağırma",
+  "ozet": "Tekerleklerin yerinden çıkma riski nedeniyle 2024 model 911 GT3, Turbo ve 718 Cayman GT4 RS gibi üst düzey modeller geri çağrılıyor.",
+  "puan": 8.5,
+  "grup": "porsche-911-718-wheel-recall",
+  "link": "https://www.caranddriver.com/news/a74219012/porsche-911-gt3-turbo-s-718-cayman-gt4-spyder-rs-do-not-drive-recall-wheels/",
+  "source": "Car and Driver",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "araba",
+  "baslik": "Cadillac'tan 125. Yıla Özel Escalade-V Collector Series",
+  "ozet": "Cadillac, 125. doğum gününü sadece siyah veya beyaz renk seçenekleriyle gelen 239.000 dolarlık özel Escalade-V ile kutluyor.",
+  "puan": 7.0,
+  "grup": "cadillac-escalade-v-125th-anniversary",
+  "link": "https://www.jalopnik.com/2294811/2027-cadillac-escalade-v-collector-series-125th-birthday-special-edition/",
+  "source": "Jalopnik",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ford Maverick Sürücüsüz Olarak Kendi Kendine Çalışıyor",
+  "ozet": "Bazı Ford Maverick sahipleri, araçlarının hiçbir sebep yokken sürücüsüz bir şekilde çalışmaya başladığını bildiriyor.",
+  "puan": 7.5,
+  "grup": "ford-maverick-random-start-issue",
+  "link": "https://www.jalopnik.com/2292380/ford-maverick-owners-report-engines-starting-randomly/",
+  "source": "Jalopnik",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "araba",
+  "baslik": "GM: Direksiyonsuz Cadillac Olabilir Ama Blackwing Hariç",
+  "ozet": "GM yöneticileri, gelecekte direksiyonsuz Cadillac modellerinin olabileceğini ancak V Blackwing serisinin her zaman sürücülü kalacağını belirtti.",
+  "puan": 6.0,
+  "grup": "gm-cadillac-autonomous-steering-wheel",
+  "link": "https://www.thedrive.com/news/gm-wont-rule-out-cadillacs-without-steering-wheels-the-blackwing-is-another-story",
+  "source": "The Drive",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 BMW iX5 İnceleme, Fiyat ve Teknik Özellikleri",
+  "ozet": "Yeni nesil elektrikli BMW iX5 modelinin beklenen teknik detayları, fiyatlandırması ve genel özellikleri.",
+  "puan": 6.5,
+  "grup": "bmw-ix5-first-drive-2027",
+  "link": "https://www.caranddriver.com/bmw/ix5",
+  "source": "Car and Driver",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "araba",
+  "baslik": "Honda, İlk Şasi Üzeri Kamyeti İçin Mitsubishi ile Ortaklık Kurdu",
+  "ozet": "Mitsubishi Triton, Güneydoğu Asya pazarı için geliştirilecek yeni Honda pikap modelinin altyapısını oluşturacak.",
+  "puan": 7.5,
+  "grup": "honda-mitsubishi-ladder-frame-truck",
+  "link": "https://www.caranddriver.com/news/a74220992/honda-mitsubishi-pickup-truck-details/",
+  "source": "Car and Driver",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "araba",
+  "baslik": "GM, Elektrikli Kamyet Satışlarından Hala Umutlu",
+  "ozet": "GM yöneticileri, elektrikli kamyonet satışlarının beklenenden yavaş olmasına rağmen bu segmentin kendileri için mantıklı olduğunu vurguluyor.",
+  "puan": 5.5,
+  "grup": "gm-ev-truck-sales-strategy",
+  "link": "https://www.thedrive.com/news/electric-trucks-havent-sold-like-gm-hoped-its-vehicle-boss-says-they-still-make-sense",
+  "source": "The Drive",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "araba",
+  "baslik": "BMW iX5 İncelemesi: Devasa Bataryalı Elektrikli SUV",
+  "ozet": "Neue Klasse tasarım diline sahip devasa bataryalı yeni BMW X5; benzinli, dizel, hibrit, elektrik ve hidrojen seçenekleri sunuyor.",
+  "puan": 7.0,
+  "grup": "bmw-ix5-first-drive-2027",
+  "link": "https://www.autocar.co.uk/car-review/bmw/ix5",
+  "source": "Autocar",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "araba",
+  "baslik": "Klimaları Kapatmak Yakıt Tasarrufu Sağlar mı?",
+  "ozet": "Araç klimalarını kapatmak yakıt tasarrufu sağlayabilir ancak pencereleri açmak her zaman daha iyi bir alternatif değildir.",
+  "puan": 2.0,
+  "grup": "car-ac-fuel-efficiency-myth",
+  "link": "https://www.motor1.com/features/812580/does-car-air-conditioning-increase-fuel-consumption/",
+  "source": "Motor1",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mitsubishi Tabanlı Yeni Honda Pikap 2028'de Geliyor",
+  "ozet": "Honda ve Mitsubishi, Triton tabanlı yeni bir pikap modeliyle başlayacak karşılıklı araç tedarik anlaşmasını resmi olarak duyurdu.",
+  "puan": 7.5,
+  "grup": "honda-mitsubishi-ladder-frame-truck",
+  "link": "https://www.motor1.com/news/812885/mitsubishi-triton-based-honda-truck-confirmed/",
+  "source": "Motor1",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "Leclerc: Takımlar Şampiyonluğu İçin İkincilikten Büyük Hedefimiz Var",
+  "ozet": "Charles Leclerc, 2026 sezonunun geri kalanı için Ferrari ile başarmak istediği daha büyük bir hedefi olduğunu açıkladı.",
+  "puan": 5.0,
+  "grup": "leclerc-ferrari-2026-target",
+  "link": "https://www.formula1.com/en/latest/article/leclerc-names-what-would-be-a-much-bigger-satisfaction-than-p2-in-the-teams-championship.1qtcJMCtrJkubAYDMnrKcd",
+  "source": "Formula1.com",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ocon: Camara Fırsatı Hak Ediyor Ama Ben De Gridde Olmalıyım",
+  "ozet": "Esteban Ocon, Rafael Camara'nın Haas'taki şansı hak ettiğini ancak kendisinin de 2027'de F1 gridinde yer almayı hak ettiğini belirtti.",
+  "puan": 4.5,
+  "grup": "esteban-ocon-haas-rafael-camara-2027",
+  "link": "https://www.formula1.com/en/latest/article/ocon-backs-camaras-f1-promotion-but-insists-i-dont-deserve-to-be-out.568MmK87bzFdFANA2rjpXc",
+  "source": "Formula1.com",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton Singapur Hatalarını Değerlendirdi",
+  "ozet": "Lewis Hamilton, Singapur'daki strateji hatasının kendisi ve Ferrari'ye podyuma mal olduğunu belirterek ABD GP öncesinde dersler çıkardıklarını söyledi.",
+  "puan": 4.5,
+  "grup": "hamilton-singapore-strategy-mistake",
+  "link": "https://www.formula1.com/en/latest/article/hurts-when-i-lose-points-for-the-team-hamilton-reflects-on-singapore-strategy-mistake-ahead-of-united-states-gp.7d91ykgwkTr0bkFBxQr9DQ",
+  "source": "Formula1.com",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "Piastri'den Zorlu Yılda İlerleme Açıklaması",
+  "ozet": "Oscar Piastri, McLaren'ın 2026 aracına uyum sağlama sürecinde son yarışlarda kaydettiği ilerlemeyi paylaştı.",
+  "puan": 4.0,
+  "grup": "oscar-piastri-regulation-struggles",
+  "link": "https://www.formula1.com/en/latest/article/piastri-reveals-clear-sign-of-progress-after-challenging-year-for-mclaren.7LvZdSCorwXqhBAJn1M1Pq",
+  "source": "Formula1.com",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli: İlk Şampiyonluğu Kazanmak Bir Rüya Olurdu",
+  "ozet": "Kimi Antonelli, ABD Grand Prix'sinde ilk şampiyonluğunu kazanmanın rüya gibi olacağını ancak kusursuz bir hafta sonuna ihtiyacı olduğunu söyledi.",
+  "puan": 8.5,
+  "grup": "kimi-antonelli-us-gp-title-contender",
+  "link": "https://www.formula1.com/en/latest/article/it-would-be-a-dream-antonelli-targets-perfect-weekend-in-austin-to-claim-maiden-f1-title.39LQkTCcrGsLcfcPGgd4ud",
+  "source": "Formula1.com",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hadjar: Red Bull En Hızlı Araca Sahip Değil",
+  "ozet": "Isack Hadjar, takım arkadaşı Max Verstappen'in son iki yarışkı galibiyetine rağmen Red Bull'un hız sırasındaki yerini küçümsedi.",
+  "puan": 4.0,
+  "grup": "hadjar-red-bull-pace-assessment",
+  "link": "https://www.formula1.com/en/latest/article/i-dont-think-we-have-the-fastest-car-hadjar-highlights-red-bulls-weaknesses-ahead-of-united-states-gp.2ttdHRoEEAi7hCQCc5mABd",
+  "source": "Formula1.com",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "Norris'ten Verstappen'e COTA Destek: Baş Ağrısı Hapı Kullanıyorum",
+  "ozet": "Lando Norris, Austin pistindeki sert tümsekler nedeniyle sürüş öncesinde baş ağrısı hapı aldığını belirterek Max Verstappen'e hak verdi.",
+  "puan": 4.0,
+  "grup": "max-verstappen-cota-bumps-complaint",
+  "link": "https://www.motorsport.com/f1/news/lando-norris-backs-max-verstappen-over-cota-bumps-reveals-headache-tablet-use/10867187/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "George Russell'dan Christian Horner'ın Simülatör İddialarına Yanıt",
+  "ozet": "George Russell, Christian Horner'ın kendisi, Norris ve Piastri'nin geçmişte Red Bull simülatörünü ücretli kullandığı yönündeki iddialarına yanıt verdi.",
+  "puan": 4.0,
+  "grup": "russell-horner-simulator-claims",
+  "link": "https://www.motorsport.com/f1/news/george-russell-responds-to-christian-horners-red-bull-simulator-claim/10867189/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen'den COTA'daki Tümsekler İçin Omurga Hasarı Uyarısı",
+  "ozet": "Max Verstappen, Austin gibi pistlerdeki kontrolsüz tümseklerin düzeltilmemesi halinde pilotların ciddi omurga hasarı yaşayabileceği uyarısında bulundu.",
+  "puan": 4.5,
+  "grup": "max-verstappen-cota-bumps-complaint",
+  "link": "https://www.the-race.com/formula-1/verstappens-spinal-damage-fears-from-out-of-control-f1-bumps/",
+  "source": "The Race",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli Şampiyonluk Baskısıyla Nasıl Başa Çıkacak?",
+  "ozet": "Genç sürücü Kimi Antonelli'nin ilk F1 dünya şampiyonluğu mücadelesindeki baskıyı nasıl yöneteceği ele alınıyor.",
+  "puan": 5.0,
+  "grup": "kimi-antonelli-us-gp-title-contender",
+  "link": "https://www.autosport.com/f1/news/how-antonelli-will-manage-the-pressure-as-f1-coronation-looms/10867178/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "Lando Norris'ten Coca-Cola Tepkisi",
+  "ozet": "Lando Norris, İspanya GP sonrası soğuma odasında Coca-Cola içtiği için yöneltilen eleştirilere ve sosyal medyadaki tepkilere yanıt verdi.",
+  "puan": 2.5,
+  "grup": "lando-norris-coca-cola-drama",
+  "link": "https://www.motorsport.com/f1/news/lando-norris-on-madrid-coca-cola-drama-i-can-drink-whatever-i-like/10867181/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "Leclerc'ten Hadjar'ın Ferrari İddiasına Sert Yanıt",
+  "ozet": "Charles Leclerc, Isack Hadjar'ın Max Verstappen'in Ferrari ile Singapur'u daha büyük farkla kazanacağı yönündeki iddiasını saçmalık olarak nitelendirdi.",
+  "puan": 4.5,
+  "grup": "leclerc-hadjar-singapore-comments",
+  "link": "https://www.motorsport.com/f1/news/charles-leclerc-slams-isack-hadjars-max-verstappen-ferrari-claim-as-nonsense/10867179/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen: Austin Pisti Tümsekleri Kabul Edilemez",
+  "ozet": "Max Verstappen, ABD Grand Prix'si öncesinde Austin pistindeki tümseklerin kabul edilemez ve kontrol dışı olduğunu belirtti.",
+  "puan": 4.5,
+  "grup": "max-verstappen-cota-bumps-complaint",
+  "link": "https://www.autosport.com/f1/news/verstappen-warns-cota-bumps-are-unacceptable/10867175/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "Max Verstappen'den Austin Pisti Tepkisi",
+  "ozet": "Max Verstappen, Austin pistindeki tümseklerin omurgası için tehlike yarattığını ve durumun kontrol dışı olduğunu yineledi.",
+  "puan": 4.5,
+  "grup": "max-verstappen-cota-bumps-complaint",
+  "link": "https://www.motorsport.com/f1/news/max-verstappen-slams-unacceptable-bumps-at-austin-f1-track-its-out-of-control/10867171/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "Carlos Sainz'dan Orta Doğu Yarışları İçin Şüphe",
+  "ozet": "Carlos Sainz, Formula 1 sezonunun Orta Doğu'daki son iki yarışının planlandığı gibi yapılıp yapılmayacağı konusunda şüpheleri olduğunu söyledi.",
+  "puan": 5.5,
+  "grup": "sainz-middle-east-races-doubt",
+  "link": "https://www.racefans.net/2026/10/22/difficult-to-be-convinced-f1s-qatar-and-abu-dhabi-rounds-will-happen-sainz/",
+  "source": "RaceFans",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "Kimi Antonelli ABD GP'sinde İlk Şampiyonluk İçin Hazır",
+  "ozet": "Şampiyona lideri Kimi Antonelli, ABD GP'sinde en genç dünya şampiyonu olma şansını yakalamak için işi bitirmeye odaklandı.",
+  "puan": 9.0,
+  "grup": "kimi-antonelli-us-gp-title-contender",
+  "link": "https://www.motorsport.com/f1/news/kimi-antonelli-ready-to-finish-the-job-as-first-f1-title-chance-beckons-at-us-gp/10867163/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "Freddie Slater Meksika GP'de Audi ile Antrenmana Çıkacak",
+  "ozet": "Audi genç sürücüsü Freddie Slater, önümüzdeki hafta Meksika Grand Prix'sinde ilk kez bir F1 antrenman seansına katılacak.",
+  "puan": 7.0,
+  "grup": "freddie-slater-audi-fp1-debut",
+  "link": "https://www.racefans.net/2026/10/22/slater-to-make-f1-practice-debut-for-audi-in-mexico/",
+  "source": "RaceFans",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli'den Babasının Yarış Kariyeri Korkuları İtirafı",
+  "ozet": "Kimi Antonelli, babasının kendi kariyeri mali sıkıntılar nedeniyle bittiği için onun yarışçı olmasını istemediğini açıkladı.",
+  "puan": 3.0,
+  "grup": "kimi-antonelli-father-career-fears",
+  "link": "https://www.motorsport.com/f1/news/kimi-antonelli-opens-up-on-fathers-fears-over-his-f1-racing-career/10867151/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "Colapinto Takımına Yönelik Tacizlere Neden Karşı Çıktı?",
+  "ozet": "Franco Colapinto, 2026 sezonu boyunca Alpine personelini hedef alan sosyal medyadaki çevrimiçi tacizlere karşı neden ses yükselttiğini açıkladı.",
+  "puan": 5.0,
+  "grup": "franco-colapinto-alpine-staff-abuse",
+  "link": "https://www.autosport.com/f1/news/why-colapinto-spoke-out-against-online-abuse/10867150/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "Franco Colapinto'dan Alpine Personeline Yönelik Taciz Tepkisi",
+  "ozet": "Franco Colapinto, Singapur Grand Prix'sinin ardından Alpine F1 çalışanlarını hedef alan çevrimiçi tacizlerde sınırların aşıldığını belirtti.",
+  "puan": 5.0,
+  "grup": "franco-colapinto-alpine-staff-abuse",
+  "link": "https://www.motorsport.com/f1/news/lines-were-crossed-franco-colapinto-speaks-out-after-online-abuse-targeting-alpine-f1-staff/10867144/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton Singapur Stratejisini Anlattı",
+  "ozet": "Lewis Hamilton, Singapur'daki podyum şansını zora sokan strateji karmaşasında kendi kararının rolünü açıkladı.",
+  "puan": 4.5,
+  "grup": "hamilton-singapore-strategy-mistake",
+  "link": "https://www.the-race.com/formula-1/hamilton-explains-why-he-overruled-ferrari-in-singapore/",
+  "source": "The Race",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton Afrika GP'si İçin F1'de Kalmak İstiyor",
+  "ozet": "Lewis Hamilton, 2030'larda yapılması planlanan Ruanda Grand Prix'sinde yarışabilmek için F1 kariyerini o zamana kadar uzatmayı umuyor.",
+  "puan": 4.0,
+  "grup": "hamilton-rwanda-african-gp-hopes",
+  "link": "https://www.motorsport.com/f1/news/lewis-hamilton-forced-to-stay-a-lot-longer-in-f1-after-african-grand-prix-announcement/10867142/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton'dan Afrika'ya Dönüşe Çekinceli Destek",
+  "ozet": "Lewis Hamilton, F1'in Afrika'ya dönüşü için Ruanda'nın seçilmesinden memnun olsa da bazı çekinceleri olduğunu belirtti.",
+  "puan": 4.0,
+  "grup": "hamilton-rwanda-african-gp-hopes",
+  "link": "https://www.racefans.net/2026/10/22/free-congo-hamilton-welcomes-f1s-return-to-africa-with-reservations-over-rwanda/",
+  "source": "RaceFans",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "Sainz: Ortadoğu Yarışlarının Yapılacağına İnanmak Zor",
+  "ozet": "Carlos Sainz, Katar ve Abu Dabi yarışlarının planlandığı gibi yapılacağından ikna olmanın şu an çok zor olduğunu söyledi.",
+  "puan": 5.0,
+  "grup": "sainz-middle-east-races-doubt",
+  "link": "https://www.the-race.com/formula-1/f1-qatar-abu-dhabi-very-difficult-to-be-convinced-races-go-ahead-carlos-sainz/",
+  "source": "The Race",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "Piastri: Red Bull En İstikrarlı Hızlı Araç",
+  "ozet": "Oscar Piastri, yapılan son güncellemelerin ardından Red Bull'un griddeki en tutarlı ve hızlı takım haline geldiğini belirtti.",
+  "puan": 4.5,
+  "grup": "oscar-piastri-red-bull-pace",
+  "link": "https://www.motorsport.com/f1/news/red-bull-is-now-f1s-most-consistently-quick-car-says-oscar-piastri/10867135/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hadjar: Verstappen Ferrari ile Daha Farklı Kazanırdı",
+  "ozet": "Isack Hadjar, Red Bull'un Singapur'da en hızlı araç olmadığını, Max Verstappen'in bir Ferrari ile yarışı çok daha büyük farkla kazanabileceğini savundu.",
+  "puan": 4.0,
+  "grup": "leclerc-hadjar-singapore-comments",
+  "link": "https://www.motorsport.com/f1/news/isack-hadjar-max-verstappen-would-have-won-singapore-gp-by-more-in-a-ferrari/10867119/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hadjar'a Göre Singapur'un En Hızlısı Ferrari'ydi",
+  "ozet": "Isack Hadjar, Max Verstappen'in Singapur'daki zaferinin direksiyonda bir Ferrari olsaydı çok daha dominant olacağını ifade etti.",
+  "puan": 4.0,
+  "grup": "leclerc-hadjar-singapore-comments",
+  "link": "https://www.racefans.net/2026/10/22/verstappen-would-have-won-singapore-gp-in-a-ferrari-says-hadjar-it-was-the-fastest-car/",
+  "source": "RaceFans",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "Sainz'dan 2026 Ortadoğu Yarışları İçin Şüphe",
+  "ozet": "Carlos Sainz, devam eden Ortadoğu çatışmalarına rağmen 2026 sezonunun Katar ve Abu Dabi'de biteceğine ikna olmanın güç olduğunu belirtti.",
+  "puan": 5.0,
+  "grup": "sainz-middle-east-races-doubt",
+  "link": "https://www.autosport.com/f1/news/sainz-not-convinced-f1-2026-will-finish-in-middle-east/10867117/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1792708887.834017
+ },
+ {
+  "cat": "f1",
+  "baslik": "Sainz: F1 2026'nın Ortadoğu'da Biteceğine İnanmak Güç",
+  "ozet": "Carlos Sainz, F1 yönetiminin aksine, sezonun son yarışlarının Ortadoğu'da gerçekleşeceğine ikna olmanın zorluğunu vurguladı.",
+  "puan": 5.0,
+  "grup": "sainz-middle-east-races-doubt",
+  "link": "https://www.motorsport.com/f1/news/difficult-to-be-convinced-f1-can-finish-2026-in-the-middle-east/10867098/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792708887.834017
  }
 ]
