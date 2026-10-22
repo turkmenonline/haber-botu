@@ -1,106 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "BMW'den Çalışanlarına Yüksek Tazminat Teklifi",
-  "ozet": "BMW, çalışanlarına yaş, maaş ve kıdeme göre değişen şartlarla 730.000 dolara varan erken ayrılma ve tazminat teklifleri sunuyor.",
-  "puan": 6.0,
-  "grup": "bmw-employee-severance-offers",
-  "link": "https://www.motor1.com/news/812543/bmw-voluntary-exit-program-reportedly/",
-  "source": "Motor1",
-  "ts": 1792482191.6219227
- },
- {
-  "cat": "araba",
-  "baslik": "BMW'nin Gizli Kalan E36 Compact Projesi",
-  "ozet": "BMW'nin geçmişte dört kapılı bir E36 Compact prototipi geliştirdiği ancak bu 316i modelinin hiçbir zaman üretime alınmadığı ortaya çıktı.",
-  "puan": 4.0,
-  "grup": "bmw-e36-compact-four-door-prototype",
-  "link": "https://www.motor1.com/news/812535/bmw-five-door-hatchback-unique/",
-  "source": "Motor1",
-  "ts": 1792482191.6219227
- },
- {
-  "cat": "araba",
-  "baslik": "Teksas'ta Bulunan Gizli Corvette Koleksiyonu",
-  "ozet": "John Clay Wolfe, Corpus Christi'deki bir karavan parkında terk edilmiş halde bulunan iki adet klasiğin de aralarında olduğu Corvette projeleri için 175.000 dolar ödedi.",
-  "puan": 3.5,
-  "grup": "texas-trailer-park-hidden-corvettes",
-  "link": "https://www.motor1.com/news/812531/corvette-stash-became-a-two/",
-  "source": "Motor1",
-  "ts": 1792482191.6219227
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Nissan Pathfinder'a Retro Dokunuş",
-  "ozet": "Özel versiyon Nissan Pathfinder modelleri, 1987 köklerine sadık kalan bordo iç mekan detayları ve konfor özellikleriyle yenileniyor.",
-  "puan": 5.5,
-  "grup": "2027-nissan-pathfinder-40th-anniversary",
-  "link": "https://www.motor1.com/news/812518/2027-nissan-pathfinder-special-edition/",
-  "source": "Motor1",
-  "ts": 1792482191.6219227
- },
- {
-  "cat": "araba",
-  "baslik": "Fiat Multiplay Konsepti Üretime Yöneliyor",
-  "ozet": "Yeni Fiat yöneticisi Arnaud Belloni, Paris Otomobil Fuarı'nda sergilenen radikal SUV-pickup melezi Multiplay konseptinin üretime geçeceğini açıkladı.",
-  "puan": 6.5,
-  "grup": "fiat-multiplay-concept-production",
-  "link": "https://www.autocar.co.uk/car-news/electric-cars/multiplay-tipped-production-fiat-looks-next-big-thing",
-  "source": "Autocar",
-  "ts": 1792482191.6219227
- },
- {
-  "cat": "araba",
-  "baslik": "İkinci El Lüks Elektrikli Araçlar Değer Kaybediyor",
-  "ozet": "Araştırmalara göre lüks elektrikli araçlar, benzinli ve dizel modellere kıyasla ikinci elde yüzde 6.4'e varan oranlarda daha hızlı değer kaybediyor.",
-  "puan": 4.5,
-  "grup": "used-luxury-evs-higher-depreciation",
-  "link": "https://www.autocar.co.uk/car-news/company-cars/fleets-warned-used-luxury-evs-lag-ice-cars-64-resale",
-  "source": "Autocar",
-  "ts": 1792482191.6219227
- },
- {
-  "cat": "araba",
-  "baslik": "New York Central Park'ta Faytonlar Yasaklanıyor",
-  "ozet": "New York Şehri Belediye Meclis Üyesi Julie Menin ve Başkan Mandami, Central Park'taki atlı faytonların yasaklanması konusunda uzlaştı.",
-  "puan": 2.5,
-  "grup": "new-york-central-park-carriage-horses-ban",
-  "link": "https://www.jalopnik.com/2290795/new-york-city-ban-carriage-horses-central-park/",
-  "source": "Jalopnik",
-  "ts": 1792482191.6219227
- },
- {
-  "cat": "araba",
-  "baslik": "Ford Maverick İçin 300 Beygirlik SV300T Paketi",
-  "ozet": "Bayiler üzerinden sunulan SV300T yükseltme paketi, 2025 ve sonrası AWD Ford Maverick modellerini 300 beygirlik bir sokak kamyonetine dönüştürüyor.",
-  "puan": 5.0,
-  "grup": "ford-maverick-sv300t-upgrade-package",
-  "link": "https://www.jalopnik.com/2290348/ford-maverick-more-horsepower-sv300t/",
-  "source": "Jalopnik",
-  "ts": 1792482191.6219227
- },
- {
-  "cat": "f1",
-  "baslik": "Gary Anderson'dan Red Bull ve Mercedes Tasarım Analizi",
-  "ozet": "Eski F1 teknik direktörü Gary Anderson, Red Bull ve Mercedes araç tasarımlarındaki temel teknik farklılıkları derinlemesine inceliyor.",
-  "puan": 5.0,
-  "grup": "red-bull-mercedes-design-analysis",
-  "link": "https://www.the-race.com/formula-1/details-that-really-separate-red-bull-and-mercedes/",
-  "source": "The Race",
-  "ts": 1792482191.6219227
- },
- {
-  "cat": "f1",
-  "baslik": "ABD Grand Prix'si Öncesi Önemli Konu Başlıkları",
-  "ozet": "Andrea Kimi Antonelli bu hafta sonu şampiyonluğu garantileyebilecek mi? İşte Amerika Birleşik Devletleri Grand Prix'si öncesindeki en önemli konuşulan konular.",
-  "puan": 6.0,
-  "grup": "us-gp-2026-preview-storylines",
-  "link": "https://www.racefans.net/2026/10/20/early-coronation-for-antonelli-five-talking-points-for-the-united-states-grand-prix/",
-  "source": "RaceFans",
-  "ts": 1792482191.6219227
- },
- {
-  "cat": "araba",
   "baslik": "Mercedes Uzatılmış Menzilli Elektrikli Araçlara Mesafeli",
   "ozet": "Mercedes, şarj edilebilir hibrit modellerinin günlük sürüş ihtiyaçları için halihazırda yeterli elektrik menzili sunduğunu belirterek EREV teknolojisine şüpheyle yaklaşıyor.",
   "puan": 5.0,
@@ -2058,5 +1958,175 @@
   "link": "https://www.jalopnik.com/2292485/2027-mercedes-amg-gls63-first-drive-review/",
   "source": "Jalopnik",
   "ts": 1792646859.07102
+ },
+ {
+  "cat": "araba",
+  "baslik": "Alfa Romeo Tasarım Şefi: 'Büyük Ekranlardan Kurtulmalıyız'",
+  "ozet": "Alfa Romeo baş tasarımcısı Alejandro Mesonero-Romanos, otomobil iç mekanlarındaki devasa ekran trendini eleştirerek daha sade bir tasarıma odaklanacaklarını belirtti.",
+  "puan": 6.0,
+  "grup": "alfa-romeo-interior-screens-design",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/alfa-romeo-design-boss-lets-get-rid-big-screens",
+  "source": "Autocar",
+  "ts": 1792665208.3060343
+ },
+ {
+  "cat": "araba",
+  "baslik": "Volkswagen Elektrikli Bugatti İsterken Mate Rimac V16'yı Seçti",
+  "ozet": "Bugatti'nin eski sahibi Chiron'un elektrikli bir halefini hayal ederken, Rimac araya girerek V16 motorlu bir süper otomobil geliştirilmesini sağladı.",
+  "puan": 7.5,
+  "grup": "bugatti-tourbillon-v16-development",
+  "link": "https://www.motor1.com/news/812873/matte-rimac-rejected-electric-bugatti/",
+  "source": "Motor1",
+  "ts": 1792665208.3060343
+ },
+ {
+  "cat": "araba",
+  "baslik": "Dubai Polisi'nden Gürültülü Egzoz ve Modifikasyon Operasyonu",
+  "ozet": "Dubai Polisi, yasa dışı modifikasyonlar ve gürültülü egzozlar nedeniyle para cezası, trafik puanı ve araç bağlama dahil binlerce işlem yaptı.",
+  "puan": 3.0,
+  "grup": "dubai-police-loud-exhaust-fines",
+  "link": "https://www.motor1.com/news/812881/dubai-police-crack-down-loud/",
+  "source": "Motor1",
+  "ts": 1792665208.3060343
+ },
+ {
+  "cat": "araba",
+  "baslik": "Tesla, Cybercab Modellerini 2026 Sonu Gibi Satışa Çıkaracak",
+  "ozet": "Tesla'nın sürücüsüz robotaksi modeli Cybercab, şirketin kendi filosunda hizmet verirken 2026 yılı sonunda müşteri teslimatlarına başlamayı hedefliyor.",
+  "puan": 7.0,
+  "grup": "tesla-cybercab-2026-release",
+  "link": "https://www.motor1.com/news/812876/tesla-cybercab-deliveries-limited-ownership/",
+  "source": "Motor1",
+  "ts": 1792665208.3060343
+ },
+ {
+  "cat": "araba",
+  "baslik": "Audi, Spotify'ı Yerleşik Uygulama Olarak Sunan İlk Marka Oldu",
+  "ozet": "Audi'nin yeni platformunda yer alan yerleşik Spotify uygulaması, sürüş ve park modlarını ayırt ederek güvenli kullanım sunuyor.",
+  "puan": 5.5,
+  "grup": "audi-native-spotify-app-integration",
+  "link": "https://www.motor1.com/news/812871/audi-native-spotify-app-runs/",
+  "source": "Motor1",
+  "ts": 1792665208.3060343
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mercedes-AMG Yeni C63 İçin İki Farklı Model Geliştiriyor",
+  "ozet": "Mühendisler yeni nesil C63 için hem benzinli hem de tamamen elektrikli versiyonlar üzerinde çalışmalar yürütüyor.",
+  "puan": 7.0,
+  "grup": "mercedes-amg-new-c63-models",
+  "link": "https://www.motor1.com/news/812868/new-amg-c63-in-development/",
+  "source": "Motor1",
+  "ts": 1792665208.3060343
+ },
+ {
+  "cat": "araba",
+  "baslik": "Morgan 50 Müşterisine Kendi Spor Otomobilini Tasarlama Şansı Tanıyor",
+  "ozet": "Bespoke as Standard programı, Plus Four ve Supersport alıcılarını marka tasarımcılarıyla buluşturarak kişiselleştirilmiş dokunuşlar sunuyor.",
+  "puan": 5.0,
+  "grup": "morgan-bespoke-sports-car-design",
+  "link": "https://www.motor1.com/news/812861/morgan-bespoke-standard-lets-50/",
+  "source": "Motor1",
+  "ts": 1792665208.3060343
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ferrari'nin Elektrikli Modeli Luce, V12 Purosangue'den Pahalı Olacak",
+  "ozet": "Maranello'nun ilk tamamen elektrikli aracı, V12 motorlu SUV modeline kıyasla oldukça yüksek bir fiyat etiketine sahip olacak.",
+  "puan": 7.5,
+  "grup": "ferrari-luce-electric-car-pricing",
+  "link": "https://www.motor1.com/news/812854/2027-ferrari-luce-price-revealed/",
+  "source": "Motor1",
+  "ts": 1792665208.3060343
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ford'un Yeni Bronco ORV Paketi Tanıtıldı",
+  "ozet": "Bronco ORV yükseltme paketi, Fox süspansiyon, Raptor koruma plakaları ve özel aydınlatma donanımlarıyla zorlu araziler için hazırlandı.",
+  "puan": 6.5,
+  "grup": "ford-bronco-orv-package",
+  "link": "https://www.motor1.com/news/812838/ford-bronco-orv-package-costs/",
+  "source": "Motor1",
+  "ts": 1792665208.3060343
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 ABD GP Öncesi Bilgiler ve İstatistikler",
+  "ozet": "Amerika Grand Prix'si öncesinde pist istatistikleri, strateji ipuçları ve temel bilgiler bir arada sunuluyor.",
+  "puan": 3.5,
+  "grup": "us-gp-2026-tv-guide",
+  "link": "https://www.formula1.com/en/latest/article/need-to-know-the-most-important-facts-stats-and-trivia-ahead-of-the-2026-united-states-grand-prix.3yCUtnzlXLwOvhVtmsdVRK",
+  "source": "Formula1.com",
+  "ts": 1792665208.3060343
+ },
+ {
+  "cat": "f1",
+  "baslik": "Amerika Grand Prix'si Pist Rehberi",
+  "ozet": "Circuit of The Americas hakkında bilinmesi gereken tüm temel istatistikler ve sürüş ipuçları bu rehberde yer alıyor.",
+  "puan": 3.0,
+  "grup": "us-gp-circuit-strategy-analysis",
+  "link": "https://www.formula1.com/en/latest/article/circuit-guide-everything-you-need-to-know-about-the-circuit-of-the-americas.3OjhBbugiQRmN4FnlpBtBc",
+  "source": "Formula1.com",
+  "ts": 1792665208.3060343
+ },
+ {
+  "cat": "f1",
+  "baslik": "Lider Takımlar 2027 İçin Heyecan Verici Mücadelenin Temelini Atıyor",
+  "ozet": "Mercedes'in erken üstünlüğünün rakipleri tarafından kırılması, 2027 sezonu için büyüleyici bir mücadelenin sinyallerini veriyor.",
+  "puan": 5.0,
+  "grup": "f1-floor-stay-ban-2027",
+  "link": "https://www.formula1.com/en/latest/article/the-extra-gear-formula-1s-leading-teams-setting-up-thrilling-2027-title-battle.5Vm9Y6pNrUZSbpp4BX2NZo",
+  "source": "Formula1.com",
+  "ts": 1792665208.3060343
+ },
+ {
+  "cat": "f1",
+  "baslik": "Cadillac'tan Sergio Perez'e Özel 222.500 Dolarlık SUV",
+  "ozet": "Cadillac, Sergio Perez'in 300. Formula 1 startı şerefine sadece 11 adet üretilecek özel üretim Escalade-V modelini tanıttı.",
+  "puan": 2.5,
+  "grup": "sergio-perez-cadillac-special-edition",
+  "link": "https://www.motorsport.com/f1/news/cadillac-unveils-222500-sergio-perez-special-edition-ahead-of-300th-f1-start/10866891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792665208.3060343
+ },
+ {
+  "cat": "f1",
+  "baslik": "Schumacher'in Ferrari'den Ayrılışının Ardındaki Gerçek",
+  "ozet": "The Race F1 Rewind programının son bölümünde Michael Schumacher'in 2006'daki Ferrari ayrılığının ardındaki gerçekler masaya yatırılıyor.",
+  "puan": 2.0,
+  "grup": "f1-on-this-day-history",
+  "link": "https://www.the-race.com/formula-1/f1-rewind-the-truth-behind-schumachers-ferrari-exit/",
+  "source": "The Race",
+  "ts": 1792665208.3060343
+ },
+ {
+  "cat": "f1",
+  "baslik": "Podcast: ABD GP'si 2027 Sezonu İçin Neden Kritik?",
+  "ozet": "Austin'deki yarış öncesinde Mercedes, sadece güncellemelerini değil aynı zamanda 2027 beklentilerini de test ediyor.",
+  "puan": 4.5,
+  "grup": "mercedes-2026-season-challenges",
+  "link": "https://www.the-race.com/formula-1/podcast-why-f1s-us-gp-is-pivotal-for-shaping-2027/",
+  "source": "The Race",
+  "ts": 1792665208.3060343
+ },
+ {
+  "cat": "f1",
+  "baslik": "Horner'ın Kitabından Şaşırtıcı Beş Detay",
+  "ozet": "Christian Horner'ın kitabından Stroll'ün aracını test etmesi ve Mercedes'ten gelen iş teklifi gibi dikkat çekici detaylar derlendi.",
+  "puan": 2.0,
+  "grup": "christian-horner-book-revelations",
+  "link": "https://www.the-race.com/formula-1/five-surprising-things-we-learned-from-horners-book/",
+  "source": "The Race",
+  "ts": 1792665208.3060343
+ },
+ {
+  "cat": "f1",
+  "baslik": "Red Bull'un En Büyük F1 Kumarının Tam Hikayesi",
+  "ozet": "Red Bull Powertrains'in bir hayalden beş yılda F1 yarış kazanan bir yapıya dönüşmesinin benzeri görülmemiş hikayesi inceleniyor.",
+  "puan": 4.0,
+  "grup": "red-bull-powertrains-story",
+  "link": "https://www.the-race.com/formula-1/red-bull-shock-f1-engine-success-full-story/",
+  "source": "The Race",
+  "ts": 1792665208.3060343
  }
 ]
