@@ -1,16 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Saab Neden Kontak Anahtarını Koltuk Arasına Koydu?",
-  "ozet": "Saab'ın ikonikleşen ön koltuklar arasındaki kontak anahtarı tasarımı, sadece farklı olmak için değil güvenlik ve İsveç mühendisliği gereği ortaya çıkmıştı.",
-  "puan": 3.5,
-  "grup": "saab-ignition-key-between-seats",
-  "link": "https://www.motor1.com/features/812418/why-saab-ignition-key-between-front-seats/",
-  "source": "Motor1",
-  "ts": 1792462165.514464
- },
- {
-  "cat": "araba",
   "baslik": "BMW'den Çalışanlarına Yüksek Tazminat Teklifi",
   "ozet": "BMW, çalışanlarına yaş, maaş ve kıdeme göre değişen şartlarla 730.000 dolara varan erken ayrılma ve tazminat teklifleri sunuyor.",
   "puan": 6.0,
@@ -1978,5 +1968,95 @@
   "link": "https://www.motorsport.com/f1/news/carlos-sainzs-smooth-operator-lounge-returns-for-f1-las-vegas-gp/10866809/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1792629815.8888087
+ },
+ {
+  "cat": "araba",
+  "baslik": "Çinli üreticilerden 'küresel araba' stratejisi",
+  "ozet": "Çinli otomobil üreticileri, rekabetçi fiyatlar ve uygun modellerle tüm pazarlarda geçerli olan 'küresel araba' konseptini yeniden canlandırıyor.",
+  "puan": 6.0,
+  "grup": "china-global-car-strategy",
+  "link": "https://www.autocar.co.uk/car-news/business-manufacturing/return-world-car-china-backs-one-size-fits-all-approach",
+  "source": "Autocar",
+  "ts": 1792646859.07102
+ },
+ {
+  "cat": "araba",
+  "baslik": "MG Go, 2028'de İspanya'da üretilecek",
+  "ozet": "MG'nin tamamen elektrikli yeni modeli Go, Mini Cooper ve Renault 5'e rakip olarak 2028'den itibaren İspanya'daki yeni fabrikada üretilecek.",
+  "puan": 5.5,
+  "grup": "mg-go-electric-spain-factory",
+  "link": "https://www.autocar.co.uk/car-news/electric-cars/mg-go-electric-mini-cooper-rival-be-built-spain-2028",
+  "source": "Autocar",
+  "ts": 1792646859.07102
+ },
+ {
+  "cat": "araba",
+  "baslik": "3000 millik Renault 4 deneyimi",
+  "ozet": "Renault 4 ile geçirilen 3000 milin ardından, aracın küçük kardeşi Renault 5'e kıyasla günlük kullanımda nasıl bir performans sunduğu inceleniyor.",
+  "puan": 4.5,
+  "grup": "renault-4-long-term-test",
+  "link": "https://www.autocar.co.uk/car-review/long-term-reviews/3000-miles-renault-4-it-even-better-my-renault-5",
+  "source": "Autocar",
+  "ts": 1792646859.07102
+ },
+ {
+  "cat": "araba",
+  "baslik": "Wankel motoru neden yaygınlaşmadı?",
+  "ozet": "Kompakt, sarsıntısız ve güçlü olmasına rağmen Wankel motorlarının otomotiv endüstrisinde neden daha fazla üretici tarafından kullanılmadığı inceleniyor.",
+  "puan": 4.0,
+  "grup": "rotary-engine-history-future",
+  "link": "https://www.motor1.com/features/812734/why-dont-more-cars-use-rotary-engines/",
+  "source": "Motor1",
+  "ts": 1792646859.07102
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Mercedes-AMG GLS63 fotoğrafları",
+  "ozet": "Yenilenen 2027 model Mercedes-AMG GLS63'ün iç ve dış tasarım detaylarını gösteren yeni fotoğraflar yayınlandı.",
+  "puan": 5.0,
+  "grup": "mercedes-amg-gle-gls-2027",
+  "link": "https://www.caranddriver.com/photos/a74182251/2027-mercedes-amg-gls63-drive-gallery/",
+  "source": "Car and Driver",
+  "ts": 1792646859.07102
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Mercedes-AMG GLE63 S fotoğrafları",
+  "ozet": "Performans odaklı 2027 Mercedes-AMG GLE63 S modelinin dış ve iç mekanını gözler önüne seren görseller paylaşıldı.",
+  "puan": 5.0,
+  "grup": "mercedes-amg-gle-gls-2027",
+  "link": "https://www.caranddriver.com/photos/a74181727/2027-mercedes-amg-gle63-s-drive-gallery/",
+  "source": "Car and Driver",
+  "ts": 1792646859.07102
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Mercedes-AMG GLE53 fotoğrafları",
+  "ozet": "2027 Mercedes-AMG GLE53 modelinin güncellenen tasarım çizgilerini gösteren yeni fotoğraflar sergilendi.",
+  "puan": 5.0,
+  "grup": "mercedes-amg-gle-gls-2027",
+  "link": "https://www.caranddriver.com/photos/a74179379/2027-mercedes-amg-gle53-drive-gallery/",
+  "source": "Car and Driver",
+  "ts": 1792646859.07102
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Mercedes-AMG GLE ve GLS yenilendi",
+  "ozet": "GLE53 plug-in hibrit sisteme geçerken, GLE63 S ve GLS63 modelleri düz düzlem krank miline kavuştu.",
+  "puan": 6.5,
+  "grup": "mercedes-amg-gle-gls-2027",
+  "link": "https://www.caranddriver.com/reviews/a74177839/2027-mercedes-amg-gle-gls-drive/",
+  "source": "Car and Driver",
+  "ts": 1792646859.07102
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Mercedes-AMG GLS63 tanıtıldı",
+  "ozet": "Görsel güncellemeler ve performans geliştirmeleriyle yenilenen 2027 Mercedes-AMG GLS63 daha iddialı bir karakter kazandı.",
+  "puan": 6.0,
+  "grup": "mercedes-amg-gle-gls-2027",
+  "link": "https://www.jalopnik.com/2292485/2027-mercedes-amg-gls63-first-drive-review/",
+  "source": "Jalopnik",
+  "ts": 1792646859.07102
  }
 ]
