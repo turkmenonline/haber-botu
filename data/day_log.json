@@ -1,246 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Ford Bronco'ya Yeni ORV Paketi",
-  "ozet": "Ford Bronco, Fox süspansiyon kiti, LED aydınlatmalar ve özel jantlar içeren yeni ORV paketine kavuştu.",
-  "puan": 5.0,
-  "grup": "ford-bronco-orv-package",
-  "link": "https://www.caranddriver.com/news/a74207750/ford-bronco-orv-package-details/",
-  "source": "Car and Driver",
-  "ts": 1792609157.264851
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Ineos Grenadier Station Wagon",
-  "ozet": "2027 model Ineos Grenadier Station Wagon'un teknik özellikleri, fiyatlandırması ve incelemesi detaylandırıldı.",
-  "puan": 5.5,
-  "grup": "ineos-grenadier-station-wagon",
-  "link": "https://www.caranddriver.com/ineos/grenadier",
-  "source": "Car and Driver",
-  "ts": 1792609157.264851
- },
- {
-  "cat": "araba",
-  "baslik": "Gunther Werks'ten 860 Beygirlik Özel Porsche",
-  "ozet": "Martin Brundle'ın kızı tarafından tasarlanan 860 beygirlik bu özel Gunther Werks Turbo, efsanevi bir yarış kariyerine ithafen üretildi.",
-  "puan": 7.5,
-  "grup": "gunther-werks-porsche-brundle-tribute",
-  "link": "https://www.motor1.com/news/812799/gunter-werks-brundle-edition-porsche-911/",
-  "source": "Motor1",
-  "ts": 1792609157.264851
- },
- {
-  "cat": "araba",
-  "baslik": "Minnesota'da Çin Roketi Kalıntıları Bulundu",
-  "ozet": "Minnesota'daki bir mısır tarlasında, kolluk kuvvetlerinin dikkatini çekecek büyüklükte Çin roketine ait geniş uzay enkazı keşfedildi.",
-  "puan": 3.0,
-  "grup": "chinese-rocket-debris-minnesota",
-  "link": "https://www.jalopnik.com/2292318/debris-from-chinese-rocket-found-in-minnesota-cornfield/",
-  "source": "Jalopnik",
-  "ts": 1792609157.264851
- },
- {
-  "cat": "araba",
-  "baslik": "GM Teknoloji Günü: Otonom Sürüş ve OnStar",
-  "ozet": "General Motors, gelecekteki yeniliklerini ve otonom sürüş teknolojilerini önizlediği GM Forward etkinliğini düzenledi.",
-  "puan": 6.5,
-  "grup": "gm-tech-day-autonomous-driving",
-  "link": "https://www.caranddriver.com/news/a74195933/gm-tech-day-2026/",
-  "source": "Car and Driver",
-  "ts": 1792609157.264851
- },
- {
-  "cat": "araba",
-  "baslik": "GM'in Gelecek Yol Haritası Yapay Zekaya Dayanıyor",
-  "ozet": "General Motors; yapay zeka destekli OnStar, yeni nesil elektrikli araçlar ve otonom sürüşü içeren kapsamlı gelecek stratejisini açıkladı.",
-  "puan": 8.0,
-  "grup": "gm-tech-day-autonomous-driving",
-  "link": "https://www.thedrive.com/news/gm-just-laid-out-its-entire-future-it-runs-on-ai-eyes-off-driving-and-one-central-computer",
-  "source": "The Drive",
-  "ts": 1792609157.264851
- },
- {
-  "cat": "araba",
-  "baslik": "Hyundai Elantra N Monochrome Tanıtıldı",
-  "ozet": "Hyundai Elantra N Monochrome, şimdilik sadece Avustralya, Kanada ve Kore pazarında satışa sunulacak.",
-  "puan": 5.0,
-  "grup": "hyundai-elantra-n-monochrome",
-  "link": "https://www.jalopnik.com/2293306/hyundai-elantra-n-monochrome-special-edition-design-details/",
-  "source": "Jalopnik",
-  "ts": 1792609157.264851
- },
- {
-  "cat": "araba",
-  "baslik": "Nadir Bulunan Fabrika Çıkışlı Uzatılmış Volvo 240",
-  "ozet": "Fabrika çıkışlı olarak uzatılmış bu nadir Volvo 240 station wagon, uzun tavan tasarımıyla dikkat çekiyor.",
-  "puan": 3.5,
-  "grup": "rare-factory-stretched-volvo-240",
-  "link": "https://www.thedrive.com/news/this-factory-stretched-240-wagon-is-one-of-the-rarest-volvos",
-  "source": "The Drive",
-  "ts": 1792609157.264851
- },
- {
-  "cat": "araba",
-  "baslik": "Ford'dan 102.000 Araçlık Gösterge Paneli Geri Çağırması",
-  "ozet": "Ford, gösterge paneli sorunları nedeniyle 2025 ve 2026 model F-Serisi kamyonetlerinden 102.000 adet aracı geri çağırıyor.",
-  "puan": 7.5,
-  "grup": "ford-f-series-gauge-recall",
-  "link": "https://www.motor1.com/news/812763/ford-f-series-recall-over/",
-  "source": "Motor1",
-  "ts": 1792609157.264851
- },
- {
-  "cat": "araba",
-  "baslik": "Pirelli'nin Sensörlü Cyber Tire Lastikleri",
-  "ozet": "Pirelli'nin akıllı sensörlere sahip Cyber Tire lastikleri, son testlerde fren mesafesini önemli ölçüde kısaltarak etkileyici bir performans sergiledi.",
-  "puan": 6.0,
-  "grup": "pirelli-cyber-tire-sensor",
-  "link": "https://www.thedrive.com/news/pirellis-sensor-filled-cyber-tire-is-no-joke-helping-cars-stop-way-shorter",
-  "source": "The Drive",
-  "ts": 1792609157.264851
- },
- {
-  "cat": "araba",
-  "baslik": "Ukrayna'da Yaralı Asker Dev Drone ile Tahliye Edildi",
-  "ozet": "Savaş ortamında gerçek bir insanın dev bir drone ile ilk kez tahliye edilmesi operasyonel bir ilke imza attı.",
-  "puan": 4.0,
-  "grup": "ukraine-wounded-soldier-drone-evac",
-  "link": "https://www.jalopnik.com/2293129/ukraine-evacuates-wounded-soldier-giant-drone/",
-  "source": "Jalopnik",
-  "ts": 1792609157.264851
- },
- {
-  "cat": "araba",
-  "baslik": "Modifiye Miata ile Baja Yarışı Zaferi",
-  "ozet": "Buddy lakaplı arazi tipi Miata, NORRA yarışına katılarak sürpriz bir şekilde birincilik elde etti.",
-  "puan": 4.5,
-  "grup": "off-road-miata-baja-race-win",
-  "link": "https://www.jalopnik.com/2293093/buddy-off-road-miata-baja-race-winner/",
-  "source": "Jalopnik",
-  "ts": 1792609157.264851
- },
- {
-  "cat": "araba",
-  "baslik": "Ineos Grenadier Helmsman Edition Tanıtıldı",
-  "ozet": "Grenadier ailesine katılan yeni Helmsman özel versiyonu, denizcilikten ilham alan tasarımı ve ek donanımlarıyla öne çıkıyor.",
-  "puan": 5.0,
-  "grup": "ineos-grenadier-helmsman-edition",
-  "link": "https://www.caranddriver.com/news/a74206170/ineos-grenadier-helmsman-edition-revealed/",
-  "source": "Car and Driver",
-  "ts": 1792609157.264851
- },
- {
-  "cat": "araba",
-  "baslik": "Honda'dan Büyük SUV Planı",
-  "ozet": "Honda, Pilot modelinin üzerinde yer alacak daha büyük bir amiral gemisi SUV üretmeyi değerlendiriyor.",
-  "puan": 6.5,
-  "grup": "honda-flagship-large-suv",
-  "link": "https://www.motor1.com/features/812785/honda-pilot-xxl-specs-engine-details/",
-  "source": "Motor1",
-  "ts": 1792609157.264851
- },
- {
-  "cat": "araba",
-  "baslik": "Alfa Romeo Giulia Quadrifoglio Tabanlı Cabrio",
-  "ozet": "Castagna Milano, Giulia Quadrifoglio modelini temel alan özel bir üstü açılır lüks otomobil konsepti hazırladı.",
-  "puan": 6.0,
-  "grup": "alfa-romeo-giulia-quadrifoglio-cabrio",
-  "link": "https://www.caranddriver.com/news/a74205374/castagna-milano-alfa-romeo-giulia-convertible-design/",
-  "source": "Car and Driver",
-  "ts": 1792609157.264851
- },
- {
-  "cat": "araba",
-  "baslik": "Michelin Adamı'nın Korkunç Orijinal Tasarımı",
-  "ozet": "Dünyanın en ikonik maskotlarından biri olan Michelin Adamı, ilk yıllarında cam ve çivi yutan garip bir figür olarak tasarlanmıştı.",
-  "puan": 2.0,
-  "grup": "michelin-man-history-design",
-  "link": "https://www.motor1.com/features/812752/strange-history-of-the-michelin-man/",
-  "source": "Motor1",
-  "ts": 1792609157.264851
- },
- {
-  "cat": "f1",
-  "baslik": "Amerika GP Bahis Önerileri",
-  "ozet": "Uzman yazarlar, Circuit of the Americas için podyum ve puan tahminlerini içeren dört ayaklı bir bahis kuponu hazırladı.",
-  "puan": 2.0,
-  "grup": "us-gp-bet-builder-predictions",
-  "link": "https://www.formula1.com/en/latest/article/our-early-bet-builder-selections-made-for-the-united-states-grand-prix.2kelGtDv9XOh9tWkKFeIV0",
-  "source": "Formula1.com",
-  "ts": 1792609157.264851
- },
- {
-  "cat": "f1",
-  "baslik": "Aston Martin'den Amerika GP Özel Renk Düzeni",
-  "ozet": "Aston Martin takımı, Amerika Birleşik Devletleri Grand Prix'si için AMR26 aracında farklı bir görünüm sergileyecek.",
-  "puan": 4.5,
-  "grup": "aston-martin-us-gp-livery",
-  "link": "https://www.formula1.com/en/latest/article/gallery-aston-martin-reveal-special-livery-for-united-states-grand-prix.54xJBwPZxuLxE2ON1Oh2bi",
-  "source": "Formula1.com",
-  "ts": 1792609157.264851
- },
- {
-  "cat": "f1",
-  "baslik": "Amerika, Meksika ve Brezilya için F1 Fantasy Stratejisi",
-  "ozet": "COTA, Mexico City ve Interlagos yarışları öncesinde F1 Fantasy kadronuzda yer alması gereken pilotlar ve takımlar değerlendiriliyor.",
-  "puan": 3.0,
-  "grup": "f1-fantasy-americas-strategy",
-  "link": "https://www.formula1.com/en/latest/article/f1-fantasy-strategist-preview-the-alpine-mini-league-and-what-you-need-to-know-for-the-us-mexico-and-brazil.5PalKAaeXaGqR6yYGvubuO",
-  "source": "Formula1.com",
-  "ts": 1792609157.264851
- },
- {
-  "cat": "f1",
-  "baslik": "Pilotlar COTA'nın Zorluklarıyla Nasıl Başa Çıkıyor?",
-  "ozet": "Formula 1'de performans ve strateji, anlık değişen koşullarda verilen kritik kararlarla şekilleniyor.",
-  "puan": 4.0,
-  "grup": "us-gp-circuit-strategy-analysis",
-  "link": "https://www.formula1.com/en/latest/article/the-risk-perspective-how-f1-drivers-engineers-and-strategists-tackle-the-circuit-of-the-americas.741JHFwQ3tVxbddx0ndKXz",
-  "source": "Formula1.com",
-  "ts": 1792609157.264851
- },
- {
-  "cat": "f1",
-  "baslik": "F1 Deneyimi Kazanma Şansı",
-  "ozet": "Taraftarlar, ızgarayı eşleştirerek nihai Formula 1 deneyimini kazanma şansı yakalıyor.",
-  "puan": 1.5,
-  "grup": "f1-experience-win-competition",
-  "link": "https://www.formula1.com/en/latest/article/match-the-grid-for-your-chance-to-win-the-ultimate-f1-experience-week5.2t2L2pj3NSCwiiwQiom4sv",
-  "source": "Formula1.com",
-  "ts": 1792609157.264851
- },
- {
-  "cat": "f1",
-  "baslik": "Mercedes'ten Amerika GP İçin Çarpıcı Mavi Renk Düzeni",
-  "ozet": "Mercedes, Kimi Antonelli'nin şampiyonluk mücadelesi vereceği Amerika Grand Prix'si için özel mavi renk düzenini tanıttı.",
-  "puan": 5.0,
-  "grup": "mercedes-us-gp-livery",
-  "link": "https://www.motorsport.com/f1/news/mercedes-f1-unveils-dramatic-new-look-for-united-states-grand-prix/10866765/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792609157.264851
- },
- {
-  "cat": "f1",
-  "baslik": "Takımlardan Amerika GP'ye Özel Koleksiyonlar",
-  "ozet": "Formula 1 takımları, Austin'deki ABD Grand Prix'si için denim, cowboy şapkaları ve Batı tarzı özel ürünlerini tanıttı.",
-  "puan": 3.0,
-  "grup": "us-gp-team-merchandise-collections",
-  "link": "https://www.motorsport.com/f1/news/f1-teams-reveal-special-united-states-gp-collections-with-denim-cowboy-hats-and-godzilla/10866761/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792609157.264851
- },
- {
-  "cat": "f1",
-  "baslik": "Amerika GP Öncesi Dikkat Edilmesi Gereken 5 Şey",
-  "ozet": "Kuzey Amerika'daki üçlü yarış serisinin ilk ayağı olan Austin'deki Amerika Grand Prix'si öncesinde öne çıkan beş başlık.",
-  "puan": 4.5,
-  "grup": "us-gp-five-things-to-watch",
-  "link": "https://www.motorsport.com/f1/news/five-things-to-watch-out-for-at-the-f1-united-states-gp/10866706/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792609157.264851
- },
- {
-  "cat": "araba",
   "baslik": "Acura'dan Model Yelpazesi Genişletme Hedefi",
   "ozet": "Acura, on katı sonuna kadar ABD'de 200.000 satış hedefleyerek ürün gamını dört araçtan altıya çıkaracak.",
   "puan": 5.0,
@@ -2438,5 +2198,325 @@
   "link": "https://www.the-race.com/formula-1/f1-race-control-remote-operations-stewards-fia-evolution/",
   "source": "The Race",
   "ts": 1792770786.082934
+ },
+ {
+  "cat": "araba",
+  "baslik": "İnternette Bulunan İlginç İkinci El Araçlar",
+  "ozet": "Yazarın internet ilanlarında bulduğu Yamaha Thundercat, Ford Focus SVT ve Chevy SS gibi dikkat çekici araçlar listeleniyor.",
+  "puan": 2.0,
+  "grup": "best-appliance-car-discussion",
+  "link": "https://www.jalopnik.com/2295736/yamaha-thundercar-ford-focus-svt-chevy-ss-dopest-cars-for-sale/",
+  "source": "Jalopnik",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "araba",
+  "baslik": "Willow Springs Pisti Yenileme Çalışmalarını Kutladı",
+  "ozet": "Tarihi yarış pisti, yeni binaları ve yenilenen asfaltını drift araçları ve nostaljik yarışlarla sergiledi.",
+  "puan": 4.0,
+  "grup": "willow-springs-raceway-renovation-progress",
+  "link": "https://www.caranddriver.com/news/a74195588/willow-springs-raceway-upgrades-latest-news/",
+  "source": "Car and Driver",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "araba",
+  "baslik": "Goodyear'ın Efsanevi Hava Gemisinin Tarihi",
+  "ozet": "Lastik üreticisi Goodyear'ın havacılık ve motorsporları tarihine damga vuran ikonik hava gemisinin hikayesi ele alınıyor.",
+  "puan": 3.0,
+  "grup": "goodyear-blimp-history",
+  "link": "https://www.motor1.com/features/813010/why-does-goodyear-own-a-blimp/",
+  "source": "Motor1",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "araba",
+  "baslik": "Honda, Mitsubishi Ortaklığıyla Şasi Üzeri Kamyonet Pazarına Giriyor",
+  "ozet": "Honda, esas olarak Güneydoğu Asya'da satılacak ve Mitsubishi Triton bazlı olacak yeni bir kamyonet geliştiriyor.",
+  "puan": 7.5,
+  "grup": "honda-mitsubishi-ladder-frame-truck",
+  "link": "https://www.jalopnik.com/2295704/honda-announced-body-on-frame-truck-mitsubishi-triton-based/",
+  "source": "Jalopnik",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "araba",
+  "baslik": "NASCAR Pilotları Peel P50 ile Sınırları Zorladı",
+  "ozet": "Genç NASCAR pilotları, dünyanın en küçük otomobillerinden biri olan Peel P50 direksiyonuna geçerek eğlenceli dakikalar yaşadı.",
+  "puan": 3.5,
+  "grup": "nascar-drivers-peel-p50-test",
+  "link": "https://www.jalopnik.com/2293245/nascar-young-drivers-peel50-paces/",
+  "source": "Jalopnik",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "araba",
+  "baslik": "Acura Dört Yeni İsim Tescilledi",
+  "ozet": "Japon üretici Acura, gelecekteki olası SUV modelleri için dört yeni ismi tescil ettirdi.",
+  "puan": 5.0,
+  "grup": "acura-trademark-new-suv-names",
+  "link": "https://www.motor1.com/news/813068/honda-acura-trademarks-point-future/",
+  "source": "Motor1",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "araba",
+  "baslik": "NHTSA Kamyonet Tanımını Değiştiriyor",
+  "ozet": "ABD'de 2030 yılından itibaren yürürlüğe girecek yeni düzenleme, kamyonet tanımını değiştirerek otomobil pazarını etkileyebilir.",
+  "puan": 6.0,
+  "grup": "nhtsa-truck-definition-change",
+  "link": "https://www.caranddriver.com/news/a74230826/nhtsa-redefines-trucks-ruling-2030-details/",
+  "source": "Car and Driver",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "araba",
+  "baslik": "IndyCar 20 Yıl Sonra İlk Kez Avrupa'da Yarışacak",
+  "ozet": "IndyCar serisi, gelecek sezon Barselona'da düzenlenecek yarışla 20 yıl sonra ilk kez Kuzey Amerika dışına çıkacak.",
+  "puan": 6.5,
+  "grup": "indycar-barcelona-european-round",
+  "link": "https://www.jalopnik.com/2295572/indycar-will-race-in-barcelona-next-season-2027/",
+  "source": "Jalopnik",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Cadillac Escalade-V Collector Series Tanıtıldı",
+  "ozet": "Cadillac'ın 125. yılını kutlayan özel seri Escalade-V, sınırlı sayıda üretilen özel tasarım detaylarıyla geliyor.",
+  "puan": 8.0,
+  "grup": "cadillac-escalade-v-125th-anniversary",
+  "link": "https://www.caranddriver.com/news/a74231668/2027-cadillac-escalade-v-125th-anniversary-collector-series/",
+  "source": "Car and Driver",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "araba",
+  "baslik": "Tamirci Müşterinin Audi'sini Test Sürüşünde Parçaladı",
+  "ozet": "Bir oto servis çalışanı, mesai saatleri dışında izinsiz aldığı müşteri aracını kazada hurdaya çıkardı.",
+  "puan": 4.0,
+  "grup": "mechanic-totals-customer-audi",
+  "link": "https://www.thedrive.com/news/mechanic-totals-womans-audi-on-unauthorized-test-drive-is-it-her-fault-for-giving-him-the-keys",
+  "source": "The Drive",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "araba",
+  "baslik": "Lamborghini Revuelto SV Sürüş İzlenimleri",
+  "ozet": "1.050 beygir güç üreten ve yarış frenlerine sahip olan Lamborghini Revuelto SV, beklentileri fazlasıyla karşılıyor.",
+  "puan": 7.5,
+  "grup": "lamborghini-revuelto-sv-driven",
+  "link": "https://www.motor1.com/reviews/812987/lamborghini-revuelto-sv-first-drive-review/",
+  "source": "Motor1",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "araba",
+  "baslik": "Minik Oyuncak Yarış Arabaları Bir Aydır Kesintisiz Sürüşte",
+  "ozet": "Dayanıklılık testi amacıyla çalışan minik prototip yarış arabaları, bir aydır durmaksızın hareket etmeye devam ediyor.",
+  "puan": 3.0,
+  "grup": "toy-race-cars-endurance-test",
+  "link": "https://www.thedrive.com/news/these-toy-race-cars-have-been-driving-in-place-for-a-month-and-theyre-still-going",
+  "source": "The Drive",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "araba",
+  "baslik": "HWA'dan Yeni Mercedes-AMG Hammer Teaser'ı",
+  "ozet": "Alman motorsporları uzmanı HWA, efsanevi Mercedes modelini yeniden modernize ederek tanıtmaya hazırlanıyor.",
+  "puan": 6.5,
+  "grup": "hwa-reimagined-mercedes-hammer",
+  "link": "https://www.caranddriver.com/news/a74230362/hwa-new-mercedes-amg-hammer-teaser/",
+  "source": "Car and Driver",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Chevrolet Silverado EV İncelemesi",
+  "ozet": "Tamamen elektrikli 2027 Chevrolet Silverado EV modelinin teknik özellikleri, fiyatı ve performans detayları açıklandı.",
+  "puan": 6.5,
+  "grup": "chevrolet-silverado-ev-2027",
+  "link": "https://www.caranddriver.com/chevrolet/silverado-ev",
+  "source": "Car and Driver",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "f1",
+  "baslik": "ABD GP Öncesi Üç Pilote Ceza",
+  "ozet": "Arvid Lindblad, Franco Colapinto ve Gabriel Bortoleto, ABD Grand Prix'si öncesinde güç ünitesi değişiklikleri nedeniyle grid cezası aldı.",
+  "puan": 8.0,
+  "grup": "us-gp-2026-grid-penalties",
+  "link": "https://www.formula1.com/en/latest/article/lindblad-colapinto-and-bortoleto-to-take-grid-penalties-for-united-states-grand-prix.4qjn84W4zOmwNXeELFWn0k",
+  "source": "Formula1.com",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "f1",
+  "baslik": "Amerika GP İlk Antrenman Seansında En Hızlısı Leclerc",
+  "ozet": "Charles Leclerc, Amerika Grand Prix'sinin ilk antrenman seansında en hızlı tur zamanına imza attı.",
+  "puan": 5.0,
+  "grup": "us-gp-2026-fp1-results",
+  "link": "https://www.formula1.com/en/latest/article/fp1-leclerc-fastest-in-first-practice-for-the-united-states-gp-ahead-of-verstappen-and-norris.125WlaFK7K1mXXyLgb93ui",
+  "source": "Formula1.com",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "f1",
+  "baslik": "Amerika GP İlk Antrenman Seansı Canlı Anlatımı",
+  "ozet": "2026 Formula 1 Amerika Grand Prix'sinin ilk antrenman seansının canlı anlatımı.",
+  "puan": 3.0,
+  "grup": "us-gp-2026-fp1-results",
+  "link": "https://www.formula1.com/en/latest/article/live-coverage-first-practice-in-the-united-states-2026.4RPi7TTxLPbQv2rXIDvFPk",
+  "source": "Formula1.com",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ferrari Pilotlarından ABD GP Güncellemeleri Hakkında Açıklama",
+  "ozet": "Lewis Hamilton ve Charles Leclerc, Austin'e getirilen yeni taban ve sidepod içeren güncellemelerden büyük bir beklentileri olmadığını belirtti.",
+  "puan": 4.5,
+  "grup": "ferrari-us-gp-upgrades",
+  "link": "https://www.motorsport.com/f1/news/ferrari-drivers-deliver-disappointing-verdict-on-much-hyped-united-states-gp-upgrade/10867525/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "f1",
+  "baslik": "Leclerc, Baba Olmaya Hazırlanıyor",
+  "ozet": "Charles Leclerc, ilk çocuğunun doğumunun yakın olmasına rağmen sezonun kalan altı yarışını kaçırmayı beklemediğini söyledi.",
+  "puan": 2.5,
+  "grup": "charles-leclerc-baby-birth",
+  "link": "https://www.motorsport.com/f1/news/charles-leclerc-addresses-potential-f1-race-absence-ahead-of-first-childs-birth/10867519/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "f1",
+  "baslik": "ABD GP FP1: Leclerc, Verstappen'in Önünde",
+  "ozet": "Ferrari pilotu Charles Leclerc, ABD GP ilk antrenman seansında Red Bull'dan Max Verstappen'in önünde en hızlı zamanı yaptı.",
+  "puan": 5.0,
+  "grup": "us-gp-2026-fp1-results",
+  "link": "https://www.the-race.com/formula-1/leclerc-heads-verstappen-in-first-f1-us-gp-practice/",
+  "source": "The Race",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "f1",
+  "baslik": "ABD GP FP1: Güncellenen Ferrari ile Leclerc Zirvede",
+  "ozet": "Charles Leclerc, güncellenen Ferrari aracıyla Max Verstappen'i geride bırakarak Austin'deki ilk antrenman seansını lider tamamladı.",
+  "puan": 5.0,
+  "grup": "us-gp-2026-fp1-results",
+  "link": "https://www.autosport.com/f1/news/f1-united-states-gp-leclerc-beats-verstappen-to-top-fp1/10867509/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "f1",
+  "baslik": "ABD GP İlk Antrenmanda Leclerc Zirveyi Aldı",
+  "ozet": "Ferrari sürücüsü Charles Leclerc, Red Bull'dan Max Verstappen'i az farkla geçerek ilk antrenman seansının en hızlısı oldu.",
+  "puan": 5.0,
+  "grup": "us-gp-2026-fp1-results",
+  "link": "https://www.motorsport.com/f1/news/f1-united-states-gp-charles-leclerc-pips-max-verstappen-to-top-fp1/10867489/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "f1",
+  "baslik": "Leclerc, Austin'deki İlk Antrenmanda İlk Sırada",
+  "ozet": "Charles Leclerc, Amerika Grand Prix'sinin açılış seansını zirvede tamamlarken Max Verstappen onu yakından takip etti.",
+  "puan": 5.0,
+  "grup": "us-gp-2026-fp1-results",
+  "link": "https://www.racefans.net/2026/10/23/leclerc-puts-upgraded-ferrari-on-top-ahead-of-verstappen-in-first-practice/",
+  "source": "RaceFans",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 F1 ABD GP Antrenman Sonuçları",
+  "ozet": "2026 Formula 1 ABD Grand Prix'si antrenman seansından tüm sonuçlar.",
+  "puan": 3.0,
+  "grup": "us-gp-2026-fp1-results",
+  "link": "https://www.the-race.com/formula-1/f1-2026-united-states-grand-prix-practice-results/",
+  "source": "The Race",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "f1",
+  "baslik": "Jack Wolff'tan Büyük Go-Kart Kazası",
+  "ozet": "Toto ve Susie Wolff'un 9 yaşındaki oğlu Jack Wolff, geçirdiği büyük kazanın ardından yarın yarışmak istediğini belirtti.",
+  "puan": 2.0,
+  "grup": "jack-wolff-karting-crash",
+  "link": "https://www.motorsport.com/f1/news/toto-wolffs-9-year-old-son-walks-away-from-a-terrifying-go-kart-crash-and-demands-to-race-tomorrow/10867498/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "f1",
+  "baslik": "Amerika GP'sinde Üç Pilota Grid Cezası",
+  "ozet": "Güç ünitesi bileşen sınırını aşan en az üç pilot, ABD Grand Prix'sinde grid cezası alacak.",
+  "puan": 8.0,
+  "grup": "us-gp-2026-grid-penalties",
+  "link": "https://www.the-race.com/formula-1/three-drivers-get-grid-penalties-at-f1s-us-gp/",
+  "source": "The Race",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "f1",
+  "baslik": "Liam Lawson'dan Canlı Müzik Performansı Öncesi Nostalji",
+  "ozet": "Liam Lawson, Austin'deki yarış hafta sonunda müzik performansı sergilemeden önce geçmiş yıllara ait bir video paylaştı.",
+  "puan": 1.5,
+  "grup": "liam-lawson-austin-gig",
+  "link": "https://www.motorsport.com/f1/news/liam-lawson-shares-throwback-video-before-first-live-performance-in-over-a-decade/10867500/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ricciardo'dan Lawson'a Destek",
+  "ozet": "Daniel Ricciardo, Austin'de müzik grubuyla sahne alan eski meslektaşını izlemeye gitti.",
+  "puan": 2.0,
+  "grup": "liam-lawson-austin-gig",
+  "link": "https://www.motorsport.com/f1/news/fans-lose-it-as-daniel-ricciardo-spotted-supporting-liam-lawson-at-austin-live-performance/10867496/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "f1",
+  "baslik": "Norris'ten McLaren'a Sert Uyarı",
+  "ozet": "Lando Norris, aracının kullandığı en zor araçlardan biri olduğunu belirterek takıma uyarılarda bulundu.",
+  "puan": 4.5,
+  "grup": "lando-norris-mclaren-car-handling",
+  "link": "https://www.motorsport.com/f1/news/norris-issues-brutal-warning-to-mclaren-one-of-the-hardest-cars-ive-ever-had-to-drive/10867466/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "f1",
+  "baslik": "George Russell: Şampiyonluk Değil Kendi Sürüşüm Uyutmadı",
+  "ozet": "George Russell, zor geçen sezonda şampiyonluk mücadelesinden ziyade kendi sürüş performansına odaklandığını ifade etti.",
+  "puan": 4.0,
+  "grup": "george-russell-mercedes-struggles",
+  "link": "https://www.motorsport.com/f1/news/george-russell-reveals-he-lost-sleep-over-his-own-driving-not-the-f1-championship/10867451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "f1",
+  "baslik": "Russell: Mercedes Güncellemeleri Zaman İstiyor",
+  "ozet": "George Russell, takımın yeni güncelleme paketinin henüz tam anlamıyla oturmadığını ve zaman gerektirdiğini kabul etti.",
+  "puan": 4.5,
+  "grup": "george-russell-mercedes-struggles",
+  "link": "https://www.motorsport.com/f1/news/george-russell-admits-mercedes-still-needs-time-to-fine-tune-problematic-upgrade-package/10867446/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792785314.3244162
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ferrari'nin ABD GP İçin Yeni Aero Paketi",
+  "ozet": "Ferrari, Amerika Grand Prix'si öncesinde pilotların bahsettiğinden daha önemli bir aero güncellemesi hazırladı.",
+  "puan": 4.5,
+  "grup": "ferrari-us-gp-upgrades",
+  "link": "https://www.the-race.com/formula-1/ferrari-f1-2026-us-gp-biggest-upgrade-revealed/",
+  "source": "The Race",
+  "ts": 1792785314.3244162
  }
 ]
