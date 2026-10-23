@@ -1,196 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Checo Perez Özel Üretim Cadillac Escalade-V'ye Kavuştu",
-  "ozet": "Sadece 11 adet üretilecek olan Cadillac Escalade-V Checo Perez Edition, Meksika pazarına özel ve koleksiyonculara yönelik görsel dokunuşlar sunuyor.",
-  "puan": 4.0,
-  "grup": "cadillac-escalade-v-checo-perez-edition",
-  "link": "https://www.motor1.com/news/812710/checo-perez-cadillac-escalade-v/",
-  "source": "Motor1",
-  "ts": 1792575313.5295298
- },
- {
-  "cat": "araba",
-  "baslik": "Fiat'ın Sıradışı Multipla Konsepti Üretime Gelebilir",
-  "ozet": "Yeni Multipla esinli konsept modelin, önümüzdeki 2-3 yıl içinde üretime alınarak bir aile otomobiline dönüşebileceği belirtiliyor.",
-  "puan": 5.0,
-  "grup": "fiat-multipla-revival-production",
-  "link": "https://www.motor1.com/news/812703/fiat-multipla-production-considered/",
-  "source": "Motor1",
-  "ts": 1792575313.5295298
- },
- {
-  "cat": "araba",
-  "baslik": "Mercedes 'Küçük G-Class' Modelini 24 Ay İçinde Tanıtacak",
-  "ozet": "Mercedes-Benz yöneticileri, ikonik G-Class tasarımını ve arazi odaklı yapısını koruyacak olan yeni kompakt lüks SUV'yi iki yıl içinde piyasaya süreceklerini doğruladı.",
-  "puan": 7.5,
-  "grup": "mercedes-benz-little-g-class",
-  "link": "https://www.motor1.com/news/812704/mercedes-benz-little-g-targets/",
-  "source": "Motor1",
-  "ts": 1792575313.5295298
- },
- {
-  "cat": "araba",
-  "baslik": "Alfa Romeo Giulia Quadrifoglio İki Kişilik Cabrio'ya Dönüştürüldü",
-  "ozet": "İtalyan karoser üreticisi, Giulia sedan modelini radikal bir görünüme sahip iki kapılı bir üstü açılır coupe-cabrio araca dönüştürdü.",
-  "puan": 6.0,
-  "grup": "alfa-romeo-giulia-quadrifoglio-cabrio",
-  "link": "https://www.motor1.com/news/812700/alfa-romeo-giulia-coupe-convertible/",
-  "source": "Motor1",
-  "ts": 1792575313.5295298
- },
- {
-  "cat": "araba",
-  "baslik": "Octopus'tan Elektrikli Filo Şarjında Yüzde 30'a Varan İndirim",
-  "ozet": "İngiltere merkezli enerji tedarikçisi Octopus, büyük şarj ağlarında geçerli olmak üzere filo araçlarına yüzde 30'a varan indirimler sunarak geçiş süreçlerini kolaylaştırmayı hedefliyor.",
-  "puan": 3.5,
-  "grup": "octopus-ev-fleet-charging-discount",
-  "link": "https://www.autocar.co.uk/car-news/electric-cars/octopus-slashes-30-ev-fleet-charging",
-  "source": "Autocar",
-  "ts": 1792575313.5295298
- },
- {
-  "cat": "araba",
-  "baslik": "Lexus TX 550h+ Modelinin Üretimi Sonlandırılıyor",
-  "ozet": "Üç sıralı koltuğa sahip Lexus TX ailesi, 2027 yılı itibarıyla şarj edilebilir hibrit seçeneğini bırakarak sadece benzinli ve standart hibrit versiyonlarla yola devam edecek.",
-  "puan": 5.5,
-  "grup": "lexus-tx550h-plus-discontinued",
-  "link": "https://www.motor1.com/news/812690/lexus-tx-550h-discontinued-after/",
-  "source": "Motor1",
-  "ts": 1792575313.5295298
- },
- {
-  "cat": "araba",
-  "baslik": "AB, 2035 Sonrası İçten Yanmalı Motorlar İçin Adım Atıyor",
-  "ozet": "Avrupa Birliği'nin üzerinde çalıştığı son anlaşma, emisyon hedeflerini esneterek içten yanmalı motorların 2035 sonrasında da hayatta kalmasına zemin hazırlıyor.",
-  "puan": 8.0,
-  "grup": "eu-gas-cars-ban-relaxation",
-  "link": "https://www.motor1.com/news/812687/eu-moves-closer-delay-ice-ban/",
-  "source": "Motor1",
-  "ts": 1792575313.5295298
- },
- {
-  "cat": "araba",
-  "baslik": "Mercedes İki Farklı CLA Modelini Çarpışma Testine Soktu",
-  "ozet": "Mühendisler, yüksek voltajlı batarya tepkisini ve yolcu yaralanmalarını incelemek amacıyla hibrit CLA Shooting Brake modelini elektrikli CLA ile saatte 35 mil hızla çarptırdı.",
-  "puan": 7.0,
-  "grup": "mercedes-cla-models-safety-crash-test",
-  "link": "https://www.motor1.com/news/812673/mercedes-benz-cla-crash-test/",
-  "source": "Motor1",
-  "ts": 1792575313.5295298
- },
- {
-  "cat": "araba",
-  "baslik": "Alpine, A390 Satışlarının Ardından Marka Değerine Odaklanıyor",
-  "ozet": "Alpine A390 modelinin satışları beklentilerin altında kalsa da Renault Grubu yöneticileri, SUV modelinin hacim kovalamaktan ziyade markanın uzun vadeli geleceği için kritik olduğunu vurguluyor.",
-  "puan": 5.5,
-  "grup": "alpine-a390-sales-brand-strategy",
-  "link": "https://www.autocar.co.uk/car-news/electric-cars/alpine-prioritises-brand-integrity-over-sales-after-slow-start-a390",
-  "source": "Autocar",
-  "ts": 1792575313.5295298
- },
- {
-  "cat": "araba",
-  "baslik": "AB'nin 'Avrupa'da Üretildi' Planı İngiltere İçin Risk Teşkil Edebilir",
-  "ozet": "Avrupa Birliği, Çinli araçlara gümrük vergisi uygulanması konusunda İngiltere'ye baskı yaparken, uzmanlar bu serbest piyasa karşıtı hamlenin İngiliz pazarı için dezavantaj olabileceğini belirtiyor.",
-  "puan": 6.5,
-  "grup": "eu-made-in-europe-uk-impact",
-  "link": "https://www.autocar.co.uk/opinion/business-corporate/eus-made-europe-plan-could-be-raw-deal-uk",
-  "source": "Autocar",
-  "ts": 1792575313.5295298
- },
- {
-  "cat": "f1",
-  "baslik": "Mercedes'ten ABD GP'ye Özel Renk Düzeni",
-  "ozet": "Mercedes, bu hafta sonu düzenlenecek Amerika Birleşik Devletleri Grand Prix'si için özel bir renk düzeni tanıtan son takımlar arasına katıldı.",
-  "puan": 3.5,
-  "grup": "mercedes-us-gp-livery",
-  "link": "https://www.formula1.com/en/latest/article/gallery-mercedes-show-off-special-livery-for-united-states-grand-prix-weekend.56I955QMPnrmCAzO1hQdpu",
-  "source": "Formula1.com",
-  "ts": 1792575313.5295298
- },
- {
-  "cat": "f1",
-  "baslik": "FIA, Bütçe Sınırı Açığını Kapatmak İçin Yeni Kurallar Getiriyor",
-  "ozet": "FIA Dünya Motor Sporları Konseyi, F1 dışı personelin Formula 1 projelerinde çalışmasını engelleyen yeni düzenlemeleri onayladı.",
-  "puan": 7.5,
-  "grup": "f1-budget-cap-strict-rules-fia",
-  "link": "https://www.autosport.com/f1/news/fia-set-to-close-f1-cost-cap-loophole/10866649/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1792575313.5295298
- },
- {
-  "cat": "f1",
-  "baslik": "FIA, Bütçe Sınırı Açığını Kapatmak İçin Yeni Kuralı Uygulamaya Koydu",
-  "ozet": "FIA Dünya Motor Sporları Konseyi, takımların F1 dışı personelini Formula 1 projelerinde çalışmaktan alıkoyan yeni düzenlemeleri onayladı.",
-  "puan": 7.5,
-  "grup": "f1-budget-cap-strict-rules-fia",
-  "link": "https://www.motorsport.com/f1/news/fia-enforces-new-rule-to-close-f1-cost-cap-loophole/10866642/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792575313.5295298
- },
- {
-  "cat": "f1",
-  "baslik": "FIA'nın Yeni Yarış Operasyon Merkezi Biggin Hill'de Açıldı",
-  "ozet": "FIA, yeni Yarış Operasyon Merkezi için Formula 1'in Birleşik Krallık'taki Biggin Hill üssünü kullanmaya başladı.",
-  "puan": 5.0,
-  "grup": "fia-race-operations-centre-biggin-hill",
-  "link": "https://www.racefans.net/2026/10/21/fias-new-formula-1-race-operations-centre-opens-at-foms-biggin-hill-base/",
-  "source": "RaceFans",
-  "ts": 1792575313.5295298
- },
- {
-  "cat": "f1",
-  "baslik": "Charles Leclerc'ten Büyük Güncelleme Öncesi Ferrari İtirafı",
-  "ozet": "Charles Leclerc, Ferrari'nin asıl probleminin ayar değil aracın saf performansı olduğunu belirterek, ABD GP öncesi endişelerini dile getirdi.",
-  "puan": 5.5,
-  "grup": "charles-leclerc-ferrari-us-gp-upgrade",
-  "link": "https://www.motorsport.com/f1/news/charles-leclerc-makes-worrying-ferrari-admission-ahead-of-major-f1-upgrade/10866596/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792575313.5295298
- },
- {
-  "cat": "f1",
-  "baslik": "Lando Norris: Singapur'daki Temas Sonrası Daha İyi Kararlar Almalıyım",
-  "ozet": "Lando Norris, Singapur GP sprint yarışında takım arkadaşı Oscar Piastri ile yaşadığı temasın ardından daha iyi kararlar alması gerektiğini kabul etti.",
-  "puan": 6.0,
-  "grup": "lando-norris-oscar-piastri-singapore-clash",
-  "link": "https://www.autosport.com/f1/news/norris-promises-to-make-better-decisions-following-fresh-talks-over-singapore-gp-clash/10866627/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1792575313.5295298
- },
- {
-  "cat": "f1",
-  "baslik": "McLaren Singapur Kazası Sonrası Görüşmeler Düzenledi",
-  "ozet": "Lando Norris, Singapur sprint yarışındaki kazanın ardından McLaren yönetiminin kurallarını hatırlatmasıyla daha iyi kararlar alacağını söyledi.",
-  "puan": 6.0,
-  "grup": "lando-norris-oscar-piastri-singapore-clash",
-  "link": "https://www.motorsport.com/f1/news/mclaren-held-fresh-talks-after-singapore-gp-clash-as-lando-norris-promises-to-make-better-decisions/10866551/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792575313.5295298
- },
- {
-  "cat": "f1",
-  "baslik": "Christian Horner'dan 2021 Abu Dhabi GP İtirafı",
-  "ozet": "Christian Horner anı kitabında, 2021 Abu Dhabi Grand Prix'sinde yarışın yeniden başlatılması için Michael Masi'ye bilinçli olarak baskı yaptığını açıkladı.",
-  "puan": 6.5,
-  "grup": "christian-horner-2021-abu-dhabi-book",
-  "link": "https://www.motorsport.com/f1/news/christian-horner-reveals-new-details-of-controversial-2021-abu-dhabi-gp/10866594/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792575313.5295298
- },
- {
-  "cat": "f1",
-  "baslik": "Max Verstappen'den COTA Zemin Açıklaması",
-  "ozet": "Max Verstappen, Amerika Pisti'ndeki notori tümsekler nedeniyle bu hafta sonunun kendisi için sarsıntılı geçeceğini belirtti.",
-  "puan": 3.0,
-  "grup": "max-verstappen-cota-bumps",
-  "link": "https://www.racefans.net/2026/10/21/ill-probably-need-to-order-a-new-spine-verstappen-braced-for-bumpy-weekend-at-cota/",
-  "source": "RaceFans",
-  "ts": 1792575313.5295298
- },
- {
-  "cat": "araba",
   "baslik": "Elon Musk'ın Ukrayna'da Starlink'i Yavaşlattığı İddia Edildi",
   "ozet": "Raporlara göre Elon Musk Ukrayna'da Starlink'in hızını bizzat düşürdü. Ayrıca AB'nin emisyon düzenlemelerini esnetme çabaları ve Toyota'nın yeni geri çağırması gündemde.",
   "puan": 7.0,
@@ -2448,5 +2258,295 @@
   "link": "https://www.motor1.com/features/812450/why-some-semi-truck-tires-dont-touch-ground/",
   "source": "Motor1",
   "ts": 1792734992.508994
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ferrari 499P Modificata Müzayedeye Çıkıyor",
+  "ozet": "Fabrika çıkışlı özel üretim Ferrari 499P Modificata, 8 milyon doların üzerinde bir fiyatla açık artırmaya sunuluyor.",
+  "puan": 7.5,
+  "grup": "ferrari-499p-modificata-auction",
+  "link": "https://www.motor1.com/news/813056/ferrari-499p-modificata-christie-auction/",
+  "source": "Motor1",
+  "ts": 1792754934.9577322
+ },
+ {
+  "cat": "araba",
+  "baslik": "Otomatik Acil Frenleme Nasıl Çalışır?",
+  "ozet": "Modern araçlarda bulunan otomatik acil frenleme sistemlerinin kamera, radar ve algoritmaları kullanarak çarpışmaları nasıl önlediği açıklanıyor.",
+  "puan": 3.0,
+  "grup": "automatic-emergency-braking-tech-explained",
+  "link": "https://www.motor1.com/features/812569/how-automatic-emergency-braking-systems-work/",
+  "source": "Motor1",
+  "ts": 1792754934.9577322
+ },
+ {
+  "cat": "araba",
+  "baslik": "Alpine A610 Elektrikli Olarak Dönüyor",
+  "ozet": "Alpine, yeni nesil A110 platformunu kullanacak olan 2+2 koltuklu elektrikli modelinin tasarımında retro yerine modern bir dil benimseyecek.",
+  "puan": 6.5,
+  "grup": "alpine-a610-ev-development",
+  "link": "https://www.autocar.co.uk/car-news/electric-cars/alpine-a610-four-seat-a110-ev-ditch-retro-modern-look",
+  "source": "Autocar",
+  "ts": 1792754934.9577322
+ },
+ {
+  "cat": "araba",
+  "baslik": "Porsche'den İngiltere'ye Özel 911 GT3",
+  "ozet": "Porsche, İngiltere'deki 75. yılını kutlamak amacıyla sadece 51 adet üretilecek özel bir 911 GT3 versiyonu tanıttı.",
+  "puan": 6.0,
+  "grup": "porsche-911-gt3-uk-75th-anniversary",
+  "link": "https://www.motor1.com/news/813041/porsche-911-gt3-touring-earls/",
+  "source": "Motor1",
+  "ts": 1792754934.9577322
+ },
+ {
+  "cat": "araba",
+  "baslik": "Volvo'da 2.500 Kişilik İşten Çıkarma",
+  "ozet": "Zorlu piyasa koşulları nedeniyle Volvo, toplamda 5.500 kişiye ulaşan yeni bir işten çıkarma dalgası başlattı.",
+  "puan": 7.0,
+  "grup": "volvo-job-cuts-2024",
+  "link": "https://www.motor1.com/news/813031/volvo-cuts-2500-jobs/",
+  "source": "Motor1",
+  "ts": 1792754934.9577322
+ },
+ {
+  "cat": "araba",
+  "baslik": "Volvo'dan 2027'de Uygun Fiyatlı Elektrikli Model",
+  "ozet": "Volvo, EX60'ın ardından SPA3 platformunu kullanarak Avrupa pazarı için daha erişilebilir bir elektrikli model piyasaya sürmeye hazırlanıyor.",
+  "puan": 6.5,
+  "grup": "volvo-affordable-ev-2027",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/volvo-follow-ex60-lower-priced-ev-europe-2027",
+  "source": "Autocar",
+  "ts": 1792754934.9577322
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Subaru Outback Fiyatı Düştü",
+  "ozet": "Subaru, 2027 Outback modelinde baz donanım seviyesini geri getirerek giriş fiyatını 34.540 dolara çekti.",
+  "puan": 5.0,
+  "grup": "subaru-outback-price-reduction-2027",
+  "link": "https://www.motor1.com/news/813019/2027-subaru-outback-base-trim/",
+  "source": "Motor1",
+  "ts": 1792754934.9577322
+ },
+ {
+  "cat": "araba",
+  "baslik": "Alfa Romeo'dan Dev Ekranlara Tepki",
+  "ozet": "Alfa Romeo tasarım şefi, otomobil iç mekanlarındaki devasa ekranların modasının geçeceğini belirterek bu trende karşı olduklarını açıkladı.",
+  "puan": 4.5,
+  "grup": "alfa-romeo-interior-design-philosophy",
+  "link": "https://www.motor1.com/news/813012/alfa-romeo-wants-ditch-large-screens/",
+  "source": "Motor1",
+  "ts": 1792754934.9577322
+ },
+ {
+  "cat": "araba",
+  "baslik": "Lepas Aura Konsepti Tanıtıldı",
+  "ozet": "Chery bünyesindeki Lepas markası, SUV odaklı yapısından uzaklaşarak sportif bir shooting brake konsepti olan Aura'yı sergiledi.",
+  "puan": 5.5,
+  "grup": "lepas-aura-concept-shooting-brake",
+  "link": "https://www.autocar.co.uk/car-news/electric-cars/chery-branches-out-suvs-dramatic-lepas-shooting-brake",
+  "source": "Autocar",
+  "ts": 1792754934.9577322
+ },
+ {
+  "cat": "araba",
+  "baslik": "Audi Q9'da Kavisli OLED Stop Lambaları",
+  "ozet": "Audi Q9, 512 segmentten oluşan ve daha net sinyal ile görünürlük sağlayan dünyanın ilk kavisli OLED arka aydınlatma teknolojisiyle geliyor.",
+  "puan": 7.0,
+  "grup": "audi-q9-oled-taillights",
+  "link": "https://www.motor1.com/news/813009/audi-q9-curved-oled-taillights/",
+  "source": "Motor1",
+  "ts": 1792754934.9577322
+ },
+ {
+  "cat": "araba",
+  "baslik": "Toyota'nın Yeni Ortadan Motorlu Spor Otomobili",
+  "ozet": "Toyota, MR2'nin halefi olması beklenen yeni ortadan motorlu spor otomobilini yarış pistinde test etmeye başladı.",
+  "puan": 8.0,
+  "grup": "toyota-mr2-successor-racing",
+  "link": "https://www.motor1.com/news/813001/toyota-mid-engined-coupe-photos/",
+  "source": "Motor1",
+  "ts": 1792754934.9577322
+ },
+ {
+  "cat": "araba",
+  "baslik": "Avrupalı Üreticilerden Otonom Sürüş İçin Nvidia İş Birliği",
+  "ozet": "Volvo, Mercedes ve VW, otonom sürüş testleri ve güvenlik verileri için Nvidia'nın Hyperion platformunu kullanacak.",
+  "puan": 7.5,
+  "grup": "automotive-nvidia-autonomous-partnership",
+  "link": "https://www.motor1.com/news/812999/nvidia-hyperion-european-autonomy-programs/",
+  "source": "Motor1",
+  "ts": 1792754934.9577322
+ },
+ {
+  "cat": "araba",
+  "baslik": "BYD Atto 2 Avrupa Pazarını Hedefliyor",
+  "ozet": "BYD, Avrupa'nın büyüyen elektrikli süpermini segmentine Atto 2 modeliyle giriş yapmaya hazırlanıyor.",
+  "puan": 6.0,
+  "grup": "byd-atto-2-europe-launch",
+  "link": "https://www.autocar.co.uk/car-review/byd/atto-2",
+  "source": "Autocar",
+  "ts": 1792754934.9577322
+ },
+ {
+  "cat": "araba",
+  "baslik": "Japonya'ya Özel Manuel Subaru WRX",
+  "ozet": "Subaru, Japon pazarı için manuel şanzımanlı yeni bir WRX versiyonu duyurdu; bu, markanın manuel vitesli üç yeni modelinden ilki.",
+  "puan": 6.5,
+  "grup": "subaru-wrx-manual-sti-transmission",
+  "link": "https://www.motor1.com/news/812991/2027-subaru-wrx-manual-teaser/",
+  "source": "Motor1",
+  "ts": 1792754934.9577322
+ },
+ {
+  "cat": "f1",
+  "baslik": "Jak Crawford, Meksika GP'sinde Aston Martin ile piste çıkacak",
+  "ozet": "Aston Martin, Jak Crawford'ın 2026 Meksika Grand Prix'sinin ilk antrenman seansında AMR26'yı süreceğini doğruladı.",
+  "puan": 4.5,
+  "grup": "f1-2026-rookie-fp1-drivers",
+  "link": "https://www.formula1.com/en/latest/article/crawford-set-for-mexico-city-fp1-outing-with-aston-martin.SpGxwvNGILiMifrzBTX7m",
+  "source": "Formula1.com",
+  "ts": 1792754934.9577322
+ },
+ {
+  "cat": "f1",
+  "baslik": "Norris: McLaren pilotlarının yarışmasına hâlâ izin veriliyor",
+  "ozet": "Lando Norris, Singapur'daki kazanın ardından takım içi emirler konusunda McLaren pilotlarının hâlâ kendi aralarında yarışmasına izin verildiğini belirtti.",
+  "puan": 5.0,
+  "grup": "norris-piastri-singapore-collision",
+  "link": "https://www.formula1.com/en/latest/article/still-allowed-to-race-norris-offers-update-on-mclarens-intra-team-orders-ahead-of-united-states-gp.5eqxhHMneE3tNGRKrqFBiW",
+  "source": "Formula1.com",
+  "ts": 1792754934.9577322
+ },
+ {
+  "cat": "f1",
+  "baslik": "Austin'deki yarışın gidişatını neler değiştirebilir?",
+  "ozet": "Austin'de yarış başladıktan sonra bahisçiler, gerçek zamanlı olarak akıllı bahis kararları alabilmek için dikkatle izleme yapacaklar.",
+  "puan": 2.0,
+  "grup": "us-gp-early-odds-analysis",
+  "link": "https://www.formula1.com/en/latest/article/what-could-turn-the-united-states-grand-prix-on-its-head.4SURbPtQtXjNmWRmbpJNOb",
+  "source": "Formula1.com",
+  "ts": 1792754934.9577322
+ },
+ {
+  "cat": "f1",
+  "baslik": "Gasly: 'NASCAR sürücüsü taklidi yaptım'",
+  "ozet": "Alpine pilotu Pierre Gasly, son on yılda Formula 1'in Amerika Birleşik Devletleri'ndeki devasa yükselişini yakından hissettiğini ifade etti.",
+  "puan": 3.0,
+  "grup": "us-gp-2026-paddock-talking-points",
+  "link": "https://www.the-race.com/business/pierre-gasly-f1-usa-boom-pretended-nascar-alpine-adobe/",
+  "source": "The Race",
+  "ts": 1792754934.9577322
+ },
+ {
+  "cat": "f1",
+  "baslik": "George Russell: 2026 sezonu karakter ve direnç testi oldu",
+  "ozet": "Şampiyonluk umutları azalırken George Russell, 2026 sezonunun direncini sınadığını ve mevcut araçları sürme konusunda bir atılım yaptığını hissettiğini söylüyor.",
+  "puan": 5.5,
+  "grup": "mercedes-2026-season-challenges",
+  "link": "https://www.motorsport.com/f1/news/russell-f1-2026-season-a-test-of-character-and-resilience/10867173/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792754934.9577322
+ },
+ {
+  "cat": "f1",
+  "baslik": "Adobe ile Formula 1 arasında yeni ortaklık",
+  "ozet": "ABD'li yazılım devi Adobe, 2026 ABD Grand Prix'si öncesinde ilk F1 ortaklığını duyurarak sporla inanılmaz bir uyum içinde olduklarını belirtti.",
+  "puan": 3.5,
+  "grup": "adobe-alpine-commercial-partnership",
+  "link": "https://www.the-race.com/business/why-f1-is-an-incredible-match-for-adobe/",
+  "source": "The Race",
+  "ts": 1792754934.9577322
+ },
+ {
+  "cat": "f1",
+  "baslik": "Norris, Singapur'daki kaza sonrası McLaren'dan uyarı aldı",
+  "ozet": "Lando Norris, Singapur'da Oscar Piastri ile yaşadıkları çarpışmanın tekrarlanmaması konusunda McLaren tarafından uyarıldığını söyledi.",
+  "puan": 5.0,
+  "grup": "norris-piastri-singapore-collision",
+  "link": "https://www.racefans.net/2026/10/23/norris-got-plenty-of-telling-offs-from-mclaren-over-singapore-collision-with-piastri/",
+  "source": "RaceFans",
+  "ts": 1792754934.9577322
+ },
+ {
+  "cat": "f1",
+  "baslik": "Renault, Viry'deki eski F1 motor tesisini satıyor",
+  "ozet": "Renault, Viry-Chatillon motor tesisini Belçikalı Dumarey Group'a satma konusunda anlaşmaya vardı ve teklif Alpine Racing'e sunuldu.",
+  "puan": 7.0,
+  "grup": "cadillac-f1-engine-factory-opening",
+  "link": "https://www.autosport.com/f1/news/renault-to-sell-former-f1-engine-facility-in-viry/10867332/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1792754934.9577322
+ },
+ {
+  "cat": "f1",
+  "baslik": "Belçikalı şirket Viry'deki Renault/Alpine motor tesisini devralıyor",
+  "ozet": "Renault, Viry-Chatillon motor tesisini satmak üzere Belçikalı Dumarey Group ile anlaştı ve süreç Alpine Racing'e bildirildi.",
+  "puan": 7.0,
+  "grup": "cadillac-f1-engine-factory-opening",
+  "link": "https://www.motorsport.com/wec/news/alpine-a424-could-be-on-the-2027-wec-grid-as-belgian-company-takes-over-viry/10867319/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792754934.9577322
+ },
+ {
+  "cat": "f1",
+  "baslik": "Russell: 2026 şampiyonluk için son şansım değil",
+  "ozet": "George Russell, Andrea Kimi Antonelli'nin bu hafta sonu dünya şampiyonluğunu kazanmasının kendisiyle bir ilgisi olmadığını belirtti.",
+  "puan": 5.0,
+  "grup": "kimi-antonelli-us-gp-title-contender",
+  "link": "https://www.racefans.net/2026/10/23/russell-is-certain-2026-wont-be-my-last-shot-to-win-the-championship/",
+  "source": "RaceFans",
+  "ts": 1792754934.9577322
+ },
+ {
+  "cat": "f1",
+  "baslik": "Norris: Austin pistinin sert tümsekleri baş ağrıtıyor",
+  "ozet": "Austin pistinin engebeli yüzeyi tartışma yaratmaya devam ederken, Lando Norris pistteki tümsekler yüzünden baş ağrısı hapları aldığını söyledi.",
+  "puan": 4.0,
+  "grup": "max-verstappen-cota-bumps-complaint",
+  "link": "https://www.autosport.com/f1/news/its-pretty-bad-why-norris-needs-headache-tablets-for-bumpy-austin-circuit/10867192/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1792754934.9577322
+ },
+ {
+  "cat": "f1",
+  "baslik": "F1'in araç ağırlığını azaltma planı açıklandı",
+  "ozet": "F1'in yeni kural döneminde odak noktası V8 motorlara geçiş olurken, aynı zamanda araç ağırlığında dramatik bir azalma planlanıyor.",
+  "puan": 7.5,
+  "grup": "us-gp-2026-day-one-learnings",
+  "link": "https://www.the-race.com/formula-1/f1s-plan-to-slash-car-weight-revealed/",
+  "source": "The Race",
+  "ts": 1792754934.9577322
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ferrari'nin sonraki koltuğu için Bearman ve Camara kapışması",
+  "ozet": "Oliver Bearman, Ferrari Sürücü Akademisi'nin bir üyesi olarak Haas'ta pişerken, gelecekteki Ferrari koltuğu için Rafael Camara ile rekabet ediyor.",
+  "puan": 5.5,
+  "grup": "esteban-ocon-haas-rafael-camara-2027",
+  "link": "https://www.motorsport.com/f1/news/oliver-bearman-versus-rafael-camara-for-the-next-ferrari-vacancy/10867132/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792754934.9577322
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ferrari'nin sonraki koltuğu için Bearman ile Camara karşı karşıya",
+  "ozet": "Takımların yedek koltuk planlaması kapsamında Oliver Bearman ve Rafael Camara, Ferrari'nin gelecek adayları arasında öne çıkıyor.",
+  "puan": 5.5,
+  "grup": "esteban-ocon-haas-rafael-camara-2027",
+  "link": "https://www.autosport.com/f1/news/why-its-now-bearman-versus-camara-for-the-next-ferrari-vacancy/10867288/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1792754934.9577322
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton: Antonelli'nin şampiyonluk mücadelesi bana ilk yıllarımı hatırlatıyor",
+  "ozet": "Lewis Hamilton, Mercedes'teki halefi Andrea Kimi Antonelli'nin harika bir dünya şampiyonu olacağını ifade etti.",
+  "puan": 4.5,
+  "grup": "kimi-antonelli-us-gp-title-contender",
+  "link": "https://www.racefans.net/2026/10/23/antonellis-second-year-title-bid-reminds-hamilton-of-his-first-seasons-in-f1/",
+  "source": "RaceFans",
+  "ts": 1792754934.9577322
  }
 ]
