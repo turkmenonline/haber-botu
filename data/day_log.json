@@ -1,166 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Acura'dan Model Yelpazesi Genişletme Hedefi",
-  "ozet": "Acura, on katı sonuna kadar ABD'de 200.000 satış hedefleyerek ürün gamını dört araçtan altıya çıkaracak.",
-  "puan": 5.0,
-  "grup": "acura-future-models-expansion",
-  "link": "https://www.motor1.com/news/812800/acura-product-lineup-expands-suvs/",
-  "source": "Motor1",
-  "ts": 1792620947.3401222
- },
- {
-  "cat": "araba",
-  "baslik": "GM'den Sürücüsüz Otoyol Sürüşü Hamlesi",
-  "ozet": "Gözler yoldan uzakta otoyol sürüşü teknolojisi ilk olarak 2028 Cadillac Escalade IQ'da görücüye çıkacak ve ardından popüler SUV ve kamyonetlere yayılacak.",
-  "puan": 7.5,
-  "grup": "gm-autonomous-driving-highway-system",
-  "link": "https://www.thedrive.com/news/gm-wants-your-truck-to-run-errands-without-you",
-  "source": "The Drive",
-  "ts": 1792620947.3401222
- },
- {
-  "cat": "araba",
-  "baslik": "GM ve Jeep İçin Yan Basamak İndirimi",
-  "ozet": "OEDRO markasına ait araca özel yan basamaklar indirimli fiyatlarla satışa sunuldu.",
-  "puan": 2.0,
-  "grup": "gm-jeep-running-boards-discount",
-  "link": "https://www.thedrive.com/news/save-20-on-bolt-on-running-boards-for-gm-trucks-and-jeep-wranglers",
-  "source": "The Drive",
-  "ts": 1792620947.3401222
- },
- {
-  "cat": "araba",
-  "baslik": "Ferrari Luce Fiyatı Beklenenden Düşük Açıklandı",
-  "ozet": "Ferrari'nin ilk elektrikli otomobili ilk tahminlerden yaklaşık 80 bin dolar daha ucuz olacak ancak yine de piyasadaki en pahalı beş koltuklu üretim otomobili olma özelliğini koruyor.",
-  "puan": 8.5,
-  "grup": "ferrari-luce-electric-car-pricing",
-  "link": "https://www.caranddriver.com/news/a74208561/2027-ferrari-luce-pricing/",
-  "source": "Car and Driver",
-  "ts": 1792620947.3401222
- },
- {
-  "cat": "araba",
-  "baslik": "Nadir 2001 Volkswagen Beetle RSi İncelemesi",
-  "ozet": "2001 model Volkswagen Beetle RSi, günümüzdeki birçok hot hatch modelinden çok daha havalı ve dikkat çekici bir performans sunuyor.",
-  "puan": 4.0,
-  "grup": "volkswagen-beetle-rsi-classic",
-  "link": "https://www.jalopnik.com/2293533/2001-volkswagen-beetle-rsi-for-sale-bring-a-trailer-auction/",
-  "source": "Jalopnik",
-  "ts": 1792620947.3401222
- },
- {
-  "cat": "araba",
-  "baslik": "GM, OnStar'ı Yapay Zeka Asistanına Dönüştürüyor",
-  "ozet": "General Motors, OnStar sistemini araçla ilgili soruları yanıtlayabilen ve elektrikli araç sürücülerine şarj rotası planlamasında yardımcı olan yapay zeka destekli bir asistan haline getiriyor.",
-  "puan": 6.5,
-  "grup": "gm-onstar-ai-assistant-update",
-  "link": "https://www.motor1.com/news/812818/gm-onstar-ai-virtual-assistant/",
-  "source": "Motor1",
-  "ts": 1792620947.3401222
- },
- {
-  "cat": "araba",
-  "baslik": "GM, OnStar'ı Yenileyerek Yapay Zekaya Geçiyor",
-  "ozet": "Yeni 'Hey OnStar' asistanı önümüzdeki aylarda Cadillac Lyriq modellerine gelirken, ayrı marka uygulamaları da tek çat altında birleştiriliyor.",
-  "puan": 6.5,
-  "grup": "gm-onstar-ai-assistant-update",
-  "link": "https://www.thedrive.com/news/gm-is-rebooting-onstar-as-your-personal-ai-assistant-and-killing-off-its-brand-apps",
-  "source": "The Drive",
-  "ts": 1792620947.3401222
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Infiniti QX65 İnceleme ve Özellikleri",
-  "ozet": "2027 model Infiniti QX65'in teknik özellikleri, fiyatlandırması ve genel değerlendirmesi açıklandı.",
-  "puan": 4.5,
-  "grup": "infiniti-qx65-review-specs",
-  "link": "https://www.caranddriver.com/infiniti/qx65-2027",
-  "source": "Car and Driver",
-  "ts": 1792620947.3401222
- },
- {
-  "cat": "araba",
-  "baslik": "Honda'dan Japonya'da Kablosuz Şarj Yolu",
-  "ozet": "Honda, bir yol inşaat şirketiyle ortaklaşa çalışarak hareket halindeki sivil ve ticari araçları şarj edebilecek bir endüksiyon şarj otoyolu inşa ediyor.",
-  "puan": 8.0,
-  "grup": "honda-induction-charging-highway-japan",
-  "link": "https://www.caranddriver.com/news/a74207899/honda-building-induction-charging-highway-japan/",
-  "source": "Car and Driver",
-  "ts": 1792620947.3401222
- },
- {
-  "cat": "araba",
-  "baslik": "Chevy Parçalarıyla Onarılan Dayanıklı Yarış Fragmanı",
-  "ozet": "Baja şartlarına dayanıklı olarak tasarlanan bu özel yarış aracı römorku, herhangi bir hurdalıktan temin edilebilen Chevy kamyon parçalarıyla tamir edilebilecek şekilde üretildi.",
-  "puan": 3.5,
-  "grup": "baja-race-trailer-chevy-parts",
-  "link": "https://www.thedrive.com/news/totally-overbuilt-race-car-trailer-made-to-withstand-baja-can-be-fixed-with-chevy-truck-parts",
-  "source": "The Drive",
-  "ts": 1792620947.3401222
- },
- {
-  "cat": "f1",
-  "baslik": "Ferrari'den ABD GP için özel renk düzeni",
-  "ozet": "Ferrari, Amerika Birleşik Devletleri Grand Prix hafta sonu için özel bir renk tasarımını tanıtan son takım oldu.",
-  "puan": 5.0,
-  "grup": "ferrari-us-gp-livery",
-  "link": "https://www.formula1.com/en/latest/article/gallery-ferrari-become-latest-team-to-unveil-special-livery-for-united-states-grand-prix.4EbG3ECmHt6RxHQYeFPkvD",
-  "source": "Formula1.com",
-  "ts": 1792620947.3401222
- },
- {
-  "cat": "f1",
-  "baslik": "TAG Heuer'den Red Bull'a özel saat",
-  "ozet": "TAG Heuer, Red Bull ile 10 yıllık ortaklığını kutlamak için özel üretim Solargraph saatini tanıttı.",
-  "puan": 2.5,
-  "grup": "red-bull-tag-heuer-watch",
-  "link": "https://www.motorsport.com/f1/news/tag-heuer-unveils-special-edition-red-bull-f1-watch-for-10-year-celebration/10866800/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792620947.3401222
- },
- {
-  "cat": "f1",
-  "baslik": "Lando Norris'ten kötü unvan savunması",
-  "ozet": "2025 şampiyonu Lando Norris, bu sezon sergilediği performansla tarihin en kötü unvan savunmalarından birini risk ediyor.",
-  "puan": 6.5,
-  "grup": "lando-norris-title-defence-struggle",
-  "link": "https://www.motorsport.com/f1/news/lando-norris-risks-unwanted-f1-record-as-disastrous-title-defence-continues/10866802/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792620947.3401222
- },
- {
-  "cat": "f1",
-  "baslik": "Lando Norris'ten yeni kıyafet koleksiyonu",
-  "ozet": "McLaren pilotu Lando Norris, ABD Grand Prix'si öncesinde 1970'lerden ilham alan yeni giyim koleksiyonunu tanıttı.",
-  "puan": 2.0,
-  "grup": "lando-norris-us-gp-clothing",
-  "link": "https://www.motorsport.com/f1/news/lando-norris-launches-new-clothing-collection-ahead-of-united-states-grand-prix/10866798/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792620947.3401222
- },
- {
-  "cat": "f1",
-  "baslik": "Kimi Antonelli'den mütevazı alışkanlık",
-  "ozet": "Bu hafta sonu şampiyonluk potasında olan Mercedes pilotu Kimi Antonelli, hâlâ arabasını kendi yıkadığını açıkladı.",
-  "puan": 3.0,
-  "grup": "kimi-antonelli-us-gp-habits",
-  "link": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-down-to-earth-habit-ahead-of-potential-f1-title-win/10866796/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792620947.3401222
- },
- {
-  "cat": "f1",
-  "baslik": "Austin'deki ücretsiz F1 taraftar alanları",
-  "ozet": "Bileti olmayan F1 severler için Austin genelinde takımlar ve sponsorlar tarafından ücretsiz taraftar bölgeleri kuruldu.",
-  "puan": 2.0,
-  "grup": "us-gp-free-fan-zones",
-  "link": "https://www.motorsport.com/f1/news/where-to-find-free-f1-fan-zones-across-austin-this-week/10866794/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792620947.3401222
- },
- {
-  "cat": "araba",
   "baslik": "Satılık 1970 Model Modifiyeli Chevy Camaro",
   "ozet": "Vortech süperşarjlı V8 motora ve 5 ileri manuel şanzımana sahip, 90.000 milindeki 1970 model Chevy Camaro satışa çıkarıldı.",
   "puan": 3.5,
@@ -2518,5 +2358,265 @@
   "link": "https://www.the-race.com/formula-1/ferrari-f1-2026-us-gp-biggest-upgrade-revealed/",
   "source": "The Race",
   "ts": 1792785314.3244162
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 BMW 7 Serisi'nin İç Mekan Fotoğrafları",
+  "ozet": "Yenilenen 2027 model BMW 7 Serisi'nin lüks ve teknolojik iç mekanını farklı açılardan gözler önüne seren fotoğraflar yayınlandı.",
+  "puan": 6.5,
+  "grup": "bmw-7-series-interior-2027",
+  "link": "https://www.caranddriver.com/photos/a74203883/2027-bmw-7-series-drive-interior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1792796594.9935508
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 BMW 7 Serisi'nin Dış Tasarım Fotoğrafları",
+  "ozet": "Görkemli tasarımıyla dikkat çeken 2027 model BMW 7 Serisi'nin dış detaylarını gösteren yeni fotoğraflar paylaşıldı.",
+  "puan": 6.5,
+  "grup": "bmw-7-series-exterior-2027",
+  "link": "https://www.caranddriver.com/photos/a74196211/2027-bmw-7-series-drive-exterior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1792796594.9935508
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 BMW 7 Serisi Lüksü Yeniden Tanımlıyor",
+  "ozet": "Yeni 7 Serisi, görkemli duruşu, göz alıcı detayları ve hem benzinli hem de elektrikli motor seçenekleriyle lüksü en üst düzeye taşıyor.",
+  "puan": 7.0,
+  "grup": "bmw-7-series-debut-2027",
+  "link": "https://www.caranddriver.com/reviews/a74181769/2027-bmw-7-series-drive/",
+  "source": "Car and Driver",
+  "ts": 1792796594.9935508
+ },
+ {
+  "cat": "araba",
+  "baslik": "Efsanevi AMG Hammer Geri Dönüyor Olabilir",
+  "ozet": "HWA EVO'nun arkasındaki şirket, efsanevi AMG Hammer'ın modern bir yorumunu çağrıştıran yeni projesinin ipuçlarını paylaştı.",
+  "puan": 8.5,
+  "grup": "hwa-reimagined-mercedes-hammer",
+  "link": "https://www.motor1.com/news/813099/hwa-amg-hammer-restomod-teaser/",
+  "source": "Motor1",
+  "ts": 1792796594.9935508
+ },
+ {
+  "cat": "araba",
+  "baslik": "Otomobil Severler İçin Klasik İngiliz Programları",
+  "ozet": "YouTube kanalı TopRareMedia, 90'lı yılların sonundaki Top Gear ve Deals On Wheels gibi klasik İngiliz otomobil programlarını izleyicilerle buluşturuyor.",
+  "puan": 2.0,
+  "grup": "classic-british-car-tv-shows",
+  "link": "https://www.jalopnik.com/2295959/binge-great-british-car-shows-top-gear-topraremedia-youtube-channel/",
+  "source": "Jalopnik",
+  "ts": 1792796594.9935508
+ },
+ {
+  "cat": "araba",
+  "baslik": "Toyota'dan Hibrit Land Cruiser Geri Çağırması",
+  "ozet": "Olası bir yakıt sızıntısı riski nedeniyle yaklaşık 106 bin hibrit Land Cruiser modeli Toyota tarafından geri çağrılıyor.",
+  "puan": 8.0,
+  "grup": "toyota-land-cruiser-fuel-leak-recall",
+  "link": "https://www.caranddriver.com/news/a74233226/toyota-land-cruiser-hybrid-fuel-leak-recall/",
+  "source": "Car and Driver",
+  "ts": 1792796594.9935508
+ },
+ {
+  "cat": "araba",
+  "baslik": "Veri Merkezi İnşaatında Tartışmalı Konaklama",
+  "ozet": "Büyük veri merkezi projelerinde çalışan işçilerin barınma ihtiyacı için eski göçmen tutuklu teknelerinin kullanılması tepki topladı.",
+  "puan": 2.0,
+  "grup": "data-center-worker-housing-barge",
+  "link": "https://www.jalopnik.com/2294136/data-center-builder-puts-workers-in-barge-previous-used-to-detain-migrants/",
+  "source": "Jalopnik",
+  "ts": 1792796594.9935508
+ },
+ {
+  "cat": "araba",
+  "baslik": "Toyota'nın Yeni GR Yarış Prototipi MR2'yi İşaret Ediyor",
+  "ozet": "Japonya'nın Super Taikyu serisinde yarışacak olan yeni ortadan motorlu prototip, yeni nesil bir MR2 modelinin sinyallerini veriyor.",
+  "puan": 8.5,
+  "grup": "toyota-mr2-successor-racing",
+  "link": "https://www.caranddriver.com/news/a74233723/toyota-gr-yaris-race-car-next-gen-mr2-preview/",
+  "source": "Car and Driver",
+  "ts": 1792796594.9935508
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Hyundai Tucson Rekor Ön Siparişle Geliyor",
+  "ozet": "Dramatik bir şekilde yenilenen tasarımıyla dikkat çeken yeni Hyundai Tucson, şimdiden ilk gün ön sipariş rekorunu kırdı.",
+  "puan": 6.5,
+  "grup": "hyundai-tucson-new-generation",
+  "link": "https://www.motor1.com/news/813094/new-hynndai-tucson-preorder-record/",
+  "source": "Motor1",
+  "ts": 1792796594.9935508
+ },
+ {
+  "cat": "f1",
+  "baslik": "Amerika GP 2. Antrenman Seansında En Hızlısı Leclerc Oldu",
+  "ozet": "Charles Leclerc, Amerika Grand Prix'sinin ikinci antrenman seansında en hızlı dereceyi elde ederek zirveye yerleşti.",
+  "puan": 4.5,
+  "grup": "us-gp-2026-fp2-results",
+  "link": "https://www.formula1.com/en/latest/article/fp2-leclerc-sets-the-pace-from-antonelli-and-verstappen-in-second-practice-at-united-states-grand-prix.4lRGhApoylA3exqOxagIqx",
+  "source": "Formula1.com",
+  "ts": 1792796594.9935508
+ },
+ {
+  "cat": "f1",
+  "baslik": "Amerika GP 2. Antrenman Seansı Canlı Anlatımı",
+  "ozet": "2026 Amerika Grand Prix'si öncesindeki ikinci Formula 1 antrenman seansının canlı anlatımı.",
+  "puan": 3.0,
+  "grup": "us-gp-2026-fp2-live",
+  "link": "https://www.formula1.com/en/latest/article/live-coverage-second-practice-in-the-united-states-2026.3cC2d5dlTvN0egy2pb11Ko",
+  "source": "Formula1.com",
+  "ts": 1792796594.9935508
+ },
+ {
+  "cat": "f1",
+  "baslik": "Christian Horner F1'e Asla Geri Dönmeyebileceğini Kabul Etti",
+  "ozet": "Red Bull'daki görevinden ayrılan Christian Horner, Formula 1 paddock'ına bir daha asla dönmeyebileceğini ve bundan rahatsız olmayacağını belirtti.",
+  "puan": 7.5,
+  "grup": "christian-horner-red-bull-exit",
+  "link": "https://www.motorsport.com/f1/news/christian-horner-admits-he-may-never-return-to-f1-after-red-bull-exit/10867605/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792796594.9935508
+ },
+ {
+  "cat": "f1",
+  "baslik": "McLaren: 'Bir Adım Gerideyiz'",
+  "ozet": "Lando Norris, Amerika GP antrenmanları sonrasında aracın rekabetçi olması için kusursuz olmaya çalıştıklarını ancak hâlâ bir adım geride olduklarını söyledi.",
+  "puan": 5.0,
+  "grup": "lando-norris-mclaren-car-handling",
+  "link": "https://www.motorsport.com/f1/news/were-just-a-step-behind-what-mclaren-is-trying-to-solve-with-its-final-2026-upgrades-10867601/10867601/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792796594.9935508
+ },
+ {
+  "cat": "f1",
+  "baslik": "Kimi Antonelli'nin Çaylak Kartı Açık Artırmada Rekor Fiyata Satıldı",
+  "ozet": "Kimi Antonelli'ye ait benzersiz bir çaylak kartı, şampiyonluk mücadelesi öncesinde açık artırmada 878.400 dolara alıcı buldu.",
+  "puan": 2.5,
+  "grup": "kimi-antonelli-rookie-card-auction",
+  "link": "https://www.motorsport.com/f1/news/kimi-antonelli-rookie-card-sells-for-staggering-878400-ahead-of-f1-title-opportunity/10867588/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792796594.9935508
+ },
+ {
+  "cat": "f1",
+  "baslik": "Newey: Honda F1'e Dönüşündeki İlerlemeden Hayal Kırıklığı Yaşıyor",
+  "ozet": "Aston Martin takım patronu Adrian Newey, motor tedarikçisi Honda'nın F1'e dönüşündeki ilk yılında kaydettiği ilerlemeden memnun olmadığını belirtti.",
+  "puan": 5.5,
+  "grup": "newey-honda-engine-progress-2026",
+  "link": "https://www.racefans.net/2026/10/23/newey-says-honda-are-disappointed-with-their-progress-in-first-year-back/",
+  "source": "RaceFans",
+  "ts": 1792796594.9935508
+ },
+ {
+  "cat": "f1",
+  "baslik": "Amerika GP FP2: Leclerc En Hızlı, McLaren Tutunma Sorunu Yaşıyor",
+  "ozet": "Charles Leclerc, Amerika GP'nin ikinci antrenmanında Kimi Antonelli'yi geride bırakarak en hızlı isim olurken, McLaren pilotları yol tutuş sorunlarıyla boğuştu.",
+  "puan": 4.5,
+  "grup": "us-gp-2026-fp2-results",
+  "link": "https://www.autosport.com/f1/news/f1-united-states-gp-leclerc-pips-antonelli/10867584/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1792796594.9935508
+ },
+ {
+  "cat": "f1",
+  "baslik": "Amerika GP İkinci Antrenman Seansında Neler Yaşandı?",
+  "ozet": "Charles Leclerc, Kimi Antonelli ve Max Verstappen'in önünde yer alarak Amerika GP ikinci antrenmanını zirvede tamamladı.",
+  "puan": 4.0,
+  "grup": "us-gp-2026-fp2-results",
+  "link": "https://www.the-race.com/formula-1/what-happened-f1-2026-us-gp-fp2-leclerc-ferrari-fastest/",
+  "source": "The Race",
+  "ts": 1792796594.9935508
+ },
+ {
+  "cat": "f1",
+  "baslik": "Leclerc FP2'yi Lider Tamamlayarak Kusursuz Bir Cuma Geçirdi",
+  "ozet": "Ferrari pilotu Charles Leclerc, Cuma günkü ikinci antrenmanda en iyi dereceyi yaparak kusursuz bir günü geride bıraktı.",
+  "puan": 4.5,
+  "grup": "us-gp-2026-fp2-results",
+  "link": "https://www.motorsport.com/f1/news/f1-united-states-gp-charles-leclerc-tops-fp2/10867569/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792796594.9935508
+ },
+ {
+  "cat": "f1",
+  "baslik": "COTA'da Leclerc Zirveyi Korudu",
+  "ozet": "Charles Leclerc Austin'deki antrenman seansında en hızlı isim kalırken, Kimi Antonelli Ferrari'yi yakından takip etti.",
+  "puan": 4.0,
+  "grup": "us-gp-2026-fp2-results",
+  "link": "https://www.racefans.net/2026/10/23/leclerc-stays-on-top-in-second-practice-at-cota-narrowly-ahead-of-antonelli/",
+  "source": "RaceFans",
+  "ts": 1792796594.9935508
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli, Vettel'in Rekorunu Kırma İhtimalini Değerlendirdi",
+  "ozet": "Kimi Antonelli, bu hafta sonu Sebastian Vettel'in en genç dünya şampiyonu olma rekorunu kırma ihtimali hakkında konuştu.",
+  "puan": 4.5,
+  "grup": "kimi-antonelli-us-gp-title-contender",
+  "link": "https://www.motorsport.com/f1/news/kimi-antonelli-reacts-to-prospect-of-breaking-sebastian-vettels-f1-record/10867577/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792796594.9935508
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton: Red Bull İmkansız Olduğunu Düşündüğüm Şeyi Başardı",
+  "ozet": "Lewis Hamilton, Red Bull ve Ford ortaklığının bu kadar rekabetçi bir içten yanmalı motor üretebileceğine inanmadığını itiraf etti.",
+  "puan": 5.0,
+  "grup": "lewis-hamilton-red-bull-engine",
+  "link": "https://www.motorsport.com/f1/news/lewis-hamilton-admits-red-bull-achieved-what-he-thought-was-impossible/10867572/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792796594.9935508
+ },
+ {
+  "cat": "f1",
+  "baslik": "Newey'den Honda'nın 2026 İlerlemesi ve 2027 Beklentileri",
+  "ozet": "Adrian Newey, Honda'nın 2026 motor gelişiminden hayal kırıklığı duyduğunu ancak 2027 için umutlu olduğunu ifade etti.",
+  "puan": 5.5,
+  "grup": "newey-honda-engine-progress-2026",
+  "link": "https://www.the-race.com/formula-1/adrian-newey-honda-f1-2026-progress-disappointment-2027-signs/",
+  "source": "The Race",
+  "ts": 1792796594.9935508
+ },
+ {
+  "cat": "f1",
+  "baslik": "Norris: Singapur Kazasından Sonra Çok Sayıda Uyarı Aldık",
+  "ozet": "Lando Norris, Singapur Grand Prix'sinde Oscar Piastri ile yaşadıkları kazanın ardından takım içinde ciddi uyarılara maruz kaldıklarını açıkladı.",
+  "puan": 5.0,
+  "grup": "norris-piastri-singapore-collision",
+  "link": "https://www.motorsport.com/f1/news/lando-norris-reveals-he-got-plenty-of-telling-offs-after-singapore-crash-with-piastri/10867463/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792796594.9935508
+ },
+ {
+  "cat": "f1",
+  "baslik": "Okur Yorumu: Russell Şampiyonluk İçin Daha İyi Bir Şans Bulamayabilir",
+  "ozet": "George Russell'ın F1 şampiyonluğunu kazanmak için elindeki en iyi fırsatı kaçırmış olabileceğine dair bir değerlendirme.",
+  "puan": 2.0,
+  "grup": "george-russell-mercedes-struggles",
+  "link": "https://www.racefans.net/2026/10/23/featured-comment-russell-is-unlikely-to-get-a-better-chance-to-win-the-title/",
+  "source": "RaceFans",
+  "ts": 1792796594.9935508
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ferrari'nin Amerika GP Güncellemelerinin Detayları",
+  "ozet": "Ferrari, Amerika GP için taban ve sidepod bölgesinde yenilikler içeren özel bir güncelleme paketini piste çıkardı.",
+  "puan": 5.5,
+  "grup": "ferrari-us-gp-upgrades",
+  "link": "https://www.autosport.com/f1/news/the-reasons-behind-ferraris-us-gp-upgrades/10867545/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1792796594.9935508
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ferrari'nin Küçük Ama Etkili Amerika GP Güncellemeleri",
+  "ozet": "Ferrari'nin SF-26 aracı için Amerika GP'ye getirdiği yeni taban ve yan hava girişleri detaylıca incelendi.",
+  "puan": 5.5,
+  "grup": "ferrari-us-gp-upgrades",
+  "link": "https://www.motorsport.com/f1/news/exploring-ferraris-less-than-a-tenth-us-gp-update-package/10867537/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792796594.9935508
  }
 ]
