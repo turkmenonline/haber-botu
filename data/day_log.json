@@ -1,46 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Honda'dan Yeni Acura Modelleri İçin İsim Tescili",
-  "ozet": "Honda, gelecekteki Acura modelleri için TDX, LDX, Type-Trail ve Type T isim haklarını tescil ettirdi.",
-  "puan": 6.0,
-  "grup": "acura-future-models-expansion",
-  "link": "https://www.jalopnik.com/2292017/honda-trademarks-tdx-ldx-type-trail-type-t/",
-  "source": "Jalopnik",
-  "ts": 1792557323.60965
- },
- {
-  "cat": "f1",
-  "baslik": "FIA'dan bütçe sınırı ihlallerine karşı sıkı önlemler",
-  "ozet": "FIA, bütçe sınırının delinmesini önlemek amacıyla F1 personelinin F1 dışı ekiplerle aynı ofisi ve kantin gibi ortak alanları paylaşmasını yasakladı.",
-  "puan": 7.5,
-  "grup": "f1-budget-cap-strict-rules-fia",
-  "link": "https://www.the-race.com/formula-1/fia-imposes-draconian-new-rules-on-f1-teams-to-stop-cost-cap-exploitation/",
-  "source": "The Race",
-  "ts": 1792557323.60965
- },
- {
-  "cat": "f1",
-  "baslik": "Christian Horner'dan Lewis Hamilton açıklaması",
-  "ozet": "Christian Horner'ın kitabında yer alan bilgilere göre Lewis Hamilton, Mercedes'e geçmeden önce Adrian Newey'nin evinde gizli bir Red Bull toplantısı gerçekleştirmiş.",
-  "puan": 4.5,
-  "grup": "lewis-hamilton-secret-red-bull-meeting",
-  "link": "https://www.motorsport.com/f1/news/lewis-hamiltons-secret-red-bull-meeting-revealed-after-14-years/10866590/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792557323.60965
- },
- {
-  "cat": "f1",
-  "baslik": "Max Verstappen'e Formula E daveti",
-  "ozet": "Formula E CEO'su Jeff Dodds, dört kez dünya şampiyonu Max Verstappen'in yeni Gen4 aracını denemesini çok istediğini belirtti.",
-  "puan": 3.0,
-  "grup": "max-verstappen-formula-e-invitation",
-  "link": "https://www.motorsport.com/f1/news/max-verstappen-receives-fresh-formula-e-invitation-ahead-of-gen4-debut/10866587/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792557323.60965
- },
- {
-  "cat": "araba",
   "baslik": "Checo Perez Özel Üretim Cadillac Escalade-V'ye Kavuştu",
   "ozet": "Sadece 11 adet üretilecek olan Cadillac Escalade-V Checo Perez Edition, Meksika pazarına özel ve koleksiyonculara yönelik görsel dokunuşlar sunuyor.",
   "puan": 4.0,
@@ -2468,5 +2428,25 @@
   "link": "https://www.the-race.com/formula-1/mercedes-rolls-back-aduo-engine-debut/",
   "source": "The Race",
   "ts": 1792717261.4153244
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Tesla Roadster Önceki Modelin Başarısını Tekrarlayabilecek mi?",
+  "ozet": "Orijinal Tesla Roadster 2009'da otomotiv dünyası için bir dönüm noktasıydı ve yeni nesil modelin de aynı etkiyi yaratması için zorlu bir süreçten geçmesi gerekiyor.",
+  "puan": 5.5,
+  "grup": "tesla-roadster-new-generation",
+  "link": "https://www.autocar.co.uk/car-news/features/forget-flying-can-new-tesla-roadster-dazzle-drivers-original",
+  "source": "Autocar",
+  "ts": 1792734992.508994
+ },
+ {
+  "cat": "araba",
+  "baslik": "Tır Lastikleri Neden Bazen Yere Değmiyormuş Gibi Görünür?",
+  "ozet": "Bazı tır ve kamyonlarda bazı lastiklerin havada durmasının nedeni kaldırma aksları, lastik aşınması ve yakıt verimliliğidir.",
+  "puan": 2.5,
+  "grup": "semi-truck-lift-axles-explained",
+  "link": "https://www.motor1.com/features/812450/why-some-semi-truck-tires-dont-touch-ground/",
+  "source": "Motor1",
+  "ts": 1792734992.508994
  }
 ]
