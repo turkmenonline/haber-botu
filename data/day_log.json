@@ -1,96 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Rolls-Royce'un Gizli Şemsiye Özelliği",
-  "ozet": "Rolls-Royce, kapıların içerisine entegre edilmiş yerleşik şemsiye özelliğiyle yağmurlu günlerde kullanıcılara büyük kolaylık sağlıyor.",
-  "puan": 3.0,
-  "grup": "rolls-royce-hidden-door-umbrella",
-  "link": "https://www.motor1.com/features/812562/why-rolls-royce-hides-umbrellas-inside-its-cars/",
-  "source": "Motor1",
-  "ts": 1792541116.2321885
- },
- {
-  "cat": "araba",
-  "baslik": "İngiltere'den Elektrikli Araç Şarj Kabloları İçin Kolaylık",
-  "ozet": "İngiltere hükümeti, sürücülerin kaldırıma engel olmadan evden araçlarına kablo çekmesini sağlayan şarj kanalları için planlama izni zorunluluğunu kaldırdı.",
-  "puan": 5.0,
-  "grup": "uk-ev-charging-gully-permission",
-  "link": "https://www.autocar.co.uk/car-news/electric-cars/government-removes-planning-requirement-ev-charging-gullies",
-  "source": "Autocar",
-  "ts": 1792541116.2321885
- },
- {
-  "cat": "araba",
-  "baslik": "Range Rover Electric Test Edildi",
-  "ozet": "Dört yıllık mühendislik sürecinin ardından lüks SUV segmentinin öncüsü Range Rover Electric nihayet test sürüşüne çıktı.",
-  "puan": 6.5,
-  "grup": "range-rover-electric-first-drive",
-  "link": "https://www.autocar.co.uk/car-review/land-rover/range-rover-electric",
-  "source": "Autocar",
-  "ts": 1792541116.2321885
- },
- {
-  "cat": "araba",
-  "baslik": "Mate Rimac'ın İtki Gücü Fikri",
-  "ozet": "Mate Rimac, Tesla Roadster tarzı itme kuvveti sağlayan sistemleri yıllar önce düşündüğünü gösteren e-posta kayıtlarını paylaştı.",
-  "puan": 4.5,
-  "grup": "mate-rimac-tesla-roadster-thrusters",
-  "link": "https://www.jalopnik.com/2292440/mate-rimac-considered-using-tesla-roadster-style-thrusters-in-2019/",
-  "source": "Jalopnik",
-  "ts": 1792541116.2321885
- },
- {
-  "cat": "araba",
-  "baslik": "Yenilenen Ayna Kaplamalı Bugatti Veyron",
-  "ozet": "Bugatti'nin restorasyon programı sayesinde tamamen aynayla kaplanan bu eşsiz Veyron, ilk günkü parlaklığına kavuştu.",
-  "puan": 5.5,
-  "grup": "bugatti-veyron-mirror-restoration",
-  "link": "https://www.caranddriver.com/news/a74196968/bugatti-veyron-grand-sport-vitesse-polished-aluminum-refurbished/",
-  "source": "Car and Driver",
-  "ts": 1792541116.2321885
- },
- {
-  "cat": "f1",
-  "baslik": "Aston Martin'in Yeni Ürün Koleksiyonu Dikkat Çekiyor",
-  "ozet": "Aston Martin, Smythson markasıyla iş birliği yaparak kırtasiye ve seyahat ürünlerinden oluşan yeni koleksiyonunu tanıttı. Ürün fiyatları 14 sterlinden başlayıp 595 sterline kadar çıkıyor.",
-  "puan": 2.5,
-  "grup": "aston-martin-smythson-merchandise-collection",
-  "link": "https://www.motorsport.com/f1/news/aston-martin-f1s-latest-merchandise-collection-comes-with-eye-watering-prices/10866584/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792541116.2321885
- },
- {
-  "cat": "f1",
-  "baslik": "Max Verstappen'den Isack Hadjar'a Destek",
-  "ozet": "Dört kez dünya şampiyonu Max Verstappen, Isack Hadjar'ın gelecekte Red Bull'da kendisinin yerini alabilecek potansiyele sahip olduğunu belirtti.",
-  "puan": 6.0,
-  "grup": "max-verstappen-isack-hadjar-red-bull",
-  "link": "https://www.motorsport.com/f1/news/max-verstappen-backs-isack-hadjar-to-take-over-red-bull-f1-role/10866581/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792541116.2321885
- },
- {
-  "cat": "f1",
-  "baslik": "Ferrari Geliştirici Pilotundan 2027 Test Açıklaması",
-  "ozet": "Ferrari'nin simülatör ve geliştirici pilotu Sacha Fenestraz, İtalyan ekibinin kendisine 2027 yılında bir Formula 1 testi sözü verdiğini açıkladı.",
-  "puan": 5.5,
-  "grup": "ferrari-development-driver-sacha-fenestraz-test",
-  "link": "https://www.motorsport.com/f1/news/ferrari-development-driver-reveals-confirmed-f1-test-plans/10866579/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792541116.2321885
- },
- {
-  "cat": "f1",
-  "baslik": "Aston Martin'den Yeni Padel Ortaklığı",
-  "ozet": "Aston Martin, ABD Grand Prix'si öncesinde padel ve pickleball markası Padeltek ile yeni bir ortaklık duyurarak özel raket koleksiyonunu satışa çıkarıyor.",
-  "puan": 3.0,
-  "grup": "aston-martin-padeltek-partnership",
-  "link": "https://www.motorsport.com/f1/news/aston-martin-announces-first-of-its-kind-f1-partnership-ahead-of-us-gp/10866576/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792541116.2321885
- },
- {
-  "cat": "araba",
   "baslik": "Honda'dan Yeni Acura Modelleri İçin İsim Tescili",
   "ozet": "Honda, gelecekteki Acura modelleri için TDX, LDX, Type-Trail ve Type T isim haklarını tescil ettirdi.",
   "puan": 6.0,
@@ -2468,5 +2378,95 @@
   "link": "https://www.motorsport.com/f1/news/difficult-to-be-convinced-f1-can-finish-2026-in-the-middle-east/10867098/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1792708887.834017
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Lexus LFA Üretime Yaklaşıyor",
+  "ozet": "Lexus, efsanevi LFA modelinin yerini alacak elektrikli halefini geliştirmeye devam ediyor ve yeni casus fotoğrafları ortaya çıktı.",
+  "puan": 8.5,
+  "grup": "lexus-lfa-electric-successor",
+  "link": "https://www.motor1.com/news/812950/new-lexus-lfa-spy-photos/",
+  "source": "Motor1",
+  "ts": 1792717261.4153244
+ },
+ {
+  "cat": "f1",
+  "baslik": "Austin Paddock Gündemi",
+  "ozet": "Lawrence Barretto, Amerika Grand Prix'si medya gününde padokta konuşulan ana konuları derledi.",
+  "puan": 4.5,
+  "grup": "us-gp-2026-paddock-talking-points",
+  "link": "https://www.formula1.com/en/latest/article/all-the-stories-that-got-the-austin-paddock-talking.3Ft9Iehky7D3daarvVFTEg",
+  "source": "Formula1.com",
+  "ts": 1792717261.4153244
+ },
+ {
+  "cat": "f1",
+  "baslik": "Russell: 2026 Sezonu Karakterimi Test Etti",
+  "ozet": "George Russell, 2026 sezonunda şampiyonluk şansını ve karşılaştığı zorlukların direncini nasıl sınadığını değerlendirdi.",
+  "puan": 5.5,
+  "grup": "mercedes-2026-season-challenges",
+  "link": "https://www.formula1.com/en/latest/article/this-wont-be-my-last-shot-russell-on-how-2026-has-tested-my-character-and-resilience.2xvMU03AhxoQpZVAtwkelv",
+  "source": "Formula1.com",
+  "ts": 1792717261.4153244
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen'den Mekies'e Destek",
+  "ozet": "Max Verstappen, Laurent Mekies'in Red Bull ile sözleşme uzatmasını desteklerken, bu hafta sonu galibiyet serisini sürdürmeyi bekleyenleri uyardı.",
+  "puan": 6.0,
+  "grup": "max-verstappen-mekies-red-bull-contract",
+  "link": "https://www.formula1.com/en/latest/article/he-fully-deserves-it-verstappen-backs-mekies-contract-extension-but-wary-of-red-bulls-winning-form-continuing-in-austin.2z5DsziITrRNyz7pVwJzu8",
+  "source": "Formula1.com",
+  "ts": 1792717261.4153244
+ },
+ {
+  "cat": "f1",
+  "baslik": "Amerika GP İlk Gün Notları",
+  "ozet": "Austin padokundaki ilk günde Singapur tartışmaları devam ederken, güncellemeler ve pilot açıklamaları ön plana çıktı.",
+  "puan": 5.0,
+  "grup": "us-gp-2026-day-one-learnings",
+  "link": "https://www.the-race.com/formula-1/everything-we-learned-on-day-one-of-f1s-2026-us-gp/",
+  "source": "The Race",
+  "ts": 1792717261.4153244
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton: Afrika'da Yarışmak İçin 45 Yaşına Kadar Kalabilirim",
+  "ozet": "Lewis Hamilton, Afrika'da yarışma umuduyla 45 yaşına kadar Formula 1'de kalabileceğini belirtti.",
+  "puan": 4.0,
+  "grup": "hamilton-rwanda-african-gp-hopes",
+  "link": "https://www.racefans.net/2026/10/23/spotlight-hamilton-to-race-until-hes-45-im-forced-to-stay-longer-to-race-in-africa/",
+  "source": "RaceFans",
+  "ts": 1792717261.4153244
+ },
+ {
+  "cat": "f1",
+  "baslik": "Russell'dan Pist Değişikliği Çağrısı",
+  "ozet": "George Russell, Verstappen'in COTA'daki tümsek şikayetlerinin ardından Formula 1 pistlerinin düzenli olarak yeniden asfaltlanması gerektiğini belirtti.",
+  "puan": 5.0,
+  "grup": "max-verstappen-cota-bumps-complaint",
+  "link": "https://www.motorsport.com/f1/news/george-russell-calls-for-f1-track-changes-after-max-verstappens-cota-complaints/10867193/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792717261.4153244
+ },
+ {
+  "cat": "f1",
+  "baslik": "Tarihte Bugün: Hamilton Austin'de Kazandı",
+  "ozet": "Lewis Hamilton Austin'de zafer elde ederken, sanal güvenlik aracı dönemi Nico Rosberg'in şampiyonluk umutlarına destek oldu.",
+  "puan": 2.5,
+  "grup": "f1-on-this-day-history",
+  "link": "https://www.racefans.net/2026/10/23/on-this-day-united-states-grand-prix/",
+  "source": "RaceFans",
+  "ts": 1792717261.4153244
+ },
+ {
+  "cat": "f1",
+  "baslik": "Mercedes Güncellenmiş Motor Çıkışını Erteledi",
+  "ozet": "Mercedes'in yükseltilmiş Formula 1 motoru, Amerika Grand Prix'sinde başlangıçta planlandığı gibi sahne almayacak.",
+  "puan": 6.0,
+  "grup": "mercedes-aduo-engine-debut-delay",
+  "link": "https://www.the-race.com/formula-1/mercedes-rolls-back-aduo-engine-debut/",
+  "source": "The Race",
+  "ts": 1792717261.4153244
  }
 ]
