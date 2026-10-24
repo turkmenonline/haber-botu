@@ -1,96 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Çinli üreticilerden 'küresel araba' stratejisi",
-  "ozet": "Çinli otomobil üreticileri, rekabetçi fiyatlar ve uygun modellerle tüm pazarlarda geçerli olan 'küresel araba' konseptini yeniden canlandırıyor.",
-  "puan": 6.0,
-  "grup": "china-global-car-strategy",
-  "link": "https://www.autocar.co.uk/car-news/business-manufacturing/return-world-car-china-backs-one-size-fits-all-approach",
-  "source": "Autocar",
-  "ts": 1792646859.07102
- },
- {
-  "cat": "araba",
-  "baslik": "MG Go, 2028'de İspanya'da üretilecek",
-  "ozet": "MG'nin tamamen elektrikli yeni modeli Go, Mini Cooper ve Renault 5'e rakip olarak 2028'den itibaren İspanya'daki yeni fabrikada üretilecek.",
-  "puan": 5.5,
-  "grup": "mg-go-electric-spain-factory",
-  "link": "https://www.autocar.co.uk/car-news/electric-cars/mg-go-electric-mini-cooper-rival-be-built-spain-2028",
-  "source": "Autocar",
-  "ts": 1792646859.07102
- },
- {
-  "cat": "araba",
-  "baslik": "3000 millik Renault 4 deneyimi",
-  "ozet": "Renault 4 ile geçirilen 3000 milin ardından, aracın küçük kardeşi Renault 5'e kıyasla günlük kullanımda nasıl bir performans sunduğu inceleniyor.",
-  "puan": 4.5,
-  "grup": "renault-4-long-term-test",
-  "link": "https://www.autocar.co.uk/car-review/long-term-reviews/3000-miles-renault-4-it-even-better-my-renault-5",
-  "source": "Autocar",
-  "ts": 1792646859.07102
- },
- {
-  "cat": "araba",
-  "baslik": "Wankel motoru neden yaygınlaşmadı?",
-  "ozet": "Kompakt, sarsıntısız ve güçlü olmasına rağmen Wankel motorlarının otomotiv endüstrisinde neden daha fazla üretici tarafından kullanılmadığı inceleniyor.",
-  "puan": 4.0,
-  "grup": "rotary-engine-history-future",
-  "link": "https://www.motor1.com/features/812734/why-dont-more-cars-use-rotary-engines/",
-  "source": "Motor1",
-  "ts": 1792646859.07102
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Mercedes-AMG GLS63 fotoğrafları",
-  "ozet": "Yenilenen 2027 model Mercedes-AMG GLS63'ün iç ve dış tasarım detaylarını gösteren yeni fotoğraflar yayınlandı.",
-  "puan": 5.0,
-  "grup": "mercedes-amg-gle-gls-2027",
-  "link": "https://www.caranddriver.com/photos/a74182251/2027-mercedes-amg-gls63-drive-gallery/",
-  "source": "Car and Driver",
-  "ts": 1792646859.07102
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Mercedes-AMG GLE63 S fotoğrafları",
-  "ozet": "Performans odaklı 2027 Mercedes-AMG GLE63 S modelinin dış ve iç mekanını gözler önüne seren görseller paylaşıldı.",
-  "puan": 5.0,
-  "grup": "mercedes-amg-gle-gls-2027",
-  "link": "https://www.caranddriver.com/photos/a74181727/2027-mercedes-amg-gle63-s-drive-gallery/",
-  "source": "Car and Driver",
-  "ts": 1792646859.07102
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Mercedes-AMG GLE53 fotoğrafları",
-  "ozet": "2027 Mercedes-AMG GLE53 modelinin güncellenen tasarım çizgilerini gösteren yeni fotoğraflar sergilendi.",
-  "puan": 5.0,
-  "grup": "mercedes-amg-gle-gls-2027",
-  "link": "https://www.caranddriver.com/photos/a74179379/2027-mercedes-amg-gle53-drive-gallery/",
-  "source": "Car and Driver",
-  "ts": 1792646859.07102
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Mercedes-AMG GLE ve GLS yenilendi",
-  "ozet": "GLE53 plug-in hibrit sisteme geçerken, GLE63 S ve GLS63 modelleri düz düzlem krank miline kavuştu.",
-  "puan": 6.5,
-  "grup": "mercedes-amg-gle-gls-2027",
-  "link": "https://www.caranddriver.com/reviews/a74177839/2027-mercedes-amg-gle-gls-drive/",
-  "source": "Car and Driver",
-  "ts": 1792646859.07102
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Mercedes-AMG GLS63 tanıtıldı",
-  "ozet": "Görsel güncellemeler ve performans geliştirmeleriyle yenilenen 2027 Mercedes-AMG GLS63 daha iddialı bir karakter kazandı.",
-  "puan": 6.0,
-  "grup": "mercedes-amg-gle-gls-2027",
-  "link": "https://www.jalopnik.com/2292485/2027-mercedes-amg-gls63-first-drive-review/",
-  "source": "Jalopnik",
-  "ts": 1792646859.07102
- },
- {
-  "cat": "araba",
   "baslik": "Alfa Romeo Tasarım Şefi: 'Büyük Ekranlardan Kurtulmalıyız'",
   "ozet": "Alfa Romeo baş tasarımcısı Alejandro Mesonero-Romanos, otomobil iç mekanlarındaki devasa ekran trendini eleştirerek daha sade bir tasarıma odaklanacaklarını belirtti.",
   "puan": 6.0,
@@ -2678,5 +2588,35 @@
   "link": "https://www.racefans.net/2026/10/24/on-this-day-2021-united-states-grand-prix/",
   "source": "RaceFans",
   "ts": 1792805375.7926462
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mazda 3 Manuel ile 2000 Mil İncelemesi",
+  "ozet": "Mazda'nın geleneksel çizgisini koruyan manuel hatchback modeliyle geçirilen 2000 millik uzun süreli testin sonuçları paylaşıldı.",
+  "puan": 5.0,
+  "grup": "mazda-3-manual-long-term-test",
+  "link": "https://www.autocar.co.uk/car-review/long-term-reviews/mx-5-family-2000-miles-manual-mazda-3",
+  "source": "Autocar",
+  "ts": 1792823001.0043569
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli: Mercedes COTA'da İleriye Doğru Bir Adım Attı",
+  "ozet": "Şampiyona lideri Kimi Antonelli, Mercedes'in Amerika GP'sinde yeni ön kanat ve güncellemelerden performans çıkarma konusunda önemli bir adım attığını belirtti.",
+  "puan": 5.5,
+  "grup": "ferrari-us-gp-upgrades",
+  "link": "https://www.motorsport.com/f1/news/kimi-antonelli-hails-austin-fp2-step-forward-as-mercedes-chips-away-at-upgrades/10867656/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792823001.0043569
+ },
+ {
+  "cat": "f1",
+  "baslik": "Amerika GP'sinde Açık Rekabet Bekleniyor",
+  "ozet": "Austin'deki ilk seansların ardından, Amerika Grand Prix'sinin ilk dört takım arasında kıyasıya bir zafer mücadelesine sahne olması bekleniyor.",
+  "puan": 5.0,
+  "grup": "us-gp-2026-day-one-learnings",
+  "link": "https://www.the-race.com/formula-1/f1-2026-wide-open-us-gp-fight-explained/",
+  "source": "The Race",
+  "ts": 1792823001.0043569
  }
 ]
