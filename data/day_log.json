@@ -1,175 +1,5 @@
 [
  {
-  "cat": "araba",
-  "baslik": "Alfa Romeo Tasarım Şefi: 'Büyük Ekranlardan Kurtulmalıyız'",
-  "ozet": "Alfa Romeo baş tasarımcısı Alejandro Mesonero-Romanos, otomobil iç mekanlarındaki devasa ekran trendini eleştirerek daha sade bir tasarıma odaklanacaklarını belirtti.",
-  "puan": 6.0,
-  "grup": "alfa-romeo-interior-screens-design",
-  "link": "https://www.autocar.co.uk/car-news/new-cars/alfa-romeo-design-boss-lets-get-rid-big-screens",
-  "source": "Autocar",
-  "ts": 1792665208.3060343
- },
- {
-  "cat": "araba",
-  "baslik": "Volkswagen Elektrikli Bugatti İsterken Mate Rimac V16'yı Seçti",
-  "ozet": "Bugatti'nin eski sahibi Chiron'un elektrikli bir halefini hayal ederken, Rimac araya girerek V16 motorlu bir süper otomobil geliştirilmesini sağladı.",
-  "puan": 7.5,
-  "grup": "bugatti-tourbillon-v16-development",
-  "link": "https://www.motor1.com/news/812873/matte-rimac-rejected-electric-bugatti/",
-  "source": "Motor1",
-  "ts": 1792665208.3060343
- },
- {
-  "cat": "araba",
-  "baslik": "Dubai Polisi'nden Gürültülü Egzoz ve Modifikasyon Operasyonu",
-  "ozet": "Dubai Polisi, yasa dışı modifikasyonlar ve gürültülü egzozlar nedeniyle para cezası, trafik puanı ve araç bağlama dahil binlerce işlem yaptı.",
-  "puan": 3.0,
-  "grup": "dubai-police-loud-exhaust-fines",
-  "link": "https://www.motor1.com/news/812881/dubai-police-crack-down-loud/",
-  "source": "Motor1",
-  "ts": 1792665208.3060343
- },
- {
-  "cat": "araba",
-  "baslik": "Tesla, Cybercab Modellerini 2026 Sonu Gibi Satışa Çıkaracak",
-  "ozet": "Tesla'nın sürücüsüz robotaksi modeli Cybercab, şirketin kendi filosunda hizmet verirken 2026 yılı sonunda müşteri teslimatlarına başlamayı hedefliyor.",
-  "puan": 7.0,
-  "grup": "tesla-cybercab-2026-release",
-  "link": "https://www.motor1.com/news/812876/tesla-cybercab-deliveries-limited-ownership/",
-  "source": "Motor1",
-  "ts": 1792665208.3060343
- },
- {
-  "cat": "araba",
-  "baslik": "Audi, Spotify'ı Yerleşik Uygulama Olarak Sunan İlk Marka Oldu",
-  "ozet": "Audi'nin yeni platformunda yer alan yerleşik Spotify uygulaması, sürüş ve park modlarını ayırt ederek güvenli kullanım sunuyor.",
-  "puan": 5.5,
-  "grup": "audi-native-spotify-app-integration",
-  "link": "https://www.motor1.com/news/812871/audi-native-spotify-app-runs/",
-  "source": "Motor1",
-  "ts": 1792665208.3060343
- },
- {
-  "cat": "araba",
-  "baslik": "Mercedes-AMG Yeni C63 İçin İki Farklı Model Geliştiriyor",
-  "ozet": "Mühendisler yeni nesil C63 için hem benzinli hem de tamamen elektrikli versiyonlar üzerinde çalışmalar yürütüyor.",
-  "puan": 7.0,
-  "grup": "mercedes-amg-new-c63-models",
-  "link": "https://www.motor1.com/news/812868/new-amg-c63-in-development/",
-  "source": "Motor1",
-  "ts": 1792665208.3060343
- },
- {
-  "cat": "araba",
-  "baslik": "Morgan 50 Müşterisine Kendi Spor Otomobilini Tasarlama Şansı Tanıyor",
-  "ozet": "Bespoke as Standard programı, Plus Four ve Supersport alıcılarını marka tasarımcılarıyla buluşturarak kişiselleştirilmiş dokunuşlar sunuyor.",
-  "puan": 5.0,
-  "grup": "morgan-bespoke-sports-car-design",
-  "link": "https://www.motor1.com/news/812861/morgan-bespoke-standard-lets-50/",
-  "source": "Motor1",
-  "ts": 1792665208.3060343
- },
- {
-  "cat": "araba",
-  "baslik": "Ferrari'nin Elektrikli Modeli Luce, V12 Purosangue'den Pahalı Olacak",
-  "ozet": "Maranello'nun ilk tamamen elektrikli aracı, V12 motorlu SUV modeline kıyasla oldukça yüksek bir fiyat etiketine sahip olacak.",
-  "puan": 7.5,
-  "grup": "ferrari-luce-electric-car-pricing",
-  "link": "https://www.motor1.com/news/812854/2027-ferrari-luce-price-revealed/",
-  "source": "Motor1",
-  "ts": 1792665208.3060343
- },
- {
-  "cat": "araba",
-  "baslik": "Ford'un Yeni Bronco ORV Paketi Tanıtıldı",
-  "ozet": "Bronco ORV yükseltme paketi, Fox süspansiyon, Raptor koruma plakaları ve özel aydınlatma donanımlarıyla zorlu araziler için hazırlandı.",
-  "puan": 6.5,
-  "grup": "ford-bronco-orv-package",
-  "link": "https://www.motor1.com/news/812838/ford-bronco-orv-package-costs/",
-  "source": "Motor1",
-  "ts": 1792665208.3060343
- },
- {
-  "cat": "f1",
-  "baslik": "2026 ABD GP Öncesi Bilgiler ve İstatistikler",
-  "ozet": "Amerika Grand Prix'si öncesinde pist istatistikleri, strateji ipuçları ve temel bilgiler bir arada sunuluyor.",
-  "puan": 3.5,
-  "grup": "us-gp-2026-tv-guide",
-  "link": "https://www.formula1.com/en/latest/article/need-to-know-the-most-important-facts-stats-and-trivia-ahead-of-the-2026-united-states-grand-prix.3yCUtnzlXLwOvhVtmsdVRK",
-  "source": "Formula1.com",
-  "ts": 1792665208.3060343
- },
- {
-  "cat": "f1",
-  "baslik": "Amerika Grand Prix'si Pist Rehberi",
-  "ozet": "Circuit of The Americas hakkında bilinmesi gereken tüm temel istatistikler ve sürüş ipuçları bu rehberde yer alıyor.",
-  "puan": 3.0,
-  "grup": "us-gp-circuit-strategy-analysis",
-  "link": "https://www.formula1.com/en/latest/article/circuit-guide-everything-you-need-to-know-about-the-circuit-of-the-americas.3OjhBbugiQRmN4FnlpBtBc",
-  "source": "Formula1.com",
-  "ts": 1792665208.3060343
- },
- {
-  "cat": "f1",
-  "baslik": "Lider Takımlar 2027 İçin Heyecan Verici Mücadelenin Temelini Atıyor",
-  "ozet": "Mercedes'in erken üstünlüğünün rakipleri tarafından kırılması, 2027 sezonu için büyüleyici bir mücadelenin sinyallerini veriyor.",
-  "puan": 5.0,
-  "grup": "f1-floor-stay-ban-2027",
-  "link": "https://www.formula1.com/en/latest/article/the-extra-gear-formula-1s-leading-teams-setting-up-thrilling-2027-title-battle.5Vm9Y6pNrUZSbpp4BX2NZo",
-  "source": "Formula1.com",
-  "ts": 1792665208.3060343
- },
- {
-  "cat": "f1",
-  "baslik": "Cadillac'tan Sergio Perez'e Özel 222.500 Dolarlık SUV",
-  "ozet": "Cadillac, Sergio Perez'in 300. Formula 1 startı şerefine sadece 11 adet üretilecek özel üretim Escalade-V modelini tanıttı.",
-  "puan": 2.5,
-  "grup": "sergio-perez-cadillac-special-edition",
-  "link": "https://www.motorsport.com/f1/news/cadillac-unveils-222500-sergio-perez-special-edition-ahead-of-300th-f1-start/10866891/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792665208.3060343
- },
- {
-  "cat": "f1",
-  "baslik": "Schumacher'in Ferrari'den Ayrılışının Ardındaki Gerçek",
-  "ozet": "The Race F1 Rewind programının son bölümünde Michael Schumacher'in 2006'daki Ferrari ayrılığının ardındaki gerçekler masaya yatırılıyor.",
-  "puan": 2.0,
-  "grup": "f1-on-this-day-history",
-  "link": "https://www.the-race.com/formula-1/f1-rewind-the-truth-behind-schumachers-ferrari-exit/",
-  "source": "The Race",
-  "ts": 1792665208.3060343
- },
- {
-  "cat": "f1",
-  "baslik": "Podcast: ABD GP'si 2027 Sezonu İçin Neden Kritik?",
-  "ozet": "Austin'deki yarış öncesinde Mercedes, sadece güncellemelerini değil aynı zamanda 2027 beklentilerini de test ediyor.",
-  "puan": 4.5,
-  "grup": "mercedes-2026-season-challenges",
-  "link": "https://www.the-race.com/formula-1/podcast-why-f1s-us-gp-is-pivotal-for-shaping-2027/",
-  "source": "The Race",
-  "ts": 1792665208.3060343
- },
- {
-  "cat": "f1",
-  "baslik": "Horner'ın Kitabından Şaşırtıcı Beş Detay",
-  "ozet": "Christian Horner'ın kitabından Stroll'ün aracını test etmesi ve Mercedes'ten gelen iş teklifi gibi dikkat çekici detaylar derlendi.",
-  "puan": 2.0,
-  "grup": "christian-horner-book-revelations",
-  "link": "https://www.the-race.com/formula-1/five-surprising-things-we-learned-from-horners-book/",
-  "source": "The Race",
-  "ts": 1792665208.3060343
- },
- {
-  "cat": "f1",
-  "baslik": "Red Bull'un En Büyük F1 Kumarının Tam Hikayesi",
-  "ozet": "Red Bull Powertrains'in bir hayalden beş yılda F1 yarış kazanan bir yapıya dönüşmesinin benzeri görülmemiş hikayesi inceleniyor.",
-  "puan": 4.0,
-  "grup": "red-bull-powertrains-story",
-  "link": "https://www.the-race.com/formula-1/red-bull-shock-f1-engine-success-full-story/",
-  "source": "The Race",
-  "ts": 1792665208.3060343
- },
- {
   "cat": "f1",
   "baslik": "Freddie Slater, Audi ile F1'e Adım Atıyor",
   "ozet": "Audi genç pilotlar programından Freddie Slater, Meksika Grand Prix'si ve Sao Paulo Grand Prix'sinde 1. antrenman seansında direksiyona geçecek.",
@@ -2618,5 +2448,125 @@
   "link": "https://www.the-race.com/formula-1/f1-2026-wide-open-us-gp-fight-explained/",
   "source": "The Race",
   "ts": 1792823001.0043569
+ },
+ {
+  "cat": "araba",
+  "baslik": "McLaren'in F1 Fren Soğutma Sistemi Neden Yasaklandı?",
+  "ozet": "McLaren'in MCL39 Formula 1 aracındaki arka fren tasarımının nasıl çalıştığı ve rakiplerin itirazları sonucu neden yasaklandığı inceleniyor.",
+  "puan": 6.5,
+  "grup": "mclaren-f1-brake-cooling-ban",
+  "link": "https://www.jalopnik.com/2290455/mclaren-formula-1-brakes-banned-cooling-designed/",
+  "source": "Jalopnik",
+  "ts": 1792841435.902581
+ },
+ {
+  "cat": "araba",
+  "baslik": "NASCAR'ın Kanatlı Yarış Arabaları Neden Kuralları Değiştirdi?",
+  "ozet": "NASCAR'ın dev kanatlara ve sivri burunlara sahip aerodinamik araçları, aşırı hızları nedeniyle sporun kurallarının kalıcı olarak değişmesine yol açtı.",
+  "puan": 4.5,
+  "grup": "nascar-winged-stock-cars-history",
+  "link": "https://www.motor1.com/features/812747/why-nascar-banned-winged-cars/",
+  "source": "Motor1",
+  "ts": 1792841435.902581
+ },
+ {
+  "cat": "araba",
+  "baslik": "Sürücüler Otomobil Kültür Savaşını Kazanıyor mu?",
+  "ozet": "Toplu taşımanın motorlu araç kullanıcıları tarafından sübvanse edildiğine dikkat çekilerek, günlük hayatta araba kullanmanın zorunluluğu tartışılıyor.",
+  "puan": 3.0,
+  "grup": "drivers-culture-war-public-transport",
+  "link": "https://www.autocar.co.uk/opinion/consumer/drivers-didn%E2%80%99t-start-culture-war-they-may-win-it",
+  "source": "Autocar",
+  "ts": 1792841435.902581
+ },
+ {
+  "cat": "araba",
+  "baslik": "Platformlu ve Çatallı Çekiciler Arasındaki Farklar",
+  "ozet": "Aracınız yolda kaldığında çağıracağınız çekici türünün (platform veya tekerlek kaldırmalı) neden önemli olduğu açıklanıyor.",
+  "puan": 2.5,
+  "grup": "flatbed-vs-wheel-lift-tow-trucks",
+  "link": "https://www.jalopnik.com/2290008/flat-bed-vs-wheel-lift-tow-trucks-differences/",
+  "source": "Jalopnik",
+  "ts": 1792841435.902581
+ },
+ {
+  "cat": "araba",
+  "baslik": "Gelecekteki Renault Modelleri Daha Sade Tasarıma Sahip Olacak",
+  "ozet": "Renault tasarım şefi Laurens van den Acker, retro elektrikli modellerin ardından gelecekteki araçlarda daha sakin ve ortak bir aile tasarımı benimseneceğini belirtti.",
+  "puan": 5.0,
+  "grup": "renault-future-restrained-styling",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/future-renault-models-due-more-restrained-styling",
+  "source": "Autocar",
+  "ts": 1792841435.902581
+ },
+ {
+  "cat": "f1",
+  "baslik": "Gary Anderson'dan F1'deki engelleme sorununa basit çözüm",
+  "ozet": "Gary Anderson, kural değişikliği yardımıyla engelleme sorununu önleme sorumluluğunu tekrar pilotlara verecek basit bir çözüm öneriyor.",
+  "puan": 4.5,
+  "grup": "f1-blocking-problem-gary-anderson-solution",
+  "link": "https://www.the-race.com/formula-1/gary-andersons-simple-solution-for-f1s-impeding-problem/",
+  "source": "The Race",
+  "ts": 1792841435.902581
+ },
+ {
+  "cat": "f1",
+  "baslik": "Isack Hadjar Austin antrenmanlarında büyük zorluklar yaşadı",
+  "ozet": "Red Bull pilotu Isack Hadjar, Austin antrenmanlarında aracın sürülmez olduğunu belirterek büyük zorluklara karşı çözüm arıyor.",
+  "puan": 5.0,
+  "grup": "isack-hadjar-austin-practice-struggles",
+  "link": "https://www.motorsport.com/f1/news/just-undriveable-isack-hadjar-looking-for-answers-after-massive-struggles-in-austin-practice/10867672/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792841435.902581
+ },
+ {
+  "cat": "f1",
+  "baslik": "Honda'nın güncellenmiş güç ünitesinde beklenmeyen sorun",
+  "ozet": "Aston Martin, Singapur'da bekleneni veremezken Fernando Alonso yarış sonrasında Honda güç ünitesindeki bazı sorunlara dikkat çekti.",
+  "puan": 5.5,
+  "grup": "aston-martin-singapore-honda-engine-issue",
+  "link": "https://www.autosport.com/f1/news/the-unexpected-issue-honda-faced-with-upgraded-f1-power-unit/10867646/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1792841435.902581
+ },
+ {
+  "cat": "f1",
+  "baslik": "İkinci güç ünitesi güncellemesine rağmen Honda'nın yaşadığı sorun",
+  "ozet": "Fernando Alonso, Singapur'daki hayal kırıklığı yaratan hafta sonunun ardından Honda'nın ikinci güç ünitesi güncellemesinde beklenmeyen problemlerle karşılaşıldığını belirtti.",
+  "puan": 5.5,
+  "grup": "aston-martin-singapore-honda-engine-issue",
+  "link": "https://www.motorsport.com/f1/news/the-unexpected-problem-honda-encountered-despite-its-second-f1-power-unit-upgrade/10867644/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792841435.902581
+ },
+ {
+  "cat": "f1",
+  "baslik": "Spor dünyası F1'in başarısı takıntısından vazgeçmeli",
+  "ozet": "Diğer spor dallarının Liberty Media yönetimindeki F1'in yükselişini kopyalamaya çalışmak yerine kendi güçlü yanlarına odaklanması gerektiği tartışılıyor.",
+  "puan": 3.0,
+  "grup": "sports-obsession-over-f1-success",
+  "link": "https://www.the-race.com/business/sports-must-ditch-obsession-over-f1s-success/",
+  "source": "The Race",
+  "ts": 1792841435.902581
+ },
+ {
+  "cat": "f1",
+  "baslik": "Red Bull Austin'de iki ana odak alanı belirledi",
+  "ozet": "Max Verstappen'in umut vadeden COTA antrenmanlarının ardından Red Bull, aracın geliştirilmesi gereken iki ana odak noktasını belirledi.",
+  "puan": 5.0,
+  "grup": "us-gp-2026-day-one-learnings",
+  "link": "https://www.autosport.com/f1/news/red-bull-identifies-two-key-focus-areas-after-max-verstappens-promising-start-in-austin/10867770/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1792841435.902581
+ },
+ {
+  "cat": "f1",
+  "baslik": "Red Bull Austin'deki ilk günün ardından odak alanlarını saptadı",
+  "ozet": "Verstappen'in COTA'daki güçlü başlangıcının ardından Red Bull ekibi, aracın performansını artırmak için iki kritik alanı hedef olarak belirledi.",
+  "puan": 5.0,
+  "grup": "us-gp-2026-day-one-learnings",
+  "link": "https://www.motorsport.com/f1/news/red-bull-identifies-two-key-focus-areas-after-max-verstappens-promising-start-in-austin/10867670/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792841435.902581
  }
 ]
