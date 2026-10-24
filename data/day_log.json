@@ -1,125 +1,5 @@
 [
  {
-  "cat": "f1",
-  "baslik": "Freddie Slater, Audi ile F1'e Adım Atıyor",
-  "ozet": "Audi genç pilotlar programından Freddie Slater, Meksika Grand Prix'si ve Sao Paulo Grand Prix'sinde 1. antrenman seansında direksiyona geçecek.",
-  "puan": 6.5,
-  "grup": "freddie-slater-audi-fp1-debut",
-  "link": "https://www.formula1.com/en/latest/article/freddie-slater-to-make-f1-weekend-debut-with-fp1-outings-for-audi-in-mexico-city-and-sao-paulo.25wxy4YykefQKJRX5drRed",
-  "source": "Formula1.com",
-  "ts": 1792683326.397142
- },
- {
-  "cat": "f1",
-  "baslik": "Las Vegas Grand Prix'si İçin VIP Seyahat Şansı",
-  "ozet": "Yarışseverler düzenlenecek çekilişle Las Vegas Grand Prix'sine VIP seyahat etme fırsatı yakalayabilir.",
-  "puan": 2.0,
-  "grup": "f1-experience-win-competition",
-  "link": "https://www.formula1.com/en/latest/article/think-youre-fan1-win-a-vip-trip-to-las-vegas-5.1VXB7LXhbghI2PxXBd9IIm",
-  "source": "Formula1.com",
-  "ts": 1792683326.397142
- },
- {
-  "cat": "f1",
-  "baslik": "2027 Grand Prix Biletleri İçin Yeni Oyun",
-  "ozet": "Taraftarlar sezon boyunca kazanılan toplam yarış pozisyonlarını tahmin ederek 2027 yılı biletleri kazanma şansı yakalıyor.",
-  "puan": 2.0,
-  "grup": "f1-higher-lower-ticket-game",
-  "link": "https://www.formula1.com/en/latest/article/play-our-new-higher-or-lower-game-for-your-chance-to-win-2027-grand-prix-tickets-week7.5bo4qAX7EHBFPHZOJpjnx9",
-  "source": "Formula1.com",
-  "ts": 1792683326.397142
- },
- {
-  "cat": "f1",
-  "baslik": "Freddie Slater, Meksika'da F1 Antrenmanına Çıkıyor",
-  "ozet": "Audi genç pilotu Freddie Slater, Meksika ve Sao Paulo'da düzenlenecek serbest antrenman seansları ile ilk F1 deneyimini yaşayacak.",
-  "puan": 6.5,
-  "grup": "freddie-slater-audi-fp1-debut",
-  "link": "https://www.autosport.com/f1/news/slater-set-for-f1-practice-debut/10867005/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1792683326.397142
- },
- {
-  "cat": "f1",
-  "baslik": "Audi'den Genç Pilota F1 Fırsatı",
-  "ozet": "Audi, F3 ikincisi Freddie Slater'a Meksika ve Sao Paulo'da FP1 deneyimi yaşatacak.",
-  "puan": 6.5,
-  "grup": "freddie-slater-audi-fp1-debut",
-  "link": "https://www.motorsport.com/f1/news/audi-hands-f3-runner-up-freddie-slater-f1-practice-debut/10867002/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792683326.397142
- },
- {
-  "cat": "f1",
-  "baslik": "2026 Sezonunda FP1'e Çıkan Çaylaklar",
-  "ozet": "2026 Formula 1 sezonunda şu ana kadar birinci antrenman seanslarında piste çıkan tüm çaylak pilotlar listelendi.",
-  "puan": 3.0,
-  "grup": "f1-2026-rookie-fp1-drivers",
-  "link": "https://www.the-race.com/formula-1/every-rookie-to-drive-in-fp1-in-f1-2026/",
-  "source": "The Race",
-  "ts": 1792683326.397142
- },
- {
-  "cat": "f1",
-  "baslik": "Adobe'den Alpine ile F1 Ortaklığı",
-  "ozet": "Adobe, yapay zeka ürünlerine odaklanan yeni bir ticari anlaşma ile ilk kez Formula 1'e adım attı.",
-  "puan": 5.0,
-  "grup": "adobe-alpine-commercial-partnership",
-  "link": "https://www.the-race.com/business/adobe-makes-first-move-into-f1-with-alpine-deal/",
-  "source": "The Race",
-  "ts": 1792683326.397142
- },
- {
-  "cat": "f1",
-  "baslik": "Tarihte Bugün: Alonso Şampiyon, Schumacher Emekli",
-  "ozet": "22 Ekim 2006'da Fernando Alonso Brezilya'da şampiyonluğunu ilan ederken Michael Schumacher Formula 1'e veda etmişti.",
-  "puan": 2.0,
-  "grup": "f1-on-this-day-history",
-  "link": "https://www.motorsport.com/f1/news/2006-brazilian-gp-alonso-wins-title-schumacher-retires-f1/10866737/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792683326.397142
- },
- {
-  "cat": "f1",
-  "baslik": "Chase Carey'den MotoGP ve F1 Karşılaştırması",
-  "ozet": "Liberty Media yöneticisi Chase Carey, MotoGP'nin F1'in Drive to Survive başarısını doğrudan kopyalayamayacağını belirtti.",
-  "puan": 3.5,
-  "grup": "chase-carey-motogp-drive-to-survive",
-  "link": "https://www.autosport.com/motogp/news/motogp-cant-simply-copy-f1s-drive-to-survive-success-chase-carey/10866969/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1792683326.397142
- },
- {
-  "cat": "f1",
-  "baslik": "Chase Carey'e Göre MotoGP F1'i Kopyalayamaz",
-  "ozet": "Liberty Media direktörü Chase Carey, MotoGP'nin geniş kitlelere ulaşmak için F1'in Netflix belgeselini kopyalamasının yeterli olmayacağını ifade etti.",
-  "puan": 3.5,
-  "grup": "chase-carey-motogp-drive-to-survive",
-  "link": "https://www.motorsport.com/motogp/news/motogp-cant-simply-copy-f1s-drive-to-survive-success-chase-carey/10866962/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792683326.397142
- },
- {
-  "cat": "f1",
-  "baslik": "Horner'a Red Bull'dan Motor Projesi Teşekkürü",
-  "ozet": "Christian Horner, Red Bull Ford Powertrains motorunun ilk zaferinin ardından yönetim kurulunun kendisini arayıp teşekkür ettiğini açıkladı.",
-  "puan": 4.5,
-  "grup": "christian-horner-red-bull-engine-thanks",
-  "link": "https://www.autosport.com/f1/news/red-bull-called-christian-horner-to-thank-him-for-f1-engine-project-after-maiden-win/10866939/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1792683326.397142
- },
- {
-  "cat": "f1",
-  "baslik": "Red Bull'dan Christian Horner'a Motor Teşekkürü",
-  "ozet": "Eski takım patronu Christian Horner, Red Bull motorunun ilk zaferi sonrası ortakların kendisini arayarak teşekkür ettiğini belirtti.",
-  "puan": 4.5,
-  "grup": "christian-horner-red-bull-engine-thanks",
-  "link": "https://www.motorsport.com/f1/news/red-bull-called-christian-horner-to-thank-him-for-f1-engine-project-after-maiden-win/10866935/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792683326.397142
- },
- {
   "cat": "araba",
   "baslik": "2027 BMW iX5 İlk Sürüş İncelemesi",
   "ozet": "Yeni 2027 BMW iX5, hızlı şarjı ve 430 milden fazla menzili ile benzinli kardeşinden daha özel bir sürüş deneyimi sunuyor.",
@@ -2738,5 +2618,145 @@
   "link": "https://www.racefans.net/2026/10/24/formula-1s-ruined-season-diminishes-antonellis-inevitable-championship-triumph/",
   "source": "RaceFans",
   "ts": 1792853331.8796744
+ },
+ {
+  "cat": "araba",
+  "baslik": "Tractor Supply'dan Uygun Fiyatlı Mini Motor",
+  "ozet": "Bin dolardan daha düşük fiyatıyla dikkat çeken bu tek silindirli mini motosiklet, off-road eğlencesi arayanlara hitap ediyor.",
+  "puan": 3.0,
+  "grup": "tractor-supply-mini-bike",
+  "link": "https://www.jalopnik.com/2290722/tractor-supply-massimo-mini-bike-6-5-hp-engine/",
+  "source": "Jalopnik",
+  "ts": 1792863574.25607
+ },
+ {
+  "cat": "araba",
+  "baslik": "IIHS Güncellenmiş Çarpışma Testi Sonuçları",
+  "ozet": "IIHS'in güncellediği orta bindirmeli ön çarpışma testinden geçen tek crossover Nissan Kicks oldu ve Audi Q3'ü geride bıraktı.",
+  "puan": 7.5,
+  "grup": "iihs-crossover-crash-test-2024",
+  "link": "https://www.thedrive.com/news/iihs-put-a-bunch-of-crossovers-through-its-updated-crash-test-only-one-was-good",
+  "source": "The Drive",
+  "ts": 1792863574.25607
+ },
+ {
+  "cat": "araba",
+  "baslik": "Sedan Modellerin Ölümü Abartılıyor mu?",
+  "ozet": "Sedan pazarının öldüğüne dair iddialara rağmen, bu segmentin hayatta kalmasını sağlayan unsurlar inceleniyor.",
+  "puan": 4.0,
+  "grup": "sedan-market-survival-reasons",
+  "link": "https://www.jalopnik.com/2295762/reasons-death-of-sedan-exaggerated/",
+  "source": "Jalopnik",
+  "ts": 1792863574.25607
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ghostbusters Ecto-1 Hakkında 5 İlginç Bilgi",
+  "ozet": "Hollywood'un en tanınan 21 ayaklık cenaze aracı dönüştürmesi Ecto-1 hakkında az bilinen beş gerçek sıralanıyor.",
+  "puan": 2.5,
+  "grup": "ghostbusters-ecto-1-facts",
+  "link": "https://www.jalopnik.com/2290874/cool-ecto-1-facts-ghostbuster-fans-should-know/",
+  "source": "Jalopnik",
+  "ts": 1792863574.25607
+ },
+ {
+  "cat": "araba",
+  "baslik": "Geniş ve Dar Lastiklerin Off-Road Performansı",
+  "ozet": "Arazi koşullarında en iyi performansı sunan lastik genişliğinin kullanım amacına göre değişiklik gösterdiği ele alınıyor.",
+  "puan": 3.5,
+  "grup": "wide-vs-narrow-off-road-tires",
+  "link": "https://www.jalopnik.com/2290653/wide-vs-narrow-tires-for-off-road-performance/",
+  "source": "Jalopnik",
+  "ts": 1792863574.25607
+ },
+ {
+  "cat": "araba",
+  "baslik": "470 Bin Millik Chevy Bolt EV'nin Durumu",
+  "ozet": "470.000 mil yol yapan bir Chevy Bolt EV'nin mevcut durumu incelenirken, yeni bir batarya paketiyle yarım milyon mili aşabileceği belirtiliyor.",
+  "puan": 5.0,
+  "grup": "chevy-bolt-high-mileage-test",
+  "link": "https://www.thedrive.com/news/someone-put-470000-miles-on-a-chevy-bolt-ev-heres-how-its-holding-up",
+  "source": "The Drive",
+  "ts": 1792863574.25607
+ },
+ {
+  "cat": "araba",
+  "baslik": "Kullanılmış Motor Yağı Nasıl Geri Dönüştürülür?",
+  "ozet": "Değiştirilen eski motor yağlarının nasıl toplanıp yeniden işlendiği ve tekrar kullanılabilir hale getirildiği açıklanıyor.",
+  "puan": 3.0,
+  "grup": "used-engine-oil-recycling",
+  "link": "https://www.jalopnik.com/2290485/how-used-engine-oil-re-refined-become-usable-again/",
+  "source": "Jalopnik",
+  "ts": 1792863574.25607
+ },
+ {
+  "cat": "araba",
+  "baslik": "BaT'taki Özel 2001 VW New Beetle RSi",
+  "ozet": "Bring a Trailer üzerinden satışa çıkan ultra sınırlı üretim VW New Beetle RSi modelini standart versiyonlardan ayıran özellikler anlatılıyor.",
+  "puan": 4.5,
+  "grup": "vw-new-beetle-rsi-bat",
+  "link": "https://www.caranddriver.com/news/a74217853/2001-volkswagen-new-beetle-rsi-bring-a-trailer-auction/",
+  "source": "Car and Driver",
+  "ts": 1792863574.25607
+ },
+ {
+  "cat": "araba",
+  "baslik": "Çim Biçme Makinesi Karbüratörüyle Çalışan Hot Rod",
+  "ozet": "10 yıldır yatan süper şarjlı V8 motora sahip bir Ford hot rod, küçük bir çim biçme makinesi karbüratörü yardımıyla yeniden çalıştırıldı.",
+  "puan": 3.5,
+  "grup": "hot-rod-lawnmower-carburetor",
+  "link": "https://www.thedrive.com/news/this-hot-rod-ford-sat-for-10-years-a-lawnmower-carburetor-got-the-v8-running-again",
+  "source": "The Drive",
+  "ts": 1792863574.25607
+ },
+ {
+  "cat": "f1",
+  "baslik": "Amerika GP 3. Antrenman Canlı Anlatımı",
+  "ozet": "Austin'deki 2026 Amerika Birleşik Devletleri Grand Prix'si öncesindeki son Formula 1 antrenman seansının canlı anlatımı.",
+  "puan": 4.5,
+  "grup": "us-gp-2026-fp3-live",
+  "link": "https://www.formula1.com/en/latest/article/live-coverage-third-practice-in-the-united-states-2026.1BD7GmKj1G3IaUnrRcWI3P",
+  "source": "Formula1.com",
+  "ts": 1792863574.25607
+ },
+ {
+  "cat": "f1",
+  "baslik": "Freddie Hunt'tan Babasının 1976 Şampiyonluğu Açıklaması",
+  "ozet": "1976 Dünya Şampiyonu James Hunt'ın oğlu Freddie Hunt, babasının inanılmaz mirasını ve başarılarını anlatıyor.",
+  "puan": 2.0,
+  "grup": "freddie-hunt-james-hunt-1976",
+  "link": "https://www.formula1.com/en/latest/article/f1-icons-freddie-hunt-on-his-father-james-incredible-1976-title-and-legacy.5EtNzEaEXwqcaKCGn2ySzR",
+  "source": "Formula1.com",
+  "ts": 1792863574.25607
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ferrari'nin 2026 Sezonundaki Son Büyük Güncellemesi",
+  "ozet": "Ferrari, COTA'da yeni bir aero güncellemesi tanıttı ve güçlü görünüyor, ancak değişikliklerin gerçek boyutu ne kadar büyük?",
+  "puan": 5.0,
+  "grup": "ferrari-us-gp-upgrades",
+  "link": "https://www.the-race.com/formula-1/ferrari-last-major-2026-f1-upgrade-explained/",
+  "source": "The Race",
+  "ts": 1792863574.25607
+ },
+ {
+  "cat": "f1",
+  "baslik": "Cadillac F1 Patronunun Sürücü Piyasası Sorusundan Kaçınması",
+  "ozet": "Amerika GP hafta sonu, 2027 ve sonrası için sürücü kadrosu spekülasyonları ortasındaki Cadillac takımına zor sorular getirdi.",
+  "puan": 3.0,
+  "grup": "cadillac-f1-driver-lineup-speculation",
+  "link": "https://www.autosport.com/f1/news/the-intrigued-caused-by-cadillacs-f1-boss-dodging-driver-market-question/10867820/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1792863574.25607
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen'den Amerika GP'ye Umut Verici Başlangıç",
+  "ozet": "Max Verstappen Cuma günkü antrenman seanslarını ikinci ve üçüncü sırada tamamlarken, Red Bull geliştirilmesi gereken alanları belirledi.",
+  "puan": 5.5,
+  "grup": "max-verstappen-us-gp-friday",
+  "link": "https://www.autosport.com/f1/news/red-bull-pinpoints-areas-of-improvement-at-us-gp/10867770/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1792863574.25607
  }
 ]
