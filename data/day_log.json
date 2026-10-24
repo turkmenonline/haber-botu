@@ -1,556 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "2027 BMW iX5 İlk Sürüş İncelemesi",
-  "ozet": "Yeni 2027 BMW iX5, hızlı şarjı ve 430 milden fazla menzili ile benzinli kardeşinden daha özel bir sürüş deneyimi sunuyor.",
-  "puan": 6.5,
-  "grup": "bmw-ix5-first-drive-2027",
-  "link": "https://www.thedrive.com/car-reviews/2027-bmw-ix5-first-drive-review-better-than-the-gas-one",
-  "source": "The Drive",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "2027 BMW iX5 Sürüş İzlenimleri",
-  "ozet": "570 beygir gücü, etkileyici menzili ve konforlu sürüşü ile iX5, bugüne kadarki en iyi X5 olabilir.",
-  "puan": 6.5,
-  "grup": "bmw-ix5-first-drive-2027",
-  "link": "https://www.motor1.com/reviews/812968/2027-bmw-ix5-first-drive-review/",
-  "source": "Motor1",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "2027 BMW X5 İncelemesi ve Yenilikleri",
-  "ozet": "Tartışmalı dış tasarımına rağmen, 2027 BMW X5 teknoloji odaklı iç mekanı ve harika sürüş dinamikleriyle büyük gelişme kaydediyor.",
-  "puan": 6.0,
-  "grup": "bmw-ix5-first-drive-2027",
-  "link": "https://www.motor1.com/reviews/812947/2027-bmw-x5-first-drive-review/",
-  "source": "Motor1",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "2027 BMW iX5 İç Mekan Fotoğrafları",
-  "ozet": "Yenilenen 2027 BMW iX5 modelinin dikkat çekici yeni iç mekan tasarımını yakından inceleyin.",
-  "puan": 4.0,
-  "grup": "bmw-ix5-first-drive-2027",
-  "link": "https://www.caranddriver.com/photos/a74181781/2027-bmw-x5-drive-interior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "2027 BMW iX5 Dış Tasarım Görselleri",
-  "ozet": "Yeni 2027 BMW iX5 modelinin dış tasarımını farklı açılardan detaylıca inceleyin.",
-  "puan": 4.0,
-  "grup": "bmw-ix5-first-drive-2027",
-  "link": "https://www.caranddriver.com/photos/a74166777/2027-bmw-ix5-drive-exterior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "2027 BMW iX5 Yolda: Ailenin Yeni Üyesi",
-  "ozet": "BMW'nin orta boy elektrikli SUV modeli benzinli kardeşiyle benzer görünüme kavuşurken, selefi iX modelinin tuhaflıklarını geride bırakıyor.",
-  "puan": 6.0,
-  "grup": "bmw-ix5-first-drive-2027",
-  "link": "https://www.caranddriver.com/reviews/a74178960/2027-bmw-ix5-drive/",
-  "source": "Car and Driver",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "2027 BMW iX5 Sürüş ve Detay İncelemesi",
-  "ozet": "Sakin sürüşü ve akıcı sıralı altı silindirli motoru beğenilirken, yeni ekranlar ve kapı kolları herkesin hoşuna gitmeyebilir.",
-  "puan": 6.0,
-  "grup": "bmw-ix5-first-drive-2027",
-  "link": "https://www.caranddriver.com/reviews/a74180858/2027-bmw-x5-drive/",
-  "source": "Car and Driver",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "2027 BMW iX5 Dış Görsel Galerisi",
-  "ozet": "2027 BMW iX5'in dış tasarım hatlarını her açıdan gözler önüne seren fotoğraf galerisi.",
-  "puan": 4.0,
-  "grup": "bmw-ix5-first-drive-2027",
-  "link": "https://www.caranddriver.com/photos/a74182276/2027-bmw-x5-drive-exterior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "2027 BMW iX5 Kabin İnceleme Fotoğrafları",
-  "ozet": "2027 BMW iX5 modelinin iç mekanını ve kokpit detaylarını her açıdan keşfedin.",
-  "puan": 4.0,
-  "grup": "bmw-ix5-first-drive-2027",
-  "link": "https://www.caranddriver.com/photos/a74166791/2027-bmw-ix5-drive-interior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "2027 BMW iX5 İlk Sürüş ve Değerlendirme",
-  "ozet": "Elektrikli bir araç isteyip de tam elektrikli hissettirmeyen bir yapı arayanlar için yeni BMW X5 farklı bir deneyim sunuyor.",
-  "puan": 6.0,
-  "grup": "bmw-ix5-first-drive-2027",
-  "link": "https://www.thedrive.com/car-reviews/2027-bmw-x5-first-drive-review",
-  "source": "The Drive",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "GM Otonom Araçlarla Yaşlı Sürücüleri Destekleyecek",
-  "ozet": "General Motors, yaşlı aile bireylerinin ehliyetini alma zorunluluğunu otonom araç teknolojisiyle ortadan kaldırmayı hedefliyor.",
-  "puan": 5.5,
-  "grup": "gm-autonomous-driving-highway-system",
-  "link": "https://www.thedrive.com/news/taking-the-car-keys-from-aging-parents-is-brutal-gm-wants-self-driving-cars-to-change-that",
-  "source": "The Drive",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Cadillac Escalade V-Series 125. Yıl Özel Serisi",
-  "ozet": "Cadillac, markanın 125. yılını özel olarak üretilen Escalade V-Series 125th Anniversary Collector Series ile kutluyor.",
-  "puan": 6.5,
-  "grup": "cadillac-escalade-v-125th-anniversary",
-  "link": "https://www.caranddriver.com/photos/a74220811/2027-cadillac-escalade-v-series-125th-anniversary-collector-series-revealed-exterior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "Cadillac Escalade V-Series 125. Yıl Özel Seri İç Mekanı",
-  "ozet": "Sınırlı sayıda üretilecek olan 2027 Cadillac Escalade V-Series özel serisinin lüks kabin detayları.",
-  "puan": 4.5,
-  "grup": "cadillac-escalade-v-125th-anniversary",
-  "link": "https://www.caranddriver.com/photos/a74220812/2027-cadillac-escalade-v-series-125th-anniversary-collector-series-revealed-interior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "20.000 Dolar Bütçeyle İlk Araba Tavsiyeleri",
-  "ozet": "Sıkıcı olmayan ilk arabasını arayanlar için 20.000 dolarlık bütçeyle alınabilecek eğlenceli alternatifler.",
-  "puan": 2.5,
-  "grup": "first-car-buying-guide-20k",
-  "link": "https://www.jalopnik.com/2294594/first-car-cant-be-boring-civic-wcsyb/",
-  "source": "Jalopnik",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "Subaru Eski STI Manuel Şanzımanını WRX'e Getiriyor",
-  "ozet": "Subaru, Japonya pazarındaki WRX modelleri için yükseltilmiş TY85 şanzımanlı altı ileri manuel seçeneğini geri getiriyor.",
-  "puan": 6.5,
-  "grup": "subaru-wrx-manual-sti-transmission",
-  "link": "https://www.caranddriver.com/news/a74220274/2027-subaru-wrx-six-speed-manual-ty85-japan-teased/",
-  "source": "Car and Driver",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "GM Aynı Anda V8, Elektrikli ve Otonom Araç Üretiyor",
-  "ozet": "GM yöneticisi Jaclyn McQuaid, yapay zekanın geliştirme sürelerini nasıl yarıya indirdiğini ve yeni nesil stratejilerini anlattı.",
-  "puan": 7.0,
-  "grup": "gm-ev-hydrogen-plant-closures",
-  "link": "https://www.thedrive.com/news/gm-is-building-new-v8s-evs-and-self-driving-cars-at-once-its-vehicle-boss-told-us-how",
-  "source": "The Drive",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Ford Mustang Mach-E Trail Tanıtıldı",
-  "ozet": "Yerden yüksekliği artırılmış ve kalın lastiklerle donatılmış yeni Mustang Mach-E Trail zorlu arazi şartlarından ziyade kampçılara hitap ediyor.",
-  "puan": 5.5,
-  "grup": "ford-mustang-mache-trail-2027",
-  "link": "https://www.jalopnik.com/2294449/2027-ford-mustang-mach-e-trail-off-road-trim-level/",
-  "source": "Jalopnik",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "Corvette Mühendisinden Grand Sport X Açıklaması",
-  "ozet": "Corvette Grand Sport X modelinin düzlükte Z06'dan daha hızlı olması, farklı müşteri kitlelerine hitap ettiği için sorun teşkil etmiyor.",
-  "puan": 6.0,
-  "grup": "corvette-grand-sport-x-z06",
-  "link": "https://www.thedrive.com/news/corvette-boss-ok-for-grand-sport-x-to-beat-z06-0-60-because-it-appeals-to-different-buyer",
-  "source": "The Drive",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "Ford Araç İsimlendirme Süreçlerini Anlattı",
-  "ozet": "Ford ekibi, yeni bir araç ismi belirlemeden önce sıkı onay süreçlerinden, pazar araştırmalarından ve dil testlerinden geçtiklerini belirtti.",
-  "puan": 3.0,
-  "grup": "ford-car-naming-process",
-  "link": "https://www.motor1.com/news/812896/ford-puts-every-car-name/",
-  "source": "Motor1",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Subaru Outback Fiyatında İndirim",
-  "ozet": "Yeni baz model seçeneğiyle giriş fiyatı düşürülen 2027 Subaru Outback, serideki neredeyse tüm donanım paketlerinde fiyat indirimine gitti.",
-  "puan": 4.5,
-  "grup": "subaru-outback-price-reduction-2027",
-  "link": "https://www.caranddriver.com/news/a74218284/2027-subaru-outback-pricing-new-base-model/",
-  "source": "Car and Driver",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "Goodwood Etkinlikleri Amerika'ya Geliyor",
-  "ozet": "Goodwood Festival of Speed ve Revival etkinlikleri, Willow Springs ile başlayarak Amerika'ya taşınıyor.",
-  "puan": 5.0,
-  "grup": "goodwood-events-coming-to-america",
-  "link": "https://www.caranddriver.com/news/a74210886/goodwood-car-events-america-willow-springs/",
-  "source": "Car and Driver",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "Dodge Charger İçin 970 Beygirlik Hurricane I6 Motor",
-  "ozet": "Yeni Dodge Charger V8 bekleyenler için, Hurricane I6 motor tekerleklere 970 beygir güç veriyor.",
-  "puan": 7.5,
-  "grup": "dodge-charger-hurricane-i6-970hp",
-  "link": "https://www.thedrive.com/news/still-waiting-for-a-new-v8-dodge-charger-this-hurricane-i6-is-making-970-hp-at-the-wheels",
-  "source": "The Drive",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "Cadillac Escalade-V 125. Yıl Özel Serisi Tanıtıldı",
-  "ozet": "Cadillac, 125. yıla özel olarak tasarlanan ve özel jantlar ile karbon fiber detaylar barındıran 239.000 dolarlık Escalade-V modelini tanıttı.",
-  "puan": 8.0,
-  "grup": "cadillac-escalade-v-125th-anniversary",
-  "link": "https://www.motor1.com/news/812952/cadillac-escalade-v-anniversary-series-price-details/",
-  "source": "Motor1",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "BMW'nin Geleceğin Spor Arabası Şimdi 40.000 Dolar Seviyesinde",
-  "ozet": "Bir zamanlar 160.000 dolardan fazla fiyata satılan BMW'nin plug-in hibrit spor modeli günümüzde yaklaşık 40.000 dolara bulunabiliyor.",
-  "puan": 4.5,
-  "grup": "bmw-i8-used-price-drop",
-  "link": "https://www.motor1.com/reviews/812809/used-bmw-i8-buying-guide/",
-  "source": "Motor1",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "GM ve Ford'un Elektrikli Araç Stratejileri",
-  "ozet": "GM ve Ford, daha ucuz ve hızlı üretilen, Tesla ile Rivian'ı andıran teknolojilere sahip elektrikli araçlar geliştiriyor.",
-  "puan": 7.0,
-  "grup": "gm-ford-ev-parallel-strategy",
-  "link": "https://www.caranddriver.com/news/a74217312/gm-ford-ev-technology-compared/",
-  "source": "Car and Driver",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "Tesla Cybercab Modellerini Bu Yıl Satmak İstiyor",
-  "ozet": "Elon Musk'ın otonom araçlar hakkındaki iddialı sözleri için takvim daralmaya devam ediyor.",
-  "puan": 7.5,
-  "grup": "tesla-cybercab-2026-release",
-  "link": "https://www.jalopnik.com/2294115/tesla-still-wants-to-sell-cybercabs-in-2026/",
-  "source": "Jalopnik",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "Otomobil Dünyasının Hayalleri Süsleyen Şovları",
-  "ozet": "Bütçe kısıtlaması olmadan hazırlanan birbirinden yaratıcı otomobil gösterisi fikirleri derlendi.",
-  "puan": 2.0,
-  "grup": "dream-automotive-shows-list",
-  "link": "https://www.jalopnik.com/2293953/dream-automotive-shows-reader-answers/",
-  "source": "Jalopnik",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "Mercedes-AMG GLE 53 Test Sürüşü",
-  "ozet": "Plug-in hibrit sistemle 577 beygir üreten Mercedes-AMG GLE 53, güçlü kardeşi GLE 63 S'i gereksiz kılıyor.",
-  "puan": 6.0,
-  "grup": "mercedes-amg-gle-gls-2027",
-  "link": "https://www.motor1.com/reviews/812914/2027-mercedes-gle-53-63-first-drive-review/",
-  "source": "Motor1",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "Honda Şasi Üzeri Kamyonet Pazarına Giriyor",
-  "ozet": "Honda, ilk merdiven tipi şasiye sahip kamyonetini üretmek için Mitsubishi ile ortaklık kuracağını onayladı.",
-  "puan": 7.5,
-  "grup": "honda-mitsubishi-ladder-frame-truck",
-  "link": "https://www.thedrive.com/news/honda-wants-in-on-the-body-on-frame-pickup-game-too-tds",
-  "source": "The Drive",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "Chery Tiggo X7 İngiltere Pazarına Geliyor",
-  "ozet": "Köşeli 4x4 tasarımlarından ilham alan yeni rugged model serisinin ilk üyesi Tiggo X7, Çinli markanın İngiltere hedefinde yer alıyor.",
-  "puan": 6.5,
-  "grup": "chery-tiggo-x7-uk-launch",
-  "link": "https://www.autocar.co.uk/car-news/new-cars/chery-tiggo-x7-set-uk-rugged-new-flagship",
-  "source": "Autocar",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "1992 Mazda Miata Özel Seri Arşiv Testi",
-  "ozet": "İngiliz Yarış Yeşili rengine sahip 1992 model Mazda Miata Special Edition'ın geçmiş dönem yol testine bir bakış.",
-  "puan": 3.0,
-  "grup": "mazda-miata-special-edition-1992-archive",
-  "link": "https://www.caranddriver.com/reviews/a74148917/1992-mazda-miata-special-edition-archive-test/",
-  "source": "Car and Driver",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "En Kötü Benzin İstasyonu Deneyimleri",
-  "ozet": "Sürücülerin benzin istasyonlarında yaşadığı talihsiz ve garip anılar derlendi.",
-  "puan": 1.5,
-  "grup": "worst-gas-station-experiences",
-  "link": "https://www.jalopnik.com/2293732/whats-your-worst-gas-station-experience-reader-question/",
-  "source": "Jalopnik",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "Ford Mustang Mach-E 2027'de Daha Ucuz ve Sağlam",
-  "ozet": "2027 model yılıyla birlikte her Mustang Mach-E modeli daha uzun menzilli standart bataryalarla geliyor.",
-  "puan": 6.0,
-  "grup": "ford-mustang-mache-trail-2027",
-  "link": "https://www.motor1.com/news/812851/ford-mustang-mach-e-2027/",
-  "source": "Motor1",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "Honda Yol Otomobilleri İçin Yarış İlhamlı Parçalar Çıkarıyor",
-  "ozet": "Honda Passport için sunulan yeni egzoz yükseltmesi araca 1.9 inç yerden yükseklik kazandırıyor.",
-  "puan": 5.5,
-  "grup": "honda-race-inspired-parts-passport",
-  "link": "https://www.motor1.com/news/812826/honda-racing-parts-road-cars/",
-  "source": "Motor1",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Ford Mustang Mach-E Trail Dış Fotoğrafları",
-  "ozet": "Yeni 2027 Ford Mustang Mach-E Trail modelinin dış tasarımını her açıdan inceleyin.",
-  "puan": 4.0,
-  "grup": "ford-mustang-mache-trail-2027",
-  "link": "https://www.caranddriver.com/photos/a74195367/2027-ford-mustang-mach-e-trail-revealed-exterior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Ford Mustang Mach-E İnceleme ve Fiyat Bilgileri",
-  "ozet": "2027 Ford Mustang Mach-E modelinin teknik özellikleri, fiyatlandırması ve genel değerlendirmesi.",
-  "puan": 5.0,
-  "grup": "ford-mustang-mache-trail-2027",
-  "link": "https://www.caranddriver.com/ford/mustang-mach-e",
-  "source": "Car and Driver",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Ford Mustang Mach-E Ailesine Trail Donanımı Eklendi",
-  "ozet": "Off-road odaklı yeni Trail donanımı, Rally versiyonuna kıyasla daha uygun fiyata ekstra yerden yükseklik sunuyor.",
-  "puan": 6.5,
-  "grup": "ford-mustang-mache-trail-2027",
-  "link": "https://www.caranddriver.com/news/a74205300/2027-ford-mustang-mach-e-pricing-new-details/",
-  "source": "Car and Driver",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Ford Mustang Mach-E Trail İç Mekan Fotoğrafları",
-  "ozet": "2027 model Ford Mustang Mach-E Trail'in kabin içi tasarım detayları fotoğraflarla sergileniyor.",
-  "puan": 4.0,
-  "grup": "ford-mustang-mache-trail-2027",
-  "link": "https://www.caranddriver.com/photos/a74195368/2027-ford-mustang-mach-e-trail-revealed-interior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "1953 Model MG TD İçin 10.500 Dolar İyi Fiyat mı?",
-  "ozet": "İkinci Dünya Savaşı sonrası Amerika'da popülerleşen klasik MG TD modelinin günümüzdeki ikinci el değeri masaya yatırılıyor.",
-  "puan": 2.5,
-  "grup": "1953-mg-td-classic-for-sale",
-  "link": "https://www.jalopnik.com/2293197/1953-mg-td-for-sale-10500/",
-  "source": "Jalopnik",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
-  "baslik": "Toyota Land Cruiser Yakıt Sızıntısı Nedeniyle Geri Çağrılıyor",
-  "ozet": "J250 nesli hibrit Toyota Land Cruiser modelleri, yakıt sızıntısı ve yangın riski nedeniyle inceleme ve parça değişimine çağrılıyor.",
-  "puan": 8.5,
-  "grup": "toyota-land-cruiser-fuel-leak-recall",
-  "link": "https://www.motor1.com/news/812890/toyota-land-cruiser-recall-targets/",
-  "source": "Motor1",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "f1",
-  "baslik": "Taylor Swift'in ABD GP Konseri Üzerinden 10 Yıl Geçti",
-  "ozet": "Amerika Birleşik Devletleri Grand Prix'sinde Taylor Swift'in 2016 yılında 80.000 F1 hayranına verdiği özel konserin üzerinden on yıl geçti.",
-  "puan": 1.5,
-  "grup": "f1-on-this-day-history",
-  "link": "https://www.formula1.com/en/latest/article/one-decade-later-when-taylor-swift-performed-her-only-show-of-2016-at-the-united-states-grand-prix.5H18UiePOW5yJGtH5VO2QA",
-  "source": "Formula1.com",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "f1",
-  "baslik": "Amerika GP Öncesi En İyi Bahis Oranları",
-  "ozet": "Amerika Birleşik Devletleri Grand Prix'si öncesinde Austin'deki pist için en iyi değeri sunan erken bahis oranları incelendi.",
-  "puan": 2.0,
-  "grup": "us-gp-early-odds-analysis",
-  "link": "https://www.formula1.com/en/latest/article/best-value-early-bets-to-consider-for-the-united-states-grand-prix.ciFKUZjs5Sa2X1MAV5FNw",
-  "source": "Formula1.com",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "f1",
-  "baslik": "2026 ABD Grand Prix Hafta Sonu Canlı Anlatımı",
-  "ozet": "Austin'deki 2026 Amerika Birleşik Devletleri Grand Prix hafta sonu öncesi tüm hazırlıklar canlı olarak aktarılıyor.",
-  "puan": 4.5,
-  "grup": "us-gp-2026-live-coverage",
-  "link": "https://www.formula1.com/en/latest/article/live-coverage-thursday-build-up-in-the-united-states-2026.6BoltSl8tjHdSh24FRtww5",
-  "source": "Formula1.com",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "f1",
-  "baslik": "McLaren'dan Norris'e Singapur Kazası İçin Ceza Yok",
-  "ozet": "Lando Norris, Singapur GP sprint yarışında takım arkadaşı Oscar Piastri ile yaşadığı çarpışma nedeniyle herhangi bir cezayla karşılaşmayacak.",
-  "puan": 6.5,
-  "grup": "norris-piastri-singapore-collision",
-  "link": "https://www.the-race.com/formula-1/mclaren-opts-not-to-punish-norris-for-piastri-singapore-collision/",
-  "source": "The Race",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "f1",
-  "baslik": "Oscar Piastri: Geçen Yıl Beni Hızlandıran Şey Şimdi Çöküşüm",
-  "ozet": "Oscar Piastri, 2025 sezonunda şampiyonluk mücadelesi vermesini sağlayan güçlü yönlerinin, yeni regülasyonlara uyum sağlarken en büyük zayıflığına dönüştüğünü itiraf etti.",
-  "puan": 5.0,
-  "grup": "oscar-piastri-regulation-struggles",
-  "link": "https://www.motorsport.com/f1/news/oscar-piastri-what-made-me-fast-last-season-is-now-my-downfall/10867108/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "f1",
-  "baslik": "Jim Beam, Cadillac F1 Ortaklığının Satışlara Etkisini Açıkladı",
-  "ozet": "Jim Beam, Cadillac Formula 1 takımıyla yaptığı ortaklığın şimdiden satışlarında bir artışa yol açtığını belirtti.",
-  "puan": 3.0,
-  "grup": "jim-beam-cadillac-f1-partnership",
-  "link": "https://www.motorsport.com/f1/news/jim-beam-reveals-sales-impact-of-cadillac-f1-partnership/10867093/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "f1",
-  "baslik": "F1 ABD GP: Cuma Programı, Hava Durumu ve Yayın Bilgileri",
-  "ozet": "Formula 1, Kimi Antonelli'nin şampiyonluk fırsatıyla geldiği Austin'deki Amerika Birleşik Devletleri Grand Prix'si için hafta sonunu başlatıyor.",
-  "puan": 5.5,
-  "grup": "us-gp-2026-tv-guide",
-  "link": "https://www.motorsport.com/f1/news/f1-united-states-gp-friday-schedule-weather-forecast-and-how-to-watch/10867077/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "f1",
-  "baslik": "McLaren Koleksiyonundan Beş Efsanevi F1 Aracını Satışa Çıkarıyor",
-  "ozet": "McLaren, aralarında Ayrton Senna'nın son şampiyonluk sezonuna ait araçların da bulunduğu beş özel Formula 1 aracını satışa sunuyor.",
-  "puan": 3.5,
-  "grup": "mclaren-vault-f1-cars-sale",
-  "link": "https://www.motorsport.com/f1/news/mclaren-opens-its-vault-to-sell-five-extraordinary-formula-1-cars/10867087/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "f1",
-  "baslik": "Martin Brundle ve Kızı Özel Üretim Porsche 911 Tanıttı",
-  "ozet": "Eski F1 pilotu Martin Brundle, kızı Charlie ile birlikte Gunther Werks tarafından inşa edilen 860 beygirlik özel bir Porsche 911 modeli geliştirdi.",
-  "puan": 2.5,
-  "grup": "martin-brundle-porsche-911-creation",
-  "link": "https://www.motorsport.com/f1/news/martin-brundle-unveils-incredible-860hp-porsche-911-creation-with-daughter-charlie/10867079/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "f1",
-  "baslik": "Esteban Ocon'dan Rafael Camara'nın Haas Koltuğuna Geçmesine Yorum",
-  "ozet": "Esteban Ocon, Rafael Camara'nın F1 hak ettiğini ancak kendisinin 2027'de kolsuz kalmayı hak etmediğini ifade etti.",
-  "puan": 6.0,
-  "grup": "esteban-ocon-haas-rafael-camara-2027",
-  "link": "https://www.motorsport.com/f1/news/esteban-ocon-responds-to-rafael-camara-signing/10867069/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "f1",
-  "baslik": "Eski F1 CEO'su Hedeflenen Üçüncü ABD Şehrini Açıkladı",
-  "ozet": "Eski F1 CEO'su Chase Carey, Liberty Media'nın devralmasının ardından Miami ve Las Vegas ile birlikte New York'un da düşünüldüğünü açıkladı.",
-  "puan": 3.5,
-  "grup": "chase-carey-motogp-drive-to-survive",
-  "link": "https://www.motorsport.com/f1/news/former-f1-ceo-reveals-third-us-city-targeted-alongside-miami-and-las-vegas/10867067/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "f1",
-  "baslik": "Christian Horner Red Bull'dan Ayrılışını Anlattı",
-  "ozet": "Christian Horner, Red Bull'dan ayrılışının oldukça ani ve sert gerçekleştiğini belirtti.",
-  "puan": 7.5,
-  "grup": "christian-horner-book-revelations",
-  "link": "https://www.motorsport.com/f1/news/christian-horner-reveals-what-led-up-to-his-abrupt-and-brutal-red-bull-f1-exit/10867047/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "f1",
-  "baslik": "LEGO'dan 1.639 Parçalık Red Bull RB20 Modeli",
-  "ozet": "Max Verstappen'in şampiyon aracı Red Bull RB20, çalışan F1 teknolojisi detaylarıyla LEGO Technic serisinde satışa sunuluyor.",
-  "puan": 2.5,
-  "grup": "lego-red-bull-rb20-model",
-  "link": "https://www.motorsport.com/f1/news/this-1639-piece-lego-red-bull-rb20-is-packed-with-working-f1-technology/10867049/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "f1",
-  "baslik": "Cadillac F1 Motor Fabrikasının Açılış Tarihini Açıkladı",
-  "ozet": "Cadillac, 2029 sezonu güç ünitesi tedarikçiliği kapsamında Charlotte'taki F1 motor fabrikasının 18 Aralık'ta açılacağını duyurdu.",
-  "puan": 6.5,
-  "grup": "cadillac-f1-engine-factory-opening",
-  "link": "https://www.motorsport.com/f1/news/cadillac-reveals-date-for-f1-engine-factory-debut-thanks-drivers-for-being-patient/10867013/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "f1",
-  "baslik": "Cadillac F1 Motor Fabrikası Ne Zaman Açılacak?",
-  "ozet": "General Motors, 2029 sezonu için North Carolina'da inşa edilen yeni F1 motor tesisinin 18 Aralık'ta açılacağını açıkladı.",
-  "puan": 6.5,
-  "grup": "cadillac-f1-engine-factory-opening",
-  "link": "https://www.autosport.com/f1/news/when-cadillac-will-open-f1-engine-factory/10867020/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1792697219.8714597
- },
- {
-  "cat": "araba",
   "baslik": "Yeni Nesil BMW X7 ve iX7 Test Sırasında Görüntülendi",
   "ozet": "Neue Klasse tasarımıyla gelecek yeni nesil BMW X7; elektrikli iX7 ve V8 motorlu M60 versiyonlarıyla Mercedes GLS ve Audi Q9'a rakip olacak.",
   "puan": 8.0,
@@ -2758,5 +2208,145 @@
   "link": "https://www.autosport.com/f1/news/red-bull-pinpoints-areas-of-improvement-at-us-gp/10867770/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
   "source": "Autosport",
   "ts": 1792863574.25607
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yazılım Hataları Kazaya Yol Açarsa Suçlu Kim?",
+  "ozet": "Araçların yazılıma bağımlılığı arttıkça, olası kazalarda sorumluluğun kime ait olacağı sorusu önem kazanıyor ve bu konuyu bir uzmana sorduk.",
+  "puan": 5.5,
+  "grup": "car-software-accident-liability",
+  "link": "https://www.jalopnik.com/2291846/who-at-fault-software-glitch-car-accident/",
+  "source": "Jalopnik",
+  "ts": 1792871465.4961293
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yüksek Benzin Fiyatları Karşısında Elektrikli Araç Yorumlarınız",
+  "ozet": "Bazı sürücüler elektrikli araçlara geçiş yapıp bir daha geriye bakmayacağını söylerken, diğerleri benzinli araçlardan vazgeçmemekte kararlı.",
+  "puan": 3.0,
+  "grup": "drivers-culture-war-public-transport",
+  "link": "https://www.jalopnik.com/2292226/is-expensive-gasoline-making-you-reconsider-electric-vehicles-reader-answers/",
+  "source": "Jalopnik",
+  "ts": 1792871465.4961293
+ },
+ {
+  "cat": "araba",
+  "baslik": "Little Trees Araç Kokularının Şaşırtıcı Hikayesi",
+  "ozet": "İkonik ağaç şeklindeki araç kokusu, 1952 yılında kötü kokan bir süt kamyonuyla başladı ve otomobil kültürünün vazgeçilmezi haline geldi.",
+  "puan": 2.0,
+  "grup": "little-trees-air-freshener-history",
+  "link": "https://www.motor1.com/features/812888/little-trees-car-air-freshener-history/",
+  "source": "Motor1",
+  "ts": 1792871465.4961293
+ },
+ {
+  "cat": "araba",
+  "baslik": "Araştırma: Dokunmatik Ekranlar Sürüş Dikkatini Dağıtıyor",
+  "ozet": "Yapılan bir araştırma, sürücülerin dokunmatik ekran kullanırken hem sürüşte başarısız olduğunu hem de ekranda aradıklarını bulmakta zorlandığını ortaya koydu.",
+  "puan": 5.0,
+  "grup": "touchscreen-distracted-driving-study",
+  "link": "https://www.jalopnik.com/2290727/study-multitasking-difficult-for-drivers-when-using-touchscreens/",
+  "source": "Jalopnik",
+  "ts": 1792871465.4961293
+ },
+ {
+  "cat": "f1",
+  "baslik": "ABD GP 3. Antrenman Seansında En Hızlısı Hamilton",
+  "ozet": "Lewis Hamilton, Amerika Birleşik Devletleri Grand Prix'sinin son antrenman seansını lider tamamlayarak hafta sonundaki antrenman serisini Ferrari adına zirvede kapattı.",
+  "puan": 5.0,
+  "grup": "us-gp-2026-fp3-results",
+  "link": "https://www.formula1.com/en/latest/article/fp3-hamilton-goes-fastest-in-final-practice-session-for-the-united-states-gp-ahead-of-verstappen-and-leclerc.1KQ5x8wUAtBETnHxKDNldC",
+  "source": "Formula1.com",
+  "ts": 1792871465.4961293
+ },
+ {
+  "cat": "f1",
+  "baslik": "Christian Horner'dan Taraftarlar İçin Yeni F1 Deneyimi Önerisi",
+  "ozet": "Eski Red Bull takım patronu Christian Horner, taraftarların sanal olarak takımların pit duvarına oturup strateji kararlarını duyabilmesi gerektiğini savundu.",
+  "puan": 3.0,
+  "grup": "christian-horner-red-bull-exit",
+  "link": "https://www.motorsport.com/f1/news/christian-horner-proposes-major-change-to-how-fans-watch-f1/10867935/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792871465.4961293
+ },
+ {
+  "cat": "f1",
+  "baslik": "Franco Colapinto'dan ABD GP'de Doctor Doom Sürprizi",
+  "ozet": "Alpine pilotu Franco Colapinto, Austin'deki bir etkinlikte Doctor Doom kostümü giyerek hayranlarıyla buluştu ve sosyal medyada viral oldu.",
+  "puan": 2.0,
+  "grup": "franco-colapinto-doctor-doom-us-gp",
+  "link": "https://www.motorsport.com/f1/news/franco-colapinto-goes-viral-after-surprise-doctor-doom-appearance-at-united-states-gp/10867930/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792871465.4961293
+ },
+ {
+  "cat": "f1",
+  "baslik": "ABD GP FP3: Hamilton Zirvede, Ferrari Kusursuz Serisini Sürdürdü",
+  "ozet": "Lewis Hamilton, Austin'deki son antrenman seansında Max Verstappen ve Charles Leclerc'i geride bırakarak en hızlı isim oldu.",
+  "puan": 5.0,
+  "grup": "us-gp-2026-fp3-results",
+  "link": "https://www.autosport.com/f1/news/f1-united-states-gp-hamilton-tops-fp3/10867933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1792871465.4961293
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton Pist Sınırı İhlallerinin Yaşandığı FP3'ün Lideri",
+  "ozet": "Ferrari, Amerika Birleşik Devletleri Grand Prix'sinde tüm antrenman seanslarını zirvede tamamlarken, Lewis Hamilton son seansın en hızlısı oldu.",
+  "puan": 5.0,
+  "grup": "us-gp-2026-fp3-results",
+  "link": "https://www.racefans.net/2026/10/24/hamilton-leads-final-practice-after-spate-of-track-limits-violations/",
+  "source": "RaceFans",
+  "ts": 1792871465.4961293
+ },
+ {
+  "cat": "f1",
+  "baslik": "ABD GP FP3'te Lewis Hamilton Max Verstappen'i Geçti",
+  "ozet": "Lewis Hamilton, son antrenman seansında Max Verstappen ve Charles Leclerc'in önünde en iyi dereceyi elde etti.",
+  "puan": 5.0,
+  "grup": "us-gp-2026-fp3-results",
+  "link": "https://www.motorsport.com/f1/news/f1-united-states-gp-lewis-hamilton-tops-fp3/10867914/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792871465.4961293
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton, Leclerc'in Turunun Silinmesiyle FP3'ü Lider Bitirdi",
+  "ozet": "Ferrari, Austin'deki son antrenman seansında en hızlı tur derecelerini elinde tutarak kusursuz bir hafta sonu başlangıcı yaptı.",
+  "puan": 5.0,
+  "grup": "us-gp-2026-fp3-results",
+  "link": "https://www.the-race.com/formula-1/ferrari-completes-us-gp-practice-sweep/",
+  "source": "The Race",
+  "ts": 1792871465.4961293
+ },
+ {
+  "cat": "f1",
+  "baslik": "Colton Herta, 2027'de Cadillac'ta Bottas'ın Yerini Alabilir",
+  "ozet": "Cadillac'ın 2027 F1 pilot kadrosu henüz kesinleşmezken, Colton Herta Valtteri Bottas'ın koltuğu için adaylar arasında yer alıyor.",
+  "puan": 6.5,
+  "grup": "herta-cadillac-bottas-2027",
+  "link": "https://www.the-race.com/formula-1/herta-could-replace-bottas-at-cadillac-in-f1-2027/",
+  "source": "The Race",
+  "ts": 1792871465.4961293
+ },
+ {
+  "cat": "f1",
+  "baslik": "Daniel Ricciardo'dan ABD GP Öncesi Sahne Performansı",
+  "ozet": "Eski F1 pilotu Daniel Ricciardo, Austin'deki bir etkinlikte müzisyen Rob Baird ile birlikte sahneye çıkarak mızıka çaldı.",
+  "puan": 2.0,
+  "grup": "daniel-ricciardo-us-gp-performance",
+  "link": "https://www.motorsport.com/f1/news/daniel-ricciardo-surprises-f1-fans-with-on-stage-performance-ahead-of-us-gp/10867920/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792871465.4961293
+ },
+ {
+  "cat": "f1",
+  "baslik": "Nico Hülkenberg'e Gabriel Bortoleto'dan Şaka",
+  "ozet": "Genç Audi pilotu Gabriel Bortoleto, Austin'deki taraftar buluşması sırasında takım arkadaşı Nico Hülkenberg'e şaka yaparak pantolonunu indirdi.",
+  "puan": 2.0,
+  "grup": "hulkenberg-bortoleto-us-gp-prank",
+  "link": "https://www.motorsport.com/f1/news/nico-hulkenberg-left-red-faced-after-gabriel-bortoleto-prank-at-united-states-gp/10867916/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792871465.4961293
  }
 ]
