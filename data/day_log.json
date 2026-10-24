@@ -2348,5 +2348,95 @@
   "link": "https://www.motorsport.com/f1/news/nico-hulkenberg-left-red-faced-after-gabriel-bortoleto-prank-at-united-states-gp/10867916/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1792871465.4961293
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Bentley Supersports Convertible Yolda",
+  "ozet": "Bentley, lüks dört kişilik üstü açık modelinin yüksek performanslı ve arkadan itişli yeni bir Supersports versiyonunu sunmaya hazırlanıyor.",
+  "puan": 7.5,
+  "grup": "bentley-supersports-convertible",
+  "link": "https://www.jalopnik.com/2296003/bentley-supersports-convertible-spy-shots/",
+  "source": "Jalopnik",
+  "ts": 1792879195.5626466
+ },
+ {
+  "cat": "araba",
+  "baslik": "Klasik Plymouth Modellerinin Güncel Değerleri",
+  "ozet": "Efsanevi Mopar modelleri üreten ancak artık faaliyet göstermeyen Plymouth'un klasik araçlarının günümüzdeki piyasa değerleri inceleniyor.",
+  "puan": 2.5,
+  "grup": "classic-plymouth-models-value",
+  "link": "https://www.jalopnik.com/2291651/classic-plymouth-models-what-theyre-worth-today/",
+  "source": "Jalopnik",
+  "ts": 1792879195.5626466
+ },
+ {
+  "cat": "araba",
+  "baslik": "Düşük Kilometreli 1979 Pontiac Firebird Trans Am Satışta",
+  "ozet": "Sadece 21.956 milde olan bu kusursuz beyaz 1979 Pontiac Firebird Trans Am, düşük kilometresi ve yüksek hacimli motoruyla dikkat çekiyor.",
+  "puan": 3.0,
+  "grup": "1979-pontiac-firebird-trans-am",
+  "link": "https://www.jalopnik.com/2295582/1979-pontiac-firebird-trans-am-for-sale-21956-miles/",
+  "source": "Jalopnik",
+  "ts": 1792879195.5626466
+ },
+ {
+  "cat": "f1",
+  "baslik": "Amerika GP Sıralama Turları Q3 Canlı Anlatımı",
+  "ozet": "Austin'deki 2026 Amerika Birleşik Devletleri Grand Prix'si sıralama turlarında pole pozisyonu mücadelesi canlı olarak aktarılıyor.",
+  "puan": 8.5,
+  "grup": "us-gp-2026-qualifying-live",
+  "link": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-the-united-states-2026.49VaYyfwlL9ih2hFfuf9r5",
+  "source": "Formula1.com",
+  "ts": 1792879195.5626466
+ },
+ {
+  "cat": "f1",
+  "baslik": "James Hunt Belgeselinin İlk Fragmanı Yayınlandı",
+  "ozet": "James Hunt'ın 1976'daki şampiyonluğunun 50. yıl dönümünde 'Hunt: We need to talk about James' belgeselinin ilk fragmanı görücüye çıktı.",
+  "puan": 2.0,
+  "grup": "freddie-hunt-james-hunt-1976",
+  "link": "https://www.racefans.net/2026/10/24/video-first-trailer-for-hunt-we-need-to-talk-about-james-revealed/",
+  "source": "RaceFans",
+  "ts": 1792879195.5626466
+ },
+ {
+  "cat": "f1",
+  "baslik": "COTA Başkanından Verstappen'in Pist Şikayetine Yanıt",
+  "ozet": "Circuit of the Americas başkanı Bobby Epstein, Max Verstappen'in 1. viraj çıkışındaki tümseklerin kabul edilemez olduğu yönündeki eleştirilerine yanıt verdi.",
+  "puan": 5.0,
+  "grup": "max-verstappen-cota-bumps-complaint",
+  "link": "https://www.motorsport.com/f1/news/max-verstappens-austin-gp-complaints-prompt-response-from-cota-chief/10867977/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792879195.5626466
+ },
+ {
+  "cat": "f1",
+  "baslik": "Russell'dan Antonelli'ye Şaka yollu Şampiyonluk Tehdidi",
+  "ozet": "George Russell, Amerika GP öncesinde puan tablosunda lider olan takım arkadaşı Kimi Antonelli'yi şampiyonluktan alıkoymak için onu içki içmeye götürme şakası yaptı.",
+  "puan": 4.5,
+  "grup": "kimi-antonelli-us-gp-title-contender",
+  "link": "https://www.motorsport.com/f1/news/george-russells-tongue-in-cheek-kimi-antonelli-f1-title-threat-get-you-arrested/10867967/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792879195.5626466
+ },
+ {
+  "cat": "f1",
+  "baslik": "Kimi Antonelli Austin'de Yol Otomobiliyle Çite Çarptı",
+  "ozet": "Şampiyonluğa koşan Mercedes pilotu Kimi Antonelli, Austin otoparkında kişiselleştirilmiş Mercedes yol aracıyla manevra yaparken çite çarparak kameralara yansıdı.",
+  "puan": 2.5,
+  "grup": "kimi-antonelli-us-gp-parking-incident",
+  "link": "https://www.motorsport.com/f1/news/kimi-antonelli-caught-on-camera-hitting-fence-in-mercedes-road-car-at-us-gp/10867960/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792879195.5626466
+ },
+ {
+  "cat": "f1",
+  "baslik": "Colton Herta'dan Austin'de Özel Eve Dönüş",
+  "ozet": "Geleceği belirsizliğini koruyan Colton Herta, 2019'daki tarihi IndyCar zaferini kazandığı Circuit of the Americas'a dönmenin kendisi için çok özel olduğunu belirtti.",
+  "puan": 3.5,
+  "grup": "colton-herta-austin-homecoming",
+  "link": "https://www.motorsport.com/f1/news/colton-herta-savours-super-special-austin-homecoming-as-2027-uncertainty-remains/10867950/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792879195.5626466
  }
 ]
