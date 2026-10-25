@@ -1,26 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Yeni Tesla Roadster Önceki Modelin Başarısını Tekrarlayabilecek mi?",
-  "ozet": "Orijinal Tesla Roadster 2009'da otomotiv dünyası için bir dönüm noktasıydı ve yeni nesil modelin de aynı etkiyi yaratması için zorlu bir süreçten geçmesi gerekiyor.",
-  "puan": 5.5,
-  "grup": "tesla-roadster-new-generation",
-  "link": "https://www.autocar.co.uk/car-news/features/forget-flying-can-new-tesla-roadster-dazzle-drivers-original",
-  "source": "Autocar",
-  "ts": 1792734992.508994
- },
- {
-  "cat": "araba",
-  "baslik": "Tır Lastikleri Neden Bazen Yere Değmiyormuş Gibi Görünür?",
-  "ozet": "Bazı tır ve kamyonlarda bazı lastiklerin havada durmasının nedeni kaldırma aksları, lastik aşınması ve yakıt verimliliğidir.",
-  "puan": 2.5,
-  "grup": "semi-truck-lift-axles-explained",
-  "link": "https://www.motor1.com/features/812450/why-some-semi-truck-tires-dont-touch-ground/",
-  "source": "Motor1",
-  "ts": 1792734992.508994
- },
- {
-  "cat": "araba",
   "baslik": "Ferrari 499P Modificata Müzayedeye Çıkıyor",
   "ozet": "Fabrika çıkışlı özel üretim Ferrari 499P Modificata, 8 milyon doların üzerinde bir fiyatla açık artırmaya sunuluyor.",
   "puan": 7.5,
@@ -2398,5 +2378,75 @@
   "link": "https://www.autosport.com/f1/news/antonelli-pole-shows-mercedes-is-seeing-results-of-car-upgrades/10868072/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
   "source": "Autosport",
   "ts": 1792904055.041141
+ },
+ {
+  "cat": "araba",
+  "baslik": "Rivian ve Volvo IIHS 2026 Güvenlik Ödülü'nü Alan Büyük SUV'ler Oldu",
+  "ozet": "2026 yılında büyük SUV'lerin çoğu IIHS'nin en yüksek güvenlik ödülünü kaçırırken, sadece Rivian ve Volvo bu unvanı almayı başardı.",
+  "puan": 7.5,
+  "grup": "iihs-large-suv-safety-2026",
+  "link": "https://www.jalopnik.com/2290708/rivian-volvo-only-large-suvs-iihs-top-safety-pick-plus-ratings/",
+  "source": "Jalopnik",
+  "ts": 1792921442.8231366
+ },
+ {
+  "cat": "araba",
+  "baslik": "Klasik BMW 7 Serisi Sahipliği ve Ödüllü 728i",
+  "ozet": "1997 model E38 nesli BMW 728i, yakın zamanda düzenlenen bir etkinlikte en iyi genel ödülü kazanarak değerini bir kez daha kanıtladı.",
+  "puan": 2.5,
+  "grup": "classic-bmw-7-series-owner",
+  "link": "https://www.autocar.co.uk/car-news/used-cars/i%E2%80%99ll-be-buried-it-my-classic-bmw-7-series-too-good-sell",
+  "source": "Autocar",
+  "ts": 1792921442.8231366
+ },
+ {
+  "cat": "araba",
+  "baslik": "Audi'den ABD'deki Yeni Büyük SUV Fabrikası İçin 4 Milyar Dolarlık Yatırım",
+  "ozet": "Georgia'da kurulacak yeni Audi fabrikası 4.500 kişiye istihdam sağlayacak ve 2030'ların başında üretime başlayacak.",
+  "puan": 8.0,
+  "grup": "audi-us-factory-investment-suv",
+  "link": "https://www.motor1.com/news/813154/audi-new-factory-georgia-usa/",
+  "source": "Motor1",
+  "ts": 1792921442.8231366
+ },
+ {
+  "cat": "araba",
+  "baslik": "Hot Wheels Tasarım Ekibi ve Küçük Arabaların Başarı Hikayesi",
+  "ozet": "Amerikalı otomotiv tasarım stüdyosu, en sevilen araçları 1:64 ölçeğinde hayata geçirmeye devam ediyor.",
+  "puan": 2.0,
+  "grup": "hot-wheels-design-team-history",
+  "link": "https://www.autocar.co.uk/car-news/features/small-cars-massive-sales-meet-team-behind-hot-wheels",
+  "source": "Autocar",
+  "ts": 1792921442.8231366
+ },
+ {
+  "cat": "f1",
+  "baslik": "F1 ve Apple TV Anlaşmasının Başarısı",
+  "ozet": "Formula 1'in ABD'deki yayın yayıncılığında Apple TV'ye geçişi büyük bir değişim yarattı ve bu ortaklığın sonuçları inceleniyor.",
+  "puan": 4.5,
+  "grup": "f1-apple-tv-broadcast-deal",
+  "link": "https://www.the-race.com/business/why-f1-is-so-sure-its-apple-tv-deal-is-working/",
+  "source": "The Race",
+  "ts": 1792921442.8231366
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen'den COTA Pisti Yumru Tepkisi",
+  "ozet": "Max Verstappen, COTA pistindeki aşırı bozukluklar hakkında eleştirilerde bulunarak pist yöneticisine sert bir yanıt verdi.",
+  "puan": 5.0,
+  "grup": "max-verstappen-cota-bumps-complaint",
+  "link": "https://www.motorsport.com/f1/news/max-verstappen-reacts-to-cota-boss-he-can-drive-my-car-after-five-laps-he-wont-be-able-to-walk/10868080/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792921442.8231366
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen COTA Pistindeki Bozuklukları Eleştirdi",
+  "ozet": "Max Verstappen, Circuit of the Americas'daki aşırı pist bozukluklarına tepki göstererek duruma dair sert açıklamalarda bulundu.",
+  "puan": 5.0,
+  "grup": "max-verstappen-cota-bumps-complaint",
+  "link": "https://www.autosport.com/f1/news/max-verstappen-responds-to-cota-boss-he-can-drive-my-car-after-five-laps-he-wont-be-able-to-walk/10868204/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1792921442.8231366
  }
 ]
