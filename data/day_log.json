@@ -1,96 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Yeni Lexus LFA Üretime Yaklaşıyor",
-  "ozet": "Lexus, efsanevi LFA modelinin yerini alacak elektrikli halefini geliştirmeye devam ediyor ve yeni casus fotoğrafları ortaya çıktı.",
-  "puan": 8.5,
-  "grup": "lexus-lfa-electric-successor",
-  "link": "https://www.motor1.com/news/812950/new-lexus-lfa-spy-photos/",
-  "source": "Motor1",
-  "ts": 1792717261.4153244
- },
- {
-  "cat": "f1",
-  "baslik": "Austin Paddock Gündemi",
-  "ozet": "Lawrence Barretto, Amerika Grand Prix'si medya gününde padokta konuşulan ana konuları derledi.",
-  "puan": 4.5,
-  "grup": "us-gp-2026-paddock-talking-points",
-  "link": "https://www.formula1.com/en/latest/article/all-the-stories-that-got-the-austin-paddock-talking.3Ft9Iehky7D3daarvVFTEg",
-  "source": "Formula1.com",
-  "ts": 1792717261.4153244
- },
- {
-  "cat": "f1",
-  "baslik": "Russell: 2026 Sezonu Karakterimi Test Etti",
-  "ozet": "George Russell, 2026 sezonunda şampiyonluk şansını ve karşılaştığı zorlukların direncini nasıl sınadığını değerlendirdi.",
-  "puan": 5.5,
-  "grup": "mercedes-2026-season-challenges",
-  "link": "https://www.formula1.com/en/latest/article/this-wont-be-my-last-shot-russell-on-how-2026-has-tested-my-character-and-resilience.2xvMU03AhxoQpZVAtwkelv",
-  "source": "Formula1.com",
-  "ts": 1792717261.4153244
- },
- {
-  "cat": "f1",
-  "baslik": "Verstappen'den Mekies'e Destek",
-  "ozet": "Max Verstappen, Laurent Mekies'in Red Bull ile sözleşme uzatmasını desteklerken, bu hafta sonu galibiyet serisini sürdürmeyi bekleyenleri uyardı.",
-  "puan": 6.0,
-  "grup": "max-verstappen-mekies-red-bull-contract",
-  "link": "https://www.formula1.com/en/latest/article/he-fully-deserves-it-verstappen-backs-mekies-contract-extension-but-wary-of-red-bulls-winning-form-continuing-in-austin.2z5DsziITrRNyz7pVwJzu8",
-  "source": "Formula1.com",
-  "ts": 1792717261.4153244
- },
- {
-  "cat": "f1",
-  "baslik": "Amerika GP İlk Gün Notları",
-  "ozet": "Austin padokundaki ilk günde Singapur tartışmaları devam ederken, güncellemeler ve pilot açıklamaları ön plana çıktı.",
-  "puan": 5.0,
-  "grup": "us-gp-2026-day-one-learnings",
-  "link": "https://www.the-race.com/formula-1/everything-we-learned-on-day-one-of-f1s-2026-us-gp/",
-  "source": "The Race",
-  "ts": 1792717261.4153244
- },
- {
-  "cat": "f1",
-  "baslik": "Hamilton: Afrika'da Yarışmak İçin 45 Yaşına Kadar Kalabilirim",
-  "ozet": "Lewis Hamilton, Afrika'da yarışma umuduyla 45 yaşına kadar Formula 1'de kalabileceğini belirtti.",
-  "puan": 4.0,
-  "grup": "hamilton-rwanda-african-gp-hopes",
-  "link": "https://www.racefans.net/2026/10/23/spotlight-hamilton-to-race-until-hes-45-im-forced-to-stay-longer-to-race-in-africa/",
-  "source": "RaceFans",
-  "ts": 1792717261.4153244
- },
- {
-  "cat": "f1",
-  "baslik": "Russell'dan Pist Değişikliği Çağrısı",
-  "ozet": "George Russell, Verstappen'in COTA'daki tümsek şikayetlerinin ardından Formula 1 pistlerinin düzenli olarak yeniden asfaltlanması gerektiğini belirtti.",
-  "puan": 5.0,
-  "grup": "max-verstappen-cota-bumps-complaint",
-  "link": "https://www.motorsport.com/f1/news/george-russell-calls-for-f1-track-changes-after-max-verstappens-cota-complaints/10867193/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792717261.4153244
- },
- {
-  "cat": "f1",
-  "baslik": "Tarihte Bugün: Hamilton Austin'de Kazandı",
-  "ozet": "Lewis Hamilton Austin'de zafer elde ederken, sanal güvenlik aracı dönemi Nico Rosberg'in şampiyonluk umutlarına destek oldu.",
-  "puan": 2.5,
-  "grup": "f1-on-this-day-history",
-  "link": "https://www.racefans.net/2026/10/23/on-this-day-united-states-grand-prix/",
-  "source": "RaceFans",
-  "ts": 1792717261.4153244
- },
- {
-  "cat": "f1",
-  "baslik": "Mercedes Güncellenmiş Motor Çıkışını Erteledi",
-  "ozet": "Mercedes'in yükseltilmiş Formula 1 motoru, Amerika Grand Prix'sinde başlangıçta planlandığı gibi sahne almayacak.",
-  "puan": 6.0,
-  "grup": "mercedes-aduo-engine-debut-delay",
-  "link": "https://www.the-race.com/formula-1/mercedes-rolls-back-aduo-engine-debut/",
-  "source": "The Race",
-  "ts": 1792717261.4153244
- },
- {
-  "cat": "araba",
   "baslik": "Yeni Tesla Roadster Önceki Modelin Başarısını Tekrarlayabilecek mi?",
   "ozet": "Orijinal Tesla Roadster 2009'da otomotiv dünyası için bir dönüm noktasıydı ve yeni nesil modelin de aynı etkiyi yaratması için zorlu bir süreçten geçmesi gerekiyor.",
   "puan": 5.5,
@@ -2278,5 +2188,215 @@
   "link": "https://www.racefans.net/2026/10/24/2026-united-states-grand-prix-grid/",
   "source": "RaceFans",
   "ts": 1792887258.2221708
+ },
+ {
+  "cat": "araba",
+  "baslik": "Michigan Eyalet Polisi En Hızlı Devriye Aracını Test Etti",
+  "ozet": "Michigan Eyalet Polisi, en yüksek hıza ulaşabilen ve pistte en başarılı olan devriye aracını belirlemek için sonbaharda testler gerçekleştirdi.",
+  "puan": 4.5,
+  "grup": "michigan-state-police-pursuit-test",
+  "link": "https://www.jalopnik.com/2290717/michigan-state-police-cars-track-which-fastest/",
+  "source": "Jalopnik",
+  "ts": 1792904055.041141
+ },
+ {
+  "cat": "araba",
+  "baslik": "Büyük Çekme İşlerinde SUV Yerine Neden Pickup Tercih Edilir?",
+  "ozet": "Büyük SUV'ler güçlü görünse de, ağır çekim işlerinde pickup kamyonetlerin hâlâ standart tercih olmasının arkasındaki temel avantajlar inceleniyor.",
+  "puan": 3.5,
+  "grup": "pickup-trucks-vs-suvs-towing",
+  "link": "https://www.jalopnik.com/2290010/pickup-trucks-vs-suvs-towing/",
+  "source": "Jalopnik",
+  "ts": 1792904055.041141
+ },
+ {
+  "cat": "araba",
+  "baslik": "Teksas'taki Halk Plajları Aynı Zamanda Otoyol Olarak Kullanılıyor",
+  "ozet": "Teksas sakinlerinin plajlara erişimini garanti eden 1959 tarihli Açık Plajlar Yasası sayesinde, bu kumsallarda yasal olarak araç sürmek mümkün.",
+  "puan": 3.0,
+  "grup": "texas-public-beaches-driving",
+  "link": "https://www.jalopnik.com/2292129/texas-public-beaches-are-highways/",
+  "source": "Jalopnik",
+  "ts": 1792904055.041141
+ },
+ {
+  "cat": "f1",
+  "baslik": "Lawson'dan Lindblad'a Q3 Fedakarlığı",
+  "ozet": "Liam Lawson, pazar günkü yarış için cezası bulunan takım arkadaşı Arvid Lindblad'a yardımcı olmak amacıyla Austin'deki sıralama turlarının üçüncü seansına (Q3) çıkmadı.",
+  "puan": 4.5,
+  "grup": "us-gp-2026-qualifying-results",
+  "link": "https://www.formula1.com/en/latest/article/how-lawson-helped-racing-bulls-team-mate-lindblad-by-sacrificing-his-q3-run.dTI59a1UDuyke2gc1RC7b",
+  "source": "Formula1.com",
+  "ts": 1792904055.041141
+ },
+ {
+  "cat": "f1",
+  "baslik": "Albon: Williams'ın Temel Sorunlarını Çözemiyoruz",
+  "ozet": "Amerika Birleşik Devletleri Grand Prix'si hafta sonunu zor geçiren Williams pilotları, sıralama turlarında hayal kırıklığı yaşadı ve temel sorunları çözemediklerini belirtti.",
+  "puan": 5.0,
+  "grup": "williams-us-gp-struggles",
+  "link": "https://www.formula1.com/en/latest/article/we-cant-fix-core-problems-albon-delivers-honest-verdict-after-challenging-qualifying-for-williams-in-austin.LO31B2xewgPJfUt5kSgoB",
+  "source": "Formula1.com",
+  "ts": 1792904055.041141
+ },
+ {
+  "cat": "f1",
+  "baslik": "Alisha Palmowski 2026 F1 Academy Şampiyonu Oldu",
+  "ozet": "Austin'deki Ters Grid Yarışı'nda sekizincilikten ikinciliğe yükselen Alisha Palmowski 2026 F1 Academy şampiyonu olurken, yarışın galibi Alba Larsen oldu.",
+  "puan": 8.5,
+  "grup": "f1-academy-palmowski-title-charge",
+  "link": "https://www.formula1.com/en/latest/article/f1-academy-palmowski-crowned-2026-champion-as-larsen-takes-maiden-victory-in-austin.4AiAv0y5slEikwSUxzQuX4",
+  "source": "Formula1.com",
+  "ts": 1792904055.041141
+ },
+ {
+  "cat": "f1",
+  "baslik": "ABD GP İçin Lastik Stratejisi Seçenekleri",
+  "ozet": "Matt Youson, Amerika Birleşik Devletleri Grand Prix'si yarış gününde takımların kullanabileceği farklı pit stop ve lastik stratejilerini inceliyor.",
+  "puan": 4.0,
+  "grup": "us-gp-2026-day-one-learnings",
+  "link": "https://www.formula1.com/en/latest/article/strategy-guide-what-are-the-tactical-options-for-the-united-states-gp.6GuFxNKHQ7TgdoH0Cc78TD",
+  "source": "Formula1.com",
+  "ts": 1792904055.041141
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton'dan Ferrari'nin Sıralama Performansı Açıklaması",
+  "ozet": "Lewis Hamilton ve Charles Leclerc, Ferrari'nin antrenman turlarındaki hızı sıralama turlarına neden taşıyamadığını açıkladı.",
+  "puan": 5.0,
+  "grup": "ferrari-us-gp-upgrades",
+  "link": "https://www.formula1.com/en/latest/article/hamilton-says-ferrari-are-losing-out-on-the-straights-after-taking-p5-in-us-gp-qualifying.3HHgLe8LEJj5Cb90uXqIYL",
+  "source": "Formula1.com",
+  "ts": 1792904055.041141
+ },
+ {
+  "cat": "f1",
+  "baslik": "Takımların ABD GP Sıralama Turu Değerlendirmeleri",
+  "ozet": "Pilotlar ve takımlar, Amerika Grand Prix'si öncesinde son antrenman ve sıralama turlarının ardından yaşananları değerlendirdi.",
+  "puan": 4.0,
+  "grup": "us-gp-2026-paddock-talking-points",
+  "link": "https://www.formula1.com/en/latest/article/what-the-teams-said-qualifying-in-the-united-states-2026.6m6ZshJA1PBALW8K467AQQ",
+  "source": "Formula1.com",
+  "ts": 1792904055.041141
+ },
+ {
+  "cat": "f1",
+  "baslik": "Amerika GP'sinde Dikkat Edilmesi Gerekenler",
+  "ozet": "Chris Medland, Austin'deki yarış startında ve yarış boyunca takip edilmesi gereken beş kritik noktayı seçti.",
+  "puan": 4.0,
+  "grup": "us-gp-2026-day-one-learnings",
+  "link": "https://www.formula1.com/en/latest/article/what-to-watch-for-in-the-united-states-grand-prix.1Ftck085fCa8NWcCRtR6yq",
+  "source": "Formula1.com",
+  "ts": 1792904055.041141
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen Austin'de Pole Pozisyonunu Kaçırdığı İçin Şaşkın",
+  "ozet": "Tüm antrenman seanslarında en hızlı olan Ferrari'ye rağmen, Mercedes ve Kimi Antonelli Max Verstappen'in üst üste üçüncü pole pozisyonunu engelledi.",
+  "puan": 7.5,
+  "grup": "max-verstappen-us-gp-friday",
+  "link": "https://www.formula1.com/en/latest/article/verstappen-baffled-after-missing-out-on-united-states-grand-prix-pole-position-in-austin.6MHMgwAJfyIvn6cFUbeKLR",
+  "source": "Formula1.com",
+  "ts": 1792904055.041141
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli Pole'ü Nasıl Aldı?",
+  "ozet": "Kimi Antonelli'nin kritik virajlardaki üstün sürüşü, Red Bull pilotlarının Austin'de pole pozisyonunu almasını engelledi.",
+  "puan": 7.0,
+  "grup": "kimi-antonelli-us-gp-title-contender",
+  "link": "https://www.the-race.com/formula-1/how-verstappen-lost-pole-to-antonelli-and-nearly-got-beaten-by-hadjar/",
+  "source": "The Race",
+  "ts": 1792904055.041141
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ferrari'nin Pole Mücadelesi Neden Başarısız Oldu?",
+  "ozet": "En hızlı araca sahip gibi görünen Ferrari, 2026 sezonundaki 18. pole denemesinde de iki tanıdık zayıflık nedeniyle başarısız oldu.",
+  "puan": 5.5,
+  "grup": "ferrari-us-gp-upgrades",
+  "link": "https://www.the-race.com/formula-1/why-another-ferrari-f1-pole-bid-faltered-us-gp-2026/",
+  "source": "The Race",
+  "ts": 1792904055.041141
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen: Q3'teki Hız Kaybı Çok Tuhaf",
+  "ozet": "Max Verstappen, aracının sıralama turlarında neden eski lastiklerde daha iyi hissettirdiğini anlamak için Red Bull'un çalışması gerektiğini söyledi.",
+  "puan": 5.5,
+  "grup": "max-verstappen-cota-bumps-complaint",
+  "link": "https://www.racefans.net/2026/10/25/loss-of-pace-in-q3-something-we-have-to-look-at-because-its-very-odd-verstappen/",
+  "source": "RaceFans",
+  "ts": 1792904055.041141
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli Pist Sınırı İhlali Yapmadığı İçin Mutlu",
+  "ozet": "Andrea Kimi Antonelli, Austin'de pole pozisyonunu aldıktan sonra pist sınırlarını aştığı için ceza almaktan kurtulduğuna sevinidğini belirtti.",
+  "puan": 5.0,
+  "grup": "kimi-antonelli-us-gp-title-contender",
+  "link": "https://www.racefans.net/2026/10/25/antonelli-pleased-and-surprised-to-avoid-another-track-limits-breach-in-qualifying/",
+  "source": "RaceFans",
+  "ts": 1792904055.041141
+ },
+ {
+  "cat": "f1",
+  "baslik": "ABD GP Sıralamalarının Kazananları ve Kaybedenleri",
+  "ozet": "Austin'de açık kapı gibi görünen sıralama seansı, sonunda şampiyonluk adayının zirvede yer almasıyla sonuçlandı.",
+  "puan": 6.0,
+  "grup": "us-gp-2026-qualifying-results",
+  "link": "https://www.the-race.com/formula-1/f1-us-gp-qualifying-2026-winners-losers/",
+  "source": "The Race",
+  "ts": 1792904055.041141
+ },
+ {
+  "cat": "f1",
+  "baslik": "Leclerc ve Hamilton'dan 1. Viraj Açıklaması",
+  "ozet": "Yarışa dördüncü ve beşinci sıradan başlayacak olan Charles Leclerc, Lewis Hamilton ile birlikte 1. virajda geçilmemesi gereken çizgiyi bildiklerini söyledi.",
+  "puan": 5.0,
+  "grup": "us-gp-2026-paddock-talking-points",
+  "link": "https://www.motorsport.com/f1/news/charles-leclerc-sets-boundaries-with-lewis-hamilton-ahead-of-turn-1-battle/10868086/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792904055.041141
+ },
+ {
+  "cat": "f1",
+  "baslik": "Alpine'den Jeremy Clarkson'ın Colapinto Açıklamasına Destek",
+  "ozet": "Alpine, Jeremy Clarkson'ın Franco Colapinto hakkındaki tartışmalı şakası sonrası pilotuna destek veren bir açıklama yayınladı.",
+  "puan": 4.0,
+  "grup": "franco-colapinto-doctor-doom-us-gp",
+  "link": "https://www.motorsport.com/f1/news/alpine-issues-statement-after-jeremy-clarksons-controversial-franco-colapinto-comments/10868082/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792904055.041141
+ },
+ {
+  "cat": "f1",
+  "baslik": "George Russell'dan F1'e Araç Yüksekliği Çağrısı",
+  "ozet": "Sıralamalarda altıncı olan George Russell, COTA pistindeki tümsekler nedeniyle araçların çok alçak ve sert sürülmesine yönelik F1'in kuralları yeniden düşünmesi gerektiğini söyledi.",
+  "puan": 5.5,
+  "grup": "max-verstappen-cota-bumps-complaint",
+  "link": "https://www.motorsport.com/f1/news/george-russell-calls-for-f1-rethink-as-cars-are-forced-to-run-so-low-and-so-stiff/10868060/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792904055.041141
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 ABD GP Cezalarla Güncellenen Başlangıç Grid",
+  "ozet": "Motor bileşeni değişiklikleri nedeniyle verilen üç ceza, Amerika Grand Prix'sinin başlangıç ​​gridini değiştirdi.",
+  "puan": 8.0,
+  "grup": "us-gp-2026-grid-penalties",
+  "link": "https://www.the-race.com/formula-1/f1-2026-united-states-grand-prix-starting-grid-engine-penalties/",
+  "source": "The Race",
+  "ts": 1792904055.041141
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli'ye Göre Pole, Mercedes Güncellemelerinin Sonucu",
+  "ozet": "Şampiyona lideri Kimi Antonelli, Austin'deki pole pozisyonunun Mercedes'in Malezya güncellemelerini iyileştirme çabalarının ödülü olduğunu belirtti.",
+  "puan": 6.5,
+  "grup": "kimi-antonelli-us-gp-title-contender",
+  "link": "https://www.autosport.com/f1/news/antonelli-pole-shows-mercedes-is-seeing-results-of-car-upgrades/10868072/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1792904055.041141
  }
 ]
