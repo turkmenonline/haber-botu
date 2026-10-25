@@ -1968,5 +1968,135 @@
   "link": "https://www.motorsport.com/f1/news/toto-wolff-gets-brutally-honest-about-spotting-f1-talent-and-why-prodigies-wash-out/10868224/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1792958126.795338
+ },
+ {
+  "cat": "araba",
+  "baslik": "Amerika'da Sürücü Belgesi Sistemi Yeniden Düzenlenmeli mi?",
+  "ozet": "Daha iyi sürücü eğitimlerinin yanı sıra farklı ehliyet türlerinin getirilmesi, yolları daha güvenli hale getirebilir.",
+  "puan": 3.0,
+  "grup": "america-drivers-license-types-safety",
+  "link": "https://www.jalopnik.com/2296013/america-needs-more-types-of-drivers-licenses/",
+  "source": "Jalopnik",
+  "ts": 1792967283.9755173
+ },
+ {
+  "cat": "araba",
+  "baslik": "Manuel Vitesli Hyundai Tucson Arayanlar İçin Yıl Rehberi",
+  "ozet": "Manuel şanzımanlı bir Tucson bulmak zor olabilir; bu rehber hangi model yıllarında bu seçeneğin bulunduğunu gösteriyor.",
+  "puan": 2.5,
+  "grup": "hyundai-tucson-manual-transmission-years",
+  "link": "https://www.jalopnik.com/2292908/years-hyundai-tucson-manual-transmission-united-states/",
+  "source": "Jalopnik",
+  "ts": 1792967283.9755173
+ },
+ {
+  "cat": "araba",
+  "baslik": "Cadde Etkinlikleri İçin Otomobil Süsleme Fikirleri",
+  "ozet": "Cadılar Bayramı bagaj etkinliklerinde otomobilinizi tematik bir görünüme kavuşturmanın yolları anlatılıyor.",
+  "puan": 1.5,
+  "grup": "halloween-trunk-or-treat-car-ideas",
+  "link": "https://www.jalopnik.com/2293842/halloween-trunk-or-treat-ideas-to-decorate-car/",
+  "source": "Jalopnik",
+  "ts": 1792967283.9755173
+ },
+ {
+  "cat": "araba",
+  "baslik": "Kasko ve Sigorta Şirketi Değiştirmenin Artıları ve Eksileri",
+  "ozet": "Yeni bir sigorta sağlayıcısına geçmenin avantajları olduğu gibi bazı zorlukları da bulunuyor.",
+  "puan": 2.0,
+  "grup": "switching-auto-insurance-providers-pros-cons",
+  "link": "https://www.jalopnik.com/2296052/pros-and-cons-switching-auto-insurance/",
+  "source": "Jalopnik",
+  "ts": 1792967283.9755173
+ },
+ {
+  "cat": "araba",
+  "baslik": "Orijinal L34 Motorlu 1970 Chevelle SS 396 Satışa Çıktı",
+  "ozet": "Kapsamlı bir restorasyondan geçen ve orijinal motorunu koruyan 1970 model Chevelle SS yeni alıcısını bekliyor.",
+  "puan": 4.5,
+  "grup": "1970-chevelle-ss-396-for-sale",
+  "link": "https://www.jalopnik.com/2296005/1970-chevrolet-chevelle-ss-396-for-sale-huge-restoration/",
+  "source": "Jalopnik",
+  "ts": 1792967283.9755173
+ },
+ {
+  "cat": "araba",
+  "baslik": "Subaru'nun Tüm Yeni SUV Modelleri Boyutlarına Göre Sıralandı",
+  "ozet": "Subaru'nun simetrik dört tekerlekten çekiş sistemine sahip içten yanmalı ve elektrikli SUV'leri küçükten büyüğe sıralandı.",
+  "puan": 3.5,
+  "grup": "every-new-subaru-suv-ranked-size",
+  "link": "https://www.jalopnik.com/2291994/every-new-subaru-suv-ranked-from-smallest-to-largest/",
+  "source": "Jalopnik",
+  "ts": 1792967283.9755173
+ },
+ {
+  "cat": "f1",
+  "baslik": "Amerika GP'yi Antonelli Kazandı",
+  "ozet": "Kimi Antonelli, Austin'deki ABD Grand Prix'sinde üstün bir sürüşle Charles Leclerc'i geride bırakarak zafer elde etti ancak şampiyonluğu henüz garantileyemedi.",
+  "puan": 9.0,
+  "grup": "kimi-antonelli-us-gp-title-contender",
+  "link": "https://www.formula1.com/en/latest/article/antonelli-surges-to-dominant-victory-in-united-states-grand-prix-ahead-of-leclerc-and-verstappen.6kmBQv9FNTW7LzkDj8S34j",
+  "source": "Formula1.com",
+  "ts": 1792967283.9755173
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli'nin Şampiyonluk İçin Yeni Şansı Meksika'da",
+  "ozet": "Austin'de zafer kazanmasına rağmen şampiyonluğu erken ilan edemeyen Kimi Antonelli, mutlu sona ulaşmak için önümüzdeki hafta sonu koşulacak Meksika Grand Prix'sini bekleyecek.",
+  "puan": 8.5,
+  "grup": "kimi-antonelli-us-gp-title-contender",
+  "link": "https://www.motorsport.com/f1/news/how-kimi-antonelli-can-clinch-his-maiden-f1-championship-in-mexico/10868361/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792967283.9755173
+ },
+ {
+  "cat": "f1",
+  "baslik": "Amerika GP'yi Kazanan Antonelli Şampiyonluğun Eşiğinde",
+  "ozet": "Kimi Antonelli, Red Bull ve Ferrari'nin baskı kuramadığı ABD Grand Prix'sinde tek pit stop stratejisini başarıyla uygulayarak kariyerinin ilk şampiyonluğuna çok yaklaştı.",
+  "puan": 9.0,
+  "grup": "kimi-antonelli-us-gp-title-contender",
+  "link": "https://www.the-race.com/formula-1/antonelli-on-the-brink-of-first-f1-title-after-crushing-us-gp-win/",
+  "source": "The Race",
+  "ts": 1792967283.9755173
+ },
+ {
+  "cat": "f1",
+  "baslik": "ABD Grand Prix'sinden Öne Çkan 5 Önemli Not",
+  "ozet": "Kimi Antonelli Austin'de kusursuz bir hafta sonu geçirerek pole pozisyonunu galibiyete çevirdi ve şampiyonluk yolunda bir masterclass'a daha imza attı.",
+  "puan": 6.0,
+  "grup": "kimi-antonelli-us-gp-title-contender",
+  "link": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-us-gp/10868328/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792967283.9755173
+ },
+ {
+  "cat": "f1",
+  "baslik": "ABD GP: Antonelli Pol Pozisyonundan Kazandı",
+  "ozet": "Kimi Antonelli, Charles Leclerc ve Max Verstappen'in zorlamalarına rağmen kusursuz bir tek stop stratejisiyle Amerika GP'yi kazanarak şampiyonluk kutlamasını Meksika'ya bıraktı.",
+  "puan": 9.0,
+  "grup": "kimi-antonelli-us-gp-title-contender",
+  "link": "https://www.autosport.com/f1/news/f1-united-states-gp-antonelli-wins/10868343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1792967283.9755173
+ },
+ {
+  "cat": "f1",
+  "baslik": "Kimi Antonelli ABD GP'nin Galibi Oldu",
+  "ozet": "Mercedes pilotu Kimi Antonelli, Austin'de pole pozisyonundan başladığı yarışta üstün bir performans sergileyerek sezondaki dokuzuncu galibiyetini aldı.",
+  "puan": 9.0,
+  "grup": "kimi-antonelli-us-gp-title-contender",
+  "link": "https://www.motorsport.com/f1/news/f1-united-states-gp-kimi-antonelli-wins/10868331/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792967283.9755173
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 Amerika Grand Prix Yarış Sonuçları",
+  "ozet": "Amerika Birleşik Devletleri'nin COTA pistinde gerçekleştirilen 2026 Formula 1 yarışının resmi sonuçları.",
+  "puan": 9.0,
+  "grup": "kimi-antonelli-us-gp-title-contender",
+  "link": "https://www.the-race.com/formula-1/f1-2026-united-states-grand-prix-race-result/",
+  "source": "The Race",
+  "ts": 1792967283.9755173
  }
 ]
