@@ -1,115 +1,5 @@
 [
  {
-  "cat": "f1",
-  "baslik": "Hadjar: Red Bull Austin'de sürülmez haldeydi",
-  "ozet": "Isack Hadjar, Amerika Grand Prix'si ikinci antrenman seansında yapılan ayar değişikliklerinin Red Bull'un yol tutuşunu olumsuz etkilediğini açıkladı.",
-  "puan": 4.5,
-  "grup": "us-gp-2026-day-one-learnings",
-  "link": "https://www.formula1.com/en/latest/article/hadjar-rues-undriveable-red-bull-after-set-up-changes-lead-to-austin-struggles.3JtCn8kuzY4KVD6cjNFnAl",
-  "source": "Formula1.com",
-  "ts": 1792805375.7926462
- },
- {
-  "cat": "f1",
-  "baslik": "Amerika GP Cuma Günü Takım Açıklamaları",
-  "ozet": "Pilotlar ve takımlar, Amerika Grand Prix'si öncesinde COTA'daki Cuma antrenman seanslarında yaşananları değerlendirdi.",
-  "puan": 4.0,
-  "grup": "us-gp-2026-paddock-talking-points",
-  "link": "https://www.formula1.com/en/latest/article/what-the-teams-said-friday-in-the-united-states-2026.1cMIRGYoxjaKQoBFIORCea",
-  "source": "Formula1.com",
-  "ts": 1792805375.7926462
- },
- {
-  "cat": "f1",
-  "baslik": "Ferrari dörtlü zirve mücadelesinde lider kalabilecek mi?",
-  "ozet": "Lawrence Barretto, Austin'deki ilk gün seanslarının ardından griddeki güç dengelerini değerlendirdi.",
-  "puan": 5.0,
-  "grup": "us-gp-2026-day-one-learnings",
-  "link": "https://www.formula1.com/en/latest/article/can-ferrari-stay-ahead-as-a-four-team-fight-takes-shape.3ePqUiXexJD4IMfFbBRLgU",
-  "source": "Formula1.com",
-  "ts": 1792805375.7926462
- },
- {
-  "cat": "f1",
-  "baslik": "Leclerc'ten ABD GP'si için yüksek beklentilere karşı uyarı",
-  "ozet": "Antrenman seanslarındaki iyi performansın ardından Charles Leclerc, Ferrari'nin hafta sonunun geri kalanında zirveyi korumakta zorlanacağını belirtti.",
-  "puan": 4.5,
-  "grup": "ferrari-us-gp-upgrades",
-  "link": "https://www.formula1.com/en/latest/article/we-need-to-be-careful-leclerc-warns-against-high-expectations-at-united-states-gp.3YLWMX7LEph9Fo3qfBbsQn",
-  "source": "Formula1.com",
-  "ts": 1792805375.7926462
- },
- {
-  "cat": "f1",
-  "baslik": "Norris: McLaren'ın potansiyelini ortaya çıkarmak çok zordu",
-  "ozet": "Lando Norris, Austin'deki ilk günde gösterdiği hıza rağmen MCL40'ın yol tutuş özelliklerinden yakındı.",
-  "puan": 4.5,
-  "grup": "lando-norris-mclaren-car-handling",
-  "link": "https://www.formula1.com/en/latest/article/why-norris-found-it-very-difficult-to-maximise-the-mclarens-potential-in-austin.2w8uKimVta60U6RKqTTwJd",
-  "source": "Formula1.com",
-  "ts": 1792805375.7926462
- },
- {
-  "cat": "f1",
-  "baslik": "Antonelli: Mercedes güncellemelerinde adım ileriye gittik",
-  "ozet": "Kimi Antonelli, Mercedes'in COTA'daki yeni güncellemelerinden maksimum verim almaya başladıkları konusunda umutlu.",
-  "puan": 4.5,
-  "grup": "mercedes-2026-season-challenges",
-  "link": "https://www.formula1.com/en/latest/article/antonelli-explains-steps-forward-with-mercedes-upgrades-during-free-practice-at-us-gp.2XV6b0WII3eonLYi1DamuL",
-  "source": "Formula1.com",
-  "ts": 1792805375.7926462
- },
- {
-  "cat": "f1",
-  "baslik": "Newey'den Aston Martin ve Honda değerlendirmesi",
-  "ozet": "Adrian Newey, Aston Martin'in arka plandaki gelişimini övERken Honda'nın beklenenin biraz gerisinde kaldığını kabul etti.",
-  "puan": 5.5,
-  "grup": "newey-honda-engine-progress-2026",
-  "link": "https://www.formula1.com/en/latest/article/newey-says-aston-martin-buzz-is-building-as-he-assesses-honda-progress.kzKViWGhuRLo8pVF3yZl0",
-  "source": "Formula1.com",
-  "ts": 1792805375.7926462
- },
- {
-  "cat": "f1",
-  "baslik": "Williams'ın COTA'daki garip antrenman günü",
-  "ozet": "Williams, ABD GP antrenmanlarında en yavaş takım olurken araçlarından birinin liderin 8.1 saniye gerisinde kalması dikkat çekti.",
-  "puan": 4.5,
-  "grup": "us-gp-2026-day-one-learnings",
-  "link": "https://www.the-race.com/formula-1/what-was-behind-williams-f1-team-strangest-day-2026/",
-  "source": "The Race",
-  "ts": 1792805375.7926462
- },
- {
-  "cat": "f1",
-  "baslik": "COTA'daki Cuma aksiyonunun kazananları ve kaybedenleri",
-  "ozet": "Amerika Grand Prix'sinin ilk pist üstü seanslarının ardından öne çıkan kazananlar ve kaybedenler derlendi.",
-  "puan": 4.0,
-  "grup": "us-gp-2026-paddock-talking-points",
-  "link": "https://www.the-race.com/formula-1/winners-and-losers-from-cotas-friday-f1-action/",
-  "source": "The Race",
-  "ts": 1792805375.7926462
- },
- {
-  "cat": "f1",
-  "baslik": "McLaren'ın 2026 güncellemelerindeki hedefleri",
-  "ozet": "Lando Norris, aracın hızlı olması için kusursuz olmaya çalışmak zorunda kaldıklarını ancak form düşüklüğü yaşadıklarını belirtti.",
-  "puan": 5.0,
-  "grup": "lando-norris-mclaren-car-handling",
-  "link": "https://www.autosport.com/f1/news/mclarens-aims-for-final-f1-2026-upgrades/10867609/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1792805375.7926462
- },
- {
-  "cat": "f1",
-  "baslik": "Tarihte Bugün: Verstappen görme sorunlarına rağmen Austin'de kazandı",
-  "ozet": "Max Verstappen, COTA'da yaşadığı bulanık görme problemlerinin üstesinden gelerek Lewis Hamilton'ı geride bırakmıştı.",
-  "puan": 2.0,
-  "grup": "max-verstappen-cota-bumps-complaint",
-  "link": "https://www.racefans.net/2026/10/24/on-this-day-2021-united-states-grand-prix/",
-  "source": "RaceFans",
-  "ts": 1792805375.7926462
- },
- {
   "cat": "araba",
   "baslik": "Mazda 3 Manuel ile 2000 Mil İncelemesi",
   "ozet": "Mazda'nın geleneksel çizgisini koruyan manuel hatchback modeliyle geçirilen 2000 millik uzun süreli testin sonuçları paylaşıldı.",
@@ -2168,5 +2058,85 @@
   "link": "https://www.racefans.net/2026/10/25/2026-united-states-grand-prix-in-pictures/",
   "source": "RaceFans",
   "ts": 1792975146.3705602
+ },
+ {
+  "cat": "araba",
+  "baslik": "Hipoid Diferansiyel Yağı Neden Farklı Olmalıdır?",
+  "ozet": "Otomobillerde motor, şanzıman ve diferansiyel yağları birbirinin yerine kullanılamaz; yanlış yağ tercihi ciddi hasarlara yol açabilir.",
+  "puan": 4.5,
+  "grup": "hypoid-differential-gear-oil-differences",
+  "link": "https://www.jalopnik.com/2290712/hypoid-gear-differential-oil-different-transmission-engine-lubrication/",
+  "source": "Jalopnik",
+  "ts": 1792992424.6571689
+ },
+ {
+  "cat": "araba",
+  "baslik": "Cenaze Öncesi Ailelerin Küllerinin Olduğu Araç Çalındı",
+  "ozet": "Cenazeden önceki gece içinde anne ve babasının küllerini taşıyan bir Hyundai Tucson'un çalınması, ABD'deki araç hırsızlığı sorununu gözler önüne serdi.",
+  "puan": 2.5,
+  "grup": "stolen-hyundai-tucson-parents-ashes",
+  "link": "https://www.jalopnik.com/2293486/hyundai-tucson-stolen-parents-ashes-night-before-funeral/",
+  "source": "Jalopnik",
+  "ts": 1792992424.6571689
+ },
+ {
+  "cat": "f1",
+  "baslik": "Wolff'tan Antonelli'ye Austin Övgüsü",
+  "ozet": "Toto Wolff, Kimi Antonelli'nin ABD Grand Prix'sindeki baskın galibiyetini şimdiye kadarki en iyi yarışı olarak nitelendirdi ve pilotun rahat zihniyetine dikkat çekti.",
+  "puan": 7.0,
+  "grup": "us-gp-2026-antonelli-win",
+  "link": "https://www.formula1.com/en/latest/article/why-wolff-believes-that-austin-victory-was-antonellis-best-race-so-far.5EknFIzoqV4V2lU00IzdER",
+  "source": "Formula1.com",
+  "ts": 1792992424.6571689
+ },
+ {
+  "cat": "f1",
+  "baslik": "ABD GP Yarış Günü Açıklamaları",
+  "ozet": "Amerika Birleşik Devletleri Grand Prix'sinin ardından pilotlar ve takımlar, Austin'deki yarış gününün aksiyonunu değerlendirdiler.",
+  "puan": 5.0,
+  "grup": "us-gp-2026-rate-the-race",
+  "link": "https://www.formula1.com/en/latest/article/what-the-teams-said-race-day-in-the-united-states-2026.4FopoItrER6KX395f6ZENu",
+  "source": "Formula1.com",
+  "ts": 1792992424.6571689
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 ABD GP'nin Önemli Anları",
+  "ozet": "Kimi Antonelli, Charles Leclerc'i geride bırakarak şampiyonluğu unvanına bir adım daha yaklaştığı Austin'deki yarışın kilit anları yaşandı.",
+  "puan": 8.5,
+  "grup": "us-gp-2026-antonelli-win",
+  "link": "https://www.formula1.com/en/latest/article/austin-lowdown-all-the-key-moments-as-antonelli-dominates-to-edge-towards-title.4HFlGYh5oSLacvlbJEIa1y",
+  "source": "Formula1.com",
+  "ts": 1792992424.6571689
+ },
+ {
+  "cat": "f1",
+  "baslik": "Red Bull'da Verstappen ve Hadjar İsyanı",
+  "ozet": "Max Verstappen ve Isack Hadjar, araçlarının potansiyelini tam olarak kullanamamalarına neden olan sorunlar zinciri nedeniyle ABD GP sonrası Red Bull'a sert tepki gösterdi.",
+  "puan": 7.5,
+  "grup": "us-gp-2026-red-bull-struggles",
+  "link": "https://www.the-race.com/formula-1/why-verstappen-hadjar-furious-red-bull-f1-us-gp/",
+  "source": "The Race",
+  "ts": 1792992424.6571689
+ },
+ {
+  "cat": "f1",
+  "baslik": "ABD Grand Prix Kazananları ve Kaybedenleri",
+  "ozet": "Austin'deki yarış büyük bir klasik olmasa da strateji savaşları ve yakın performanslar kazananları ve kaybedenleri belirledi.",
+  "puan": 6.0,
+  "grup": "us-gp-2026-winners-losers",
+  "link": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-united-states-grand-prix/10868465/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792992424.6571689
+ },
+ {
+  "cat": "f1",
+  "baslik": "Red Bull'dan Debriyaj Sorunu İtirafı",
+  "ozet": "Red Bull takım patronu Laurent Mekies, yarış başlangıçlarındaki sorunun 2027'den önce tamamen çözülemeyeceğini kabul etti; Isack Hadjar ise debriyajın yeniden tasarlanmasını istemişti.",
+  "puan": 8.0,
+  "grup": "us-gp-2026-hadjar-clutch",
+  "link": "https://www.motorsport.com/f1/news/red-bull-admits-frustrating-f1-problem-will-not-be-fully-solved-this-season/10868457/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1792992424.6571689
  }
 ]
