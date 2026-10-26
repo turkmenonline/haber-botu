@@ -1,36 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Mazda 3 Manuel ile 2000 Mil İncelemesi",
-  "ozet": "Mazda'nın geleneksel çizgisini koruyan manuel hatchback modeliyle geçirilen 2000 millik uzun süreli testin sonuçları paylaşıldı.",
-  "puan": 5.0,
-  "grup": "mazda-3-manual-long-term-test",
-  "link": "https://www.autocar.co.uk/car-review/long-term-reviews/mx-5-family-2000-miles-manual-mazda-3",
-  "source": "Autocar",
-  "ts": 1792823001.0043569
- },
- {
-  "cat": "f1",
-  "baslik": "Antonelli: Mercedes COTA'da İleriye Doğru Bir Adım Attı",
-  "ozet": "Şampiyona lideri Kimi Antonelli, Mercedes'in Amerika GP'sinde yeni ön kanat ve güncellemelerden performans çıkarma konusunda önemli bir adım attığını belirtti.",
-  "puan": 5.5,
-  "grup": "ferrari-us-gp-upgrades",
-  "link": "https://www.motorsport.com/f1/news/kimi-antonelli-hails-austin-fp2-step-forward-as-mercedes-chips-away-at-upgrades/10867656/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792823001.0043569
- },
- {
-  "cat": "f1",
-  "baslik": "Amerika GP'sinde Açık Rekabet Bekleniyor",
-  "ozet": "Austin'deki ilk seansların ardından, Amerika Grand Prix'sinin ilk dört takım arasında kıyasıya bir zafer mücadelesine sahne olması bekleniyor.",
-  "puan": 5.0,
-  "grup": "us-gp-2026-day-one-learnings",
-  "link": "https://www.the-race.com/formula-1/f1-2026-wide-open-us-gp-fight-explained/",
-  "source": "The Race",
-  "ts": 1792823001.0043569
- },
- {
-  "cat": "araba",
   "baslik": "McLaren'in F1 Fren Soğutma Sistemi Neden Yasaklandı?",
   "ozet": "McLaren'in MCL39 Formula 1 aracındaki arka fren tasarımının nasıl çalıştığı ve rakiplerin itirazları sonucu neden yasaklandığı inceleniyor.",
   "puan": 6.5,
@@ -2138,5 +2108,285 @@
   "link": "https://www.motorsport.com/f1/news/red-bull-admits-frustrating-f1-problem-will-not-be-fully-solved-this-season/10868457/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1792992424.6571689
+ },
+ {
+  "cat": "araba",
+  "baslik": "Kimi Antonelli Mercedes-AMG GT'yi Duvara Çarptı",
+  "ozet": "F1 pilotu Kimi Antonelli, ABD GP öncesinde kullandığı Mercedes-AMG GT'yi düşük hızda duvara çarparken, George Russell bu anları kameraya aldı.",
+  "puan": 4.5,
+  "grup": "kimi-antonelli-mercedes-amg-gt-crash",
+  "link": "https://www.motor1.com/news/813224/kimi-antonelli-bumps-fence-mercedes/",
+  "source": "Motor1",
+  "ts": 1793014154.3049085
+ },
+ {
+  "cat": "araba",
+  "baslik": "Anahtarsız Sürüş: Araç Uzakta Ne Kadar Gider?",
+  "ozet": "Çalışır haldeki bir araçtan anahtar uzaklaşırsa ne olur? Motorun durup durmayacağını ve bu durumda ne yapılması gerektiğini inceledik.",
+  "puan": 2.5,
+  "grup": "key-fob-out-of-range-driving-limits",
+  "link": "https://www.motor1.com/features/813032/how-far-can-you-drive-without-key-fob/",
+  "source": "Motor1",
+  "ts": 1793014154.3049085
+ },
+ {
+  "cat": "araba",
+  "baslik": "Bugatti V16 Motorunu Manuel Vitesle Eşleştirebilir",
+  "ozet": "Bugatti, devasa V16 motorunu hibrit sistemler olmadan, üç pedallı saf bir manuel şanzımanla sunmayı değerlendiriyor.",
+  "puan": 8.5,
+  "grup": "bugatti-v16-manual-gearbox-rumor",
+  "link": "https://www.motor1.com/news/813210/bugatti-considering-v16-manual-hypercar/",
+  "source": "Motor1",
+  "ts": 1793014154.3049085
+ },
+ {
+  "cat": "araba",
+  "baslik": "IIHS Güncel Çarpışma Testini Sadece Bir Crossover Geçti",
+  "ozet": "Nissan Kicks arka emniyet kemeri güncellemeleri sayesinde testi geçerken, Audi Q3, Toyota RAV4 ve Trailblazer geride kaldı.",
+  "puan": 7.5,
+  "grup": "iihs-updated-crossover-crash-test",
+  "link": "https://www.motor1.com/news/813211/iihs-crash-test-results-nissan/",
+  "source": "Motor1",
+  "ts": 1793014154.3049085
+ },
+ {
+  "cat": "araba",
+  "baslik": "En İyi ve En Kötü Yolculuk Atıştırmalıkları",
+  "ozet": "Uzun yol seyahatlerinde karnınızı tok tutacak en iyi ve en kötü atıştırmalıkları sizler için sıraladık.",
+  "puan": 1.5,
+  "grup": "road-trip-snacks-ranked",
+  "link": "https://www.jalopnik.com/2293561/road-trip-snacks-ranked-best-to-worst/",
+  "source": "Jalopnik",
+  "ts": 1793014154.3049085
+ },
+ {
+  "cat": "araba",
+  "baslik": "Volkswagen ID Polo Sürüşü: Uygun Fiyatlı Elektrikli",
+  "ozet": "Pratik, ekonomik ve eğlenceli sürüş vadeden yeni elektrikli süpermini Volkswagen ID Polo test edildi.",
+  "puan": 6.5,
+  "grup": "volkswagen-id-polo-driven",
+  "link": "https://www.autocar.co.uk/car-review/volkswagen/id-polo",
+  "source": "Autocar",
+  "ts": 1793014154.3049085
+ },
+ {
+  "cat": "araba",
+  "baslik": "Genesis GV60 Magma Test Edildi",
+  "ozet": "641 beygirlik performans odaklı elektrikli crossover Genesis GV60 Magma, Ioniq 5 N'den aldığı teknolojilerle yola çıktı.",
+  "puan": 7.0,
+  "grup": "genesis-gv60-magma-driven",
+  "link": "https://www.autocar.co.uk/car-review/genesis/gv60-magma",
+  "source": "Autocar",
+  "ts": 1793014154.3049085
+ },
+ {
+  "cat": "araba",
+  "baslik": "Changan Deepal S05 İncelemesi",
+  "ozet": "Çinli üreticinin hem tamamen elektrikli hem de hibrit motor seçenekleri sunan şık orta boy crossover modeli test edildi.",
+  "puan": 5.5,
+  "grup": "changan-deepal-s05-review",
+  "link": "https://www.autocar.co.uk/car-review/changan/deepal-s05",
+  "source": "Autocar",
+  "ts": 1793014154.3049085
+ },
+ {
+  "cat": "araba",
+  "baslik": "Şu Anda Alınabilecek En İyi İkinci El Elektrikli Araçlar",
+  "ozet": "İkinci el elektrikli araç fiyatlarının düşmesiyle birlikte bütçe dostu ve cazip fırsatları değerlendirme zamanı geldi.",
+  "puan": 3.0,
+  "grup": "best-used-electric-cars-bargains",
+  "link": "https://www.autocar.co.uk/car-news/best-cars/best-used-electric-cars",
+  "source": "Autocar",
+  "ts": 1793014154.3049085
+ },
+ {
+  "cat": "araba",
+  "baslik": "Acura ADX'e Vans ve BMX Kültüründen İlham Alan Makyaj",
+  "ozet": "Vans ve Coco Zurita iş birliğiyle hazırlanan 2026 Acura ADX, karbon gövde parçaları ve özel jantlarıyla dikkat çekiyor.",
+  "puan": 4.0,
+  "grup": "acura-adx-vans-bmx-custom",
+  "link": "https://www.motor1.com/news/813208/acura-adx-cz-77-concept/",
+  "source": "Motor1",
+  "ts": 1793014154.3049085
+ },
+ {
+  "cat": "araba",
+  "baslik": "Toyota Yeni Sıralı Dört Silindirli Motorunu GR86'da Test Ediyor",
+  "ozet": "Japon üretici, yarış aracına entegre ettiği yeni geliştirilen 2.0 litrelik atmosferik benzinli motorun testlerine devam ediyor.",
+  "puan": 8.0,
+  "grup": "toyota-new-inline-four-gr86-test",
+  "link": "https://www.motor1.com/news/813203/toyota-new-inline-four-engine-gr86/",
+  "source": "Motor1",
+  "ts": 1793014154.3049085
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yetkililerden Otonom Araçlar İçin Cyan Işık Zorunluluğu Önerisi",
+  "ozet": "Taslak halindeki kurallara göre otonom sürüş modundaki araçların, sürücüsüz sistemi bildirmek için isteğe bağlı cyan renkli lamba kullanması isteniyor.",
+  "puan": 6.0,
+  "grup": "robotaxi-cyan-lights-autonomous-signal",
+  "link": "https://www.motor1.com/news/813196/nhtsa-proposal-cyan-lights-self/",
+  "source": "Motor1",
+  "ts": 1793014154.3049085
+ },
+ {
+  "cat": "araba",
+  "baslik": "James May Efsanevi Otomobilini Satışa Çıkarıyor",
+  "ozet": "James May'in orijinal 3.0 litrelik V8 motora ve manuel şanzımana sahip 1974 model Triumph Stag MkII otomobili yeni alıcısını bekliyor.",
+  "puan": 4.5,
+  "grup": "james-may-triumph-stag-sale",
+  "link": "https://www.motor1.com/news/813187/james-may-grand-tour-triumph/",
+  "source": "Motor1",
+  "ts": 1793014154.3049085
+ },
+ {
+  "cat": "araba",
+  "baslik": "Porsche 15 Adet Özel Üretim Araç Geliştiriyor",
+  "ozet": "Porsche, 800 bin dolarlık Carrera GT restorasyonları ve milyonlarca dolarlık kişiye özel projelerle özel üretim pazarındaki varlığını artırıyor.",
+  "puan": 8.0,
+  "grup": "porsche-one-off-bespoke-models",
+  "link": "https://www.motor1.com/news/813185/porsche-15-million-dollar-car/",
+  "source": "Motor1",
+  "ts": 1793014154.3049085
+ },
+ {
+  "cat": "araba",
+  "baslik": "Geely Avrupa'ya Özel İlk Modeli ve Defender Rakibini Hazırlıyor",
+  "ozet": "Çinli dev Geely, Avrupa pazarına özel geliştirdiği ilk modelini ve yeni arazi aracını tanıtmaya hazırlanıyor.",
+  "puan": 7.5,
+  "grup": "geely-europe-specific-model-defender-rival",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/geely-working-first-model-specific-europe-%E2%80%93-plus-defender-rival",
+  "source": "Autocar",
+  "ts": 1793014154.3049085
+ },
+ {
+  "cat": "f1",
+  "baslik": "Vasseur: Galibiyet için hızımız vardı",
+  "ozet": "Ferrari takım patronu Frederic Vasseur, ABD Grand Prix'sinde galibiyet için gereken hıza sahip oldukları ancak bunu tam olarak kullanamadıkları için hayal kırıklığı yaşadıklarını belirtti.",
+  "puan": 5.5,
+  "grup": "us-gp-2026-leclerc-p2",
+  "link": "https://www.formula1.com/en/latest/article/vasseur-admits-to-ferrari-frustration-as-pace-was-there-to-fight-for-victory.2dt48UPXlFVMj5yaSrWC3V",
+  "source": "Formula1.com",
+  "ts": 1793014154.3049085
+ },
+ {
+  "cat": "f1",
+  "baslik": "Leclerc'in zaferine mal olan tek tur",
+  "ozet": "Michael Lamonato, Charles Leclerc'in ABD Grand Prix'sindeki ikincilik sonucunu ve galibiyet şansını kaçırmasına neden olan kritik turu değerlendirdi.",
+  "puan": 4.0,
+  "grup": "us-gp-2026-leclerc-p2",
+  "link": "https://www.formula1.com/en/latest/article/how-one-lap-cost-leclerc-a-shot-at-cota-victory.3Uw9MTUgPzZXSokRPlTU1S",
+  "source": "Formula1.com",
+  "ts": 1793014154.3049085
+ },
+ {
+  "cat": "f1",
+  "baslik": "Montoya'dan Russell'ın cezasına eleştiri",
+  "ozet": "Eski F1 pilotu Juan Pablo Montoya, George Russell'ın Austin'deki yarışta aldığı 5 saniyelik cezaya şaşırdığını ve pilotun bu olaydan bir avantaj sağlamadığını öne sürdü.",
+  "puan": 6.5,
+  "grup": "us-gp-2026-russell-penalty",
+  "link": "https://www.motorsport.com/f1/news/juan-pablo-montoya-questions-george-russells-f1-united-states-gp-penalty/10868603/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793014154.3049085
+ },
+ {
+  "cat": "f1",
+  "baslik": "Wolff'tan hakem kararına esprili tepki",
+  "ozet": "Mercedes takım patronu Toto Wolff, George Russell'a verilen cezayı eleştirerek 'Burada sigara içmek yasal' yorumunda bulundu.",
+  "puan": 4.5,
+  "grup": "us-gp-2026-russell-penalty",
+  "link": "https://www.racefans.net/2026/10/26/spotlight-wolff-on-stewards-decision-to-penalise-russell-its-legal-here-to-smoke/",
+  "source": "RaceFans",
+  "ts": 1793014154.3049085
+ },
+ {
+  "cat": "f1",
+  "baslik": "Austin sonrası zor durumdaki isim: Lando Norris",
+  "ozet": "Kimi Antonelli'nin şampiyonluk kutlamaları konuşulurken, Lando Norris 2026 sezonundaki şampiyonluk yarışında önemli bir darbe aldı.",
+  "puan": 6.0,
+  "grup": "us-gp-2026-antonelli-title-scenarios",
+  "link": "https://www.motorsport.com/f1/news/who-slept-worst-last-night-lando-norris-10868577/10868577/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793014154.3049085
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 Meksika Grand Prix hafta sonu programı",
+  "ozet": "Formula 1 takviminin bir sonraki ayağı olan Meksika Grand Prix'sinin tüm seans saatleri açıklandı.",
+  "puan": 3.0,
+  "grup": "mexico-gp-2026-schedule",
+  "link": "https://www.the-race.com/promoted/what-time-is-f1-2026-mexican-grand-prix-full-weekend-schedule/",
+  "source": "The Race",
+  "ts": 1793014154.3049085
+ },
+ {
+  "cat": "f1",
+  "baslik": "Austin'in en rahat uyuyan ismi: Liam Lawson",
+  "ozet": "Jolyon Palmer, F1 TV yayınında Liam Lawson'a geleceği hakkında sorular yöneltirken, genç pilotun performansındaki yükseliş dikkat çekti.",
+  "puan": 4.0,
+  "grup": "us-gp-2026-driver-of-the-weekend",
+  "link": "https://www.motorsport.com/f1/news/who-slept-best-last-night-liam-lawson-10868533/10868533/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793014154.3049085
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen'den telsiz sorunları için ironik çıkış",
+  "ozet": "Max Verstappen, Austin'de yaşadığı iletişim problemleri nedeniyle Red Bull'un telsiz sorunlarını 'felaket' olarak nitelendirdi ve işaret dili kullanmayı önerdi.",
+  "puan": 5.0,
+  "grup": "us-gp-2026-red-bull-struggles",
+  "link": "https://www.racefans.net/2026/10/26/more-radio-problems-vex-verstappen-maybe-we-should-use-sign-language/",
+  "source": "RaceFans",
+  "ts": 1793014154.3049085
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli, Verstappen'in erken pitinden endişelenmiş",
+  "ozet": "Andrea Kimi Antonelli, ABD Grand Prix'sinde rakibi Max Verstappen'in erken pit stop hamlesinden endişe duyduğunu ifade etti.",
+  "puan": 5.5,
+  "grup": "us-gp-2026-antonelli-win",
+  "link": "https://www.racefans.net/2026/10/26/antonelli-was-concerned-by-threat-from-verstappens-early-pit-stop-in-austin/",
+  "source": "RaceFans",
+  "ts": 1793014154.3049085
+ },
+ {
+  "cat": "f1",
+  "baslik": "Red Bull ve Verstappen'i yavaşlatan iki ana sorun",
+  "ozet": "Austin'de podyuma çıkan Max Verstappen, sıralama turlarındaki ani tutuş kaybı ve telsiz arızaları gibi recurring sorunların kendilerini yine zorladığını belirtti.",
+  "puan": 5.5,
+  "grup": "us-gp-2026-red-bull-struggles",
+  "link": "https://www.autosport.com/f1/news/max-verstappen-pinpoints-two-recurring-red-bull-problems-we-should-use-sign-language/10868501/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1793014154.3049085
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen: 'Belki de işaret dili kullanmalıyız'",
+  "ozet": "Max Verstappen, ABD Grand Prix'si hafta sonunda yaşadığı tekrarlayan Red Bull sorunları ve telsiz arızaları hakkında esprili bir dille sitem etti.",
+  "puan": 5.0,
+  "grup": "us-gp-2026-red-bull-struggles",
+  "link": "https://www.motorsport.com/f1/news/max-verstappen-pinpoints-two-recurring-red-bull-problems-we-should-use-sign-language/10868474/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793014154.3049085
+ },
+ {
+  "cat": "f1",
+  "baslik": "Alonso'dan Albon teması sonrası sert eleştiri",
+  "ozet": "Fernando Alonso, ABD GP'sinin ilk turunda Williams pilotu Alex Albon ile yaşadığı ve aracında taban hasarına yol açan temasın ardından gridin arka kısmındaki sürüş kalitesini eleştirdi.",
+  "puan": 6.0,
+  "grup": "us-gp-2026-alonso-albon-incident",
+  "link": "https://www.autosport.com/f1/news/alonso-criticises-f1-backmarkers-after-albon-clash/10868469/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1793014154.3049085
+ },
+ {
+  "cat": "f1",
+  "baslik": "Alonso gridin arka tarafındaki sürüş standartlarına ateş püskürdü",
+  "ozet": "Aston Martin pilotu Fernando Alonso, Austin'deki startta Alex Albon ile yaşadığı ve yarışını olumsuz etkileyen olay sonrası rakiplerinin sürüş standartlarını eleştirdi.",
+  "puan": 6.0,
+  "grup": "us-gp-2026-alonso-albon-incident",
+  "link": "https://www.motorsport.com/f1/news/fernando-alonso-blasts-driving-standards-of-bottom-half-of-f1-grid/10868467/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793014154.3049085
  }
 ]
