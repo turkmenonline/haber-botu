@@ -1,286 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Tractor Supply'dan Uygun Fiyatlı Mini Motor",
-  "ozet": "Bin dolardan daha düşük fiyatıyla dikkat çeken bu tek silindirli mini motosiklet, off-road eğlencesi arayanlara hitap ediyor.",
-  "puan": 3.0,
-  "grup": "tractor-supply-mini-bike",
-  "link": "https://www.jalopnik.com/2290722/tractor-supply-massimo-mini-bike-6-5-hp-engine/",
-  "source": "Jalopnik",
-  "ts": 1792863574.25607
- },
- {
-  "cat": "araba",
-  "baslik": "IIHS Güncellenmiş Çarpışma Testi Sonuçları",
-  "ozet": "IIHS'in güncellediği orta bindirmeli ön çarpışma testinden geçen tek crossover Nissan Kicks oldu ve Audi Q3'ü geride bıraktı.",
-  "puan": 7.5,
-  "grup": "iihs-crossover-crash-test-2024",
-  "link": "https://www.thedrive.com/news/iihs-put-a-bunch-of-crossovers-through-its-updated-crash-test-only-one-was-good",
-  "source": "The Drive",
-  "ts": 1792863574.25607
- },
- {
-  "cat": "araba",
-  "baslik": "Sedan Modellerin Ölümü Abartılıyor mu?",
-  "ozet": "Sedan pazarının öldüğüne dair iddialara rağmen, bu segmentin hayatta kalmasını sağlayan unsurlar inceleniyor.",
-  "puan": 4.0,
-  "grup": "sedan-market-survival-reasons",
-  "link": "https://www.jalopnik.com/2295762/reasons-death-of-sedan-exaggerated/",
-  "source": "Jalopnik",
-  "ts": 1792863574.25607
- },
- {
-  "cat": "araba",
-  "baslik": "Ghostbusters Ecto-1 Hakkında 5 İlginç Bilgi",
-  "ozet": "Hollywood'un en tanınan 21 ayaklık cenaze aracı dönüştürmesi Ecto-1 hakkında az bilinen beş gerçek sıralanıyor.",
-  "puan": 2.5,
-  "grup": "ghostbusters-ecto-1-facts",
-  "link": "https://www.jalopnik.com/2290874/cool-ecto-1-facts-ghostbuster-fans-should-know/",
-  "source": "Jalopnik",
-  "ts": 1792863574.25607
- },
- {
-  "cat": "araba",
-  "baslik": "Geniş ve Dar Lastiklerin Off-Road Performansı",
-  "ozet": "Arazi koşullarında en iyi performansı sunan lastik genişliğinin kullanım amacına göre değişiklik gösterdiği ele alınıyor.",
-  "puan": 3.5,
-  "grup": "wide-vs-narrow-off-road-tires",
-  "link": "https://www.jalopnik.com/2290653/wide-vs-narrow-tires-for-off-road-performance/",
-  "source": "Jalopnik",
-  "ts": 1792863574.25607
- },
- {
-  "cat": "araba",
-  "baslik": "470 Bin Millik Chevy Bolt EV'nin Durumu",
-  "ozet": "470.000 mil yol yapan bir Chevy Bolt EV'nin mevcut durumu incelenirken, yeni bir batarya paketiyle yarım milyon mili aşabileceği belirtiliyor.",
-  "puan": 5.0,
-  "grup": "chevy-bolt-high-mileage-test",
-  "link": "https://www.thedrive.com/news/someone-put-470000-miles-on-a-chevy-bolt-ev-heres-how-its-holding-up",
-  "source": "The Drive",
-  "ts": 1792863574.25607
- },
- {
-  "cat": "araba",
-  "baslik": "Kullanılmış Motor Yağı Nasıl Geri Dönüştürülür?",
-  "ozet": "Değiştirilen eski motor yağlarının nasıl toplanıp yeniden işlendiği ve tekrar kullanılabilir hale getirildiği açıklanıyor.",
-  "puan": 3.0,
-  "grup": "used-engine-oil-recycling",
-  "link": "https://www.jalopnik.com/2290485/how-used-engine-oil-re-refined-become-usable-again/",
-  "source": "Jalopnik",
-  "ts": 1792863574.25607
- },
- {
-  "cat": "araba",
-  "baslik": "BaT'taki Özel 2001 VW New Beetle RSi",
-  "ozet": "Bring a Trailer üzerinden satışa çıkan ultra sınırlı üretim VW New Beetle RSi modelini standart versiyonlardan ayıran özellikler anlatılıyor.",
-  "puan": 4.5,
-  "grup": "vw-new-beetle-rsi-bat",
-  "link": "https://www.caranddriver.com/news/a74217853/2001-volkswagen-new-beetle-rsi-bring-a-trailer-auction/",
-  "source": "Car and Driver",
-  "ts": 1792863574.25607
- },
- {
-  "cat": "araba",
-  "baslik": "Çim Biçme Makinesi Karbüratörüyle Çalışan Hot Rod",
-  "ozet": "10 yıldır yatan süper şarjlı V8 motora sahip bir Ford hot rod, küçük bir çim biçme makinesi karbüratörü yardımıyla yeniden çalıştırıldı.",
-  "puan": 3.5,
-  "grup": "hot-rod-lawnmower-carburetor",
-  "link": "https://www.thedrive.com/news/this-hot-rod-ford-sat-for-10-years-a-lawnmower-carburetor-got-the-v8-running-again",
-  "source": "The Drive",
-  "ts": 1792863574.25607
- },
- {
-  "cat": "f1",
-  "baslik": "Amerika GP 3. Antrenman Canlı Anlatımı",
-  "ozet": "Austin'deki 2026 Amerika Birleşik Devletleri Grand Prix'si öncesindeki son Formula 1 antrenman seansının canlı anlatımı.",
-  "puan": 4.5,
-  "grup": "us-gp-2026-fp3-live",
-  "link": "https://www.formula1.com/en/latest/article/live-coverage-third-practice-in-the-united-states-2026.1BD7GmKj1G3IaUnrRcWI3P",
-  "source": "Formula1.com",
-  "ts": 1792863574.25607
- },
- {
-  "cat": "f1",
-  "baslik": "Freddie Hunt'tan Babasının 1976 Şampiyonluğu Açıklaması",
-  "ozet": "1976 Dünya Şampiyonu James Hunt'ın oğlu Freddie Hunt, babasının inanılmaz mirasını ve başarılarını anlatıyor.",
-  "puan": 2.0,
-  "grup": "freddie-hunt-james-hunt-1976",
-  "link": "https://www.formula1.com/en/latest/article/f1-icons-freddie-hunt-on-his-father-james-incredible-1976-title-and-legacy.5EtNzEaEXwqcaKCGn2ySzR",
-  "source": "Formula1.com",
-  "ts": 1792863574.25607
- },
- {
-  "cat": "f1",
-  "baslik": "Ferrari'nin 2026 Sezonundaki Son Büyük Güncellemesi",
-  "ozet": "Ferrari, COTA'da yeni bir aero güncellemesi tanıttı ve güçlü görünüyor, ancak değişikliklerin gerçek boyutu ne kadar büyük?",
-  "puan": 5.0,
-  "grup": "ferrari-us-gp-upgrades",
-  "link": "https://www.the-race.com/formula-1/ferrari-last-major-2026-f1-upgrade-explained/",
-  "source": "The Race",
-  "ts": 1792863574.25607
- },
- {
-  "cat": "f1",
-  "baslik": "Cadillac F1 Patronunun Sürücü Piyasası Sorusundan Kaçınması",
-  "ozet": "Amerika GP hafta sonu, 2027 ve sonrası için sürücü kadrosu spekülasyonları ortasındaki Cadillac takımına zor sorular getirdi.",
-  "puan": 3.0,
-  "grup": "cadillac-f1-driver-lineup-speculation",
-  "link": "https://www.autosport.com/f1/news/the-intrigued-caused-by-cadillacs-f1-boss-dodging-driver-market-question/10867820/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1792863574.25607
- },
- {
-  "cat": "f1",
-  "baslik": "Verstappen'den Amerika GP'ye Umut Verici Başlangıç",
-  "ozet": "Max Verstappen Cuma günkü antrenman seanslarını ikinci ve üçüncü sırada tamamlarken, Red Bull geliştirilmesi gereken alanları belirledi.",
-  "puan": 5.5,
-  "grup": "max-verstappen-us-gp-friday",
-  "link": "https://www.autosport.com/f1/news/red-bull-pinpoints-areas-of-improvement-at-us-gp/10867770/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1792863574.25607
- },
- {
-  "cat": "araba",
-  "baslik": "Yazılım Hataları Kazaya Yol Açarsa Suçlu Kim?",
-  "ozet": "Araçların yazılıma bağımlılığı arttıkça, olası kazalarda sorumluluğun kime ait olacağı sorusu önem kazanıyor ve bu konuyu bir uzmana sorduk.",
-  "puan": 5.5,
-  "grup": "car-software-accident-liability",
-  "link": "https://www.jalopnik.com/2291846/who-at-fault-software-glitch-car-accident/",
-  "source": "Jalopnik",
-  "ts": 1792871465.4961293
- },
- {
-  "cat": "araba",
-  "baslik": "Yüksek Benzin Fiyatları Karşısında Elektrikli Araç Yorumlarınız",
-  "ozet": "Bazı sürücüler elektrikli araçlara geçiş yapıp bir daha geriye bakmayacağını söylerken, diğerleri benzinli araçlardan vazgeçmemekte kararlı.",
-  "puan": 3.0,
-  "grup": "drivers-culture-war-public-transport",
-  "link": "https://www.jalopnik.com/2292226/is-expensive-gasoline-making-you-reconsider-electric-vehicles-reader-answers/",
-  "source": "Jalopnik",
-  "ts": 1792871465.4961293
- },
- {
-  "cat": "araba",
-  "baslik": "Little Trees Araç Kokularının Şaşırtıcı Hikayesi",
-  "ozet": "İkonik ağaç şeklindeki araç kokusu, 1952 yılında kötü kokan bir süt kamyonuyla başladı ve otomobil kültürünün vazgeçilmezi haline geldi.",
-  "puan": 2.0,
-  "grup": "little-trees-air-freshener-history",
-  "link": "https://www.motor1.com/features/812888/little-trees-car-air-freshener-history/",
-  "source": "Motor1",
-  "ts": 1792871465.4961293
- },
- {
-  "cat": "araba",
-  "baslik": "Araştırma: Dokunmatik Ekranlar Sürüş Dikkatini Dağıtıyor",
-  "ozet": "Yapılan bir araştırma, sürücülerin dokunmatik ekran kullanırken hem sürüşte başarısız olduğunu hem de ekranda aradıklarını bulmakta zorlandığını ortaya koydu.",
-  "puan": 5.0,
-  "grup": "touchscreen-distracted-driving-study",
-  "link": "https://www.jalopnik.com/2290727/study-multitasking-difficult-for-drivers-when-using-touchscreens/",
-  "source": "Jalopnik",
-  "ts": 1792871465.4961293
- },
- {
-  "cat": "f1",
-  "baslik": "ABD GP 3. Antrenman Seansında En Hızlısı Hamilton",
-  "ozet": "Lewis Hamilton, Amerika Birleşik Devletleri Grand Prix'sinin son antrenman seansını lider tamamlayarak hafta sonundaki antrenman serisini Ferrari adına zirvede kapattı.",
-  "puan": 5.0,
-  "grup": "us-gp-2026-fp3-results",
-  "link": "https://www.formula1.com/en/latest/article/fp3-hamilton-goes-fastest-in-final-practice-session-for-the-united-states-gp-ahead-of-verstappen-and-leclerc.1KQ5x8wUAtBETnHxKDNldC",
-  "source": "Formula1.com",
-  "ts": 1792871465.4961293
- },
- {
-  "cat": "f1",
-  "baslik": "Christian Horner'dan Taraftarlar İçin Yeni F1 Deneyimi Önerisi",
-  "ozet": "Eski Red Bull takım patronu Christian Horner, taraftarların sanal olarak takımların pit duvarına oturup strateji kararlarını duyabilmesi gerektiğini savundu.",
-  "puan": 3.0,
-  "grup": "christian-horner-red-bull-exit",
-  "link": "https://www.motorsport.com/f1/news/christian-horner-proposes-major-change-to-how-fans-watch-f1/10867935/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792871465.4961293
- },
- {
-  "cat": "f1",
-  "baslik": "Franco Colapinto'dan ABD GP'de Doctor Doom Sürprizi",
-  "ozet": "Alpine pilotu Franco Colapinto, Austin'deki bir etkinlikte Doctor Doom kostümü giyerek hayranlarıyla buluştu ve sosyal medyada viral oldu.",
-  "puan": 2.0,
-  "grup": "franco-colapinto-doctor-doom-us-gp",
-  "link": "https://www.motorsport.com/f1/news/franco-colapinto-goes-viral-after-surprise-doctor-doom-appearance-at-united-states-gp/10867930/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792871465.4961293
- },
- {
-  "cat": "f1",
-  "baslik": "ABD GP FP3: Hamilton Zirvede, Ferrari Kusursuz Serisini Sürdürdü",
-  "ozet": "Lewis Hamilton, Austin'deki son antrenman seansında Max Verstappen ve Charles Leclerc'i geride bırakarak en hızlı isim oldu.",
-  "puan": 5.0,
-  "grup": "us-gp-2026-fp3-results",
-  "link": "https://www.autosport.com/f1/news/f1-united-states-gp-hamilton-tops-fp3/10867933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1792871465.4961293
- },
- {
-  "cat": "f1",
-  "baslik": "Hamilton Pist Sınırı İhlallerinin Yaşandığı FP3'ün Lideri",
-  "ozet": "Ferrari, Amerika Birleşik Devletleri Grand Prix'sinde tüm antrenman seanslarını zirvede tamamlarken, Lewis Hamilton son seansın en hızlısı oldu.",
-  "puan": 5.0,
-  "grup": "us-gp-2026-fp3-results",
-  "link": "https://www.racefans.net/2026/10/24/hamilton-leads-final-practice-after-spate-of-track-limits-violations/",
-  "source": "RaceFans",
-  "ts": 1792871465.4961293
- },
- {
-  "cat": "f1",
-  "baslik": "ABD GP FP3'te Lewis Hamilton Max Verstappen'i Geçti",
-  "ozet": "Lewis Hamilton, son antrenman seansında Max Verstappen ve Charles Leclerc'in önünde en iyi dereceyi elde etti.",
-  "puan": 5.0,
-  "grup": "us-gp-2026-fp3-results",
-  "link": "https://www.motorsport.com/f1/news/f1-united-states-gp-lewis-hamilton-tops-fp3/10867914/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792871465.4961293
- },
- {
-  "cat": "f1",
-  "baslik": "Hamilton, Leclerc'in Turunun Silinmesiyle FP3'ü Lider Bitirdi",
-  "ozet": "Ferrari, Austin'deki son antrenman seansında en hızlı tur derecelerini elinde tutarak kusursuz bir hafta sonu başlangıcı yaptı.",
-  "puan": 5.0,
-  "grup": "us-gp-2026-fp3-results",
-  "link": "https://www.the-race.com/formula-1/ferrari-completes-us-gp-practice-sweep/",
-  "source": "The Race",
-  "ts": 1792871465.4961293
- },
- {
-  "cat": "f1",
-  "baslik": "Colton Herta, 2027'de Cadillac'ta Bottas'ın Yerini Alabilir",
-  "ozet": "Cadillac'ın 2027 F1 pilot kadrosu henüz kesinleşmezken, Colton Herta Valtteri Bottas'ın koltuğu için adaylar arasında yer alıyor.",
-  "puan": 6.5,
-  "grup": "herta-cadillac-bottas-2027",
-  "link": "https://www.the-race.com/formula-1/herta-could-replace-bottas-at-cadillac-in-f1-2027/",
-  "source": "The Race",
-  "ts": 1792871465.4961293
- },
- {
-  "cat": "f1",
-  "baslik": "Daniel Ricciardo'dan ABD GP Öncesi Sahne Performansı",
-  "ozet": "Eski F1 pilotu Daniel Ricciardo, Austin'deki bir etkinlikte müzisyen Rob Baird ile birlikte sahneye çıkarak mızıka çaldı.",
-  "puan": 2.0,
-  "grup": "daniel-ricciardo-us-gp-performance",
-  "link": "https://www.motorsport.com/f1/news/daniel-ricciardo-surprises-f1-fans-with-on-stage-performance-ahead-of-us-gp/10867920/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792871465.4961293
- },
- {
-  "cat": "f1",
-  "baslik": "Nico Hülkenberg'e Gabriel Bortoleto'dan Şaka",
-  "ozet": "Genç Audi pilotu Gabriel Bortoleto, Austin'deki taraftar buluşması sırasında takım arkadaşı Nico Hülkenberg'e şaka yaparak pantolonunu indirdi.",
-  "puan": 2.0,
-  "grup": "hulkenberg-bortoleto-us-gp-prank",
-  "link": "https://www.motorsport.com/f1/news/nico-hulkenberg-left-red-faced-after-gabriel-bortoleto-prank-at-united-states-gp/10867916/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792871465.4961293
- },
- {
-  "cat": "araba",
   "baslik": "Yeni Bentley Supersports Convertible Yolda",
   "ozet": "Bentley, lüks dört kişilik üstü açık modelinin yüksek performanslı ve arkadan itişli yeni bir Supersports versiyonunu sunmaya hazırlanıyor.",
   "puan": 7.5,
@@ -2458,5 +2178,155 @@
   "link": "https://www.motorsport.com/f1/news/franco-colapinto-responds-to-jeremy-clarksons-controversial-comment-about-him/10868562/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1793036204.2935002
+ },
+ {
+  "cat": "araba",
+  "baslik": "Modern Otomobillerde Yazılım Güncellemelerinin Önemi",
+  "ozet": "Modern otomobiller akıllı telefonlar gibi yazılım güncellemeleri alıyor ve bu düzeltmeler sadece yeni özellikler eklemekle kalmıyor.",
+  "puan": 4.5,
+  "grup": "car-software-updates-importance",
+  "link": "https://www.motor1.com/features/813236/why-modern-cars-need-software-updates/",
+  "source": "Motor1",
+  "ts": 1793051456.2251322
+ },
+ {
+  "cat": "araba",
+  "baslik": "Jeep Grand Wagoneer İçin Kilitli Kasa Opsiyonu",
+  "ozet": "Jeep, orta koltuğun altına gizlenen ve şifreyle açılan silah kasası benzeri kilitli bir saklama alanını opsiyon olarak sunmaya başladı.",
+  "puan": 3.0,
+  "grup": "jeep-grand-wagoneer-lockable-safe",
+  "link": "https://www.thedrive.com/news/jeep-will-sell-you-a-grand-wagoneer-with-a-lockable-safe-its-basically-a-gun-safe",
+  "source": "The Drive",
+  "ts": 1793051456.2251322
+ },
+ {
+  "cat": "araba",
+  "baslik": "Fernando Alonso'dan ABD GP'sindeki Rakibine Sert Eleştiri",
+  "ozet": "ABD Grand Prix'sinin ilk turundaki kazanın ardından Fernando Alonso, diğer sürücülerin kalitesiz sürüş yaptığını belirterek sert eleştirilerde bulundu.",
+  "puan": 5.5,
+  "grup": "fernando-alonso-usgp-crash-criticism",
+  "link": "https://www.jalopnik.com/2297400/fernando-alonso-criticizes-low-quality-alex-albon-united-states-grand-prix/",
+  "source": "Jalopnik",
+  "ts": 1793051456.2251322
+ },
+ {
+  "cat": "araba",
+  "baslik": "Gizli Servis İtirazlarına Rağmen Araba Kullanan Eleanor Roosevelt",
+  "ozet": "Eski birinci hanımefendi Eleanor Roosevelt, Gizli Servis'in itirazlarına rağmen kendi arabasını kullanıyor ve hatta direksiyon başında uyuyakalabiliyordu.",
+  "puan": 2.0,
+  "grup": "eleanor-roosevelt-driving-history",
+  "link": "https://www.jalopnik.com/2296733/eleanor-roosevelts-secret-service-objections-fell-asleep-driving/",
+  "source": "Jalopnik",
+  "ts": 1793051456.2251322
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 BMW i7 İnceleme ve Fiyat Bilgileri",
+  "ozet": "Lüks elektrikli sedan 2027 BMW i7 modelinin teknik özellikleri, fiyatlandırması ve genel değerlendirmesi.",
+  "puan": 5.0,
+  "grup": "2027-bmw-i7-review-specs",
+  "link": "https://www.caranddriver.com/bmw/i7",
+  "source": "Car and Driver",
+  "ts": 1793051456.2251322
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yaklaşık 94 Bin Range Rover Geri Çağrıldı",
+  "ozet": "Su tahliye sistemindeki sorun nedeniyle geri kamera arızasına yol açabilen 93.997 adet Range Rover servise çağrıldı.",
+  "puan": 7.5,
+  "grup": "range-rover-camera-recall",
+  "link": "https://www.caranddriver.com/news/a74251320/land-rover-range-rover-rearview-camera-recall/",
+  "source": "Car and Driver",
+  "ts": 1793051456.2251322
+ },
+ {
+  "cat": "araba",
+  "baslik": "BMW i3 Tabanlı El Yapımı Kamyonet",
+  "ozet": "Bir mühendis, pahalı elektrikli kamyonetlere tepki olarak tuhaf tasarımlı BMW i3'ü dönüştürerek pikap bir araç inşa etti.",
+  "puan": 3.5,
+  "grup": "bmw-i3-diy-pickup-truck",
+  "link": "https://www.thedrive.com/news/master-builder-made-a-bmw-i3-pickup-truck-to-shame-the-slate",
+  "source": "The Drive",
+  "ts": 1793051456.2251322
+ },
+ {
+  "cat": "araba",
+  "baslik": "Trump'tan Artan Akaryakıt Fiyatları Üzerine Açıklama",
+  "ozet": "Donald Trump, artan akaryakıt fiyatları hakkında ülkenin bu yüksek maliyetlerden yüz milyarlarca dolar kazandığını belirtti.",
+  "puan": 4.0,
+  "grup": "trump-gas-prices-oil-comments",
+  "link": "https://www.jalopnik.com/2297271/trump-brags-oil-companies-make-millions-people-pay-more-at-pump/",
+  "source": "Jalopnik",
+  "ts": 1793051456.2251322
+ },
+ {
+  "cat": "araba",
+  "baslik": "Alpine'in Yeni Spor Otomobili Retro Tasarımı Bırakıyor",
+  "ozet": "Alpine'in elektrikli 2+2 modeli, A110 platformunu paylaşarak daha modern bir tasarım diline geçiş yapacak.",
+  "puan": 6.5,
+  "grup": "alpine-electric-sports-car-design",
+  "link": "https://www.motor1.com/news/813269/alpine-electric-2-2-news/",
+  "source": "Motor1",
+  "ts": 1793051456.2251322
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mitsubishi Outlander İçin Diamond Trail Versiyonu",
+  "ozet": "Mitsubishi Outlander, yeni Diamond Trail Edition paketi ile daha sert off-road gövde parçaları ve Rock sürüş modu kazanıyor.",
+  "puan": 4.5,
+  "grup": "mitsubishi-outlander-diamond-trail",
+  "link": "https://www.caranddriver.com/news/a74250638/2028-mitsubishi-outlander-diamond-trail-edition-announced/",
+  "source": "Car and Driver",
+  "ts": 1793051456.2251322
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 GMC Hummer EV SUV İnceleme ve Teknik Özellikleri",
+  "ozet": "Devasa elektrikli SUV 2027 GMC Hummer EV'nin teknik detayları, fiyatlandırma beklentileri ve genel özellikleri.",
+  "puan": 5.0,
+  "grup": "gmc-hummer-ev-suv-specs",
+  "link": "https://www.caranddriver.com/gmc/hummer-ev-suv",
+  "source": "Car and Driver",
+  "ts": 1793051456.2251322
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli Amerika GP'yi Kazandı",
+  "ozet": "Mercedes yıldızı Kimi Antonelli, ABD Grand Prix'sini kazanarak sezondaki dokuzuncu zaferini elde etti ve şampiyonluk için sadece iki puana ihtiyacı kaldı.",
+  "puan": 9.0,
+  "grup": "us-gp-2026-antonelli-win",
+  "link": "https://www.formula1.com/en/latest/article/5-key-betting-lessons-learnt-after-kimi-antonelli-wins-the-united-states-grand-prix.4KrTb1yIoxsJJP5cD25hwN",
+  "source": "Formula1.com",
+  "ts": 1793051456.2251322
+ },
+ {
+  "cat": "f1",
+  "baslik": "Vasseur: \"Ferrari'nin Çifte Podyumunu İki Maliyetli An Engelledi\"",
+  "ozet": "Ferrari takım patronu Fred Vasseur, ABD Grand Prix'sinde Charles Leclerc harika bir ikincilik elde etmesine rağmen, yaşanan iki kritik anın takıma çifte podyuma mal olduğunu belirtti.",
+  "puan": 6.5,
+  "grup": "us-gp-2026-leclerc-p2",
+  "link": "https://www.motorsport.com/f1/news/fred-vasseur-blames-a-q3-disaster-and-a-broken-cadillac-for-robbing-ferrari-of-a-us-gp-win/10868569/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793051456.2251322
+ },
+ {
+  "cat": "f1",
+  "baslik": "Red Bull, Verstappen'in ABD GP'sindeki Zorluklarının Nedenini Açıkladı",
+  "ozet": "Red Bull CEO'su ve takım patronu Laurent Mekies, Max Verstappen'in ABD Grand Prix'sindeki podyum sonrasında yaptığı sert telsiz eleştirilerinin arkasındaki araç hasarını ve problemleri açıkladı.",
+  "puan": 7.0,
+  "grup": "us-gp-2026-red-bull-struggles",
+  "link": "https://www.motorsport.com/f1/news/mekies-explains-the-invisible-debris-that-cost-max-verstappen-2nd-place-in-austin/10868579/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793051456.2251322
+ },
+ {
+  "cat": "f1",
+  "baslik": "Coulthard'dan 2026 Regülasyon Bahçelerine Senna ve Schumacher Örneğiyle Tepki",
+  "ozet": "Eski F1 pilotu David Coulthard, efsane isimlerin her araca uyum sağladığını belirterek pilotların kötü performansları için 2026 regülasyonlarını suçlamasını reddetti.",
+  "puan": 5.0,
+  "grup": "f1-history-on-this-day",
+  "link": "https://www.motorsport.com/f1/news/david-coulthard-rejects-f1-regulation-excuses-with-ayrton-senna-and-michael-schumacher-comparison/10868708/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793051456.2251322
  }
 ]
