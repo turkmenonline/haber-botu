@@ -1,296 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Ford Maverick Lobo Deneyimi",
-  "ozet": "Ford Maverick Lobo sahibi olmak, etrafınızdakilere karşı sorumluluk taşımanın ve yorucu bir stres yerine neşe veren bir deneyimin nasıl olabileceğini gösteriyor.",
-  "puan": 4.5,
-  "grup": "ford-maverick-lobo-ownership",
-  "link": "https://www.jalopnik.com/2294937/ford-maverick-lobo-true-meaning-of-truck-ownership-review/",
-  "source": "Jalopnik",
-  "ts": 1792936681.0973008
- },
- {
-  "cat": "araba",
-  "baslik": "Hayat Kurtaran Defansif Sürüş Alışkanlıkları",
-  "ozet": "Defansif sürüş alışkanlıkları, yoldaki tehlikeleri önceden görmenize, kazalardan kaçınmanıza ve trafikte daha güvende kalmanıza yardımcı olur.",
-  "puan": 3.5,
-  "grup": "defensive-driving-habits-safety",
-  "link": "https://www.motor1.com/features/812923/what-defensive-driving-is-and-why-you-should-master-it/",
-  "source": "Motor1",
-  "ts": 1792936681.0973008
- },
- {
-  "cat": "araba",
-  "baslik": "Ford'dan Otonom Kaçış Patenti",
-  "ozet": "Ford'un yeni patent başvurusu, park halindeki araçların tehlikelerden otonom olarak kaçmasını sağlayan sistemler ve jant hırsızlığını önleyen fikirler içeriyor.",
-  "puan": 7.0,
-  "grup": "ford-autonomous-danger-flee-patent",
-  "link": "https://www.caranddriver.com/news/a74232385/ford-autonomous-anti-theft-patent-application/",
-  "source": "Car and Driver",
-  "ts": 1792936681.0973008
- },
- {
-  "cat": "araba",
-  "baslik": "Pencere Panjurlarının Yakıştığı 8 Klasik Coupe",
-  "ozet": "Pencere panjurları genellikle kötü görünse de, bu sekiz klasik coupe modeli bu tasarımı mükemmel bir şekilde taşıyor.",
-  "puan": 2.5,
-  "grup": "classic-coupes-window-louvers",
-  "link": "https://www.jalopnik.com/2295391/classic-coupes-look-sick-with-window-louvers/",
-  "source": "Jalopnik",
-  "ts": 1792936681.0973008
- },
- {
-  "cat": "araba",
-  "baslik": "Büyük Dizel Kamyonlara 5 Ucuz Alternatif",
-  "ozet": "Artan dizel fiyatları nedeniyle bütçenizi koruyacak ve büyük kamyonlara alternatif olabilecek bu seçenekler ciddi tasarruf sağlayabilir.",
-  "puan": 3.0,
-  "grup": "cheaper-alternatives-to-diesel-trucks",
-  "link": "https://www.jalopnik.com/2290713/cheaper-alternatives-driving-big-diesel-truck/",
-  "source": "Jalopnik",
-  "ts": 1792936681.0973008
- },
- {
-  "cat": "araba",
-  "baslik": "Yükselen Fiyatlarla Dizel Otomobiller Mantıklı mı?",
-  "ozet": "Artan yakıt fiyatları ve benzinli hibrit seçeneklerin rekabeti karşısında yeni bir dizel otomobil satın almanın mantığı sorgulanıyor.",
-  "puan": 5.0,
-  "grup": "as-fuel-prices-soar-diesel-cars",
-  "link": "https://www.autocar.co.uk/opinion/advice/fuel-prices-soar-have-diesel-cars-stopped-making-sense",
-  "source": "Autocar",
-  "ts": 1792936681.0973008
- },
- {
-  "cat": "araba",
-  "baslik": "Trabant'ın 4 Silindirli Motor Hikayesi",
-  "ozet": "Doğu Almanya'nın simgesi Trabant, Doğu Almanların Batı arabaları satın alabileceği dönemde nihayet dört silindirli bir motora kavuştu ancak bu uzun ömürlü olmadı.",
-  "puan": 4.0,
-  "grup": "trabant-four-cylinder-engine-history",
-  "link": "https://www.jalopnik.com/2290710/4-cylinder-trabant-engine-east-germans-western-cars/",
-  "source": "Jalopnik",
-  "ts": 1792936681.0973008
- },
- {
-  "cat": "araba",
-  "baslik": "Otomatik Uzun Farlar Nasıl Çalışır?",
-  "ozet": "Otomatik uzun farlar, diğer araçları tespit etmek için kamera ve sensörler kullanır ancak teknoloji her zaman kusursuz çalışmaz.",
-  "puan": 3.5,
-  "grup": "automatic-high-beams-technology",
-  "link": "https://www.motor1.com/features/812908/how-automatic-high-beams-work/",
-  "source": "Motor1",
-  "ts": 1792936681.0973008
- },
- {
-  "cat": "f1",
-  "baslik": "Amerika GP Öncesi Son Tahminler ve Oranlar",
-  "ozet": "Uzman bahis yazarları, Amerika Grand Prix'si öncesindeki son tahminlerini ve güncel oranları paylaştı.",
-  "puan": 2.0,
-  "grup": "us-gp-qualifying-betting-tips",
-  "link": "https://www.formula1.com/en/latest/article/our-final-united-states-grand-prix-betting-predictions-before-lights-out-in-austin.7wK6ZBsc9n2SzTMYUrlMPh",
-  "source": "Formula1.com",
-  "ts": 1792936681.0973008
- },
- {
-  "cat": "f1",
-  "baslik": "Amerika GP İçin Bahis Kuponu Önerisi",
-  "ozet": "Austin yarışı için podyum ve puan finişi seçimlerini içeren dört ayaklı bir bahis kuponu hazırlandı.",
-  "puan": 2.0,
-  "grup": "us-gp-qualifying-betting-tips",
-  "link": "https://www.formula1.com/en/latest/article/our-united-states-grand-prix-bet-builder-predictions-after-kimi-antonelli-takes-pole-in-austin.4WblOovwGX7MwnjMW9CjIK",
-  "source": "Formula1.com",
-  "ts": 1792936681.0973008
- },
- {
-  "cat": "f1",
-  "baslik": "Austin'de Duygusal Bahislerden Kaçınma Rehberi",
-  "ozet": "Güvenli kumar bilincine vurgu yapılarak, Austin'deki yarış sırasında bahis yaparken soğukkanlı olunması gereken alanlar işaret edildi.",
-  "puan": 1.5,
-  "grup": "us-gp-qualifying-betting-tips",
-  "link": "https://www.formula1.com/en/latest/article/why-f1-fans-should-avoid-emotional-betting-during-the-united-states-grand-prix-in-austin.6oUesBvtInjTBO6UhiEGu8",
-  "source": "Formula1.com",
-  "ts": 1792936681.0973008
- },
- {
-  "cat": "f1",
-  "baslik": "COTA'nın 1. Viraj Kulüp Binası ve İkinci Pist Planları",
-  "ozet": "Amerika GP'sinde dikkat çeken Circuit of the Americas'ın 1. virajındaki devasa çok katlı konuk evi yapısı ve ikinci pist planları incelendi.",
-  "puan": 3.0,
-  "grup": "us-gp-cota-turn-1-clubhouse",
-  "link": "https://www.motorsport.com/f1/news/inside-cotas-turn-1-clubhouse-plans-second-track/10868234/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792936681.0973008
- },
- {
-  "cat": "f1",
-  "baslik": "COTA'nın 1. Viraj Kulüp Binası ve İkinci Pist Planları",
-  "ozet": "Amerika GP'sinde dikkat çeken Circuit of the Americas'ın 1. virajındaki devasa çok katlı konuk evi yapısı ve ikinci pist planları incelendi.",
-  "puan": 3.0,
-  "grup": "us-gp-cota-turn-1-clubhouse",
-  "link": "https://www.autosport.com/f1/news/inside-cotas-turn-1-clubhouse-and-its-plans-to-build-a-second-track/10868244/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1792936681.0973008
- },
- {
-  "cat": "f1",
-  "baslik": "Verstappen Q3'teki Yol Tutuş Kaybına Şaşırdı",
-  "ozet": "Max Verstappen sıralamalarda pole mücadelesi verirken yol tutuş kaybına şaşırırken, Red Bull'un Austin'deki gelişimi dikkat çekti.",
-  "puan": 6.5,
-  "grup": "us-gp-2026-qualifying-results",
-  "link": "https://www.motorsport.com/f1/news/max-verstappen-puzzled-by-q3-grip-loss-but-austin-shows-how-far-red-bull-has-progressed/10868113/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792936681.0973008
- },
- {
-  "cat": "f1",
-  "baslik": "Red Bull Zor Günlerde Geride Kalmıyor",
-  "ozet": "Austin sıralama turları, Red Bull'un zorlu günlerde dahi performans düşüşü yaşamadığını ve aracın kaydettiği ilerlemeyi gözler önüne serdi.",
-  "puan": 6.0,
-  "grup": "us-gp-2026-qualifying-results",
-  "link": "https://www.autosport.com/f1/news/max-verstappen-puzzled-by-q3-grip-loss-but-austin-shows-how-far-red-bull-has-progressed/10868230/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1792936681.0973008
- },
- {
-  "cat": "f1",
-  "baslik": "Antonelli Şampiyonluk Şansı Öncesi Konuştu",
-  "ozet": "Andrea Kimi Antonelli, kariyerindeki ilk dünya şampiyonluğunu ilan etme şansına sahip olduğu bu hafta sonunun kendisi için çok farklı hissettirdiğini belirtti.",
-  "puan": 7.5,
-  "grup": "kimi-antonelli-us-gp-title-contender",
-  "link": "https://www.racefans.net/2026/10/25/it-does-feels-different-antonelli-admits-ahead-of-first-chance-to-seal-title/",
-  "source": "RaceFans",
-  "ts": 1792936681.0973008
- },
- {
-  "cat": "f1",
-  "baslik": "Andretti'den Burt Reynolds Anısı",
-  "ozet": "Mario Andretti, film yıldızı Burt Reynolds ile geçmişte yaşadığı bir yumruklaşma olayını hatırladı.",
-  "puan": 1.5,
-  "grup": "andretti-burt-reynolds-fistfight",
-  "link": "https://www.racefans.net/2026/10/25/spotlight-i-beat-him-up-andretti-recalls-fistfight-with-film-star-burt-reynolds/",
-  "source": "RaceFans",
-  "ts": 1792936681.0973008
- },
- {
-  "cat": "araba",
-  "baslik": "Steve McQueen ve Hollywood'un Yarış Tutkunu Aktörleri",
-  "ozet": "Steve McQueen ile yarış tutkusunu paylaşan iki Hollywood yıldızının, ekran süresi ve oyuncu seçimi anlaşmazlıkları nedeniyle yaşadığı rekabet anlatılıyor.",
-  "puan": 2.5,
-  "grup": "steve-mcqueen-hollywood-racing-rivalry",
-  "link": "https://www.jalopnik.com/2290730/why-paul-newman-james-garner-automotive-hollywood-legends-actors-hated-steve-mcqueen/",
-  "source": "Jalopnik",
-  "ts": 1792949763.195328
- },
- {
-  "cat": "araba",
-  "baslik": "2001 NASCAR Talladega Yarışı Yeniden Gündemde",
-  "ozet": "Geniş ekran yüksek çözünürlüklü formatta paylaşılan 2001 NASCAR Talladega yarışı görüntülerine dair bir nostalji değerlendirmesi.",
-  "puan": 2.0,
-  "grup": "2001-nascar-talladega-widescreen-hd",
-  "link": "https://www.thedrive.com/news/watching-a-2001-nascar-talladega-race-in-widescreen-hd-is-good-for-the-soul",
-  "source": "The Drive",
-  "ts": 1792949763.195328
- },
- {
-  "cat": "araba",
-  "baslik": "C.A.R.B. Uyumlu Parçalar ile Kaliforniya'da Yasaklı Parçalar",
-  "ozet": "Satış sonrası emisyon bileşenlerinde C.A.R.B. uyumlu parçalar ile federal standartlardaki parçalar arasındaki temel farklar inceleniyor.",
-  "puan": 4.0,
-  "grup": "carb-compliant-vs-banned-car-parts",
-  "link": "https://www.jalopnik.com/2290729/whats-difference-between-carb-compliant-car-parts-vs-ones-california-bans/",
-  "source": "Jalopnik",
-  "ts": 1792949763.195328
- },
- {
-  "cat": "araba",
-  "baslik": "Bugatti Veyron Super Sport Prototiplerinde Klima Patlaması",
-  "ozet": "Bugatti Veyron'u Super Sport versiyonuna dönüştürürken yapılan güç artışının prototipin klima kompresörünü nasıl patlattığı anlatılıyor.",
-  "puan": 5.5,
-  "grup": "bugatti-veyron-super-sport-prototype-ac",
-  "link": "https://www.jalopnik.com/2290724/bugatti-veyron-super-sport-prototype-exploded-air-conditioning-compressor/",
-  "source": "Jalopnik",
-  "ts": 1792949763.195328
- },
- {
-  "cat": "araba",
-  "baslik": "Yeni Bentley Torcal First Edition Tanıtıldı",
-  "ozet": "888 beygir güç, 22 inç jantlar, Mulliner tasarımı iç mekan ve Naim ses sistemiyle gelen Bentley Torcal First Edition tanıtıldı.",
-  "puan": 8.5,
-  "grup": "bentley-torcal-first-edition-debut",
-  "link": "https://www.motor1.com/news/812983/bentley-torcal-special-edition-details/",
-  "source": "Motor1",
-  "ts": 1792949763.195328
- },
- {
-  "cat": "araba",
-  "baslik": "1981 Model Toyota Celica Supra Satışta",
-  "ozet": "Supra efsanesini başlatan ilk nesil 1981 model Toyota Celica Supra, bir açık artırma sitesinde alıcı bekliyor.",
-  "puan": 3.0,
-  "grup": "1981-toyota-celica-supra-bat",
-  "link": "https://www.caranddriver.com/news/a74218163/1981-toyota-celica-supra-bring-a-trailer-auction/",
-  "source": "Car and Driver",
-  "ts": 1792949763.195328
- },
- {
-  "cat": "araba",
-  "baslik": "Nadir Bulunan Blackwing V8 Motorlu Cadillac CT6-V Satılık",
-  "ozet": "Özel üretim çift turbolu V8 motora sahip olan ve nadir bulunan Cadillac CT6-V modeli satışa çıkarıldı.",
-  "puan": 5.0,
-  "grup": "cadillac-ct6-v-blackwing-for-sale",
-  "link": "https://www.thedrive.com/news/holy-flip-its-a-cadillac-ct6-v-with-the-blackwing-v8-for-sale",
-  "source": "The Drive",
-  "ts": 1792949763.195328
- },
- {
-  "cat": "araba",
-  "baslik": "Teşvikler Bittikten Sonra Elektrikli Araç Deneyimi",
-  "ozet": "Uygun fiyatlı Kia EV6 kiralama dönemi sonrasında evde şarj, ikinci el fiyatları ve finansman koşullarının elektrikli araç tercihini nasıl etkilediği ele alınıyor.",
-  "puan": 4.5,
-  "grup": "kia-ev6-lease-ev-incentives-transition",
-  "link": "https://www.jalopnik.com/2290715/leased-kia-ev6-137-dollars-per-month-still-ev-after-incentives-disappeared/",
-  "source": "Jalopnik",
-  "ts": 1792949763.195328
- },
- {
-  "cat": "araba",
-  "baslik": "Colorado'dan Acil Durum Ekipleri İçin Dev Kamyonlar",
-  "ozet": "Colorado, otoyol kenarındaki acil durum çalışanlarını dikkatsiz sürücülerden korumak için dev neon yeşili Ford kamyonları kullanmayı planlıyor.",
-  "puan": 4.0,
-  "grup": "colorado-emergency-shoulder-protection-trucks",
-  "link": "https://www.thedrive.com/news/colorados-plan-to-protect-emergency-vehicles-on-the-shoulder-giant-neon-green-ford-trucks",
-  "source": "The Drive",
-  "ts": 1792949763.195328
- },
- {
-  "cat": "f1",
-  "baslik": "Alonso'nun Şampiyonluk Özlemi Devam Ediyor",
-  "ozet": "Son şampiyonluğunun üzerinden yirmi yıl geçen Fernando Alonso, Aston Martin ile yeni bir başarı hikayesi yazma arzunu koruyor.",
-  "puan": 3.5,
-  "grup": "fernando-alonso-aston-martin-hunger",
-  "link": "https://www.formula1.com/en/latest/article/why-alonso-seems-as-hungry-as-ever-20-years-on-from-his-last-title.10pZGrzMAwyYODdxZrej0Z",
-  "source": "Formula1.com",
-  "ts": 1792949763.195328
- },
- {
-  "cat": "f1",
-  "baslik": "Leclerc'den Ferrari İçin Takım Arkadaşı Açıklaması",
-  "ozet": "Charles Leclerc, Ferrari'nin pist üstünde pilotlar arasında geçilmemesi gereken çizgiyi iyi bildiklerini belirtti.",
-  "puan": 5.0,
-  "grup": "charles-leclerc-ferrari-teammate-dynamics",
-  "link": "https://www.motorsport.com/f1/news/charles-leclerc-reacts-to-ferrari-fear-we-know-what-the-line-is-not-to-cross/10868297/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792949763.195328
- },
- {
-  "cat": "f1",
-  "baslik": "Toto Wolff Mercedes'teki Yerine Aday Arıyor",
-  "ozet": "Mercedes takım patronu Toto Wolff, yoğun takvim ve uzun vadeli planlar doğrultusunda kendisinin yerini alabilecek iki üç ismi aktif olarak değerlendirdiğini açıkladı.",
-  "puan": 8.5,
-  "grup": "toto-wolff-mercedes-replacement-vetting",
-  "link": "https://www.motorsport.com/f1/news/toto-wolff-reveals-he-is-actively-vetting-two-or-three-people-to-replace-him-at-mercedes/10868219/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792949763.195328
- },
- {
-  "cat": "araba",
   "baslik": "Çinli GAC Amonyakla Çalışan 4 Silindirli Motor Geliştirdi",
   "ozet": "GAC'ın amonyakla çalışan bir içten yanmalı motor geliştirmesinin arkasındaki nedenler ve bu sıra dışı yakıt teknolojisinin detayları ele alınıyor.",
   "puan": 6.5,
@@ -2038,5 +1748,465 @@
   "link": "https://www.racefans.net/2026/10/27/how-to-watch-the-2026-mexican-grand-prix-live-this-weekend/",
   "source": "RaceFans",
   "ts": 1793103877.8209598
+ },
+ {
+  "cat": "araba",
+  "baslik": "KTM X-Bow GT-XA ABD Pazarina Geliyor",
+  "ozet": "KTM'in hafif süper otomobili X-Bow GT-XR 592 beygir güce kavuşurken, yeni GT-XA Amerikan versiyonu yasal onay süreci öncesinde ön siparişe açıldı.",
+  "puan": 8.0,
+  "grup": "ktm-x-bow-gt-xa-us-market",
+  "link": "https://www.motor1.com/news/813415/ktm-x-bow-gt-xr/",
+  "source": "Motor1",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "Şehirler İptal Edilen Flock Kamera Sözleşmelerini Protesto Ediyor",
+  "ozet": "Sevilmeyen gözetim şirketi Flock ile sözleşmelerini fesheden bazı şehirler, kameraları kendileri sökemedikleri için çöp poşetleriyle kapatıyor.",
+  "puan": 4.5,
+  "grup": "flock-surveillance-cameras-controversy",
+  "link": "https://www.jalopnik.com/2298638/flock-cameras-covered-garbage/",
+  "source": "Jalopnik",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "Honda'dan 1300 Beygirlik Baja Spec Trophy Truck",
+  "ozet": "Passport adını kullanan 1300 beygirlik yeni 'Baja Spec' canavarı bu hafta tanıtılacak ve ilk yarışına 2027 SCORE Baja 500'de çıkacak.",
+  "puan": 7.5,
+  "grup": "honda-passport-baja-spec-trophy-truck",
+  "link": "https://www.caranddriver.com/news/a74262258/honda-passport-baja-spec-race-truck-teaser/",
+  "source": "Car and Driver",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "Otomobil Tutkunu Anneler İçin En İyi Hediye Fikirleri",
+  "ozet": "Her bütçeye uygun pratik ve şık otomobil hediyeleriyle annelerin yolculuklarını ve günlük sürüşlerini keyifli hale getirebilirsiniz.",
+  "puan": 2.0,
+  "grup": "best-auto-gifts-for-car-loving-moms",
+  "link": "https://www.caranddriver.com/shopping-advice/g41912156/best-car-gifts-gadgets-mom/",
+  "source": "Car and Driver",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "Porsche'nin ABD Merkezi Yenilmezler'in Üssü Oldu",
+  "ozet": "Porsche'nin ABD genel merkezi sadece lüks spor otomobillere ev sahipliği yapmakla kalmıyor, aynı zamanda Marvel filmlerinde Yenilmezler'in üssü olarak da kullanılıyor.",
+  "puan": 3.0,
+  "grup": "porsche-us-headquarters-avengers-hq",
+  "link": "https://www.motor1.com/features/813222/porsche-us-headquarters-hollywood-avengers-connection/",
+  "source": "Motor1",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "1976 Renault 17 Gordini Fotoğrafları Yayınlandı",
+  "ozet": "Klasik 1976 model Renault 17 Gordini'nin iç ve dış tasarımını her açıdan inceleyin.",
+  "puan": 3.0,
+  "grup": "1976-renault-17-gordini-classic",
+  "link": "https://www.caranddriver.com/photos/a74232540/1976-renault-17-gordini-archive-test-gallery/",
+  "source": "Car and Driver",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "1976 Renault 17 Gordini Test Sürüşü",
+  "ozet": "Klasik Fransız tasarımı ve sürüş dinamikleriyle öne çıkan 1976 model Renault 17 Gordini'yi test ettik.",
+  "puan": 4.5,
+  "grup": "1976-renault-17-gordini-classic",
+  "link": "https://www.caranddriver.com/reviews/a74179857/1976-renault-17-gordini-archive-test/",
+  "source": "Car and Driver",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "Flock İptal Edilen Sözleşmeye Rağmen Kameraları Geri Taktı",
+  "ozet": "Minnesota'daki Dayton şehri şirkete çalışma yapılmamasını söylemesine rağmen, şirket izinsiz olarak iki kamerayı tekrar devreye soktu.",
+  "puan": 4.5,
+  "grup": "flock-surveillance-cameras-controversy",
+  "link": "https://www.thedrive.com/news/flock-reinstalled-its-cameras-after-another-city-canceled-its-contract",
+  "source": "The Drive",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Kia EV6 İnceleme ve Fiyat Bilgileri",
+  "ozet": "Güncellenen 2027 Kia EV6 modelinin teknik özellikleri, fiyatlandırması ve sürüş izlenimleri.",
+  "puan": 5.0,
+  "grup": "2027-kia-ev6-review",
+  "link": "https://www.caranddriver.com/kia/ev6-2027",
+  "source": "Car and Driver",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "850 Beygirlik 1970 Model Chevrolet Camaro Satışta",
+  "ozet": "Sadece 353 mil yol yapmış, devasa V8 motordan 850 beygir güç üreten ve drag pistine uygun 1970 model Chevy Camaro yeni alıcısını bekliyor.",
+  "puan": 4.0,
+  "grup": "1970-chevy-camaro-850hp-for-sale",
+  "link": "https://www.jalopnik.com/2298080/1970-chevrolet-camaro-rs-for-sale-353-miles-850hp-big-block-v8/",
+  "source": "Jalopnik",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "İkinci El Aston Martin Vanquish Artık Daha Ulaşılabilir",
+  "ozet": "Zamansız tasarımı, çığlık atan atmosferik V12 motoru ve yaşadığı ciddi değer kaybı sayesinde Aston Martin Vanquish almak artık daha kolay olabilir.",
+  "puan": 3.5,
+  "grup": "aston-martin-vanquish-affordable-used",
+  "link": "https://www.motor1.com/reviews/813328/used-aston-martin-vanquish-buying-guide/",
+  "source": "Motor1",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "Audi'nin Yeni Dijital Matris Işıkları Yola Sinyal Yansıtıyor",
+  "ozet": "Q9 ve SQ9 modelleri, güncellenen ABD far gereksinimlerini karşılarken yola sinyal yansıtabilen ilk Audi araçları oluyor.",
+  "puan": 6.5,
+  "grup": "audi-q9-sq9-digital-matrix-lights",
+  "link": "https://www.jalopnik.com/2297916/audi-new-digital-matrix-led-headlights-q9-sq9-technology-review/",
+  "source": "Jalopnik",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Lamborghini Revuelto İnceleme ve Özellikleri",
+  "ozet": "İtalyan markanın amiral gemisi hibrit süper otomobili 2027 Lamborghini Revuelto'nun detaylı inceleme, fiyat ve teknik verileri.",
+  "puan": 8.0,
+  "grup": "2027-lamborghini-revuelto-review",
+  "link": "https://www.caranddriver.com/lamborghini/revuelto",
+  "source": "Car and Driver",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "En Uygunsuz Otomobil Deneyiminiz Hangisi?",
+  "ozet": "Hiç bir Miata ile kayak gezisine çıktınız mı veya şehir içinde F-350 ile park etmeye çalıştınız mı?",
+  "puan": 1.5,
+  "grup": "ill-suited-automotive-experiences-discussion",
+  "link": "https://www.jalopnik.com/2298308/most-ill-suited-automotive-experience-reader-question/",
+  "source": "Jalopnik",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "Dodge Charger'dan Mopar'ın 90. Yılına Özel Paket",
+  "ozet": "R/T ve Scat Pack Plus modelleri için sunulan bu özel versiyon ekstra güç sunmuyor ancak bolca karbon fiber parça içeriyor.",
+  "puan": 5.0,
+  "grup": "dodge-charger-mopar-90th-anniversary",
+  "link": "https://www.caranddriver.com/news/a74252548/dodge-charger-special-edition-mopar-90-years-details/",
+  "source": "Car and Driver",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "Turo Artık Tam Otonom Sürüşlü Tesla Kiralamanıza İzin Veriyor",
+  "ozet": "ABD'deki Turo kullanıcıları, 28 Ekim'den itibaren doğrulanmış Tam Otonom Sürüş erişimine sahip Tesla kiralama rezervasyonu yapabilecek.",
+  "puan": 5.5,
+  "grup": "turo-tesla-full-self-driving-rental",
+  "link": "https://www.motor1.com/news/813395/turo-tesla-self-driving-rental/",
+  "source": "Motor1",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Audi SQ9 İnceleme ve Özellikleri",
+  "ozet": "Performans odaklı büyük SUV 2027 Audi SQ9 modelinin teknik detayları, fiyatlandırma ve özellikleri.",
+  "puan": 6.5,
+  "grup": "2027-audi-sq9-review",
+  "link": "https://www.caranddriver.com/audi/sq9",
+  "source": "Car and Driver",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Audi Q9 İnceleme ve Özellikleri",
+  "ozet": "Audi'nin amiral gemisi lüks SUV modeli 2027 Audi Q9'un teknik özellikleri ve piyasa beklentileri.",
+  "puan": 7.0,
+  "grup": "2027-audi-q9-review",
+  "link": "https://www.caranddriver.com/audi/q9",
+  "source": "Car and Driver",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "Volkswagen Çalışanlarından Audi-Trump Stratejisine Tepki",
+  "ozet": "ABD'deki siyasi stratejiler, Volkswagen'in iç pazarındaki merkezinde kriz yaratıyor.",
+  "puan": 5.0,
+  "grup": "volkswagen-audi-trump-politics",
+  "link": "https://www.jalopnik.com/2298228/volkswagen-workers-angry-audi-trump-alliance/",
+  "source": "Jalopnik",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "Heyecan Vermeyen Ama En İyi 'Ev Aleti' Otomobiller",
+  "ozet": "Hızlı veya heyecan verici olmasalar da görevini kusursuz yerine getiren en iyi günlük otomobiller.",
+  "puan": 2.5,
+  "grup": "best-appliance-cars-list",
+  "link": "https://www.jalopnik.com/2297800/whats-the-best-appliance-car-reader-answers/",
+  "source": "Jalopnik",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mazda Büyük SUV Ürün Gamını Yeniden Düzenliyor",
+  "ozet": "Kuzey Amerika için üretilen büyük SUV'lerin satış beklentilerini karşılayamaması üzerine Mazda pazarlama stratejisini değiştiriyor.",
+  "puan": 5.5,
+  "grup": "mazda-cx70-discontinued-cx90",
+  "link": "https://www.thedrive.com/news/mazda-shuffles-big-suv-lineup-to-get-sales-back-on-track-tds",
+  "source": "The Drive",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "Audi'nin Yeni Amiral Gemisi Büyük SUV Modelleri Tanıtıldı",
+  "ozet": "Q9 ve SQ9 modelleri Audi'nin yeni amiral gemisi SUV sınıfına büyük güç ve akıllı teknolojiler getiriyor.",
+  "puan": 8.5,
+  "grup": "2027-audi-q9-review",
+  "link": "https://www.motor1.com/reviews/813306/2027-audi-q9-sq9-first-drive-review/",
+  "source": "Motor1",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Audi Q9 İç Mekan Fotoğrafları Yayınlandı",
+  "ozet": "Yeni 2027 model Audi Q9'un iç tasarımını her açıdan gösteren fotoğraflar paylaşıldı.",
+  "puan": 5.0,
+  "grup": "2027-audi-q9-review",
+  "link": "https://www.caranddriver.com/photos/a74231347/2027-audi-q9-drive-interior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Audi Q9 ve SQ9 İlk Sürüş İncelemesi",
+  "ozet": "Audi, Q9 ve SQ9 modelleriyle büyük lüks SUV sınıfına iddialı bir giriş yapıyor.",
+  "puan": 7.5,
+  "grup": "2027-audi-q9-review",
+  "link": "https://www.caranddriver.com/reviews/a74233484/2027-audi-q9-sq9-drive/",
+  "source": "Car and Driver",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Audi SQ9 İç Mekan Görselleri Görücüye Çıktı",
+  "ozet": "Performans odaklı 2027 Audi SQ9 modelinin iç mekanını detaylıca gösteren fotoğraflar geldi.",
+  "puan": 5.0,
+  "grup": "2027-audi-sq9-review",
+  "link": "https://www.caranddriver.com/photos/a74231657/2027-audi-sq9-drive-interior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Audi Q9 Dış Tasarım Fotoğrafları",
+  "ozet": "Yeni nesil üç sıra koltuklu Audi Q9'un dış tasarım detayları objektiflere yansıdı.",
+  "puan": 5.0,
+  "grup": "2027-audi-q9-review",
+  "link": "https://www.caranddriver.com/photos/a74231333/2027-audi-q9-drive-exterior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Audi SQ9 Dış Tasarım Görselleri Paylaşıldı",
+  "ozet": "Audi'nin yeni performans SUV'si SQ9'un dış tasarımını gözler önüne seren fotoğraflar yayınlandı.",
+  "puan": 5.0,
+  "grup": "2027-audi-sq9-review",
+  "link": "https://www.caranddriver.com/photos/a74231644/2027-audi-sq9-drive-exterior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Audi Q9 İlk Sürüş Testi: Aileler İçin En İyisi",
+  "ozet": "Yeni Q9 üç sıra koltuklu yapısıyla Amerikan aileleri hedefliyor ve rakiplerine gözdağı veriyor.",
+  "puan": 7.5,
+  "grup": "2027-audi-q9-review",
+  "link": "https://www.thedrive.com/car-reviews/2027-audi-q9-first-drive-review",
+  "source": "The Drive",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Audi Q9 ve SQ9 Sınıfının Zirvesine Oynuyor",
+  "ozet": "Her iki üç sıra koltuklu SUV de Audi'nin yeni amiral gemisi unvanını fazlasıyla hak ediyor.",
+  "puan": 7.0,
+  "grup": "2027-audi-q9-review",
+  "link": "https://www.jalopnik.com/2297915/2027-audi-q9-sq9-three-row-suv-first-drive-review/",
+  "source": "Jalopnik",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ford'un Uygun Fiyatlı Elektrikli Aracı Evinizi Besleyebilecek",
+  "ozet": "Fathom EV, pahalı bir invertör gerektirmeden ucuz saatlerde şarj olup pahalı saatlerde evi besleyebilecek.",
+  "puan": 8.0,
+  "grup": "ford-fathom-ev-home-power",
+  "link": "https://www.jalopnik.com/2297921/ford-fathom-ev-pickup-power-your-home-without-inverter/",
+  "source": "Jalopnik",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "Nadir Bulunan 2002 VW GTI 337 Satışta",
+  "ozet": "25. yıl dönümüne özel üretilen bu nadir GTI modeli iyi durumuna rağmen istenen fiyatı hak ediyor mu?",
+  "puan": 3.0,
+  "grup": "2002-vw-gti-337-for-sale",
+  "link": "https://www.jalopnik.com/2297106/2002-volkswagen-gti-337-anniversary-for-sale-13337/",
+  "source": "Jalopnik",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Sahibiyle Birlikte KTM X-Bow 592 Beygire Yükseltildi",
+  "ozet": "Avusturyalı motosiklet üreticisinin spor otomobil bölümünün satılmasının ardından ilk kez güncellenen model güç kazandı.",
+  "puan": 8.0,
+  "grup": "ktm-x-bow-gt-xa-us-market",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/ktm-x-bow-boosted-592bhp-first-update-under-new-owner",
+  "source": "Autocar",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "f1",
+  "baslik": "Palmer: Antonelli'nin Austin'deki Zaferi",
+  "ozet": "Eski F1 pilotu Jolyon Palmer, Kimi Antonelli'nin Amerika Grand Prix'sindeki baskın galibiyetini inceledi.",
+  "puan": 4.5,
+  "grup": "us-gp-2026-antonelli-win",
+  "link": "https://www.formula1.com/en/latest/article/was-antonellis-us-grand-prix-victory-his-most-dominant-win-yet.6jLJgm7H1yfJHHC3moJ4k4",
+  "source": "Formula1.com",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 Meksika GP Yayın Programı",
+  "ozet": "2026 sezonunun 19. yarışı olan Meksika Grand Prix'sinin seans saatleri ve izleme bilgileri açıklandı.",
+  "puan": 3.0,
+  "grup": "mexico-gp-2026-how-to-watch",
+  "link": "https://www.formula1.com/en/latest/article/what-time-is-the-formula-1-2026-mexico-city-grand-prix-and-how-can-i-watch-it.7ugr1iuBkVF1pD5fqJHNA3",
+  "source": "Formula1.com",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "f1",
+  "baslik": "Austin Güç Sıralaması",
+  "ozet": "Kimi Antonelli Austin'deki başarısıyla şampiyonluğa yaklaşırken, güç sıralaması jürisinin dikkatini çeken diğer isimler açıklandı.",
+  "puan": 4.0,
+  "grup": "us-gp-2026-power-rankings",
+  "link": "https://www.formula1.com/en/latest/article/power-rankings-who-impressed-our-judges-at-the-2026-united-states-grand-prix.1XvMJxZDuSvCKgHwE3eS5C",
+  "source": "Formula1.com",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "f1",
+  "baslik": "Bearman ve Gasly'den Çarpışma Yorumu",
+  "ozet": "Ollie Bearman, ceza almasına rağmen Amerika GP'sinde Pierre Gasly ile yaşadığı temas için hamlesinden pişman olmadığını belirtti.",
+  "puan": 5.0,
+  "grup": "us-gp-2026-bearman-gasly-clash",
+  "link": "https://www.formula1.com/en/latest/article/dont-regret-going-for-the-move-bearman-and-gasly-reflect-on-us-gp-collision.44PTEF0WAfbRzdly5QPpR2",
+  "source": "Formula1.com",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "f1",
+  "baslik": "Toto Wolff'ten Russell Açıklaması",
+  "ozet": "Toto Wolff, George Russell'ın Amerika GP'sindeki zorlu hafta sonunun sorumluluğunu üstlendi.",
+  "puan": 5.5,
+  "grup": "us-gp-2026-russell-struggles",
+  "link": "https://www.motorsport.com/f1/news/wolff-admits-its-painful-watching-george-russell-struggle-while-kimi-antonelli-walks-on-water/10868566/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "f1",
+  "baslik": "Bottas Cadillac Koltuğunu Koruyor",
+  "ozet": "Valtteri Bottas, 2027 F1 sezonu için Cadillac'ın kendisinden memnun olduğunu ve sözleşmesinin yolunda olduğunu söyledi.",
+  "puan": 6.5,
+  "grup": "bottas-cadillac-seat-2027",
+  "link": "https://www.motorsport.com/f1/news/valtteri-bottas-denies-he-might-lose-his-cadillac-seat-for-f1-2027/10868664/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "f1",
+  "baslik": "Alpine'den Sky Sports İzni",
+  "ozet": "Alpine, Amerika GP antrenman seansında Sky Sports kameralarının telsiz iletişimine erişmesine izin vererek dikkat çekti.",
+  "puan": 3.5,
+  "grup": "us-gp-2026-alpine-sky-radio",
+  "link": "https://www.the-race.com/formula-1/why-one-team-let-sky-breach-f1s-most-sacred-connection/",
+  "source": "The Race",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "f1",
+  "baslik": "Mercedes'in Russell Çıkmazı",
+  "ozet": "George Russell, Amerika GP'sinde 8. olurken, takım arkadaşı Antonelli şampiyonluğa bir adım daha yaklaştı.",
+  "puan": 6.0,
+  "grup": "us-gp-2026-russell-struggles",
+  "link": "https://www.autosport.com/f1/news/mercedes-has-a-russell-sized-problem-and-it-is-sharing-responsibility/10868909/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika GP 1. Antrenman Sürprizi",
+  "ozet": "Gabriele Mini, Meksika Grand Prix'sinin ilk antrenman seansında Franco Colapinto'nun yerine direksiyona geçecek.",
+  "puan": 6.0,
+  "grup": "mexico-gp-2026-mini-fp1",
+  "link": "https://www.motorsport.com/f1/news/franco-colapinto-george-russell-to-sit-out-fp1-at-f1-mexico-gp/10868889/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton'ın Podyumu Kaçırma Sebepleri",
+  "ozet": "Lewis Hamilton, Amerika GP'sinde podyumu kaçırmasına yol açan lastik ve performans dezavantajlarını açıkladı.",
+  "puan": 5.0,
+  "grup": "us-gp-2026-hamilton-podyum-kaybi",
+  "link": "https://www.motorsport.com/f1/news/the-mistakes-that-cost-lewis-hamilton-a-podium-at-f1s-us-gp/10868845/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "f1",
+  "baslik": "Cuma Antrenmanlarının Hamilton'a Etkisi",
+  "ozet": "Lewis Hamilton, Amerika GP'sinde podyumun kıyısından dönmesinde cuma antrenman seanslarının rolünü değerlendirdi.",
+  "puan": 4.0,
+  "grup": "us-gp-2026-hamilton-podyum-kaybi",
+  "link": "https://www.autosport.com/f1/news/the-role-friday-practice-played-in-hamilton-failing-to-achieve-podium-at-us-gp/10868872/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "f1",
+  "baslik": "McLaren: 'Podyum Hızımız Vardı'",
+  "ozet": "McLaren patronu, sıralama turlarındaki hatalara rağmen araçlarının podyum temposuna sahip olduğunu belirtti.",
+  "puan": 4.5,
+  "grup": "us-gp-2026-mclaren-pace",
+  "link": "https://www.motorsport.com/f1/news/mclaren-boss-claims-the-mcl40-had-podium-pace-despite-a-disappointing-5th-and-7th/10868598/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "f1",
+  "baslik": "Bearman'dan Gasly Cezasına Tepki",
+  "ozet": "Oliver Bearman, Pierre Gasly ile yaşadığı olay nedeniyle aldığı 10 saniyelik cezaya şaşırdığını ifade etti.",
+  "puan": 5.0,
+  "grup": "us-gp-2026-bearman-gasly-clash",
+  "link": "https://www.motorsport.com/f1/news/i-just-couldnt-disappear-oliver-bearman-rues-crazy-10s-penalty-for-pierre-gasly-clash/10868777/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793124732.5321965
+ },
+ {
+  "cat": "f1",
+  "baslik": "Wolff'ten Marko'nun Russell İddiasına Yanıt",
+  "ozet": "Toto Wolff, Helmut Marko'nun George Russell'ın bittiği yönündeki iddialarını reddederek pilotuna destek çıktı.",
+  "puan": 5.5,
+  "grup": "us-gp-2026-russell-struggles",
+  "link": "https://www.motorsport.com/f1/news/toto-wolff-dismisses-helmut-marko--george-russell-theory/10868811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793124732.5321965
  }
 ]
