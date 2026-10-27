@@ -1,376 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Yeni Bentley Supersports Convertible Yolda",
-  "ozet": "Bentley, lüks dört kişilik üstü açık modelinin yüksek performanslı ve arkadan itişli yeni bir Supersports versiyonunu sunmaya hazırlanıyor.",
-  "puan": 7.5,
-  "grup": "bentley-supersports-convertible",
-  "link": "https://www.jalopnik.com/2296003/bentley-supersports-convertible-spy-shots/",
-  "source": "Jalopnik",
-  "ts": 1792879195.5626466
- },
- {
-  "cat": "araba",
-  "baslik": "Klasik Plymouth Modellerinin Güncel Değerleri",
-  "ozet": "Efsanevi Mopar modelleri üreten ancak artık faaliyet göstermeyen Plymouth'un klasik araçlarının günümüzdeki piyasa değerleri inceleniyor.",
-  "puan": 2.5,
-  "grup": "classic-plymouth-models-value",
-  "link": "https://www.jalopnik.com/2291651/classic-plymouth-models-what-theyre-worth-today/",
-  "source": "Jalopnik",
-  "ts": 1792879195.5626466
- },
- {
-  "cat": "araba",
-  "baslik": "Düşük Kilometreli 1979 Pontiac Firebird Trans Am Satışta",
-  "ozet": "Sadece 21.956 milde olan bu kusursuz beyaz 1979 Pontiac Firebird Trans Am, düşük kilometresi ve yüksek hacimli motoruyla dikkat çekiyor.",
-  "puan": 3.0,
-  "grup": "1979-pontiac-firebird-trans-am",
-  "link": "https://www.jalopnik.com/2295582/1979-pontiac-firebird-trans-am-for-sale-21956-miles/",
-  "source": "Jalopnik",
-  "ts": 1792879195.5626466
- },
- {
-  "cat": "f1",
-  "baslik": "Amerika GP Sıralama Turları Q3 Canlı Anlatımı",
-  "ozet": "Austin'deki 2026 Amerika Birleşik Devletleri Grand Prix'si sıralama turlarında pole pozisyonu mücadelesi canlı olarak aktarılıyor.",
-  "puan": 8.5,
-  "grup": "us-gp-2026-qualifying-live",
-  "link": "https://www.formula1.com/en/latest/article/live-coverage-qualifying-in-the-united-states-2026.49VaYyfwlL9ih2hFfuf9r5",
-  "source": "Formula1.com",
-  "ts": 1792879195.5626466
- },
- {
-  "cat": "f1",
-  "baslik": "James Hunt Belgeselinin İlk Fragmanı Yayınlandı",
-  "ozet": "James Hunt'ın 1976'daki şampiyonluğunun 50. yıl dönümünde 'Hunt: We need to talk about James' belgeselinin ilk fragmanı görücüye çıktı.",
-  "puan": 2.0,
-  "grup": "freddie-hunt-james-hunt-1976",
-  "link": "https://www.racefans.net/2026/10/24/video-first-trailer-for-hunt-we-need-to-talk-about-james-revealed/",
-  "source": "RaceFans",
-  "ts": 1792879195.5626466
- },
- {
-  "cat": "f1",
-  "baslik": "COTA Başkanından Verstappen'in Pist Şikayetine Yanıt",
-  "ozet": "Circuit of the Americas başkanı Bobby Epstein, Max Verstappen'in 1. viraj çıkışındaki tümseklerin kabul edilemez olduğu yönündeki eleştirilerine yanıt verdi.",
-  "puan": 5.0,
-  "grup": "max-verstappen-cota-bumps-complaint",
-  "link": "https://www.motorsport.com/f1/news/max-verstappens-austin-gp-complaints-prompt-response-from-cota-chief/10867977/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792879195.5626466
- },
- {
-  "cat": "f1",
-  "baslik": "Russell'dan Antonelli'ye Şaka yollu Şampiyonluk Tehdidi",
-  "ozet": "George Russell, Amerika GP öncesinde puan tablosunda lider olan takım arkadaşı Kimi Antonelli'yi şampiyonluktan alıkoymak için onu içki içmeye götürme şakası yaptı.",
-  "puan": 4.5,
-  "grup": "kimi-antonelli-us-gp-title-contender",
-  "link": "https://www.motorsport.com/f1/news/george-russells-tongue-in-cheek-kimi-antonelli-f1-title-threat-get-you-arrested/10867967/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792879195.5626466
- },
- {
-  "cat": "f1",
-  "baslik": "Kimi Antonelli Austin'de Yol Otomobiliyle Çite Çarptı",
-  "ozet": "Şampiyonluğa koşan Mercedes pilotu Kimi Antonelli, Austin otoparkında kişiselleştirilmiş Mercedes yol aracıyla manevra yaparken çite çarparak kameralara yansıdı.",
-  "puan": 2.5,
-  "grup": "kimi-antonelli-us-gp-parking-incident",
-  "link": "https://www.motorsport.com/f1/news/kimi-antonelli-caught-on-camera-hitting-fence-in-mercedes-road-car-at-us-gp/10867960/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792879195.5626466
- },
- {
-  "cat": "f1",
-  "baslik": "Colton Herta'dan Austin'de Özel Eve Dönüş",
-  "ozet": "Geleceği belirsizliğini koruyan Colton Herta, 2019'daki tarihi IndyCar zaferini kazandığı Circuit of the Americas'a dönmenin kendisi için çok özel olduğunu belirtti.",
-  "puan": 3.5,
-  "grup": "colton-herta-austin-homecoming",
-  "link": "https://www.motorsport.com/f1/news/colton-herta-savours-super-special-austin-homecoming-as-2027-uncertainty-remains/10867950/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792879195.5626466
- },
- {
-  "cat": "araba",
-  "baslik": "Dört Tekerlekli Hidrolik Frene Sahip İlk Otomobil: Duesenberg",
-  "ozet": "Duesenberg, 1920'lerde seri üretim otomobillere dört tekerlekli hidrolik frenleri getiren ilk marka oldu ve bu yenilik yarışlardaki başarılarıyla desteklendi.",
-  "puan": 3.5,
-  "grup": "duesenberg-first-hydraulic-brakes",
-  "link": "https://www.jalopnik.com/2292297/duesenberg-first-car-four-wheel-hydraulic-brakes/",
-  "source": "Jalopnik",
-  "ts": 1792887258.2221708
- },
- {
-  "cat": "araba",
-  "baslik": "Otomobil Tutkunlarının WD-40 Hakkında Bırakması Gereken 6 Yanılgı",
-  "ozet": "WD-40 her şeyi tamir ettiği ününe sahip olsa da, bu ikonik sprey hakkındaki bazı popüler yanlış inanışlar şaşırtıcı hatalara yol açabilir.",
-  "puan": 2.0,
-  "grup": "wd40-myths-gearheads-mistakes",
-  "link": "https://www.jalopnik.com/2291968/wd-40-myths-to-stop-believing/",
-  "source": "Jalopnik",
-  "ts": 1792887258.2221708
- },
- {
-  "cat": "f1",
-  "baslik": "George Russell Austin'de Altıncı Sırada Başlayacak",
-  "ozet": "George Russell, Amerika Birleşik Devletleri Grand Prix'sine altıncı sıradan başlarken takım arkadaşı Kimi Antonelli pole pozisyonunu kazandı.",
-  "puan": 7.0,
-  "grup": "us-gp-2026-grid-penalties",
-  "link": "https://www.formula1.com/en/latest/article/russell-reflects-on-austin-qualifying-struggles-after-one-slide-led-to-a-snowball.rAYr78wrhqMG7GJfIca7R",
-  "source": "Formula1.com",
-  "ts": 1792887258.2221708
- },
- {
-  "cat": "f1",
-  "baslik": "Toto Wolff'ten Kimi Antonelli'nin 'Mucize Turuna' Övgü",
-  "ozet": "Mercedes Takım Patronu Toto Wolff, Kimi Antonelli'nin Amerika Grand Prisi'ndeki pole pozisyonu getiren turunu övdü.",
-  "puan": 5.0,
-  "grup": "kimi-antonelli-us-gp-title-contender",
-  "link": "https://www.formula1.com/en/latest/article/bemused-wolff-celebrates-antonellis-miracle-lap-in-qualifying-at-the-united-states-gp.16Hhn5cueHlsfCdfY62pka",
-  "source": "Formula1.com",
-  "ts": 1792887258.2221708
- },
- {
-  "cat": "f1",
-  "baslik": "Lando Norris Sıralama Performansını Eleştirdi",
-  "ozet": "McLaren pilotu Lando Norris, Austin'deki zorlu Q3 seansının ardından takım arkadaşı Oscar Piastri'nin bir sıra arkasında sekizinci sıraya razı oldu.",
-  "puan": 6.0,
-  "grup": "lando-norris-mclaren-car-handling",
-  "link": "https://www.formula1.com/en/latest/article/norris-disappointed-with-austin-qualifying-performance-after-late-track-limits-blow.4iiR0KWRfy5HUziFbh89kp",
-  "source": "Formula1.com",
-  "ts": 1792887258.2221708
- },
- {
-  "cat": "f1",
-  "baslik": "Antonelli Pole Pozisyonu Sonrası Yarış Yaklaşımını Anlattı",
-  "ozet": "Kimi Antonelli, Amerika Birleşik Devletleri Grand Prix'sinde pole pozisyonunu zaferle taçlandırma şansı hakkında değerlendirmelerde bulundu.",
-  "puan": 6.5,
-  "grup": "kimi-antonelli-us-gp-title-contender",
-  "link": "https://www.formula1.com/en/latest/article/were-ready-to-do-our-best-antonelli-explains-approach-to-united-states-gp-after-taking-pole.7oYIhU89nZSYQRHruwX4EY",
-  "source": "Formula1.com",
-  "ts": 1792887258.2221708
- },
- {
-  "cat": "f1",
-  "baslik": "Kimi Antonelli Austin'de Pole Pozisyonunun Sahibi Oldu",
-  "ozet": "Kimi Antonelli, Amerika Grand Prisi sıralamalarında rakipsizdi ve 2026'daki yedinci pole pozisyonunu elde etti.",
-  "puan": 8.5,
-  "grup": "kimi-antonelli-us-gp-title-contender",
-  "link": "https://www.formula1.com/en/latest/article/antonelli-seizes-pole-position-ahead-of-verstappen-in-qualifying-at-the-united-states-gp.4xdH4w09GhNDOJdknowRAk",
-  "source": "Formula1.com",
-  "ts": 1792887258.2221708
- },
- {
-  "cat": "f1",
-  "baslik": "Kimi Antonelli'den Sürpriz Pole Pozisyonu",
-  "ozet": "Şampiyona lideri Kimi Antonelli, Mercedes'in güncellemelerinin meyvesini verdiğini belirterek Austin'de sürpriz bir pole pozisyonu elde etti.",
-  "puan": 8.5,
-  "grup": "kimi-antonelli-us-gp-title-contender",
-  "link": "https://www.motorsport.com/f1/news/kimi-antonelli-delivers-austin-surprise-pole-in-tricky-mercedes-finally-were-seeing-the-results/10868069/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792887258.2221708
- },
- {
-  "cat": "f1",
-  "baslik": "Ferrari Pilotlarından Hayal Kırıklığı Yaratan Sıralama Yorumları",
-  "ozet": "Antrenmanlarda iddialı olan Ferrari, sıralama seansında yeterli ilerlemeyi kaydedemeyerek hayal kırıklığı yaşadı.",
-  "puan": 6.0,
-  "grup": "ferrari-us-gp-upgrades",
-  "link": "https://www.autosport.com/f1/news/leclerc-and-hamilton-theories-on-ferrari-qualifying-performance/10868059/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1792887258.2221708
- },
- {
-  "cat": "f1",
-  "baslik": "Ferrari Neden Beklentilerin Gerisinde Kaldı?",
-  "ozet": "Antrenman turlarındaki güçlü formunu sıralamalara yansıtamayan Ferrari, Q3'te umduğu hızı bulamadı.",
-  "puan": 6.0,
-  "grup": "ferrari-us-gp-upgrades",
-  "link": "https://www.motorsport.com/f1/news/why-ferrari-couldnt-challenge-for-pole-in-us-gp-qualifying/10868050/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792887258.2221708
- },
- {
-  "cat": "f1",
-  "baslik": "Isack Hadjar: 'Felaket Başlayan Hafta Sonu' Toparlanıyor",
-  "ozet": "Zorlu bir başlangıç yapan Isack Hadjar, Red Bull'un sayı avantajını kullanarak pole sahibi Antonelli'yi zorlayabileceklerini belirtti.",
-  "puan": 6.5,
-  "grup": "isack-hadjar-austin-practice-struggles",
-  "link": "https://www.motorsport.com/f1/news/isack-hadjar-rues-disaster-of-a-weekend-despite-us-gp-qualifying-turnaround/10868055/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792887258.2221708
- },
- {
-  "cat": "f1",
-  "baslik": "Oscar Piastri'den COTA Tümsekleri Uyarısı",
-  "ozet": "Yedinci olan Oscar Piastri, Amerika Pisti'ndeki 1. viraj yaklaşımındaki tümseklerin geçişleri zorlaştırabileceğini söyledi.",
-  "puan": 5.5,
-  "grup": "max-verstappen-cota-bumps-complaint",
-  "link": "https://www.motorsport.com/f1/news/oscar-piastri-compares-cota-bump-to-a-motocross-jump-after-us-gp-qualifying/10868037/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792887258.2221708
- },
- {
-  "cat": "f1",
-  "baslik": "Lando Norris Sıralama Sonrası Hayal Kırıklığı Yaşadı",
-  "ozet": "Lando Norris, tur zamanının silinmesiyle sekizinci olduğu sıralama seansında çok kötü bir iş çıkardığını ifade etti.",
-  "puan": 6.0,
-  "grup": "lando-norris-mclaren-car-handling",
-  "link": "https://www.autosport.com/f1/news/norris-frustrated-after-united-states-gp-qualifying/10868036/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1792887258.2221708
- },
- {
-  "cat": "f1",
-  "baslik": "Norris: 'Sıralamalarda Kötü Bir İş Çıkardım'",
-  "ozet": "Lando Norris, aldığı ceza ve turunun silinmesiyle gridde sekizinci kalmasının ardından performansını sert bir dille eleştirdi.",
-  "puan": 6.0,
-  "grup": "lando-norris-mclaren-car-handling",
-  "link": "https://www.racefans.net/2026/10/25/norris-says-he-did-a-c-job-in-qualifying-after-penalty-leaves-him-eighth/",
-  "source": "RaceFans",
-  "ts": 1792887258.2221708
- },
- {
-  "cat": "f1",
-  "baslik": "Lando Norris Austin Sıralamalarından Sonra Dert Yandı",
-  "ozet": "Ön sıra potansiyeli gördüğü seansta sekizinci olan Lando Norris, yaptığı hatalar nedeniyle büyük hayal kırıklığı yaşadı.",
-  "puan": 6.0,
-  "grup": "lando-norris-mclaren-car-handling",
-  "link": "https://www.motorsport.com/f1/news/lando-norris-laments-very-bad-job-in-qualifying-for-f1-united-states-gp/10868026/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792887258.2221708
- },
- {
-  "cat": "f1",
-  "baslik": "Max Verstappen'den İkincilik Sonrası Temkinli Açıklama",
-  "ozet": "Amerika'da ikinci sırayı alan Max Verstappen, Q3'teki yol tutuş eksikliği nedeniyle gülmek için bir neden olmadığını söyledi.",
-  "puan": 6.5,
-  "grup": "max-verstappen-us-gp-friday",
-  "link": "https://www.motorsport.com/f1/news/max-verstappen-refuses-to-celebrate-us-gp-qualifying-result-no-need-to-smile/10868029/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792887258.2221708
- },
- {
-  "cat": "f1",
-  "baslik": "Liam Lawson Q3'te Çıkmama Kararına Tepki Gösterdi",
-  "ozet": "Liam Lawson, takım arkadaşına yardımcı olmak amacıyla Q3'te tur atmasının engellenmesinin üzücü olduğunu belirtti.",
-  "puan": 5.0,
-  "grup": "us-gp-2026-paddock-talking-points",
-  "link": "https://www.racefans.net/2026/10/24/teams-tactical-decision-not-to-run-in-q3-was-a-shame-for-lawson/",
-  "source": "RaceFans",
-  "ts": 1792887258.2221708
- },
- {
-  "cat": "f1",
-  "baslik": "ABD GP Pazar Günü Programı ve Hava Durumu",
-  "ozet": "Kimi Antonelli'nin pole'den başlayacağı ve ilk şampiyonluk fırsatını arayacağı Austin yarışının detayları netleşti.",
-  "puan": 7.5,
-  "grup": "us-gp-2026-day-one-learnings",
-  "link": "https://www.motorsport.com/f1/news/f1-united-states-gp-sunday-schedule-weather-forecast-and-how-to-watch/10868006/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792887258.2221708
- },
- {
-  "cat": "f1",
-  "baslik": "2026 F1 Amerika Grand Prix'si Başlangıç Grid",
-  "ozet": "Amerika Grand Prix'sinde Kimi Antonelli pole pozisyonunda yer alırken, onu Max Verstappen ve Isack Hadjar takip ediyor.",
-  "puan": 8.0,
-  "grup": "us-gp-2026-grid-penalties",
-  "link": "https://www.motorsport.com/f1/news/f1-united-states-gp-starting-grid/10867999/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792887258.2221708
- },
- {
-  "cat": "f1",
-  "baslik": "Jeremy Clarkson'dan Colapinto ve Kardashian Yorumları",
-  "ozet": "Alpine'in konuğu olarak padokta yer alan Jeremy Clarkson, Franco Colapinto ve Kim Kardashian hakkında dikkat çeken açıklamalarda bulundu.",
-  "puan": 2.0,
-  "grup": "us-gp-2026-paddock-talking-points",
-  "link": "https://www.motorsport.com/f1/news/jeremy-clarkson-causes-a-stir-with-franco-colapinto-and-kim-kardashian-comments/10868001/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792887258.2221708
- },
- {
-  "cat": "f1",
-  "baslik": "Frederic Vasseur: 'Q3'ün Son Virajına Kadar Mücadele Ettik'",
-  "ozet": "Ferrari takım patronu Frederic Vasseur, antrenmanlardaki güçlü formun ardından sıralamalardan daha fazlasını beklediklerini itiraf etti.",
-  "puan": 5.5,
-  "grup": "ferrari-us-gp-upgrades",
-  "link": "https://www.racefans.net/2026/10/24/ferrari-were-in-contention-until-the-last-corner-of-q3-after-strong-practice-vasseur/",
-  "source": "RaceFans",
-  "ts": 1792887258.2221708
- },
- {
-  "cat": "f1",
-  "baslik": "Antonelli Pole'ü Aldı, Ferrari'nin Direnci Kırıldı",
-  "ozet": "Kimi Antonelli Max Verstappen'i geride bırakarak pole pozisyonunu alırken, Ferrari'nin beklentileri boşa çıktı.",
-  "puan": 8.0,
-  "grup": "kimi-antonelli-us-gp-title-contender",
-  "link": "https://www.the-race.com/formula-1/antonelli-on-us-gp-pole-as-ferrari-pole-challenge-falls-apart/",
-  "source": "The Race",
-  "ts": 1792887258.2221708
- },
- {
-  "cat": "f1",
-  "baslik": "Amerika GP Takım Arkadaşı Sıralama Mücadeleleri",
-  "ozet": "Motorsport.com, ceza unsurlarını hariç tutarak 2026 sezonundaki takım arkadaşı sıralama mücadelelerini derledi.",
-  "puan": 4.5,
-  "grup": "us-gp-2026-qualifying-head-to-head",
-  "link": "https://www.motorsport.com/f1/news/f1-2026-qualifying-head-to-head-united-states-gp/10867454/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792887258.2221708
- },
- {
-  "cat": "f1",
-  "baslik": "Antonelli, Amerika GP'sinde Pole Pozisyonunun Sahibi Oldu",
-  "ozet": "Şampiyona lideri Kimi Antonelli, Austin'deki sıralama turlarında Max Verstappen'i geride bırakarak 2026'daki yedinci pole pozisyonunu kazandı.",
-  "puan": 9.0,
-  "grup": "us-gp-2026-qualifying-results",
-  "link": "https://www.autosport.com/f1/news/f1-united-states-gp-antonelli-beats-verstappen-to-pole/10867984/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1792887258.2221708
- },
- {
-  "cat": "f1",
-  "baslik": "Kimi Antonelli Austin'de Polü Aldı, Russell Altıncı Kaldı",
-  "ozet": "Şampiyona lideri Kimi Antonelli, nefis geçen sıralama seansında Max Verstappen'i geçerek Amerika GP'sinde pole pozisyonunu elde etti.",
-  "puan": 9.0,
-  "grup": "us-gp-2026-qualifying-results",
-  "link": "https://www.motorsport.com/f1/news/f1-united-states-gp-kimi-antonell-takes-pole/10867975/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792887258.2221708
- },
- {
-  "cat": "f1",
-  "baslik": "Antonelli, Austin'de Red Bull Pilotlarını Geçerek Pole'e Ulaştı",
-  "ozet": "Andrea Kimi Antonelli, 2026 Amerika Grand Prix'si sıralama turlarında Max Verstappen ile birlikte ilk çizgiyi paylaşacak.",
-  "puan": 9.0,
-  "grup": "us-gp-2026-qualifying-results",
-  "link": "https://www.racefans.net/2026/10/24/antonelli-beats-red-bull-pair-to-pole-position-in-austin/",
-  "source": "RaceFans",
-  "ts": 1792887258.2221708
- },
- {
-  "cat": "f1",
-  "baslik": "2026 Amerika Grand Prix'si Sıralama Sonuçları",
-  "ozet": "Austin'deki Amerika Grand Prix'si sıralama seansının tam klasmanı ve dereceleri.",
-  "puan": 8.5,
-  "grup": "us-gp-2026-qualifying-results",
-  "link": "https://www.the-race.com/formula-1/f1-2026-us-grand-prix-qualifying-results/",
-  "source": "The Race",
-  "ts": 1792887258.2221708
- },
- {
-  "cat": "f1",
-  "baslik": "Amerika GP Geçici Start Grid Düzeni",
-  "ozet": "Mercedes pilotu Andrea Kimi Antonelli, Max Verstappen ve Isack Hadjar'ın önünde Amerika Grand Prix'si için geçici pole pozisyonunu aldı.",
-  "puan": 8.5,
-  "grup": "us-gp-2026-qualifying-results",
-  "link": "https://www.racefans.net/2026/10/24/2026-united-states-grand-prix-grid/",
-  "source": "RaceFans",
-  "ts": 1792887258.2221708
- },
- {
-  "cat": "araba",
   "baslik": "Michigan Eyalet Polisi En Hızlı Devriye Aracını Test Etti",
   "ozet": "Michigan Eyalet Polisi, en yüksek hıza ulaşabilen ve pistte en başarılı olan devriye aracını belirlemek için sonbaharda testler gerçekleştirdi.",
   "puan": 4.5,
@@ -2328,5 +1958,85 @@
   "link": "https://www.motorsport.com/f1/news/david-coulthard-rejects-f1-regulation-excuses-with-ayrton-senna-and-michael-schumacher-comparison/10868708/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1793051456.2251322
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Mercedes C-Serisi İncelemesi",
+  "ozet": "Beşinci nesil benzinli Mercedes C-Serisi, yeni elektrikli kardeşiyle aynı showroom'u paylaşırken makyaj operasyonundan geçti ve sürüş dinamikleri geliştirildi.",
+  "puan": 6.5,
+  "grup": "2027-mercedes-c-class-facelift",
+  "link": "https://www.autocar.co.uk/car-review/mercedes-benz/c-class",
+  "source": "Autocar",
+  "ts": 1793062552.9095294
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Mercedes-Benz C350 Tanıtıldı",
+  "ozet": "2027 model ailesinde yer alan C350, standart C300 modeline kıyasla çok daha kapsamlı güncellemeler ve yenilikler alıyor.",
+  "puan": 6.0,
+  "grup": "2027-mercedes-c-class-facelift",
+  "link": "https://www.caranddriver.com/reviews/a74233440/2027-mercedes-benz-c350-drive/",
+  "source": "Car and Driver",
+  "ts": 1793062552.9095294
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Mercedes-Benz C350 İç Mekan Fotoğrafları",
+  "ozet": "Yeni 2027 Mercedes-Benz C350 modelinin yenilenen iç mekanını farklı açılardan detaylıca inceleyin.",
+  "puan": 5.0,
+  "grup": "2027-mercedes-c-class-facelift",
+  "link": "https://www.caranddriver.com/photos/a74247632/2027-mercedes-benz-c350-drive-interior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1793062552.9095294
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Mercedes-Benz C350 Dış Tasarım Fotoğrafları",
+  "ozet": "Yenilenen 2027 Mercedes-Benz C350'nin dış tasarım detaylarını ve hatlarını farklı açılardan gösteren fotoğraflar.",
+  "puan": 5.0,
+  "grup": "2027-mercedes-c-class-facelift",
+  "link": "https://www.caranddriver.com/photos/a74247610/2027-mercedes-benz-c350-drive-exterior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1793062552.9095294
+ },
+ {
+  "cat": "araba",
+  "baslik": "Spor Arabalarda Sahte Havalandırma Izgaraları Neden Var?",
+  "ozet": "Otomobil üreticilerinin araçlara daha sportif bir görünüm katmak için kullandığı sahte havalandırma ızgaralarının arkasındaki nedenler inceleniyor.",
+  "puan": 3.0,
+  "grup": "why-cars-have-fake-vents",
+  "link": "https://www.motor1.com/features/813246/why-cars-have-fake-vents/",
+  "source": "Motor1",
+  "ts": 1793062552.9095294
+ },
+ {
+  "cat": "araba",
+  "baslik": "Brabus, Mercedes-AMG G63'ü 900 Beygirlik Pikaba Dönüştürüyor",
+  "ozet": "Brabus, Mercedes-AMG G-Serisi'ni temel alarak 900 beygir güç üreten devasa bir pikap modeli geliştirdi.",
+  "puan": 8.0,
+  "grup": "brabus-mercedes-amg-g63-pickup",
+  "link": "https://www.caranddriver.com/news/a74251542/brabus-mercedes-amg-g63-pickup-truck/",
+  "source": "Car and Driver",
+  "ts": 1793062552.9095294
+ },
+ {
+  "cat": "f1",
+  "baslik": "İkincilik Mücadelesi Kızışıyor",
+  "ozet": "Şampiyonada ikincilik koltuğu için beş pilot kıyasıya bir mücadele veriyor ve bu sezonu kimin ikinci bitireceği merak konusu.",
+  "puan": 5.0,
+  "grup": "us-gp-2026-antonelli-title-scenarios",
+  "link": "https://www.formula1.com/en/latest/article/attention-turns-to-the-race-for-second-place-as-kimi-antonelli-closes-in-on-title-success.4UFMy0lQi5bRt1lBhZLgDG",
+  "source": "Formula1.com",
+  "ts": 1793062552.9095294
+ },
+ {
+  "cat": "f1",
+  "baslik": "Naomi Schiff'ten Red Bull'a Uyarı",
+  "ozet": "Naomi Schiff, Red Bull'un dar ayar penceresinin Max Verstappen ve Isack Hadjar'ın sezonunu tehlikeye atabileceği konusunda uyardı.",
+  "puan": 4.5,
+  "grup": "us-gp-2026-red-bull-struggles",
+  "link": "https://www.motorsport.com/f1/news/naomi-schiff-warns-red-bull-over-knifes-edge-f1-car-after-us-gp-struggles/10868723/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793062552.9095294
  }
 ]
