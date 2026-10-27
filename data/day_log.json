@@ -1,76 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Rivian ve Volvo IIHS 2026 Güvenlik Ödülü'nü Alan Büyük SUV'ler Oldu",
-  "ozet": "2026 yılında büyük SUV'lerin çoğu IIHS'nin en yüksek güvenlik ödülünü kaçırırken, sadece Rivian ve Volvo bu unvanı almayı başardı.",
-  "puan": 7.5,
-  "grup": "iihs-large-suv-safety-2026",
-  "link": "https://www.jalopnik.com/2290708/rivian-volvo-only-large-suvs-iihs-top-safety-pick-plus-ratings/",
-  "source": "Jalopnik",
-  "ts": 1792921442.8231366
- },
- {
-  "cat": "araba",
-  "baslik": "Klasik BMW 7 Serisi Sahipliği ve Ödüllü 728i",
-  "ozet": "1997 model E38 nesli BMW 728i, yakın zamanda düzenlenen bir etkinlikte en iyi genel ödülü kazanarak değerini bir kez daha kanıtladı.",
-  "puan": 2.5,
-  "grup": "classic-bmw-7-series-owner",
-  "link": "https://www.autocar.co.uk/car-news/used-cars/i%E2%80%99ll-be-buried-it-my-classic-bmw-7-series-too-good-sell",
-  "source": "Autocar",
-  "ts": 1792921442.8231366
- },
- {
-  "cat": "araba",
-  "baslik": "Audi'den ABD'deki Yeni Büyük SUV Fabrikası İçin 4 Milyar Dolarlık Yatırım",
-  "ozet": "Georgia'da kurulacak yeni Audi fabrikası 4.500 kişiye istihdam sağlayacak ve 2030'ların başında üretime başlayacak.",
-  "puan": 8.0,
-  "grup": "audi-us-factory-investment-suv",
-  "link": "https://www.motor1.com/news/813154/audi-new-factory-georgia-usa/",
-  "source": "Motor1",
-  "ts": 1792921442.8231366
- },
- {
-  "cat": "araba",
-  "baslik": "Hot Wheels Tasarım Ekibi ve Küçük Arabaların Başarı Hikayesi",
-  "ozet": "Amerikalı otomotiv tasarım stüdyosu, en sevilen araçları 1:64 ölçeğinde hayata geçirmeye devam ediyor.",
-  "puan": 2.0,
-  "grup": "hot-wheels-design-team-history",
-  "link": "https://www.autocar.co.uk/car-news/features/small-cars-massive-sales-meet-team-behind-hot-wheels",
-  "source": "Autocar",
-  "ts": 1792921442.8231366
- },
- {
-  "cat": "f1",
-  "baslik": "F1 ve Apple TV Anlaşmasının Başarısı",
-  "ozet": "Formula 1'in ABD'deki yayın yayıncılığında Apple TV'ye geçişi büyük bir değişim yarattı ve bu ortaklığın sonuçları inceleniyor.",
-  "puan": 4.5,
-  "grup": "f1-apple-tv-broadcast-deal",
-  "link": "https://www.the-race.com/business/why-f1-is-so-sure-its-apple-tv-deal-is-working/",
-  "source": "The Race",
-  "ts": 1792921442.8231366
- },
- {
-  "cat": "f1",
-  "baslik": "Verstappen'den COTA Pisti Yumru Tepkisi",
-  "ozet": "Max Verstappen, COTA pistindeki aşırı bozukluklar hakkında eleştirilerde bulunarak pist yöneticisine sert bir yanıt verdi.",
-  "puan": 5.0,
-  "grup": "max-verstappen-cota-bumps-complaint",
-  "link": "https://www.motorsport.com/f1/news/max-verstappen-reacts-to-cota-boss-he-can-drive-my-car-after-five-laps-he-wont-be-able-to-walk/10868080/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792921442.8231366
- },
- {
-  "cat": "f1",
-  "baslik": "Verstappen COTA Pistindeki Bozuklukları Eleştirdi",
-  "ozet": "Max Verstappen, Circuit of the Americas'daki aşırı pist bozukluklarına tepki göstererek duruma dair sert açıklamalarda bulundu.",
-  "puan": 5.0,
-  "grup": "max-verstappen-cota-bumps-complaint",
-  "link": "https://www.autosport.com/f1/news/max-verstappen-responds-to-cota-boss-he-can-drive-my-car-after-five-laps-he-wont-be-able-to-walk/10868204/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1792921442.8231366
- },
- {
-  "cat": "araba",
   "baslik": "Ford Maverick Lobo Deneyimi",
   "ozet": "Ford Maverick Lobo sahibi olmak, etrafınızdakilere karşı sorumluluk taşımanın ve yorucu bir stres yerine neşe veren bir deneyimin nasıl olabileceğini gösteriyor.",
   "puan": 4.5,
@@ -1848,5 +1778,265 @@
   "link": "https://www.jalopnik.com/2293691/anti-lock-brakes-abs-airplanes-1940s-production-cars-1960s-jensen-ff/",
   "source": "Jalopnik",
   "ts": 1793081461.6574886
+ },
+ {
+  "cat": "araba",
+  "baslik": "Toyota'dan SEMA İçin Paletli Konseptler",
+  "ozet": "Toyota, 2026 SEMA Fuarı için Tundra, Tacoma, 4Runner, Land Cruiser ve Sequoia modellerini kış şartlarına uygun paletli versiyonlara dönüştürdü.",
+  "puan": 4.5,
+  "grup": "toyota-snow-tracks-sema-trucks",
+  "link": "https://www.motor1.com/news/813322/toyota-snowhunter-concepts-sema-2026/",
+  "source": "Motor1",
+  "ts": 1793103877.8209598
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mazda CX-70 Tarihe Karışıyor",
+  "ozet": "Mazda, 2027 modeliyle birlikte CX-70 adını sonlandırarak bu modelin iki sıralı versiyonlarını CX-90 serisinin altına dahil ediyor.",
+  "puan": 5.0,
+  "grup": "mazda-cx70-discontinued-cx90",
+  "link": "https://www.motor1.com/news/813321/mazda-cx70-dead-two-row-cx90-replacement/",
+  "source": "Motor1",
+  "ts": 1793103877.8209598
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mazda CX-90 Ailesi Genişliyor",
+  "ozet": "Mazda, CX-70 modeline veda ederek iki sıralı koltuk düzenini daha büyük olan CX-90 serisinin bünyesine katıyor.",
+  "puan": 5.0,
+  "grup": "mazda-cx70-discontinued-cx90",
+  "link": "https://www.caranddriver.com/news/a74251912/2027-mazda-cx-90-pricing-cx-70-dead/",
+  "source": "Car and Driver",
+  "ts": 1793103877.8209598
+ },
+ {
+  "cat": "araba",
+  "baslik": "Toyota'nın Snowhunter Konseptleri Tanıtıldı",
+  "ozet": "Tundra, Tacoma, 4Runner, Land Cruiser ve Sequoia modelleri buzlu arazileri aşmak için tekerlekleri paletlerle değiştirdi.",
+  "puan": 4.5,
+  "grup": "toyota-snow-tracks-sema-trucks",
+  "link": "https://www.caranddriver.com/news/a74253089/toyota-snowhunter-concepts-sema-revealed/",
+  "source": "Car and Driver",
+  "ts": 1793103877.8209598
+ },
+ {
+  "cat": "araba",
+  "baslik": "Tren Soygununda Hot Wheels Bulundu",
+  "ozet": "Polis ekipleri, ihbar üzerine bir yük treninde kutulanmış 54.000 dolar değerinde Hot Wheels oyuncak arabası ele geçirdi.",
+  "puan": 2.0,
+  "grup": "hot-wheels-train-heist-recovery",
+  "link": "https://www.motor1.com/news/813387/54-000-hot-wheels-recovered/",
+  "source": "Motor1",
+  "ts": 1793103877.8209598
+ },
+ {
+  "cat": "araba",
+  "baslik": "Özel Üretim Bakır Kaplama Maserati",
+  "ozet": "GFG Peralta D, el dövmesi bakır gövdesiyle yollarda eşine az rastlanır tek seferlik bir 2+2 Gran Turismo coupe olarak dikkat çekiyor.",
+  "puan": 6.0,
+  "grup": "gfg-peralta-copper-maserati",
+  "link": "https://www.motor1.com/news/813383/maserati-granturismo-one-off-gullwing/",
+  "source": "Motor1",
+  "ts": 1793103877.8209598
+ },
+ {
+  "cat": "araba",
+  "baslik": "Toyota Corolla 60 Yaşında",
+  "ozet": "Bugüne kadar dünya genelinde 57 milyon adet üretilen Toyota Corolla'nın nesilleri geride kalan 60 yılı kutluyor.",
+  "puan": 3.0,
+  "grup": "toyota-corolla-60-years-history",
+  "link": "https://www.motor1.com/news/813375/toyota-corolla-60-year-anniversary/",
+  "source": "Motor1",
+  "ts": 1793103877.8209598
+ },
+ {
+  "cat": "araba",
+  "baslik": "Audi Q4 E-Tron Modellerinde Yangın Riski Geri Çağırması",
+  "ozet": "Volkswagen Grubu, batarya yangın riski nedeniyle 9.048 adet Audi Q4 E-Tron modelini incelemeye alırken kalıcı çözüm üzerinde çalışıyor.",
+  "puan": 8.0,
+  "grup": "audi-q4-etron-battery-recall",
+  "link": "https://www.motor1.com/news/813371/audi-q4-e-tron-recall/",
+  "source": "Motor1",
+  "ts": 1793103877.8209598
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mitsubishi'den SUV Tabanlı Evo Ruhu",
+  "ozet": "Mitsubishi, başka bir üreticinin SUV modeli üzerinden efsanevi ralli ikonunun mirasını yaşatmayı hedefliyor.",
+  "puan": 4.5,
+  "grup": "mitsubishi-lancer-evo-spirit-suv",
+  "link": "https://www.motor1.com/news/813365/mitsubishi-evo-spirit-alive-suv/",
+  "source": "Motor1",
+  "ts": 1793103877.8209598
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Jeep Gladiator İçin Fabrika Çıkışlı 35 İnç Lastik Paketi",
+  "ozet": "Jeep, Gladiator modelleri için fabrikadan 35 inç lastik ve yükseltme kiti sunan yeni Lansman Özel Sürümü'nü duyurdu.",
+  "puan": 5.5,
+  "grup": "jeep-gladiator-35-inch-tire-edition",
+  "link": "https://www.motor1.com/news/813358/jeep-gladiator-35-inch-package/",
+  "source": "Motor1",
+  "ts": 1793103877.8209598
+ },
+ {
+  "cat": "araba",
+  "baslik": "Volkswagen'den Maliyet Düşürme Hamlesi İddiası",
+  "ozet": "Volkswagen Grubu'nun maliyetleri düşürmek için Avrupa'da satılan araçlarında Çin yazılımı kullanmayı değerlendirdiği öne sürülüyor.",
+  "puan": 7.5,
+  "grup": "vw-group-chinese-software-cost-cut",
+  "link": "https://www.motor1.com/news/813348/vw-report-chinese-software-european-cars/",
+  "source": "Motor1",
+  "ts": 1793103877.8209598
+ },
+ {
+  "cat": "araba",
+  "baslik": "Polestar 4 Sürüş Testi ve İncelemesi",
+  "ozet": "Daha pratik arka tasarımı ve elden geçirilen şasisiyle dikkat çeken yeni Polestar 4 SUV, rakiplerine karşı test edildi.",
+  "puan": 5.5,
+  "grup": "polestar-4-suv-review-specs",
+  "link": "https://www.autocar.co.uk/car-review/polestar/4-suv",
+  "source": "Autocar",
+  "ts": 1793103877.8209598
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Chevrolet Corvette İçin Erişilebilirlik Vurgusu",
+  "ozet": "Chevrolet yetkilileri, yeni nesil Corvette'in performansını artırırken fiyatını süper otomobil seviyesinden uzak tutmak istiyor.",
+  "puan": 6.5,
+  "grup": "chevrolet-corvette-next-gen-affordable",
+  "link": "https://www.motor1.com/news/813343/gm-c9-corvette-plans-focus/",
+  "source": "Motor1",
+  "ts": 1793103877.8209598
+ },
+ {
+  "cat": "araba",
+  "baslik": "Audi'nin ABD'de Üreteceği Modeller Netleşti",
+  "ozet": "Audi, Amerika'da üreteceği otomobil modellerinin tamamının büyük SUV segmentinde yer alacağını açıkladı.",
+  "puan": 7.0,
+  "grup": "audi-us-factory-investment-suv",
+  "link": "https://www.motor1.com/news/813334/audi-reveals-models-made-in-usa/",
+  "source": "Motor1",
+  "ts": 1793103877.8209598
+ },
+ {
+  "cat": "araba",
+  "baslik": "Tony Stark'ın Acura NSX Roadster'ı Satışta",
+  "ozet": "Yenilmezler filminde kullanılan 1991 şasili Acura NSX Roadster konsepti, yalnızca sergileme amaçlı olarak açık artırmaya çıkarılıyor.",
+  "puan": 3.5,
+  "grup": "tony-stark-acura-nsx-auction",
+  "link": "https://www.motor1.com/news/813333/avengers-acura-nsx-sale-cannot/",
+  "source": "Motor1",
+  "ts": 1793103877.8209598
+ },
+ {
+  "cat": "araba",
+  "baslik": "Elektrikli Hot Hatch Karşılaştırması: Cupra ve Alpine",
+  "ozet": "Elektrikli hot hatch sınıfının yeni oyuncusu Cupra Raval VZ, sınıfının lideri Alpine A290 modeline meydan okuyor.",
+  "puan": 6.0,
+  "grup": "cupra-raval-vz-vs-alpine-a290",
+  "link": "https://www.autocar.co.uk/car-news/features/hot-hatches-charge-cupra-raval-vz-vs-alpine-a290",
+  "source": "Autocar",
+  "ts": 1793103877.8209598
+ },
+ {
+  "cat": "f1",
+  "baslik": "Lawson ABD GP Puanından Memnun",
+  "ozet": "Liam Lawson, Amerika Birleşik Devletleri Grand Prix'sini dokuzuncu sırada tamamlayarak Racing Bulls'a önemli puanlar kazandırdı.",
+  "puan": 4.5,
+  "grup": "us-gp-2026-lawson-points",
+  "link": "https://www.formula1.com/en/latest/article/were-in-a-good-place-lawson-excited-for-whats-to-come-after-more-points-in-austin.6vU3y2Du9rHiEgtFZLkyde",
+  "source": "Formula1.com",
+  "ts": 1793103877.8209598
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika GP Bahis Rehberi ve Oranlar",
+  "ozet": "Autodromo Hermanos Rodriguez'deki yarış öncesi uzmanların hazırladığı en son bahis oranları ve önemli bilgiler paylaşıldı.",
+  "puan": 2.0,
+  "grup": "mexico-gp-2026-betting-guide",
+  "link": "https://www.formula1.com/en/latest/article/mexico-city-grand-prix-race-betting-guide-and-what-the-markets-expect-to-happen.27HUe9yu5jsRU6mrkmkWxS",
+  "source": "Formula1.com",
+  "ts": 1793103877.8209598
+ },
+ {
+  "cat": "f1",
+  "baslik": "Audi'nin P11 Laneti Devam Ediyor",
+  "ozet": "Nico Hulkenberg Austin'de yine 11inci olarak puana çok yaklaşsa da, bu durum Audi'nin sezon genelindeki en büyük temalarından biri haline geldi.",
+  "puan": 4.0,
+  "grup": "us-gp-2026-audi-p11",
+  "link": "https://www.formula1.com/en/latest/article/more-than-a-bad-start-cost-audi-in-austin-as-hulkenberg-returns-another-p11-finish.7iLbqYhxXCxyg6VgvzN23w",
+  "source": "Formula1.com",
+  "ts": 1793103877.8209598
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli'nin Başarısı Kusurlu Kurallardan Bağımsız",
+  "ozet": "Yazar görüşüne göre F1'in kusurlu kuralları ve gerçek yarış hissinin azalması, Kimi Antonelli'nin olası şampiyonluk başarısını gölgelemiyor.",
+  "puan": 3.0,
+  "grup": "kimi-antonelli-us-gp-title-contender",
+  "link": "https://www.racefans.net/2026/10/27/featured-comment-f1s-flawed-rules-dont-lessen-antonellis-achievement/",
+  "source": "RaceFans",
+  "ts": 1793103877.8209598
+ },
+ {
+  "cat": "f1",
+  "baslik": "Alonso'nun Sürücü Kalitesi İddiası Değerlendiriliyor",
+  "ozet": "Fernando Alonso'nun F1 gridindeki pilotların üçte birinin kalitesinin çok düşük olduğu yönündeki iddiasının dayanakları tartışılıyor.",
+  "puan": 2.5,
+  "grup": "alonso-grid-quality-claim",
+  "link": "https://www.the-race.com/formula-1/is-alonsos-brutal-f1-driver-claim-justified/",
+  "source": "The Race",
+  "ts": 1793103877.8209598
+ },
+ {
+  "cat": "f1",
+  "baslik": "Russell ve Hulkenberg'in Son Yarıştaki Puan Eşitliği",
+  "ozet": "Takım arkadaşı şampiyonluğa koşarken George Russell, son üç yarışta şampiyonada 14üncü sırada yer alan Hulkenberg ile aynı puanı topladı.",
+  "puan": 4.0,
+  "grup": "us-gp-2026-russell-struggles",
+  "link": "https://www.racefans.net/2026/10/27/stats-russell-scored-as-many-points-as-hulkenberg-in-last-three-rounds/",
+  "source": "RaceFans",
+  "ts": 1793103877.8209598
+ },
+ {
+  "cat": "f1",
+  "baslik": "Red Bull'dan 2026 Sorunları Açıklaması",
+  "ozet": "Max Verstappen podyuma çıkmasına rağmen, Red Bull ekibi pilotların yaşadığı aptalca sorunların 2026'da tamamen çözülemeyeceğini açıkladı.",
+  "puan": 5.0,
+  "grup": "us-gp-2026-red-bull-struggles",
+  "link": "https://www.autosport.com/f1/news/red-bull-explains-why-verstappen-and-hadjar-silly-problems-wont-be-fixed-in-2026/10868779/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1793103877.8209598
+ },
+ {
+  "cat": "f1",
+  "baslik": "Red Bull Sorunların Çözüm Tarihini Açıkladı",
+  "ozet": "Max Verstappen ve Isack Hadjar'ı etkileyen can sıkıcı sorunların ne zaman çözülebileceği Red Bull tarafından açıklandı.",
+  "puan": 5.0,
+  "grup": "us-gp-2026-red-bull-struggles",
+  "link": "https://www.motorsport.com/f1/news/red-bull-reveals-when-silly-problems-affecting-max-verstappen-and-isack-hadjar-can-be-fixed/10868773/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793103877.8209598
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ferrari'nin ABD GP'sinde Eksik Olduğu Noktalar",
+  "ozet": "Ferrari hafta sonu boyunca neredeyse kusursuz tur atsa da, atamadığı iki kritik tur onlara en çok kaybettiren anlar oldu.",
+  "puan": 4.0,
+  "grup": "us-gp-2026-ferrari-lacking",
+  "link": "https://www.the-race.com/formula-1/what-the-us-gp-really-exposed-about-where-ferrari-is-lacking/",
+  "source": "The Race",
+  "ts": 1793103877.8209598
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 Meksika GP Hangi Kanalda?",
+  "ozet": "Formula 1'de sıra Autodromo Hermanos Rodriguez'deki Meksika Grand Prix'sine gelirken, yarışın yayın saatleri ve izleme rehberi paylaşıldı.",
+  "puan": 2.0,
+  "grup": "mexico-gp-2026-how-to-watch",
+  "link": "https://www.racefans.net/2026/10/27/how-to-watch-the-2026-mexican-grand-prix-live-this-weekend/",
+  "source": "RaceFans",
+  "ts": 1793103877.8209598
  }
 ]
