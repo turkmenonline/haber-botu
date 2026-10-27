@@ -1,66 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Çinli GAC Amonyakla Çalışan 4 Silindirli Motor Geliştirdi",
-  "ozet": "GAC'ın amonyakla çalışan bir içten yanmalı motor geliştirmesinin arkasındaki nedenler ve bu sıra dışı yakıt teknolojisinin detayları ele alınıyor.",
-  "puan": 6.5,
-  "grup": "gac-ammonia-engine-development",
-  "link": "https://www.jalopnik.com/2291419/how-gac-ammonia-four-cylinder-engine-works/",
-  "source": "Jalopnik",
-  "ts": 1792958126.795338
- },
- {
-  "cat": "araba",
-  "baslik": "Porsche'den Merkez Bijonlu Performans Modelleri İçin Kritik Geri Çağırma",
-  "ozet": "Porsche, tekerleklerin yerinden çıkmasına neden olabilecek sorun nedeniyle bazı performans modelleri için 'Sürüş Yapmayın' çağrısını genişletti.",
-  "puan": 8.5,
-  "grup": "porsche-center-lock-wheel-recall",
-  "link": "https://www.jalopnik.com/2295909/porsche-expands-do-not-drive-recall-performance-models-center-lock-wheels/",
-  "source": "Jalopnik",
-  "ts": 1792958126.795338
- },
- {
-  "cat": "f1",
-  "baslik": "Gademan Austin'de İkinci Galibiyetini Aldı",
-  "ozet": "Alpine sürücüsü Austin'deki yarışta aldığı galibiyetle sürücüler klasmanında ikinciliğe yükseldi ve sezonun bitimine iki yarış kala iddiasını artırdı.",
-  "puan": 6.5,
-  "grup": "gademan-austin-win-alpine",
-  "link": "https://www.formula1.com/en/latest/article/f1-academy-gademan-seizes-second-victory-of-the-season-with-assured-austin-drive.q6wyvoFDYd1YGnleJKDGu",
-  "source": "Formula1.com",
-  "ts": 1792958126.795338
- },
- {
-  "cat": "f1",
-  "baslik": "2026 ABD Grand Prix Resmi Start Grid",
-  "ozet": "2026 Birleşik Devletler Grand Prix'si için Austin'de tüm pilotların resmi start pozisyonları belli oldu.",
-  "puan": 9.0,
-  "grup": "us-gp-2026-grid-penalties",
-  "link": "https://www.formula1.com/en/latest/article/official-grid-who-starts-where-for-the-2026-united-states-grand-prix.3eD3xBDo1wI0V0VIWo2wMY",
-  "source": "Formula1.com",
-  "ts": 1792958126.795338
- },
- {
-  "cat": "f1",
-  "baslik": "2026 ABD Grand Prix Canlı Anlatımı",
-  "ozet": "Austin'deki Formula 1 MSC Cruises 2026 Birleşik Devletler Grand Prix'sine dair tüm aksiyonlar canlı olarak aktarılıyor.",
-  "puan": 8.5,
-  "grup": "us-gp-2026-qualifying-live",
-  "link": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-msc-cruises-united-states-grand-prix-2026.62QsaPaMCCAdaEfWYAmuGL",
-  "source": "Formula1.com",
-  "ts": 1792958126.795338
- },
- {
-  "cat": "f1",
-  "baslik": "Toto Wolff'tan Yetenek Avcılığı Üzerine Açıklamalar",
-  "ozet": "Mercedes patronu Toto Wolff, milyar dolarlık bir Formula 1 takımını yönetirken geleceğin yeteneklerini zengin çocuklardan nasıl ayırt ettiklerini ve Andrea Kimi Antonelli'nin başarısını değerlendirdi.",
-  "puan": 5.5,
-  "grup": "toto-wolff-mercedes-replacement-vetting",
-  "link": "https://www.motorsport.com/f1/news/toto-wolff-gets-brutally-honest-about-spotting-f1-talent-and-why-prodigies-wash-out/10868224/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792958126.795338
- },
- {
-  "cat": "araba",
   "baslik": "Amerika'da Sürücü Belgesi Sistemi Yeniden Düzenlenmeli mi?",
   "ozet": "Daha iyi sürücü eğitimlerinin yanı sıra farklı ehliyet türlerinin getirilmesi, yolları daha güvenli hale getirebilir.",
   "puan": 3.0,
@@ -2208,5 +2148,385 @@
   "link": "https://www.motorsport.com/f1/news/toto-wolff-dismisses-helmut-marko--george-russell-theory/10868811/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1793124732.5321965
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Triumph Tiger 1200 Tanıtıldı",
+  "ozet": "Yenilenen Triumph Tiger 1200, artan gücü ve zengin donanım seviyeleriyle BMW GS'in tahtını hedefliyor.",
+  "puan": 7.0,
+  "grup": "2027-triumph-tiger-1200-review",
+  "link": "https://www.jalopnik.com/2299087/2027-triumph-tiger-1200-debuts-aims-for-bmw-gs-crown/",
+  "source": "Jalopnik",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Audi RS5 COTA Pistesinde",
+  "ozet": "630 beygirlik yeni Audi RS5, Nürburgring galibi Carrie Schreiner'in ellerinde COTA pistinde test edildi.",
+  "puan": 7.5,
+  "grup": "2027-audi-rs5-cota-test",
+  "link": "https://www.thedrive.com/news/the-sleek-new-audi-rs5-feels-right-at-home-lapping-cota",
+  "source": "The Drive",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "Benzinli Porsche Macan Halefine V8 Gelebilir",
+  "ozet": "Alman medya raporlarına göre, içten yanmalı motorla geri dönecek olan yeni nesil Porsche Macan V8 motor seçeneği sunabilir.",
+  "puan": 8.0,
+  "grup": "porsche-macan-v8-gas-successor",
+  "link": "https://www.autoblog.com/news/porsches-gas-powered-macan-successor-may-get-a-v8",
+  "source": "Autoblog",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mazda ve Seiko'dan Japonya'ya Özel Kronograf",
+  "ozet": "Mazda ve Seiko iş birliğiyle üretilen 439 dolarlık özel saat, yalnızca Japonya pazarında satışa sunuluyor.",
+  "puan": 2.5,
+  "grup": "mazda-seiko-japan-chronograph",
+  "link": "https://www.autoblog.com/news/mazda-and-seiko-made-a-439-chronograph-but-its-only-sold-in-japan",
+  "source": "Autoblog",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "Chevy Traverse Yeni Hibrit Motora Kavuşuyor",
+  "ozet": "Chevrolet Traverse ve GM'in diğer orta boy aile SUV'leri Buick Enclave ile GMC Acadia, markanın yeni hibrit güç ünitesini alacak.",
+  "puan": 6.0,
+  "grup": "chevy-traverse-gm-hybrid-powertrain",
+  "link": "https://www.caranddriver.com/news/a74264034/chevy-traverse-mid-size-suvs-gm-new-hybrid-powertrain-report/",
+  "source": "Car and Driver",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "F1 Direksiyonlarındaki Düğmeler Ne İşe Yarıyor?",
+  "ozet": "Oyun kontrolcülerini andıran karmaşık Formula 1 direksiyonlarındaki düğmelerin 200 mph hızda ne amaçla kullanıldığı incelendi.",
+  "puan": 3.0,
+  "grup": "f1-steering-wheel-buttons-explained",
+  "link": "https://www.motor1.com/features/813368/why-f1-cars-have-so-many-buttons-on-the-steering-wheel/",
+  "source": "Motor1",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Jeep Compass Fiyatı Arttı",
+  "ozet": "Satışlardaki düşüşe rağmen 2027 model Jeep Compass, eklenen güvenlik ve konfor özellikleriyle 2.435 dolar zamlandı.",
+  "puan": 4.5,
+  "grup": "2027-jeep-compass-price-hike",
+  "link": "https://www.autoblog.com/news/2027-jeep-compass-updates-colors-and-pricing",
+  "source": "Autoblog",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ford Fathom EV Ev Jeneratörü Olabilecek",
+  "ozet": "Yaklaşan elektrikli kamyonet Ford Fathom EV, ek bir ev güç kurulumuyla birlikte evlere elektrik sağlayabilecek.",
+  "puan": 6.5,
+  "grup": "ford-fathom-ev-home-power",
+  "link": "https://www.caranddriver.com/news/a74263722/2028-ford-fathom-bidirectional-home-power-setup/",
+  "source": "Car and Driver",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "Toyota Sienna Modelleri Geri Çağrılıyor",
+  "ozet": "Toyota, kaza anında arka koltuk arkalıklarının kilitlenmeme riski nedeniyle 228.000 adet Sienna'yı geri çağırıyor.",
+  "puan": 8.0,
+  "grup": "toyota-sienna-seatback-recall",
+  "link": "https://www.autoblog.com/news/recall-2022-2026-toyota-sienna-detaching-seat-backs",
+  "source": "Autoblog",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "Koenigsegg ABD'deki Tüm CC850'leri Geri Çağırdı",
+  "ozet": "Amerikada teslim edilen yedi adet Koenigsegg CC850, aracın kaymasına neden olabilecek park freni hatası sebebiyle geri çağrıldı.",
+  "puan": 8.5,
+  "grup": "koenigsegg-cc850-us-recall",
+  "link": "https://www.motor1.com/news/813444/koenigsegg-cc850-parking-brake-recall/",
+  "source": "Motor1",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "Honda Bir Yıllık Mücadelenin Ardından Ücretsiz Motor Verdi",
+  "ozet": "Yatak sarması nedeniyle bozulan 2017 model Honda Pilot'un 25.000 dolarlık motor değişimi, milletvekilleri ve basının yardımıyla çözüldü.",
+  "puan": 3.5,
+  "grup": "honda-pilot-engine-replacement-dispute",
+  "link": "https://www.autoblog.com/news/honda-gives-family-free-25000-engine-after-yearlong-fight",
+  "source": "Autoblog",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "Geleceğin GM Silveradoları Servis Ziyaretlerini Azaltacak",
+  "ozet": "General Motors, yeni merkezi bilgisayar mimarisi sayesinde gelecekteki Silverado modellerinde OTA güncellemeleriyle servis ihtiyaçlarını büyük ölçüde düşürmeyi hedefliyor.",
+  "puan": 6.5,
+  "grup": "gm-silverado-ota-updates-computer",
+  "link": "https://www.thedrive.com/news/gms-future-silverados-should-need-fewer-dealership-visits-one-computer-is-the-key",
+  "source": "The Drive",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "KTM X-Bow Sonunda Amerikan Yollarında",
+  "ozet": "KTM X-Bow çok sınırlı sayıda ABD pazarına giriş yapıyor ancak araç için 50.000 dolarlık ön rezervasyon depozitosu gerekecek.",
+  "puan": 7.0,
+  "grup": "ktm-x-bow-gt-xa-us-market",
+  "link": "https://www.jalopnik.com/2298766/ktm-x-bow-finally-coming-to-american-roads/",
+  "source": "Jalopnik",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Mercedes-Benz EQS SUV İncelemesi",
+  "ozet": "2027 Mercedes-Benz EQS SUV modelinin teknik özellikleri, fiyatlandırması ve genel değerlendirmesi.",
+  "puan": 6.0,
+  "grup": "2027-mercedes-benz-eqs-suv-review",
+  "link": "https://www.caranddriver.com/mercedes-benz/eqs-suv-2027",
+  "source": "Car and Driver",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "Volvo'dan Sadeleştirilmiş Koltuk Ayar Düğmeleri",
+  "ozet": "Volvo, daha az parça kullanarak tasarladığı yeni koltuk kontrol anahtarlarıyla ergonomik ve sade bir başarı yakaladı.",
+  "puan": 4.0,
+  "grup": "volvo-simplified-seat-adjustment-knobs",
+  "link": "https://www.thedrive.com/news/volvo-dumbed-down-seat-adjustment-knobs-and-i-actually-really-like-it",
+  "source": "The Drive",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "2026 İçin En İyi Araba Temalı Advent Takvimleri",
+  "ozet": "Otomobil severler ve anneler için hazırlanan, model araba setleri ve yapım kitleri içeren en iyi yılbaşı takvimi rehberi.",
+  "puan": 2.0,
+  "grup": "best-auto-gifts-for-car-loving-moms",
+  "link": "https://www.caranddriver.com/shopping-advice/g69135830/car-advent-calendar/",
+  "source": "Car and Driver",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ortadan V8 Motorlu Geo Metro Ortaya Çıktı",
+  "ozet": "Klasik LS V8 motor swap trendinin son halkası olarak sıradışı bir Geo Metro modeline V8 motor entegre edildi.",
+  "puan": 4.5,
+  "grup": "geo-metro-mid-engine-v8-swap",
+  "link": "https://www.jalopnik.com/2298568/mid-engine-ls-v8-swapped-geo-metro-for-sale/",
+  "source": "Jalopnik",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "C8 Corvette Ekran Yoğunluğunu Eski Bir Fikirle Çözdü",
+  "ozet": "C8 Corvette, Saab modellerinden ilham alan ve gece sürüşlerini kolaylaştıran az bilinen bir özelliğe sahip.",
+  "puan": 4.0,
+  "grup": "c8-corvette-screen-night-mode-saab",
+  "link": "https://www.thedrive.com/news/the-c8-corvette-quietly-solved-screen-overload-with-a-30-year-old-idea",
+  "source": "The Drive",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Kia EV9 Daha Fazla Torkla Geliyor",
+  "ozet": "Kia, yeni Toyota Highlander EV'nin gelişi öncesinde EV9 serisinin tork değerini ve genel cazibesini artırdı.",
+  "puan": 5.5,
+  "grup": "2027-kia-ev9-torque-update",
+  "link": "https://www.autoblog.com/news/2027-kia-ev9-gets-more-torque-as-new-toyota-rival-nears",
+  "source": "Autoblog",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Jeep Gladiator Baz Modeli Kaldırdı",
+  "ozet": "Giriş seviyesi donanımın kaldırılmasıyla birlikte 2027 model Jeep Gladiator'ün başlangıç fiyatı yükseldi ve 35 inç lastik seçeneği eklendi.",
+  "puan": 5.0,
+  "grup": "jeep-gladiator-35-inch-tire-edition",
+  "link": "https://www.caranddriver.com/news/a74260083/2027-jeep-gladiator-updates-pricing/",
+  "source": "Car and Driver",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "Toyota SEMA Konseptleri Kar Paletleriyle Tanıtıldı",
+  "ozet": "Toyota, SEMA 2026 konseptleri kapsamında tüm kamyonet modellerine kar paletleri takarak zorlu kış şartlarına meydan okuyor.",
+  "puan": 5.0,
+  "grup": "toyota-snow-tracks-sema-trucks",
+  "link": "https://www.jalopnik.com/2298376/toyota-snowhunter-trucks-sema-2026/",
+  "source": "Jalopnik",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yenilmezler Filmindeki Özel Acura NSX Açık Artırmada",
+  "ozet": "Tony Stark'ın filmde kullandığı tek örnek Acura NSX, gelirleri hayır kurumlarına bağışlanmak üzere açık artırmaya çıkarılıyor.",
+  "puan": 4.5,
+  "grup": "tony-stark-acura-nsx-auction",
+  "link": "https://www.autoblog.com/news/iron-mans-one-off-acura-nsx-from-the-avengers-is-up-for-auction",
+  "source": "Autoblog",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "Scout Motors'un Doğrudan Satış Mücadelesi Hukuki Boyutta",
+  "ozet": "Henüz hiç araç satmayan Scout Motors, doğrudan tüketiciye satış modeli nedeniyle bayilerle yaşadığı hukuki anlaşmazlıklarla uğraşıyor.",
+  "puan": 5.5,
+  "grup": "scout-motors-dealer-lawsuit",
+  "link": "https://www.autoblog.com/news/scout-hasnt-sold-a-car-yet-but-its-dealer-fight-just-got-worse",
+  "source": "Autoblog",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Nesil Toyota GR86 Sıralı Dört Silindire Gelebilir",
+  "ozet": "Raporlar, gelecekteki Toyota GR86 modelinin Subaru'nun boxer motorunu bırakıp sıralı dört silindirli motora geçebileceğini gösteriyor.",
+  "puan": 6.0,
+  "grup": "toyota-new-inline-four-gr86-test",
+  "link": "https://www.autoblog.com/news/toyotas-next-gr86-may-trade-subarus-boxer-for-an-inline-four",
+  "source": "Autoblog",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ford Maverick Sahiplerinden Geri Çağırma İtirazı",
+  "ozet": "Yaklaşık 273.000 Ford Maverick ve Maverick Hybrid sahibi, kamera sorunlarının yapılan geri çağırmaya rağmen çözülmediğini iddia ediyor.",
+  "puan": 6.5,
+  "grup": "ford-maverick-camera-recall-issue",
+  "link": "https://www.autoblog.com/news/owners-claim-ford-mavericks-camera-issue-wasnt-fixed-after-recall",
+  "source": "Autoblog",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "GM Piston Hareketini Değiştiren Sıralı Altı Silindirli Motoru İnceliyor",
+  "ozet": "General Motors, yeni bir patent başvurusunda pistonların çalışma prensibini değiştiren farklı bir sıralı altı silindirli motor tasarımı araştırıyor.",
+  "puan": 6.0,
+  "grup": "gm-inlinesix-patent-piston",
+  "link": "https://www.autoblog.com/news/gm-is-exploring-an-inline-six-that-changes-how-pistons-move",
+  "source": "Autoblog",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Lexus RZ Fiyatları Artarken Satışlar Katlanıyor",
+  "ozet": "Lexus RZ elektrikli SUV modelinin satışları 2026'da artış gösterirken, araç için fiyat zamları da beraberinde geldi.",
+  "puan": 4.0,
+  "grup": "2027-lexus-rz-price-sales",
+  "link": "https://www.autoblog.com/news/2027-lexus-rz-prices-rise-as-sales-nearly-double",
+  "source": "Autoblog",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mitsubishi Outlander Diamond Trail Serisi Tanıtıldı",
+  "ozet": "Yeni 2028 Outlander Diamond Trail Edition, özel arazi sürüş modları ve rugged dış detaylarıyla üretime geçiyor.",
+  "puan": 5.0,
+  "grup": "mitsubishi-outlander-diamond-trail",
+  "link": "https://www.autoblog.com/news/mitsubishis-most-rugged-outlander-yet-is-a-production-model",
+  "source": "Autoblog",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "Toyota Yeni Motorlarını Diğer Üreticilere Satmayı Hedefliyor",
+  "ozet": "Toyota, 2032 yılına kadar motor tedarik işinden yıllık yaklaşık 1.7 milyar dolar gelir elde etmeyi hedefliyor.",
+  "puan": 6.5,
+  "grup": "toyota-engine-supply-revenue",
+  "link": "https://www.autoblog.com/news/toyota-wants-other-automakers-to-buy-its-new-engines",
+  "source": "Autoblog",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mazda CX-70 Modelini Kaldırıyor, CX-90 İki Sıralı Devam Ediyor",
+  "ozet": "Mazda, CX-70 modelini sonlandırarak iki sıralı koltuk düzenine sahip CX-90 versiyonlarını 2027 ürün gamına dahil ediyor.",
+  "puan": 5.5,
+  "grup": "mazda-cx70-discontinued-cx90",
+  "link": "https://www.autoblog.com/news/mazda-kills-the-cx-70-as-two-row-cx-90-joins-2027-lineup",
+  "source": "Autoblog",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "Bazı Cadillac CT5-V Blackwing Modellerinde Parçalar Eksik Çıktı",
+  "ozet": "Precision Paketi ile gelmesi gereken bazı süspansiyon parçalarının kimi Cadillac CT5-V Blackwing modellerinde unutulduğu ortaya çıktı.",
+  "puan": 5.0,
+  "grup": "cadillac-ct5v-blackwing-missing-parts",
+  "link": "https://www.autoblog.com/news/some-cadillac-ct5-v-blackwings-had-18000-packages-missing-parts",
+  "source": "Autoblog",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "İki Kapılı Mitsubishi Pajero Ford Bronco'ya Rakip Olabilir",
+  "ozet": "Önceki nesillerinde üç kapılı versiyonlar sunan Pajero'nun yeni kasasında da benzer bir gövde seçeneği sunup sunmayacağı merak ediliyor.",
+  "puan": 4.5,
+  "grup": "mitsubishi-pajero-two-door-bronco",
+  "link": "https://www.autoblog.com/news/a-two-door-mitsubishi-pajero-would-be-a-serious-ford-bronco-rival",
+  "source": "Autoblog",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "Amerika'daki Tüm Koenigsegg CC850'ler Geri Çağrıldı",
+  "ozet": "Bir aracın kendiliğinden hareket etmesi sonucu ABD'deki tüm Koenigsegg CC850 modelleri yazılım sorunu nedeniyle geri çağrıldı.",
+  "puan": 8.0,
+  "grup": "koenigsegg-cc850-us-recall",
+  "link": "https://www.autoblog.com/news/all-koenigsegg-cc850s-in-america-recalled-after-one-rolled-away",
+  "source": "Autoblog",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "Washington Dağları İçin Kış Hava Durumu Uyarısı",
+  "ozet": "Washington eyaletindeki dağ geçitlerinde ve I-90 otoyolunda çarşamba gününe kadar yoğun kar yağışı bekleniyor.",
+  "puan": 1.5,
+  "grup": "washington-winter-weather-i90",
+  "link": "https://www.autoblog.com/news/winter-weather-advisory-issued-for-up-to-12-inches-of-snow-through-wednesday",
+  "source": "Autoblog",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ford'un Godzilla V8 Motoru Federal İnceleme Altında",
+  "ozet": "NHTSA'ya yapılan bir başvuru sonrasında Ford'un 7.3 litrelik Godzilla V8 motorundaki kam mili ve itici sorunları federal incelemeye alındı.",
+  "puan": 7.0,
+  "grup": "ford-godzilla-v8-nhtsa-probe",
+  "link": "https://www.autoblog.com/news/fords-godzilla-v8-faces-federal-probe-covering-nearly-55000-vehicles",
+  "source": "Autoblog",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Jeep Gladiator Fiyatı Tacoma'nın Oldukça Üzerinde",
+  "ozet": "Yeni donanımlar kazanan 2027 Jeep Gladiator, sınıfındaki Toyota Tacoma'ya kıyasla yaklaşık 10.000 dolar daha pahalı hale geldi.",
+  "puan": 4.5,
+  "grup": "2027-jeep-gladiator-price-hike",
+  "link": "https://www.autoblog.com/news/2027-jeep-gladiator-now-costs-nearly-10000-more-than-the-toyota-tacoma",
+  "source": "Autoblog",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika GP Öncesi Kazanma Favorileri",
+  "ozet": "Bahis oranları incelenerek Autodromo Hermanos Rodriguez'de zafer için en şanslı beş pilot analiz ediliyor.",
+  "puan": 3.5,
+  "grup": "mexico-gp-2026-betting-guide",
+  "link": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-mexico-city-grand-prix-according-to-the-betting-markets.32ZVgQbihx4vuZDR1iAHkQ",
+  "source": "Formula1.com",
+  "ts": 1793139848.7761064
+ },
+ {
+  "cat": "f1",
+  "baslik": "Pierson, 2027 IndyCar Sezonu İçin Foyt İle Anlaştı",
+  "ozet": "En genç Le Mans start alan pilotu olan Pierson, 2027 IndyCar sezonunda Hauger ile birlikte Foyt takımı adına yarışacak.",
+  "puan": 7.0,
+  "grup": "pierson-foyt-indycar-2027",
+  "link": "https://www.racefans.net/2026/10/27/social-media-pierson-joins-hauger-at-foyt-for-2027-indycar-season/",
+  "source": "RaceFans",
+  "ts": 1793139848.7761064
  }
 ]
