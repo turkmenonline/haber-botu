@@ -1,466 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Amerika'da Sürücü Belgesi Sistemi Yeniden Düzenlenmeli mi?",
-  "ozet": "Daha iyi sürücü eğitimlerinin yanı sıra farklı ehliyet türlerinin getirilmesi, yolları daha güvenli hale getirebilir.",
-  "puan": 3.0,
-  "grup": "america-drivers-license-types-safety",
-  "link": "https://www.jalopnik.com/2296013/america-needs-more-types-of-drivers-licenses/",
-  "source": "Jalopnik",
-  "ts": 1792967283.9755173
- },
- {
-  "cat": "araba",
-  "baslik": "Manuel Vitesli Hyundai Tucson Arayanlar İçin Yıl Rehberi",
-  "ozet": "Manuel şanzımanlı bir Tucson bulmak zor olabilir; bu rehber hangi model yıllarında bu seçeneğin bulunduğunu gösteriyor.",
-  "puan": 2.5,
-  "grup": "hyundai-tucson-manual-transmission-years",
-  "link": "https://www.jalopnik.com/2292908/years-hyundai-tucson-manual-transmission-united-states/",
-  "source": "Jalopnik",
-  "ts": 1792967283.9755173
- },
- {
-  "cat": "araba",
-  "baslik": "Cadde Etkinlikleri İçin Otomobil Süsleme Fikirleri",
-  "ozet": "Cadılar Bayramı bagaj etkinliklerinde otomobilinizi tematik bir görünüme kavuşturmanın yolları anlatılıyor.",
-  "puan": 1.5,
-  "grup": "halloween-trunk-or-treat-car-ideas",
-  "link": "https://www.jalopnik.com/2293842/halloween-trunk-or-treat-ideas-to-decorate-car/",
-  "source": "Jalopnik",
-  "ts": 1792967283.9755173
- },
- {
-  "cat": "araba",
-  "baslik": "Kasko ve Sigorta Şirketi Değiştirmenin Artıları ve Eksileri",
-  "ozet": "Yeni bir sigorta sağlayıcısına geçmenin avantajları olduğu gibi bazı zorlukları da bulunuyor.",
-  "puan": 2.0,
-  "grup": "switching-auto-insurance-providers-pros-cons",
-  "link": "https://www.jalopnik.com/2296052/pros-and-cons-switching-auto-insurance/",
-  "source": "Jalopnik",
-  "ts": 1792967283.9755173
- },
- {
-  "cat": "araba",
-  "baslik": "Orijinal L34 Motorlu 1970 Chevelle SS 396 Satışa Çıktı",
-  "ozet": "Kapsamlı bir restorasyondan geçen ve orijinal motorunu koruyan 1970 model Chevelle SS yeni alıcısını bekliyor.",
-  "puan": 4.5,
-  "grup": "1970-chevelle-ss-396-for-sale",
-  "link": "https://www.jalopnik.com/2296005/1970-chevrolet-chevelle-ss-396-for-sale-huge-restoration/",
-  "source": "Jalopnik",
-  "ts": 1792967283.9755173
- },
- {
-  "cat": "araba",
-  "baslik": "Subaru'nun Tüm Yeni SUV Modelleri Boyutlarına Göre Sıralandı",
-  "ozet": "Subaru'nun simetrik dört tekerlekten çekiş sistemine sahip içten yanmalı ve elektrikli SUV'leri küçükten büyüğe sıralandı.",
-  "puan": 3.5,
-  "grup": "every-new-subaru-suv-ranked-size",
-  "link": "https://www.jalopnik.com/2291994/every-new-subaru-suv-ranked-from-smallest-to-largest/",
-  "source": "Jalopnik",
-  "ts": 1792967283.9755173
- },
- {
-  "cat": "f1",
-  "baslik": "Amerika GP'yi Antonelli Kazandı",
-  "ozet": "Kimi Antonelli, Austin'deki ABD Grand Prix'sinde üstün bir sürüşle Charles Leclerc'i geride bırakarak zafer elde etti ancak şampiyonluğu henüz garantileyemedi.",
-  "puan": 9.0,
-  "grup": "kimi-antonelli-us-gp-title-contender",
-  "link": "https://www.formula1.com/en/latest/article/antonelli-surges-to-dominant-victory-in-united-states-grand-prix-ahead-of-leclerc-and-verstappen.6kmBQv9FNTW7LzkDj8S34j",
-  "source": "Formula1.com",
-  "ts": 1792967283.9755173
- },
- {
-  "cat": "f1",
-  "baslik": "Antonelli'nin Şampiyonluk İçin Yeni Şansı Meksika'da",
-  "ozet": "Austin'de zafer kazanmasına rağmen şampiyonluğu erken ilan edemeyen Kimi Antonelli, mutlu sona ulaşmak için önümüzdeki hafta sonu koşulacak Meksika Grand Prix'sini bekleyecek.",
-  "puan": 8.5,
-  "grup": "kimi-antonelli-us-gp-title-contender",
-  "link": "https://www.motorsport.com/f1/news/how-kimi-antonelli-can-clinch-his-maiden-f1-championship-in-mexico/10868361/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792967283.9755173
- },
- {
-  "cat": "f1",
-  "baslik": "Amerika GP'yi Kazanan Antonelli Şampiyonluğun Eşiğinde",
-  "ozet": "Kimi Antonelli, Red Bull ve Ferrari'nin baskı kuramadığı ABD Grand Prix'sinde tek pit stop stratejisini başarıyla uygulayarak kariyerinin ilk şampiyonluğuna çok yaklaştı.",
-  "puan": 9.0,
-  "grup": "kimi-antonelli-us-gp-title-contender",
-  "link": "https://www.the-race.com/formula-1/antonelli-on-the-brink-of-first-f1-title-after-crushing-us-gp-win/",
-  "source": "The Race",
-  "ts": 1792967283.9755173
- },
- {
-  "cat": "f1",
-  "baslik": "ABD Grand Prix'sinden Öne Çkan 5 Önemli Not",
-  "ozet": "Kimi Antonelli Austin'de kusursuz bir hafta sonu geçirerek pole pozisyonunu galibiyete çevirdi ve şampiyonluk yolunda bir masterclass'a daha imza attı.",
-  "puan": 6.0,
-  "grup": "kimi-antonelli-us-gp-title-contender",
-  "link": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-us-gp/10868328/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792967283.9755173
- },
- {
-  "cat": "f1",
-  "baslik": "ABD GP: Antonelli Pol Pozisyonundan Kazandı",
-  "ozet": "Kimi Antonelli, Charles Leclerc ve Max Verstappen'in zorlamalarına rağmen kusursuz bir tek stop stratejisiyle Amerika GP'yi kazanarak şampiyonluk kutlamasını Meksika'ya bıraktı.",
-  "puan": 9.0,
-  "grup": "kimi-antonelli-us-gp-title-contender",
-  "link": "https://www.autosport.com/f1/news/f1-united-states-gp-antonelli-wins/10868343/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1792967283.9755173
- },
- {
-  "cat": "f1",
-  "baslik": "Kimi Antonelli ABD GP'nin Galibi Oldu",
-  "ozet": "Mercedes pilotu Kimi Antonelli, Austin'de pole pozisyonundan başladığı yarışta üstün bir performans sergileyerek sezondaki dokuzuncu galibiyetini aldı.",
-  "puan": 9.0,
-  "grup": "kimi-antonelli-us-gp-title-contender",
-  "link": "https://www.motorsport.com/f1/news/f1-united-states-gp-kimi-antonelli-wins/10868331/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792967283.9755173
- },
- {
-  "cat": "f1",
-  "baslik": "2026 Amerika Grand Prix Yarış Sonuçları",
-  "ozet": "Amerika Birleşik Devletleri'nin COTA pistinde gerçekleştirilen 2026 Formula 1 yarışının resmi sonuçları.",
-  "puan": 9.0,
-  "grup": "kimi-antonelli-us-gp-title-contender",
-  "link": "https://www.the-race.com/formula-1/f1-2026-united-states-grand-prix-race-result/",
-  "source": "The Race",
-  "ts": 1792967283.9755173
- },
- {
-  "cat": "araba",
-  "baslik": "En Güçlü 7 JDM Motoru",
-  "ozet": "Bugüne kadar seri üretime girmiş en güçlü yedi JDM içten yanmalı motoru ve bir mansiyon adayı bu listede inceleniyor.",
-  "puan": 2.5,
-  "grup": "most-powerful-jdm-engines",
-  "link": "https://www.jalopnik.com/2293461/most-powerful-jdm-engine-ever/",
-  "source": "Jalopnik",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "araba",
-  "baslik": "En Kötü Yakıt Tüketimine Sahip 7 Araç",
-  "ozet": "Dünyanın en sıra dışı otomobil ve kamyonetleri arasından en yüksek yakıt tüketimine sahip yedi model listeleniyor.",
-  "puan": 2.0,
-  "grup": "worst-mpg-ratings-cars-trucks",
-  "link": "https://www.jalopnik.com/2293295/cars-that-have-worst-mpg/",
-  "source": "Jalopnik",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "Hamilton: ABD GP'sindeki En Büyük Sorun Dengeydi",
-  "ozet": "Lewis Hamilton, Austin'deki yarışta dördüncü olurken aracının dengesinden kaynaklanan sorunları çözmeye çalıştığını belirtti.",
-  "puan": 5.0,
-  "grup": "us-gp-2026-post-race-hamilton",
-  "link": "https://www.formula1.com/en/latest/article/hamilton-singles-out-his-biggest-issue-in-united-states-gp-with-leclerc-optimistic-after-podium.5mv33bCKbMzoECWZ6JqTBD",
-  "source": "Formula1.com",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "Red Bull İçin ABD GP'si Neden Kötü Gitti?",
-  "ozet": "Max Verstappen ve Isack Hadjar, Amerika Birleşik Devletleri Grand Prix'sinde Red Bull'u yavaşlatan sorunlar nedeniyle hayal kırıklığı yaşadı.",
-  "puan": 6.0,
-  "grup": "us-gp-2026-red-bull-struggles",
-  "link": "https://www.formula1.com/en/latest/article/how-everything-went-wrong-for-red-bull-in-united-states-gp-as-verstappen-rues-too-many-issues.6x0g7TJYZGjpf6BTASvdNd",
-  "source": "Formula1.com",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "Norris: McLaren Yeterince Hızlı Değil",
-  "ozet": "Lando Norris, Amerika Birleşik Devletleri Grand Prix'sindeki zorlu hafta sonunun ardından McLaren'in performans eksikliğini kabul etti.",
-  "puan": 5.0,
-  "grup": "us-gp-2026-mclaren-pace",
-  "link": "https://www.formula1.com/en/latest/article/were-just-not-quick-enough-norris-admits-mclarens-failure-at-the-united-states-grand-prix.3qbb9T79ZfhlsStK5EYSOg",
-  "source": "Formula1.com",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "Russell: ABD GP'sindeki Zorluklara Anlam Veremiyorum",
-  "ozet": "George Russell, hız eksikliği ve aldığı beş saniyelik cezayla sekizinci olduğu yarışın ardından cevap aramaya devam ediyor.",
-  "puan": 5.0,
-  "grup": "us-gp-2026-russell-struggles",
-  "link": "https://www.formula1.com/en/latest/article/russell-at-a-loss-to-explain-united-states-gp-struggles-as-mercedes-man-finishes-in-p8.4RRUvKCTx9siOaCCBh4xah",
-  "source": "Formula1.com",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "Antonelli'den 'Mükemmel' ABD GP Zaferi",
-  "ozet": "Amerika Birleşik Devletleri Grand Prix'sini kazanan Kimi Antonelli, şampiyonluğa bir adım daha yaklaştı.",
-  "puan": 9.0,
-  "grup": "us-gp-2026-antonelli-win",
-  "link": "https://www.formula1.com/en/latest/article/it-was-the-result-we-needed-antonelli-hoping-to-win-title-very-soon-after-perfect-us-gp.3pukItI57EWP9AtzrExMek",
-  "source": "Formula1.com",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "Leclerc, ABD GP'sinde Günün Pilotu Seçildi",
-  "ozet": "Harika bir mücadele sergileyen Charles Leclerc, Austin'de podyumun ikinci basamağına çıkarak Günün Pilotu ödülünü aldı.",
-  "puan": 7.5,
-  "grup": "us-gp-2026-leclerc-p2",
-  "link": "https://www.formula1.com/en/latest/article/driver-of-the-day-leclerc-gets-your-vote-after-beating-verstappen-to-p2-in-austin.57AHVRNPHJYOuZFT4cjZPy",
-  "source": "Formula1.com",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "Antonelli 2026 Hatalarını Anlattı, Verstappen Şakalaştı",
-  "ozet": "Şampiyona lideri Kimi Antonelli bu sezon öğrendiklerini paylaşırken, Max Verstappen'den esprili bir yorum geldi.",
-  "puan": 8.5,
-  "grup": "us-gp-2026-antonelli-win",
-  "link": "https://www.motorsport.com/f1/news/kimi-antonelli-reveals-biggest-mistakes-of-2026-as-max-verstappen-takes-playful-dig/10868452/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "2026 Amerika Birleşik Devletleri GP Kazananlar ve Kaybedenler",
-  "ozet": "Austin'deki Circuit of the Americas'da koşulan yarışın ardından kazananlar ve kaybedenler derlendi.",
-  "puan": 4.5,
-  "grup": "us-gp-2026-winners-losers",
-  "link": "https://www.the-race.com/formula-1/winners-and-losers-from-f1s-2026-united-states-grand-prix/",
-  "source": "The Race",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "Norris'ten Sert Gerçeklik Kontrolü",
-  "ozet": "Lando Norris, ABD GP'sinde beşinci olduktan sonra McLaren'in şampiyonluk mücadelesinden en hızlı dördüncü takıma gerilediğini söyledi.",
-  "puan": 6.0,
-  "grup": "us-gp-2026-mclaren-pace",
-  "link": "https://www.motorsport.com/f1/news/lando-norris-delivers-harsh-reality-check-as-mclarens-f1-struggles-continue/10868450/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "Verstappen'den Red Bull Telsizleri İçin Espri",
-  "ozet": "Yarış boyunca telsiz sorunlarıyla boğuşan Max Verstappen, yaşananları eleştirerek esprili bir çıkış yaptı.",
-  "puan": 5.5,
-  "grup": "us-gp-2026-red-bull-struggles",
-  "link": "https://www.motorsport.com/f1/news/max-verstappen-jokes-red-bull-should-abandon-radios-after-united-states-gp-struggles/10868443/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "Leclerc: Ferrari ile Bir Atılım Gerçekleştirdik",
-  "ozet": "Austin'de ikinci olan Charles Leclerc, sürüş stili konusunda önemli bir eşiği atlattığını ve galibiyet hedeflediğini belirtti.",
-  "puan": 6.0,
-  "grup": "us-gp-2026-leclerc-p2",
-  "link": "https://www.motorsport.com/f1/news/charles-leclerc-reveals-ferrari-breakthrough-after-united-states-gp-podium/10868441/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "Tarihte Bugün: Mansell'in Lastik Patlatması Şampiyonluğu Getirdi",
-  "ozet": "1986 sezonunun son yarışında Nigel Mansell'in lastik patlatması, Alain Prost'un şampiyonluğunu ilan etmesini sağladı.",
-  "puan": 2.0,
-  "grup": "f1-history-on-this-day",
-  "link": "https://www.racefans.net/2026/10/26/on-this-day-australian-grand-prix/",
-  "source": "RaceFans",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "Alonso: Gridin Üçte Biri Düşük Kalitede",
-  "ozet": "Fernando Alonso, Alex Albon ile yaşadığı temasın ardından gridin arka tarafındaki pilotların kalitesini eleştirdi.",
-  "puan": 6.5,
-  "grup": "us-gp-2026-alonso-albon-incident",
-  "link": "https://www.the-race.com/formula-1/alonso-slams-low-quality-albon-for-us-gp/",
-  "source": "The Race",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "Russell Hız Eksikliğine Çözüm Arıyor",
-  "ozet": "Austin'de cezayla sekizinci olan George Russell, hafta sonu boyunca yeterince hızlı olamamalarının nedenini araştırıyor.",
-  "puan": 5.0,
-  "grup": "us-gp-2026-russell-struggles",
-  "link": "https://www.autosport.com/f1/news/russell-scrambling-for-answers-after-not-being-quick-enough-at-us-gp/10868425/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "Russell Güncellenen W17 ile Hız Bulamadı",
-  "ozet": "Mercedes'in güncellemelerine rağmen George Russell, Amerika Birleşik Devletleri GP'sindeki temposuzluğunu anlamaya çalışıyor.",
-  "puan": 5.0,
-  "grup": "us-gp-2026-russell-struggles",
-  "link": "https://www.motorsport.com/f1/news/george-russell-confused-by-lack-of-pace-at-f1-us-gp-despite-upgraded-w17/10868418/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "Hamilton: Ayar Hatası Podyuma Mal Oldu",
-  "ozet": "Lewis Hamilton, ön kanat ayarındaki büyük farkın Charles Leclerc'in gerisinde kalmasına neden olduğunu açıkladı.",
-  "puan": 5.5,
-  "grup": "us-gp-2026-post-race-hamilton",
-  "link": "https://www.motorsport.com/f1/news/lewis-hamilton-reveals-the-ferrari-setup-mistake-that-cost-him-us-gp-podium/10868416/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "Russell: İkincilik Mücadelesi Önemli Değil",
-  "ozet": "Zorlu bir Austin yarışını geride bırakan George Russell, pilotlar şampiyonluğundaki ikincilik mücadelesini önemsemediğini söyledi.",
-  "puan": 4.5,
-  "grup": "us-gp-2026-russell-struggles",
-  "link": "https://www.motorsport.com/f1/news/george-russell-shrugs-off-f1-championship-p2-fight-after-difficult-us-gp/10868410/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "Alonso'dan Albon Teması Sonrası Sert Sözler",
-  "ozet": "Fernando Alonso, Alexander Albon ile yaşadığı kazadan sonra gridin arkasındaki sürüş standartlarını hedef aldı.",
-  "puan": 6.5,
-  "grup": "us-gp-2026-alonso-albon-incident",
-  "link": "https://www.racefans.net/2026/10/25/alonso-says-f1-has-very-low-quality-drivers-at-back-of-grid-after-albon-collision/",
-  "source": "RaceFans",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "Hadjar'dan Red Bull'a Debriyaj Tasarımı Çağrısı",
-  "ozet": "Isack Hadjar, ABD GP'sindeki kötü kalkışının ardından Red Bull'un debriyaj sistemini yeniden tasarlamasını istedi.",
-  "puan": 5.5,
-  "grup": "us-gp-2026-hadjar-clutch",
-  "link": "https://www.racefans.net/2026/10/25/hadjar-urges-red-bull-to-redesign-clutch-after-another-poor-start/",
-  "source": "RaceFans",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "Hadjar: Kötü Kalkış Yarışımızı Mahvetti",
-  "ozet": "Üçüncü sıradan başladığı yarışta kötü bir kalkış yapan Isack Hadjar, Red Bull'dan debriyaj konusunda adım bekliyor.",
-  "puan": 5.5,
-  "grup": "us-gp-2026-hadjar-clutch",
-  "link": "https://www.motorsport.com/f1/news/isack-hadjar-demands-red-bull-clutch-redesign-after-costly-us-gp-start/10868394/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "Bearman: Gasly Kazası Cezasına Katılmıyorum",
-  "ozet": "Oliver Bearman, Pierre Gasly ile yaşadığı temas nedeniyle aldığı cezaya katılmadığını ve atağı yapmaktan pişmanlık duymadığını söyledi.",
-  "puan": 4.5,
-  "grup": "us-gp-2026-bearman-gasly-penalty",
-  "link": "https://www.racefans.net/2026/10/25/bearman-disagrees-with-penalty-for-gasly-collision-i-dont-regret-going-for-it/",
-  "source": "RaceFans",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "Toto Wolff'ten Antonelli Açıklaması",
-  "ozet": "Mercedes takım patronu Toto Wolff, Amerika GP zaferi öncesinde Kimi Antonelli'nin kendisine söylediklerini ve genç pilotun hiç heyecan belirtisi göstermediğini açıkladı.",
-  "puan": 5.0,
-  "grup": "us-gp-2026-antonelli-win",
-  "link": "https://www.motorsport.com/f1/news/toto-wolff-reveals-what-kimi-antonelli-told-him-in-his-office-before-us-gp-win/10868380/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "Antonelli Meksika'da Nasıl Şampiyon Olur?",
-  "ozet": "Amerika GP'yi kazanarak şampiyonluk yolunda çok büyük bir adım atan Mercedes pilotu Kimi Antonelli'nin Meksika'da zaferini ilan etmesinin matematiksel ihtimalleri inceleniyor.",
-  "puan": 8.0,
-  "grup": "us-gp-2026-antonelli-title-scenarios",
-  "link": "https://www.autosport.com/f1/news/the-maths-behind-antonelli-becoming-f1-world-champion-at-mexico-gp/10868378/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "Antonelli'nin Meksika GP'de Şampiyonluk Senaryoları",
-  "ozet": "Amerika Grand Prix'sini pole pozisyonundan kazanarak bu sezonki dokuzuncu zaferini elde eden Kimi Antonelli'nin Meksika'da en genç F1 dünya şampiyonu olma ihtimallerinin matematiği.",
-  "puan": 8.0,
-  "grup": "us-gp-2026-antonelli-title-scenarios",
-  "link": "https://www.motorsport.com/f1/news/how-will-kimi-antonelli-become-f1-world-champion-at-mexico-gp/10868369/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "Hakemlerden Russell'ın Cezası Açıklaması",
-  "ozet": "Amerika Grand Prix'si hakemleri George Russell'a vermeyi düşündükleri 10 saniyelik cezayı neden 5 saniyeye indirdiklerini açıkladılar.",
-  "puan": 5.0,
-  "grup": "us-gp-2026-russell-penalty",
-  "link": "https://www.racefans.net/2026/10/25/stewards-explain-reason-for-russells-mitigated-us-gp-penalty/",
-  "source": "RaceFans",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "2026 Amerika GP İnteraktif Verileri",
-  "ozet": "Andrea Kimi Antonelli'nin tek pit stop stratejisini rakiplerine göre nasıl daha iyi uyguladığını gösteren tur grafikleri ve lastik verileri.",
-  "puan": 3.0,
-  "grup": "us-gp-2026-interactive-data",
-  "link": "https://www.racefans.net/2026/10/25/2026-united-states-grand-prix-interactive-data-lap-charts-times-and-tyres/",
-  "source": "RaceFans",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "Hafta Sonu Sürücüsünü Seçin",
-  "ozet": "Formula 1 hayranları 2026 Amerika Grand Prix'si hafta sonunun en iyi sürücüsü için oylarını kullanmaya davet ediliyor.",
-  "puan": 2.0,
-  "grup": "us-gp-2026-driver-of-the-weekend",
-  "link": "https://www.racefans.net/2026/10/25/vote-for-your-2026-united-states-grand-prix-driver-of-the-weekend/",
-  "source": "RaceFans",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "Austin'i Kazanan Antonelli Şampiyonluğa Koşuyor",
-  "ozet": "Austin'de rakiplerine şans tanımayan Andrea Kimi Antonelli, zaferiyle birlikte şampiyonluk kupasını Meksika'da kaldırmaya hazırlanıyor.",
-  "puan": 8.5,
-  "grup": "us-gp-2026-antonelli-win",
-  "link": "https://www.racefans.net/2026/10/25/antonelli-on-cusp-of-winning-title-after-victory-in-austin-and-penalty-for-russell/",
-  "source": "RaceFans",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "2026 Amerika GP Yarış Sonucu ve Puan Durumu",
-  "ozet": "Mercedes adına Amerika Grand Prix'sini kazanan Andrea Kimi Antonelli şampiyonadaki puan farkını 123'e çıkardı.",
-  "puan": 9.0,
-  "grup": "us-gp-2026-antonelli-win",
-  "link": "https://www.racefans.net/2026/10/25/2026-united-states-grand-prix-race-result-and-championship-points/",
-  "source": "RaceFans",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "Yarışı Değerlendirin: 2026 Amerika GP",
-  "ozet": "Okuyucular 2026 Amerika Grand Prix'si hakkındaki görüşlerini paylaşıyor ve bugünkü yarışı oyluyor.",
-  "puan": 2.0,
-  "grup": "us-gp-2026-rate-the-race",
-  "link": "https://www.racefans.net/2026/10/25/rate-the-race-2026-united-states-grand-prix/",
-  "source": "RaceFans",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "f1",
-  "baslik": "Fotoğraflarla 2026 Amerika Grand Prix",
-  "ozet": "Amerika Birleşik Devletleri Grand Prix'sinin Circuit of the Americas'daki en dikkat çekici kareleri foto galeriyle sunuluyor.",
-  "puan": 2.0,
-  "grup": "us-gp-2026-pictures",
-  "link": "https://www.racefans.net/2026/10/25/2026-united-states-grand-prix-in-pictures/",
-  "source": "RaceFans",
-  "ts": 1792975146.3705602
- },
- {
-  "cat": "araba",
   "baslik": "Hipoid Diferansiyel Yağı Neden Farklı Olmalıdır?",
   "ozet": "Otomobillerde motor, şanzıman ve diferansiyel yağları birbirinin yerine kullanılamaz; yanlış yağ tercihi ciddi hasarlara yol açabilir.",
   "puan": 4.5,
@@ -2528,5 +2068,175 @@
   "link": "https://www.racefans.net/2026/10/27/social-media-pierson-joins-hauger-at-foyt-for-2027-indycar-season/",
   "source": "RaceFans",
   "ts": 1793139848.7761064
+ },
+ {
+  "cat": "araba",
+  "baslik": "Aston Martin Valhalla Spider Tanıtıldı",
+  "ozet": "1.000 beygirin üzerinde güce sahip yeni Aston Martin Valhalla Spider, tavanı açıkken 217 mph hıza ulaşabiliyor.",
+  "puan": 8.5,
+  "grup": "aston-martin-valhalla-spider",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/new-aston-martin-valhalla-spider-%C2%A313m-roadster-tops-217mph",
+  "source": "Autocar",
+  "ts": 1793151435.304893
+ },
+ {
+  "cat": "araba",
+  "baslik": "Range Rover Sport Electric İlk Sürüş İncelemesi",
+  "ozet": "Tamamen elektrikli Range Rover Sport, lüks ve performansıyla segmentinin en iyisi olmaya aday.",
+  "puan": 6.0,
+  "grup": "range-rover-sport-electric-review",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/range-rover-sport-electric-driven-it-really-could-be-best-4x4-far",
+  "source": "Autocar",
+  "ts": 1793151435.304893
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Aston Martin Valhalla Spider 217 MPH Hıza Ulaşıyor",
+  "ozet": "Aston Martin'in ilk ortadan motorlu üstü açık süperspor otomobili, 1.000 beygirden fazla güç sunuyor.",
+  "puan": 8.5,
+  "grup": "aston-martin-valhalla-spider",
+  "link": "https://www.motor1.com/news/813475/aston-martin-valhalla-spider-debuts/",
+  "source": "Motor1",
+  "ts": 1793151435.304893
+ },
+ {
+  "cat": "araba",
+  "baslik": "2028 Aston Martin Valhalla İncelemesi",
+  "ozet": "Yeni Aston Martin Valhalla modelinin teknik özellikleri, fiyatlandırması ve genel değerlendirmesi.",
+  "puan": 8.0,
+  "grup": "2028-aston-martin-valhalla",
+  "link": "https://www.caranddriver.com/aston-martin/valhalla-2028",
+  "source": "Car and Driver",
+  "ts": 1793151435.304893
+ },
+ {
+  "cat": "araba",
+  "baslik": "2028 Aston Martin Valhalla Spider Dış Tasarım Fotoğrafları",
+  "ozet": "Yeni Aston Martin Valhalla Spider modelinin dış tasarımını farklı açılardan gösteren fotoğraflar yayınlandı.",
+  "puan": 7.5,
+  "grup": "aston-martin-valhalla-spider",
+  "link": "https://www.caranddriver.com/photos/a74248635/2028-aston-martin-valhalla-spider-revealed-exterior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1793151435.304893
+ },
+ {
+  "cat": "araba",
+  "baslik": "2028 Aston Martin Valhalla Spider İç Mekan Fotoğrafları",
+  "ozet": "Yeni Aston Martin Valhalla Spider'ın iç mekan detaylarını gözler önüne seren fotoğraflar paylaşıldı.",
+  "puan": 7.5,
+  "grup": "aston-martin-valhalla-spider",
+  "link": "https://www.caranddriver.com/photos/a74248637/2028-aston-martin-valhalla-spider-revealed-interior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1793151435.304893
+ },
+ {
+  "cat": "araba",
+  "baslik": "1064 Beygirlik Aston Martin Valhalla Spider Üstü Açık Versiyonuyla Geliyor",
+  "ozet": "Yeni Spider modeli tavanını kaybediyor ancak 217 mph'lik son hızını koruyarak markanın en hızlı üstü açık modeli oluyor.",
+  "puan": 8.5,
+  "grup": "aston-martin-valhalla-spider",
+  "link": "https://www.caranddriver.com/news/a74264241/2028-aston-martin-valhalla-spider-revealed/",
+  "source": "Car and Driver",
+  "ts": 1793151435.304893
+ },
+ {
+  "cat": "araba",
+  "baslik": "Aston Martin Valhalla Spider Tavanı Yokken Daha Hızlı",
+  "ozet": "Yeni üstü açık süperspor otomobil, tavanı kapalıyken değil açıkken 217 mph son hıza ulaşabiliyor.",
+  "puan": 8.5,
+  "grup": "aston-martin-valhalla-spider",
+  "link": "https://www.thedrive.com/news/1064-hp-aston-martin-valhalla-spider-is-actually-faster-with-its-roof-off",
+  "source": "The Drive",
+  "ts": 1793151435.304893
+ },
+ {
+  "cat": "araba",
+  "baslik": "Aston Martin Valhalla Spider ile 217 MPH Hız",
+  "ozet": "Yeni Valhalla Spider, coupe kardeşiyle benzer performans verilerini sunarak 1.000 beygirin üzerinde güç üretiyor.",
+  "puan": 8.5,
+  "grup": "aston-martin-valhalla-spider",
+  "link": "https://www.jalopnik.com/2298994/aston-martin-valhalla-spider-debuts-217-mph-top-speed/",
+  "source": "Jalopnik",
+  "ts": 1793151435.304893
+ },
+ {
+  "cat": "araba",
+  "baslik": "Porsche ABD Fabrikalarına Karşı Çıkarken Audi Georgia'ya Yatırım Yapıyor",
+  "ozet": "Porsche modellerini Avrupa'da tutmaya devam ederken, Audi Georgia'da binlerce SUV üretmek için milyarlarca dolar yatırıyor.",
+  "puan": 8.0,
+  "grup": "porsche-vs-audi-us-factory",
+  "link": "https://www.motor1.com/news/813400/porsche-staying-imported-while-audi/",
+  "source": "Motor1",
+  "ts": 1793151435.304893
+ },
+ {
+  "cat": "araba",
+  "baslik": "Toyota Modelleri Karlı Arazi Paletleriyle Donatıldı",
+  "ozet": "Toyota; Tundra, Tacoma, 4Runner, Land Cruiser ve Sequoia modellerini kış şartlarına uygun paletli araçlara dönüştürdü.",
+  "puan": 5.0,
+  "grup": "toyota-snow-tracks-sema-trucks",
+  "link": "https://www.autoblog.com/news/sema-2026-concepts-toyota-snowhunter-tundra-tacoma-4runner-land-cruiser-sequoia",
+  "source": "Autoblog",
+  "ts": 1793151435.304893
+ },
+ {
+  "cat": "araba",
+  "baslik": "Bugatti CEO'sundan Manuel Vites Açıklaması",
+  "ozet": "Bugatti CEO'su Mate Rimac, 986 beygirlik Tourbillon modelinin hafif ve manuel vitesli bir versiyonunun mümkün olabileceğini belirtti.",
+  "puan": 8.0,
+  "grup": "bugatti-tourbillon-manual-rumor",
+  "link": "https://www.autoblog.com/news/bugatti-ceo-says-a-manual-986-hp-tourbillon-is-possible",
+  "source": "Autoblog",
+  "ts": 1793151435.304893
+ },
+ {
+  "cat": "f1",
+  "baslik": "Toto Wolff'tan Helmut Marko'ya Russell Yanıtı",
+  "ozet": "Mercedes takım patronu Toto Wolff, Helmut Marko'nun George Russell'ın bir daha şampiyonluk şansı bulamayacağı yönündeki iddiasını reddetti.",
+  "puan": 5.0,
+  "grup": "us-gp-2026-russell-struggles",
+  "link": "https://www.motorsport.com/f1/news/george-russell-f1-title-chances-defended-by-toto-wolff-after-helmut-marko-comments/10868961/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793151435.304893
+ },
+ {
+  "cat": "f1",
+  "baslik": "Helmut Marko Yapay Zeka Girişimine Yatırım Yaptı",
+  "ozet": "Eski Red Bull danışmanı Helmut Marko, kişisel mesajların ölümden sonra sevdiklerine iletilmesini sağlayan Avusturya merkezli bir yapay zeka girişimine yatırım yaptı.",
+  "puan": 2.0,
+  "grup": "helmut-marko-ai-startup-investment",
+  "link": "https://www.motorsport.com/f1/news/helmut-marko-invests-in-ai-start-up-after-red-bull-f1-exit/10868955/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793151435.304893
+ },
+ {
+  "cat": "f1",
+  "baslik": "Red Bull'dan Aston Martin Motor İddialarına Yanıt",
+  "ozet": "Red Bull takım patronu Laurent Mekies, Aston Martin'e güç ünitesi tedarik etme konusunda ciddi görüşmeler yürütmediklerini doğruladı.",
+  "puan": 5.5,
+  "grup": "red-bull-aston-martin-pu-rumours",
+  "link": "https://www.motorsport.com/f1/news/red-bull-responds-to-aston-martin-f1-power-unit-rumours/10868957/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793151435.304893
+ },
+ {
+  "cat": "f1",
+  "baslik": "Tarihte Bugün: Hamilton ve Schumacher İlk Kez Yarıştı",
+  "ozet": "Lewis Hamilton ve Michael Schumacher, Kerpen'deki bir karting finalinde ilk kez birbirlerine karşı yarıştı.",
+  "puan": 1.5,
+  "grup": "hamilton-schumacher-first-kart-race",
+  "link": "https://www.racefans.net/2026/10/28/on-this-day-hamilton-rosberg-schumacher-and-liuzzi-in-world-karting-championship-final/",
+  "source": "RaceFans",
+  "ts": 1793151435.304893
+ },
+ {
+  "cat": "f1",
+  "baslik": "Kimi Antonelli ABD GP Zaferiyle Farkı Açtı",
+  "ozet": "Zorlu geçen antrenman seanslarına rağmen Mercedes pilotu Andrea Kimi Antonelli, Amerika Grand Prix'sini kazanarak şampiyonadaki liderliğini genişletti.",
+  "puan": 9.0,
+  "grup": "us-gp-2026-antonelli-win",
+  "link": "https://www.motorsport.com/f1/news/mercedes-admits-they-were-clueless-before-kimi-antonellis-austin-miracle-a-remarkable-turnaround/10868571/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793151435.304893
  }
 ]
