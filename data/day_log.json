@@ -1,86 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Hipoid Diferansiyel Yağı Neden Farklı Olmalıdır?",
-  "ozet": "Otomobillerde motor, şanzıman ve diferansiyel yağları birbirinin yerine kullanılamaz; yanlış yağ tercihi ciddi hasarlara yol açabilir.",
-  "puan": 4.5,
-  "grup": "hypoid-differential-gear-oil-differences",
-  "link": "https://www.jalopnik.com/2290712/hypoid-gear-differential-oil-different-transmission-engine-lubrication/",
-  "source": "Jalopnik",
-  "ts": 1792992424.6571689
- },
- {
-  "cat": "araba",
-  "baslik": "Cenaze Öncesi Ailelerin Küllerinin Olduğu Araç Çalındı",
-  "ozet": "Cenazeden önceki gece içinde anne ve babasının küllerini taşıyan bir Hyundai Tucson'un çalınması, ABD'deki araç hırsızlığı sorununu gözler önüne serdi.",
-  "puan": 2.5,
-  "grup": "stolen-hyundai-tucson-parents-ashes",
-  "link": "https://www.jalopnik.com/2293486/hyundai-tucson-stolen-parents-ashes-night-before-funeral/",
-  "source": "Jalopnik",
-  "ts": 1792992424.6571689
- },
- {
-  "cat": "f1",
-  "baslik": "Wolff'tan Antonelli'ye Austin Övgüsü",
-  "ozet": "Toto Wolff, Kimi Antonelli'nin ABD Grand Prix'sindeki baskın galibiyetini şimdiye kadarki en iyi yarışı olarak nitelendirdi ve pilotun rahat zihniyetine dikkat çekti.",
-  "puan": 7.0,
-  "grup": "us-gp-2026-antonelli-win",
-  "link": "https://www.formula1.com/en/latest/article/why-wolff-believes-that-austin-victory-was-antonellis-best-race-so-far.5EknFIzoqV4V2lU00IzdER",
-  "source": "Formula1.com",
-  "ts": 1792992424.6571689
- },
- {
-  "cat": "f1",
-  "baslik": "ABD GP Yarış Günü Açıklamaları",
-  "ozet": "Amerika Birleşik Devletleri Grand Prix'sinin ardından pilotlar ve takımlar, Austin'deki yarış gününün aksiyonunu değerlendirdiler.",
-  "puan": 5.0,
-  "grup": "us-gp-2026-rate-the-race",
-  "link": "https://www.formula1.com/en/latest/article/what-the-teams-said-race-day-in-the-united-states-2026.4FopoItrER6KX395f6ZENu",
-  "source": "Formula1.com",
-  "ts": 1792992424.6571689
- },
- {
-  "cat": "f1",
-  "baslik": "2026 ABD GP'nin Önemli Anları",
-  "ozet": "Kimi Antonelli, Charles Leclerc'i geride bırakarak şampiyonluğu unvanına bir adım daha yaklaştığı Austin'deki yarışın kilit anları yaşandı.",
-  "puan": 8.5,
-  "grup": "us-gp-2026-antonelli-win",
-  "link": "https://www.formula1.com/en/latest/article/austin-lowdown-all-the-key-moments-as-antonelli-dominates-to-edge-towards-title.4HFlGYh5oSLacvlbJEIa1y",
-  "source": "Formula1.com",
-  "ts": 1792992424.6571689
- },
- {
-  "cat": "f1",
-  "baslik": "Red Bull'da Verstappen ve Hadjar İsyanı",
-  "ozet": "Max Verstappen ve Isack Hadjar, araçlarının potansiyelini tam olarak kullanamamalarına neden olan sorunlar zinciri nedeniyle ABD GP sonrası Red Bull'a sert tepki gösterdi.",
-  "puan": 7.5,
-  "grup": "us-gp-2026-red-bull-struggles",
-  "link": "https://www.the-race.com/formula-1/why-verstappen-hadjar-furious-red-bull-f1-us-gp/",
-  "source": "The Race",
-  "ts": 1792992424.6571689
- },
- {
-  "cat": "f1",
-  "baslik": "ABD Grand Prix Kazananları ve Kaybedenleri",
-  "ozet": "Austin'deki yarış büyük bir klasik olmasa da strateji savaşları ve yakın performanslar kazananları ve kaybedenleri belirledi.",
-  "puan": 6.0,
-  "grup": "us-gp-2026-winners-losers",
-  "link": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-united-states-grand-prix/10868465/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792992424.6571689
- },
- {
-  "cat": "f1",
-  "baslik": "Red Bull'dan Debriyaj Sorunu İtirafı",
-  "ozet": "Red Bull takım patronu Laurent Mekies, yarış başlangıçlarındaki sorunun 2027'den önce tamamen çözülemeyeceğini kabul etti; Isack Hadjar ise debriyajın yeniden tasarlanmasını istemişti.",
-  "puan": 8.0,
-  "grup": "us-gp-2026-hadjar-clutch",
-  "link": "https://www.motorsport.com/f1/news/red-bull-admits-frustrating-f1-problem-will-not-be-fully-solved-this-season/10868457/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1792992424.6571689
- },
- {
-  "cat": "araba",
   "baslik": "Kimi Antonelli Mercedes-AMG GT'yi Duvara Çarptı",
   "ozet": "F1 pilotu Kimi Antonelli, ABD GP öncesinde kullandığı Mercedes-AMG GT'yi düşük hızda duvara çarparken, George Russell bu anları kameraya aldı.",
   "puan": 4.5,
@@ -2238,5 +2158,85 @@
   "link": "https://www.motorsport.com/f1/news/mercedes-admits-they-were-clueless-before-kimi-antonellis-austin-miracle-a-remarkable-turnaround/10868571/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1793151435.304893
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yangwang Altior Dubai'de Tanıtıldı",
+  "ozet": "Rolls-Royce Ghost'a rakip olarak geliştirilen 217 inç uzunluğundaki lüks sedan Yangwang Altior, 5 Kasım'da Dubai'de görücüye çıkıyor.",
+  "puan": 7.5,
+  "grup": "yangwang-altior-rolls-royce-rival",
+  "link": "https://www.motor1.com/news/813490/byd-yangwang-altior-luxury-sedan/",
+  "source": "Motor1",
+  "ts": 1793172682.619089
+ },
+ {
+  "cat": "araba",
+  "baslik": "Toyota Yeni Motor Satışlarıyla Milyarlarca Dolar Kazanmayı Hedefliyor",
+  "ozet": "Toyota, yeni nesil içten yanmalı motorlarını diğer üreticilere satarak yılda 1.7 milyar dolar gelir elde etmeyi bekliyor.",
+  "puan": 8.0,
+  "grup": "toyota-engine-supply-revenue",
+  "link": "https://www.motor1.com/news/813488/toyota-sell-new-engines-other-companies/",
+  "source": "Motor1",
+  "ts": 1793172682.619089
+ },
+ {
+  "cat": "araba",
+  "baslik": "Dodge Charger Mopar 90. Yıl Özel Versiyonu Duyuruldu",
+  "ozet": "Mopar '27 paketiyle donatılan Dodge Charger R/T ve Scat Pack Plus modelleri, sadece 270 adetlik sınırlı üretimle satışa sunuluyor.",
+  "puan": 6.5,
+  "grup": "dodge-charger-mopar-90th-anniversary",
+  "link": "https://www.motor1.com/news/813486/dodge-charger-mopar-27-package/",
+  "source": "Motor1",
+  "ts": 1793172682.619089
+ },
+ {
+  "cat": "araba",
+  "baslik": "Paris Otomobil Fuarı'nın Gizli Yıldızı Leapmotor Oldu",
+  "ozet": "Stellantis çatısı altında yer alan Leapmotor, Paris Otomobil Fuarı'ndaki sade ama etkileyici varlığıyla dikkatleri üzerine çekti.",
+  "puan": 5.5,
+  "grup": "leapmotor-paris-motor-show-star",
+  "link": "https://www.autocar.co.uk/opinion/business-electric-vehicles/why-bland-leapmotor-was-real-star-paris-motor-show",
+  "source": "Autocar",
+  "ts": 1793172682.619089
+ },
+ {
+  "cat": "araba",
+  "baslik": "Toyota Sienna'lar Koltuk Problemi Nedeniyle Geri Çağrılıyor",
+  "ozet": "İkinci sıra kaptan koltuklarının bir kaza anında yerinden oynayabilmesi riski nedeniyle 228.000 adet Toyota Sienna geri çağrılıyor.",
+  "puan": 7.0,
+  "grup": "toyota-sienna-seatback-recall",
+  "link": "https://www.jalopnik.com/2298546/toyota-recalls-228000-sienna-minivans-second-row-seat-crash-safety/",
+  "source": "Jalopnik",
+  "ts": 1793172682.619089
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika GP Öncesi Öne Çıkanlar",
+  "ozet": "Andrea Kimi Antonelli bu hafta sonu şampiyonluğunu ilan edebilir mi? İşte Meksika Grand Prix'si öncesinde merak edilen beş ana konu başlığı.",
+  "puan": 7.0,
+  "grup": "kimi-antonelli-us-gp-title-contender",
+  "link": "https://www.racefans.net/2026/10/28/antonellis-coronation-mexicos-optional-turn-one-and-more-mexican-gp-talking-points/",
+  "source": "RaceFans",
+  "ts": 1793172682.619089
+ },
+ {
+  "cat": "f1",
+  "baslik": "Max Verstappen: Red Bull Austin'de Sadece Ortalama Seviyedeydi",
+  "ozet": "Amerika Grand Prix'sini podyumda bitirmesine rağmen Max Verstappen, yanlış lastik seçimi, güç ünitesi ve telsiz sorunları nedeniyle hafta sonundan memnun ayrılmadı.",
+  "puan": 7.5,
+  "grup": "us-gp-2026-red-bull-struggles",
+  "link": "https://www.motorsport.com/f1/news/max-verstappen-admits-red-bull-was-just-a-little-average-in-austin/10868963/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793172682.619089
+ },
+ {
+  "cat": "f1",
+  "baslik": "Toto Wolff'ten Mercedes Koltuğunun Hikayesi",
+  "ozet": "Mercedes takım patronu Toto Wolff, Williams'ın 2012 İspanya GP'deki sürpriz zaferi sonrasında Mercedes'teki görevini nasıl güvenceye aldığını açıkladı.",
+  "puan": 3.5,
+  "grup": "toto-wolff-williams-mercedes-history",
+  "link": "https://www.motorsport.com/f1/news/toto-wolff-reveals-how-williams-surprise-victory-helped-him-secure-mercedes-role/10868959/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793172682.619089
  }
 ]
