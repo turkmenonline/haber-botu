@@ -1,156 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Modern Otomobillerde Yazılım Güncellemelerinin Önemi",
-  "ozet": "Modern otomobiller akıllı telefonlar gibi yazılım güncellemeleri alıyor ve bu düzeltmeler sadece yeni özellikler eklemekle kalmıyor.",
-  "puan": 4.5,
-  "grup": "car-software-updates-importance",
-  "link": "https://www.motor1.com/features/813236/why-modern-cars-need-software-updates/",
-  "source": "Motor1",
-  "ts": 1793051456.2251322
- },
- {
-  "cat": "araba",
-  "baslik": "Jeep Grand Wagoneer İçin Kilitli Kasa Opsiyonu",
-  "ozet": "Jeep, orta koltuğun altına gizlenen ve şifreyle açılan silah kasası benzeri kilitli bir saklama alanını opsiyon olarak sunmaya başladı.",
-  "puan": 3.0,
-  "grup": "jeep-grand-wagoneer-lockable-safe",
-  "link": "https://www.thedrive.com/news/jeep-will-sell-you-a-grand-wagoneer-with-a-lockable-safe-its-basically-a-gun-safe",
-  "source": "The Drive",
-  "ts": 1793051456.2251322
- },
- {
-  "cat": "araba",
-  "baslik": "Fernando Alonso'dan ABD GP'sindeki Rakibine Sert Eleştiri",
-  "ozet": "ABD Grand Prix'sinin ilk turundaki kazanın ardından Fernando Alonso, diğer sürücülerin kalitesiz sürüş yaptığını belirterek sert eleştirilerde bulundu.",
-  "puan": 5.5,
-  "grup": "fernando-alonso-usgp-crash-criticism",
-  "link": "https://www.jalopnik.com/2297400/fernando-alonso-criticizes-low-quality-alex-albon-united-states-grand-prix/",
-  "source": "Jalopnik",
-  "ts": 1793051456.2251322
- },
- {
-  "cat": "araba",
-  "baslik": "Gizli Servis İtirazlarına Rağmen Araba Kullanan Eleanor Roosevelt",
-  "ozet": "Eski birinci hanımefendi Eleanor Roosevelt, Gizli Servis'in itirazlarına rağmen kendi arabasını kullanıyor ve hatta direksiyon başında uyuyakalabiliyordu.",
-  "puan": 2.0,
-  "grup": "eleanor-roosevelt-driving-history",
-  "link": "https://www.jalopnik.com/2296733/eleanor-roosevelts-secret-service-objections-fell-asleep-driving/",
-  "source": "Jalopnik",
-  "ts": 1793051456.2251322
- },
- {
-  "cat": "araba",
-  "baslik": "2027 BMW i7 İnceleme ve Fiyat Bilgileri",
-  "ozet": "Lüks elektrikli sedan 2027 BMW i7 modelinin teknik özellikleri, fiyatlandırması ve genel değerlendirmesi.",
-  "puan": 5.0,
-  "grup": "2027-bmw-i7-review-specs",
-  "link": "https://www.caranddriver.com/bmw/i7",
-  "source": "Car and Driver",
-  "ts": 1793051456.2251322
- },
- {
-  "cat": "araba",
-  "baslik": "Yaklaşık 94 Bin Range Rover Geri Çağrıldı",
-  "ozet": "Su tahliye sistemindeki sorun nedeniyle geri kamera arızasına yol açabilen 93.997 adet Range Rover servise çağrıldı.",
-  "puan": 7.5,
-  "grup": "range-rover-camera-recall",
-  "link": "https://www.caranddriver.com/news/a74251320/land-rover-range-rover-rearview-camera-recall/",
-  "source": "Car and Driver",
-  "ts": 1793051456.2251322
- },
- {
-  "cat": "araba",
-  "baslik": "BMW i3 Tabanlı El Yapımı Kamyonet",
-  "ozet": "Bir mühendis, pahalı elektrikli kamyonetlere tepki olarak tuhaf tasarımlı BMW i3'ü dönüştürerek pikap bir araç inşa etti.",
-  "puan": 3.5,
-  "grup": "bmw-i3-diy-pickup-truck",
-  "link": "https://www.thedrive.com/news/master-builder-made-a-bmw-i3-pickup-truck-to-shame-the-slate",
-  "source": "The Drive",
-  "ts": 1793051456.2251322
- },
- {
-  "cat": "araba",
-  "baslik": "Trump'tan Artan Akaryakıt Fiyatları Üzerine Açıklama",
-  "ozet": "Donald Trump, artan akaryakıt fiyatları hakkında ülkenin bu yüksek maliyetlerden yüz milyarlarca dolar kazandığını belirtti.",
-  "puan": 4.0,
-  "grup": "trump-gas-prices-oil-comments",
-  "link": "https://www.jalopnik.com/2297271/trump-brags-oil-companies-make-millions-people-pay-more-at-pump/",
-  "source": "Jalopnik",
-  "ts": 1793051456.2251322
- },
- {
-  "cat": "araba",
-  "baslik": "Alpine'in Yeni Spor Otomobili Retro Tasarımı Bırakıyor",
-  "ozet": "Alpine'in elektrikli 2+2 modeli, A110 platformunu paylaşarak daha modern bir tasarım diline geçiş yapacak.",
-  "puan": 6.5,
-  "grup": "alpine-electric-sports-car-design",
-  "link": "https://www.motor1.com/news/813269/alpine-electric-2-2-news/",
-  "source": "Motor1",
-  "ts": 1793051456.2251322
- },
- {
-  "cat": "araba",
-  "baslik": "Mitsubishi Outlander İçin Diamond Trail Versiyonu",
-  "ozet": "Mitsubishi Outlander, yeni Diamond Trail Edition paketi ile daha sert off-road gövde parçaları ve Rock sürüş modu kazanıyor.",
-  "puan": 4.5,
-  "grup": "mitsubishi-outlander-diamond-trail",
-  "link": "https://www.caranddriver.com/news/a74250638/2028-mitsubishi-outlander-diamond-trail-edition-announced/",
-  "source": "Car and Driver",
-  "ts": 1793051456.2251322
- },
- {
-  "cat": "araba",
-  "baslik": "2027 GMC Hummer EV SUV İnceleme ve Teknik Özellikleri",
-  "ozet": "Devasa elektrikli SUV 2027 GMC Hummer EV'nin teknik detayları, fiyatlandırma beklentileri ve genel özellikleri.",
-  "puan": 5.0,
-  "grup": "gmc-hummer-ev-suv-specs",
-  "link": "https://www.caranddriver.com/gmc/hummer-ev-suv",
-  "source": "Car and Driver",
-  "ts": 1793051456.2251322
- },
- {
-  "cat": "f1",
-  "baslik": "Antonelli Amerika GP'yi Kazandı",
-  "ozet": "Mercedes yıldızı Kimi Antonelli, ABD Grand Prix'sini kazanarak sezondaki dokuzuncu zaferini elde etti ve şampiyonluk için sadece iki puana ihtiyacı kaldı.",
-  "puan": 9.0,
-  "grup": "us-gp-2026-antonelli-win",
-  "link": "https://www.formula1.com/en/latest/article/5-key-betting-lessons-learnt-after-kimi-antonelli-wins-the-united-states-grand-prix.4KrTb1yIoxsJJP5cD25hwN",
-  "source": "Formula1.com",
-  "ts": 1793051456.2251322
- },
- {
-  "cat": "f1",
-  "baslik": "Vasseur: \"Ferrari'nin Çifte Podyumunu İki Maliyetli An Engelledi\"",
-  "ozet": "Ferrari takım patronu Fred Vasseur, ABD Grand Prix'sinde Charles Leclerc harika bir ikincilik elde etmesine rağmen, yaşanan iki kritik anın takıma çifte podyuma mal olduğunu belirtti.",
-  "puan": 6.5,
-  "grup": "us-gp-2026-leclerc-p2",
-  "link": "https://www.motorsport.com/f1/news/fred-vasseur-blames-a-q3-disaster-and-a-broken-cadillac-for-robbing-ferrari-of-a-us-gp-win/10868569/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793051456.2251322
- },
- {
-  "cat": "f1",
-  "baslik": "Red Bull, Verstappen'in ABD GP'sindeki Zorluklarının Nedenini Açıkladı",
-  "ozet": "Red Bull CEO'su ve takım patronu Laurent Mekies, Max Verstappen'in ABD Grand Prix'sindeki podyum sonrasında yaptığı sert telsiz eleştirilerinin arkasındaki araç hasarını ve problemleri açıkladı.",
-  "puan": 7.0,
-  "grup": "us-gp-2026-red-bull-struggles",
-  "link": "https://www.motorsport.com/f1/news/mekies-explains-the-invisible-debris-that-cost-max-verstappen-2nd-place-in-austin/10868579/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793051456.2251322
- },
- {
-  "cat": "f1",
-  "baslik": "Coulthard'dan 2026 Regülasyon Bahçelerine Senna ve Schumacher Örneğiyle Tepki",
-  "ozet": "Eski F1 pilotu David Coulthard, efsane isimlerin her araca uyum sağladığını belirterek pilotların kötü performansları için 2026 regülasyonlarını suçlamasını reddetti.",
-  "puan": 5.0,
-  "grup": "f1-history-on-this-day",
-  "link": "https://www.motorsport.com/f1/news/david-coulthard-rejects-f1-regulation-excuses-with-ayrton-senna-and-michael-schumacher-comparison/10868708/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793051456.2251322
- },
- {
-  "cat": "araba",
   "baslik": "Yeni Mercedes C-Serisi İncelemesi",
   "ozet": "Beşinci nesil benzinli Mercedes C-Serisi, yeni elektrikli kardeşiyle aynı showroom'u paylaşırken makyaj operasyonundan geçti ve sürüş dinamikleri geliştirildi.",
   "puan": 6.5,
@@ -2588,5 +2438,85 @@
   "link": "https://www.the-race.com/formula-1/f1-driver-contracts-when-do-they-expire/",
   "source": "The Race",
   "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "Los Angeles Hız Kameralarını Aktif Hale Getirdi",
+  "ozet": "Los Angeles, hız sınırını aşan sürücülere 500 dolara varan cezalar göndermeye hazırlanıyor. İlk aşamada uyarı gönderen kameralar, kısa süre içinde para cezası kesmeye başlayacak.",
+  "puan": 5.5,
+  "grup": "los-angeles-speed-cameras-fines",
+  "link": "https://www.thedrive.com/news/la-just-powered-up-speed-cameras-tickets-of-up-to-500-start-getting-mailed-in-less-than-60-days",
+  "source": "The Drive",
+  "ts": 1793230759.2506003
+ },
+ {
+  "cat": "araba",
+  "baslik": "Toyota, 228 Bin Sienna'yı Koltuk Arkalığı Riskiyle Geri Çağırıyor",
+  "ozet": "Toyota, bir kaza anında kilit açılabilmesi riskine karşı 2022-2026 model yılı arasındaki 228.000 Sienna modelini geri çağırıyor.",
+  "puan": 8.0,
+  "grup": "toyota-sienna-seatback-recall",
+  "link": "https://www.motor1.com/news/813563/toyota-sienna-hybrid-recall-targets/",
+  "source": "Motor1",
+  "ts": 1793230759.2506003
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 BMW X3 M50, 44 Beygir Güç Artışıyla Geliyor",
+  "ozet": "2027 model yılı için ufak güncellemeler alan BMW X3 M50, sadece 1.000 dolarlık fiyat farkıyla 44 beygir daha fazla güç sunuyor.",
+  "puan": 6.5,
+  "grup": "bmw-x3-m50-power-update",
+  "link": "https://www.autoblog.com/news/2027-bmw-x3-m50-gets-44-more-hp-for-just-1000-more",
+  "source": "Autoblog",
+  "ts": 1793230759.2506003
+ },
+ {
+  "cat": "araba",
+  "baslik": "Aynalara Asılan Peluş Zar Simgesinin Kökeni",
+  "ozet": "Arabaların aynalarına asılan peluş zarların tarihi II. Dünya Savaşı'na, savaş zamanı şansına ve hot-rod kültürü kökenlerine dayanıyor.",
+  "puan": 2.5,
+  "grup": "fuzzy-dice-car-history-origins",
+  "link": "https://www.motor1.com/features/813370/why-people-hang-fuzzy-dice-from-rearview-mirrors/",
+  "source": "Motor1",
+  "ts": 1793230759.2506003
+ },
+ {
+  "cat": "araba",
+  "baslik": "İtalyan Firmadan Nihai Ferrari 308 Tribute Modeli",
+  "ozet": "Gruppo Four, asfalt ve çakıl yarışı deneyimini kullanarak sade ve etkili tarifle Ferrari 308 Tribute modelini inşa ediyor.",
+  "puan": 7.0,
+  "grup": "gruppo-four-ferrari-308-tribute",
+  "link": "https://www.caranddriver.com/news/a74276071/michelotto-gruppo-four-tributo-ferrari-308-tribute/",
+  "source": "Car and Driver",
+  "ts": 1793230759.2506003
+ },
+ {
+  "cat": "araba",
+  "baslik": "Audi A8 İçin Konsept C Tasarımı",
+  "ozet": "Tasarımcı Luca Serafini, Audi Concept C'nin minimalist çizgilerini A8'in klasik oranlarıyla birleştirerek etkileyici bir lüks sedan ortaya koydu.",
+  "puan": 6.0,
+  "grup": "audi-a8-concept-c-redesign",
+  "link": "https://www.motor1.com/news/813606/audi-a8-concept-c-rendering/",
+  "source": "Motor1",
+  "ts": 1793230759.2506003
+ },
+ {
+  "cat": "araba",
+  "baslik": "Geleceğin Chevrolet Silverado Modelleri Servis Ziyaretini Azaltacak",
+  "ozet": "GM'in yeni merkezi bilgisayar sistemi, kablosuz güncellemelerin araçların derinliklerine ulaşmasını sağlayarak servis ihtiyacını ortadan kaldıracak.",
+  "puan": 6.5,
+  "grup": "gm-central-computer-ota-updates",
+  "link": "https://www.autoblog.com/news/future-chevy-silverados-may-need-fewer-trips-to-the-dealer",
+  "source": "Autoblog",
+  "ts": 1793230759.2506003
+ },
+ {
+  "cat": "f1",
+  "baslik": "Genç Pilotlar Cuma Antrenmanında Piste Çıkıyor",
+  "ozet": "Tsolov, Mini ve Slater'ın da aralarında bulunduğu sekiz pilot, takımların antrenman seansı kotalarını erken doldurmasıyla cuma günü piste çıkacak.",
+  "puan": 5.0,
+  "grup": "mexico-gp-2026-fp1-rookie",
+  "link": "https://www.racefans.net/2026/10/28/f1-newcomers-tsolov-mini-and-slater-among-eight-drivers-to-run-in-practice-on-friday/",
+  "source": "RaceFans",
+  "ts": 1793230759.2506003
  }
 ]
