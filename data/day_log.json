@@ -1,366 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Otomobil Üreticilerinin Sıra Dışı Merkezleri",
-  "ozet": "BMW'nin dört silindirli kulesinden Ferrari'nin dikkat çekici tasarımına kadar, otomobil üreticilerinin merkezleri mimariyi alışılmadık yeni zirvelere taşıyor.",
-  "puan": 3.0,
-  "grup": "automaker-headquarters-architecture-ranked",
-  "link": "https://www.motor1.com/features/813044/weird-automaker-headquarters/",
-  "source": "Motor1",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "araba",
-  "baslik": "OTC Yarış Kriko ve Sehpa İncelemesi",
-  "ozet": "OTC'nin alüminyum yarış krikosu ve sehpaları ile geçirilen birkaç ayın ardından, profesyonel sınıf aletleri kullanmanın keyfi anlaşıldı.",
-  "puan": 3.5,
-  "grup": "otc-racing-jack-stand-review",
-  "link": "https://www.thedrive.com/news/otc-racing-jack-and-stand-review-yes-it-is-2-5x-nicer-than-harbor-freight",
-  "source": "The Drive",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "araba",
-  "baslik": "Honda, 500 F1 Yarışının Ardından Zirveye Dönüşü Arıyor",
-  "ozet": "Honda ve Aston'un mevcut performans düşüşü sonsuza sürmeyecek olup, tecrübesiyle Honda F1'in en başarılı motor üreticilerinden biri kalmaya devam edebilir.",
-  "puan": 6.0,
-  "grup": "honda-f1-500-races-performance",
-  "link": "https://www.thedrive.com/news/after-500-f1-races-honda-doesnt-know-when-itll-be-back-on-top-but-its-been-here-before",
-  "source": "The Drive",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "araba",
-  "baslik": "Acura'dan Yeni SUV ve Donanım İpuçları Veren Patentler",
-  "ozet": "Yolda olan iki yeni SUV ve yenilenmiş bir RDX ile Acura modelleri çok dahagebir yapıya kavuşabilir.",
-  "puan": 5.0,
-  "grup": "acura-suv-trims-trademark",
-  "link": "https://www.caranddriver.com/news/a74248397/acura-trademarks-new-suvs-off-road/",
-  "source": "Car and Driver",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "araba",
-  "baslik": "Chevrolet Corvette ZR1'in Özel Olduğu Biliniyor",
-  "ozet": "C8 Corvette ZR1 çağımızın harika otomobillerinden biri ve yoldan geçenlerin de bunu fark edebildiği görülüyor.",
-  "puan": 6.5,
-  "grup": "chevrolet-corvette-zr1-special",
-  "link": "https://www.thedrive.com/news/everybody-knows-the-checorvette-zr1-is-special",
-  "source": "The Drive",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "araba",
-  "baslik": "Tüm Zamanların En İyi 15 Film Otomobili",
-  "ozet": "Toretto'nun Charger'ından Doc Brown'ın DeLorean'ına kadar gümüş perdeyi süsleyen en büyük otomobiller sıralandı.",
-  "puan": 2.0,
-  "grup": "best-movie-cars-of-all-time",
-  "link": "https://www.motor1.com/news/812828/best-movie-cars-all-time-ranked/",
-  "source": "Motor1",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Lamborghini Revuelto SV Test Sürüşü",
-  "ozet": "Yarış esintili donanım, akıllı elektronikler ve kullanılabilir güç artışı Revuelto'nun pistteki yeteneklerini artırıyor.",
-  "puan": 7.5,
-  "grup": "lamborghini-revuelto-sv-debut",
-  "link": "https://www.caranddriver.com/reviews/a74229398/2027-lamborghini-revuelto-sv-drive/",
-  "source": "Car and Driver",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Lamborghini Revuelto SV İç Mekan Fotoğrafları",
-  "ozet": "Yeni 2027 Lamborghini Revuelto V-12 modelinin iç mekanını her açından inceleyin.",
-  "puan": 6.5,
-  "grup": "lamborghini-revuelto-sv-debut",
-  "link": "https://www.caranddriver.com/photos/a74218841/2027-lamborghini-revuelto-sv-drive-interior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Lamborghini Revuelto SV Dış Mekan Fotoğrafları",
-  "ozet": "Yeni 2027 Lamborghini Revuelto SV modelinin dış tasarımını her açından inceleyin.",
-  "puan": 6.5,
-  "grup": "lamborghini-revuelto-sv-debut",
-  "link": "https://www.caranddriver.com/photos/a74218711/2027-lamborghini-revuelto-sv-drive-exterior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "araba",
-  "baslik": "Audi'den ABD'deki İlk Fabrikasına 4 Milyar Dolarlık Yatırım",
-  "ozet": "Georgia'da kurulacak fabrika, aralarında Q7, Q8 ve Q9'un da olabileceği ABD pazarına yönelik SUV modelleri üretecek.",
-  "puan": 8.5,
-  "grup": "audi-us-factory-investment-suv",
-  "link": "https://www.caranddriver.com/news/a74248877/audi-us-factory-georgia-announced/",
-  "source": "Car and Driver",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "araba",
-  "baslik": "2027 GMC Hummer EV SUV İnceleme ve Özellikleri",
-  "ozet": "2027 model GMC Hummer EV SUV için fiyatlandırma, teknik özellikler ve inceleme detayları açıklandı.",
-  "puan": 5.0,
-  "grup": "gmc-hummer-ev-suv-specs",
-  "link": "https://www.caranddriver.com/gmc/hummer-ev-suv-2027",
-  "source": "Car and Driver",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Mazda CX-5 Fiyatı Sabit Kalırken Teknolojisi Artıyor",
-  "ozet": "2027 model Mazda CX-5, geçen yılla aynı şekilde 31.585 dolardan başlayan fiyatlarla satışa sunuluyor.",
-  "puan": 5.0,
-  "grup": "mazda-cx-5-pricing-tech",
-  "link": "https://www.motor1.com/news/813276/2027-mazda-cx-5-price-trims-specs/",
-  "source": "Motor1",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "araba",
-  "baslik": "Audi Yeni ABD Fabrikası İçin Trump İle Aynı Hizada",
-  "ozet": "Volkswagen Grubu'nun oldukça ilginç bir hafta geçirdiği açıkça görülüyor.",
-  "puan": 8.0,
-  "grup": "audi-us-factory-investment-suv",
-  "link": "https://www.jalopnik.com/2296809/audi-us-factory-trump-announcement/",
-  "source": "Jalopnik",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "araba",
-  "baslik": "En Kötü Benzin İstasyonu Deneyimleri",
-  "ozet": "Silahlı çatışmalardan bozulmuş ürünlere kadar okuyucuların paylaştığı en şaşırtıcı benzin istasyonu anıları derlendi.",
-  "puan": 1.5,
-  "grup": "worst-gas-station-experiences",
-  "link": "https://www.jalopnik.com/2296017/your-worst-gas-station-experiences-reader-answers/",
-  "source": "Jalopnik",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "araba",
-  "baslik": "2027 BMW iX3 İnceleme, Fiyat ve Özellikleri",
-  "ozet": "Gelecek dönemde piyasaya çıkacak 2027 BMW iX3 modelinin teknik detayları ve fiyatlandırma beklentileri paylaşıldı.",
-  "puan": 6.0,
-  "grup": "bmw-ix3-review-pricing",
-  "link": "https://www.caranddriver.com/bmw/ix3",
-  "source": "Car and Driver",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "araba",
-  "baslik": "Audi CEO'sundan Trump Mitingindeki 4 Milyar Dolarlık Fabrika Açıklaması",
-  "ozet": "Audi CEO'su, yapılan eleştirilere karşı 'Amerikan başkanı sizi davet ederse daveti kabul edersiniz' yanıtını verdi.",
-  "puan": 8.0,
-  "grup": "audi-us-factory-investment-suv",
-  "link": "https://www.thedrive.com/news/audi-announced-a-4-billion-georgia-mega-site-for-suvs-at-a-trump-rally-tds",
-  "source": "The Drive",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "araba",
-  "baslik": "Aracınızın Önceki Sahibinin Yaptığı Aptalca Hatalar",
-  "ozet": "Sürücülerin otomobillerinin eski sahipleri tarafından yapılmış ve hala öfkelendiren garip modifikasyon ve seçimleri ele alınıyor.",
-  "puan": 1.5,
-  "grup": "previous-owner-car-mistakes",
-  "link": "https://www.jalopnik.com/2295880/what-dumb-decision-did-your-cars-previous-owner-make-reader-question/",
-  "source": "Jalopnik",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "araba",
-  "baslik": "Mitsubishi Outlander, SEMA İçin Arazi Aracı Oldu",
-  "ozet": "Yenilenmiş tamponlar ve arazi lastikleriyle donatılan 2028 Outlander Diamond Trail Edition, zorlu zeminler için tasarlandı.",
-  "puan": 5.5,
-  "grup": "mitsubishi-outlander-sema-offroad",
-  "link": "https://www.motor1.com/news/813242/2028-mitsubishi-outlander-diamond-trail/",
-  "source": "Motor1",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "araba",
-  "baslik": "1978 Oldsmobile Cutlass Salon Brougham Fırsat mı?",
-  "ozet": "1970'lerden nadir bir manuel şanzımanlı Oldsmobile Aeroback modelinin bu fiyatla alınıp alınmayacağı masaya yatırıldı.",
-  "puan": 3.0,
-  "grup": "oldsmobile-cutlass-salon-sale",
-  "link": "https://www.jalopnik.com/2295445/1978-oldsmobile-cutlass-salon-brougham-for-sale-6500/",
-  "source": "Jalopnik",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "araba",
-  "baslik": "Neredeyse 94.000 Range Rover Geri Çağrıldı",
-  "ozet": "Jaguar Land Rover, arka görüş kamerası arızaları nedeniyle 2022-2026 model yılı Range Rover araçları servise çağırıyor.",
-  "puan": 8.5,
-  "grup": "range-rover-camera-recall",
-  "link": "https://www.motor1.com/news/813238/nearly-94-000-range-rovers/",
-  "source": "Motor1",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "araba",
-  "baslik": "Audi CEO'sunun Trump Mitingi Katılımı Kriz Yarattı",
-  "ozet": "VW işçi konseyi başkanı, Audi CEO'sunun ve grup yönetiminin Trump'ın siyasi şovunda birer \"kukla\" haline geldiğini belirterek durumdan utanç duyduğunu ifade etti.",
-  "puan": 6.5,
-  "grup": "audi-ceo-trump-rally-vw-union",
-  "link": "https://www.motor1.com/news/813229/audi-boss-criticized-appearing-with-trump/",
-  "source": "Motor1",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "f1",
-  "baslik": "Toto Wolff: Russell dar çalışma penceresinde zorlanıyor",
-  "ozet": "Toto Wolff, George Russell'ın bu sezon Mercedes W17'nin zorlu çalışma penceresine uyum sağlamakta zorlandığını ve Amerika Grand Prix'sini sekizinci bitirdiğini belirtti.",
-  "puan": 5.0,
-  "grup": "us-gp-2026-russell-struggles",
-  "link": "https://www.formula1.com/en/latest/article/we-just-have-to-work-it-out-with-him-wolff-admits-russell-struggling-to-find-operating-window-for-mercedes-w17.6pbdYv34V9nrlo6P0EoJQQ",
-  "source": "Formula1.com",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "f1",
-  "baslik": "Austin GP'nin Kazananları ve Kaybedenleri",
-  "ozet": "Kimi Antonelli Austin'deki üstün zaferiyle ilk dünya şampiyonluğuna çok yaklaşırken, bazı isimler ise hafta sonunu hayal kırıklığıyla kapattı.",
-  "puan": 8.0,
-  "grup": "us-gp-2026-winners-losers",
-  "link": "https://www.formula1.com/en/latest/article/5-winners-and-5-losers-from-austin.17w6sgHeulLQ51qh9e1b6I",
-  "source": "Formula1.com",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "f1",
-  "baslik": "Andrea Stella: McLaren podyumu kaçırdı ama hızı yakaladı",
-  "ozet": "Andrea Stella, Lando Norris'in beşinci olmasına rağmen McLaren'ın ABD Grand Prix'sinde Ferrari ve Red Bull'un temposuna ayak uydurduğuna inanıyor.",
-  "puan": 4.5,
-  "grup": "us-gp-2026-mclaren-pace",
-  "link": "https://www.formula1.com/en/latest/article/competitive-as-the-ferraris-and-red-bull-stella-reflects-on-mclarens-us-gp-after-missing-out-on-podium.6zqu0n947Kd3dm25J79GWa",
-  "source": "Formula1.com",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "f1",
-  "baslik": "Mekies: Antonelli ve Mercedes bizden çok daha hızlıydı",
-  "ozet": "Red Bull'dan Laurent Mekies, Max Verstappen'in üçüncü olduğu ABD Grand Prix'sinde Kimi Antonelli ve Mercedes'in kendilerinden daha hızlı olduğunu kabul etti.",
-  "puan": 5.0,
-  "grup": "us-gp-2026-red-bull-struggles",
-  "link": "https://www.formula1.com/en/latest/article/dont-think-we-can-use-any-excuse-red-bulls-mekies-admits-antonelli-and-mercedes-faster-than-us-in-us-gp.2q77epiHSatdl0aexWkf3M",
-  "source": "Formula1.com",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "f1",
-  "baslik": "Russell'ın 'berbat' temposunun arkasındaki Mercedes kontrastı",
-  "ozet": "George Russell, takım arkadaşı Kimi Antonelli ile taban tabana zıt şekilde ABD Grand Prix'sindeki zayıf temposuna anlam veremedi.",
-  "puan": 5.0,
-  "grup": "us-gp-2026-russell-struggles",
-  "link": "https://www.the-race.com/formula-1/the-brutal-mercedes-contrasts-behind-russells-rubbish-pace/",
-  "source": "The Race",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "f1",
-  "baslik": "Stella, Piastri'ye verilen takım emrinin sebebini açıkladı",
-  "ozet": "McLaren takım patronu Andrea Stella, ABD Grand Prix'sinde Oscar Piastri'den Lando Norris'e yol vermesini istemelerinin arkasındaki adaptasyon nedenlerini açıkladı.",
-  "puan": 6.5,
-  "grup": "us-gp-2026-mclaren-pace",
-  "link": "https://www.autosport.com/f1/news/why-being-very-adaptive-gave-norris-edge-over-piastri-at-us-gp/10868691/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "f1",
-  "baslik": "Antonelli'nin başarısı sonrası Russell'ın Mercedes'teki geleceği masada",
-  "ozet": "Kimi Antonelli'nin yükselişi ve şampiyonluk yolundaki başarısı, George Russell'ın Mercedes'teki uzun vadeli geleceği hakkında soru işaretleri yarattı.",
-  "puan": 6.0,
-  "grup": "us-gp-2026-russell-struggles",
-  "link": "https://www.motorsport.com/f1/news/george-russells-mercedes-f1-future-discussed-amid-kimi-antonellis-success/10868689/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "f1",
-  "baslik": "McLaren'dan Piastri'ye gelen takım emrinin detayları",
-  "ozet": "Andrea Stella, Oscar Piastri'nin ilk turlarda zaman kaybetmesi nedeniyle Lando Norris'in arkasına geçirilmesine karar verdiklerini anlattı.",
-  "puan": 6.0,
-  "grup": "us-gp-2026-mclaren-pace",
-  "link": "https://www.motorsport.com/f1/news/why-mclaren-oscar-piastri-team-order-us-gp/10868686/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "f1",
-  "baslik": "Edd Straw'dan US GP pilot güç sıralaması",
-  "ozet": "Yeni formatıyla dikkat çeken Edd Straw'un Austin F1 pilot sıralamasında, hafta sonunun performansları değerlendirildi.",
-  "puan": 3.0,
-  "grup": "us-gp-2026-driver-of-the-weekend",
-  "link": "https://www.the-race.com/formula-1/f1-2026-united-states-grand-prix-driver-rankings-edd-straw/",
-  "source": "The Race",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "f1",
-  "baslik": "2026 ABD Grand Prix'sinden çıkarılan dersler",
-  "ozet": "Austin'deki yarış, takımların mevcut güçlerini ve zayıf yönlerini gözler önüne sererek şampiyona mücadelesine dair önemli ipuçları verdi.",
-  "puan": 4.0,
-  "grup": "us-gp-2026-mclaren-pace",
-  "link": "https://www.the-race.com/formula-1/f1-2026-united-states-grand-prix-everything-we-learned/",
-  "source": "The Race",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "f1",
-  "baslik": "Antonelli'ye göre Austin zaferi Monza'dakinden bile daha iyiydi",
-  "ozet": "Kimi Antonelli, Monza'da 19unculuktan gelerek kazandığı yarışın bile, Austin'deki pole pozisyonundan aldığı dominant galibiyetten daha iyi olmadığını ifade etti.",
-  "puan": 4.0,
-  "grup": "us-gp-2026-antonelli-win",
-  "link": "https://www.motorsport.com/f1/news/why-monza-win-from-19th-still-isnt-the-best-of-kimi-antonellis-dominant-f1-2026-season/10868448/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "f1",
-  "baslik": "Mercedes'ten Antonelli'nin park kazasına eğlenceli gönderme",
-  "ozet": "Mercedes, sosyal medyada paylaştığı videoda Kimi Antonelli'nin bir elektrikli aracı geri park ederken tahta çite çarptığı anlarla dalga geçti.",
-  "puan": 2.0,
-  "grup": "us-gp-2026-antonelli-win",
-  "link": "https://www.motorsport.com/f1/news/mercedes-pokes-fun-at-kimi-antonelli-after-awkward-austin-mishap/10868627/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "f1",
-  "baslik": "Antonelli bir yarışın iptali durumunda doğrudan şampiyon olacak",
-  "ozet": "Andrea Kimi Antonelli şampiyonluğa çok yaklaşmış durumdayken, olası yarış iptalleri bu sonucu erkenden resmi hale getirebilir.",
-  "puan": 8.5,
-  "grup": "us-gp-2026-antonelli-title-scenarios",
-  "link": "https://www.racefans.net/2026/10/26/antonelli-will-automatically-become-champion-if-f1-cancels-another-race/",
-  "source": "RaceFans",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "f1",
-  "baslik": "Austin, F1'in Kuzey Amerika'daki büyümesinin simgesi oldu",
-  "ozet": "ABD Grand Prix'si, Formula 1'in Kuzey Amerika pazarındaki sarsılmaz yükselişinin en büyük örneklerinden biri olarak öne çıkıyor.",
-  "puan": 3.5,
-  "grup": "us-gp-2026-interactive-data",
-  "link": "https://www.the-race.com/formula-1/us-gp-struggled-before-now-austin-week-is-the-image-of-f1s-growth/",
-  "source": "The Race",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "f1",
-  "baslik": "Colapinto'dan Jeremy Clarkson'ın tartışmalı sözlerine yanıt",
-  "ozet": "Franco Colapinto, Jeremy Clarkson'ın Arjantinli olduğu için kendisine grid cezası vermesi gerektiği yönündeki şakasına esprili bir dille karşılık verdi.",
-  "puan": 3.0,
-  "grup": "us-gp-2026-bearman-gasly-penalty",
-  "link": "https://www.motorsport.com/f1/news/franco-colapinto-responds-to-jeremy-clarksons-controversial-comment-about-him/10868562/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793036204.2935002
- },
- {
-  "cat": "araba",
   "baslik": "Modern Otomobillerde Yazılım Güncellemelerinin Önemi",
   "ozet": "Modern otomobiller akıllı telefonlar gibi yazılım güncellemeleri alıyor ve bu düzeltmeler sadece yeni özellikler eklemekle kalmıyor.",
   "puan": 4.5,
@@ -2448,5 +2088,505 @@
   "link": "https://www.motorsport.com/f1/news/fia-partners-with-aws-to-help-drive-future-f1-regulations/10868911/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1793197512.7051027
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ford'dan Hatalı Göstergeler Nedeniyle F-150 ve Super Duty Geri Çağırması",
+  "ozet": "Ford, hatalı analog göstergelerin yanlış hız okumaları sunabilmesi riski nedeniyle 102.159 adet F-150 ve Super Duty kamyoneti geri çağırıyor.",
+  "puan": 7.5,
+  "grup": "ford-truck-gauge-recall",
+  "link": "https://www.caranddriver.com/news/a74275121/2025-2026-ford-f150-super-duty-analog-gauge-recall/",
+  "source": "Car and Driver",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 BMW X3 M50 Gücünü Artırdı",
+  "ozet": "BMW, 2027 model X3 M50'ye ekstra 44 beygir gücü ekleyerek ana rakibine göz kırpmasını sağladı ve başka güncellemeler de yaptı.",
+  "puan": 6.5,
+  "grup": "bmw-x3-m50-power-update",
+  "link": "https://www.jalopnik.com/2300256/bmw-x3-m50-increases-horsepower-by-44-in-2027/",
+  "source": "Jalopnik",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Tesla Roadster'ın Retro-Fügürist Arayüzü",
+  "ozet": "Tesla, Roadster modelinin kırmızı grafikleri, siyah arka planı ve performans verileriyle dikkat çeken 80'ler esintili retro ekranını sergiledi.",
+  "puan": 7.0,
+  "grup": "tesla-roadster-retro-interface",
+  "link": "https://www.motor1.com/news/813597/tesla-roadster-reto-user-interface/",
+  "source": "Motor1",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "Elektrikli Crossover Pazarında Satış Yarışı",
+  "ozet": "Tesla Model Y elektrikli crossover segmentinde liderliğini korurken, başka bir rakip satışlarını yüzde 103 artırarak ilk 5'e girdi.",
+  "puan": 5.0,
+  "grup": "electric-crossover-sales-comparison",
+  "link": "https://www.autoblog.com/news/tesla-model-y-vs-hyundai-ioniq-5-vs-toyota-bz-sales",
+  "source": "Autoblog",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "Nadir 1969 Shelby GT500 Satışa Çıktı",
+  "ozet": "Sadece 1.100 adet üretilen 1969 Shelby GT500 fastback modellerinden biri, 12.283 mil göstergesinde ve nadir teknik özellikleriyle satışta.",
+  "puan": 6.0,
+  "grup": "1969-shelby-gt500-for-sale",
+  "link": "https://www.jalopnik.com/2298202/1969-shelby-gt500-for-sale-12283-miles-428-cobra-jet-v8/",
+  "source": "Jalopnik",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "Akron Kasabası Nasıl Dünyanın Lastik Başkenti Oldu?",
+  "ozet": "Ohio'daki Akron kasabası, dört büyük lastik devi sayesinde dünyanın kauçuk başkenti haline geldi ve bu imparatorluğun yükseliş ile düşüş hikayesi yaşandı.",
+  "puan": 3.0,
+  "grup": "akron-ohio-tire-capital-history",
+  "link": "https://www.motor1.com/features/813430/why-is-akron-ohio-rubber-capital-of-the-world/",
+  "source": "Motor1",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "Lüks Dünya Turu Gemisi Kamboçya'da Mahsur Kaldı",
+  "ozet": "Yüksek yakıt maliyetleri nedeniyle aylık masrafların katlanması sonucu lüks bir tur gemisi Kamboçya'da mahsur kalırken yolcular mağdur oldu.",
+  "puan": 3.0,
+  "grup": "luxury-cruise-stranded-fuel-costs",
+  "link": "https://www.jalopnik.com/2300053/luxury-around-the-world-cruise-stranded-in-cambodia-over-staggering-fuel-costs/",
+  "source": "Jalopnik",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "Toyota Crown Signia GT-S Konsepti Tanıtıldı",
+  "ozet": "Crown Signia GT-S Performans Konsepti, Toyota'nın sportif olmayan crossover modeline daha dinamik bir hava katıyor.",
+  "puan": 6.0,
+  "grup": "toyota-crown-signia-gts-concept",
+  "link": "https://www.jalopnik.com/2300031/toyota-crown-signia-gt-s-performance-concept-cool-design/",
+  "source": "Jalopnik",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "Bring a Trailer Başkanı'ndan Para Aklama İddialarına Yanıt",
+  "ozet": "Bring a Trailer Başkanı Howard Swig, sitedeki yüksek fiyatlı satışların para aklama iddialarıyla ilgili görüşlerini paylaştı.",
+  "puan": 3.0,
+  "grup": "bring-a-trailer-president-interview",
+  "link": "https://www.thedrive.com/news/bring-a-trailers-president-has-a-message-for-money-launderers",
+  "source": "The Drive",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "ABD'de Petrol ve Gaz Şirketleri İçin Metan Gazı Adımı",
+  "ozet": "Yönetim, sağlık etkilerine rağmen petrol ve gaz şirketlerinin atmosfere daha fazla metan pompalamasına izin vermeye hazırlanıyor.",
+  "puan": 4.0,
+  "grup": "us-methane-emissions-policy",
+  "link": "https://www.jalopnik.com/2299966/prepare-to-inhale-more-methane-under-trump-plan/",
+  "source": "Jalopnik",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "Bring a Trailer Fiyatları Neden Bu Kadar Yüksek?",
+  "ozet": "Bring a Trailer Başkanı Howard Swig, milyon dolarlık Ford GT satışları ve klasik araç fiyatlandırma trendleri hakkında açıklamalarda bulundu.",
+  "puan": 3.0,
+  "grup": "bring-a-trailer-president-interview",
+  "link": "https://www.thedrive.com/news/bring-a-trailer-sold-a-650000-acura-nsx-market-price-or-bat-price",
+  "source": "The Drive",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "Honda Passport Baja Yarışlarına Katılıyor",
+  "ozet": "Honda, 1.300 beygir gücündeki tam Trophy Truck donanımlı aracıyla 2027 Score Baja 500 yarışını hedefliyor.",
+  "puan": 6.0,
+  "grup": "honda-passport-baja-spec-trophy-truck",
+  "link": "https://www.motor1.com/news/813570/honda-passport-baja-spec-trophy/",
+  "source": "Motor1",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "Tesla Semi Kamyonlar Ana Akım İstasyonlarda Şarj Oluyor",
+  "ozet": "Pilot'un Georgia ve Kaliforniya'daki ilk 1.2 megavatlık Megacharger istasyonları hizmete girdi ve bunlar Batı Yakası dışındaki ilk halka açık Semi şarj noktaları oldu.",
+  "puan": 6.0,
+  "grup": "tesla-semi-megacharger-expansion",
+  "link": "https://www.thedrive.com/news/tesla-semis-are-now-charging-at-mainstream-truck-stops",
+  "source": "The Drive",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "2026 Yılının En Çok Satan Lüks Araçları",
+  "ozet": "BMW, Mercedes ve Lexus gibi markaların satış listelerindeki en popüler ilk 10 lüks model verilerle derlendi.",
+  "puan": 4.0,
+  "grup": "bestselling-luxury-vehicles-2026",
+  "link": "https://www.caranddriver.com/news/g71039041/bestselling-luxury-cars-2026/",
+  "source": "Car and Driver",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 BMW iX3 ve Mercedes-Benz GLC400 Karşılaştırması",
+  "ozet": "Benzer amaçlara sahip bu iki yeni elektrikli SUV, sürüş dinamikleri ve kabin teknolojisi konularında farklı yaklaşımlar sergiliyor.",
+  "puan": 6.5,
+  "grup": "bmw-ix3-vs-mercedes-glc400-comparison",
+  "link": "https://www.caranddriver.com/reviews/comparison-test/a74205372/2027-bmw-ix3-vs-mercedes-benz-glc400-comparison-test/",
+  "source": "Car and Driver",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "Washington ve Oregon İçin Kış Hava Uyarısı",
+  "ozet": "Cascades Dağları'nda devam eden kar yağışı nedeniyle geçitlerde zincir kuralına uymayan sürücülere yüksek para cezaları uygulanıyor.",
+  "puan": 2.0,
+  "grup": "washington-winter-weather-i90",
+  "link": "https://www.autoblog.com/news/winter-weather-advisory-through-wednesday-night-up-to-6-inches-of-snow-in-2-states",
+  "source": "Autoblog",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "Bring a Trailer'ın Başarı Hikayesi ve Sektöre Etkisi",
+  "ozet": "Bring a Trailer Başkanı Howard Swig, sitenin Craigslist blogundan milyon dolarlık bir açık artırma devine nasıl dönüştüğünü anlattı.",
+  "puan": 3.0,
+  "grup": "bring-a-trailer-president-interview",
+  "link": "https://www.thedrive.com/podcast/bring-a-trailer-started-as-a-craigslist-blog-it-created-an-industry",
+  "source": "The Drive",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "Honda Accord İçin Kapsamlı Yenilikler Yolda",
+  "ozet": "Accord'un makyaj operasyonu yeni bir tasarım, güncellenmiş hibrit motorlar ve yüksek yapılı bir hatchback varyantını getirebilir.",
+  "puan": 6.0,
+  "grup": "honda-accord-refresh-rumor",
+  "link": "https://www.motor1.com/features/813473/2028-honda-accord-sedan-hatchback-specs-details-price/",
+  "source": "Motor1",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 BMW X3 M50 Güç Artışı ve Yeni Görünüm Paketiyle Geliyor",
+  "ozet": "BMW, X3 M50'nin 3.0 litrelik çift turbo beslemeli sıralı altı silindirli motorundan 44 beygir daha fazla güç alarak toplam gücü 437 beygire çıkardı.",
+  "puan": 6.5,
+  "grup": "bmw-x3-m50-power-update",
+  "link": "https://www.caranddriver.com/news/a74272007/2027-bmw-x3-m50-power-appearance-package/",
+  "source": "Car and Driver",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Lexus TX Hibrit İncelemesi ve Özellikleri",
+  "ozet": "Lexus'un büyük hibrit SUV modeli TX'in teknik özellikleri, fiyatlandırma detayları ve sürüş izlenimleri incelendi.",
+  "puan": 5.0,
+  "grup": "lexus-tx-hybrid-review",
+  "link": "https://www.caranddriver.com/lexus/tx-hybrid-2027",
+  "source": "Car and Driver",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Kia EV9 Daha Fazla Standart Donanımla Geliyor",
+  "ozet": "2027 model Kia EV9, minimal fiyat artışlarıyla birlikte Land donanımında Nightfall paketini ve 516 lb-ft tork sunan geçici güç takviyesini standart olarak sunuyor.",
+  "puan": 5.5,
+  "grup": "kia-ev9-2027-standard-features",
+  "link": "https://www.caranddriver.com/news/a74272785/2027-kia-ev9-pricing-details/",
+  "source": "Car and Driver",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "FIA Başkanından F1 Pilotlarına Gelen Tehdit Açıklaması",
+  "ozet": "FIA Başkanı, F1 pilotlarının gelen kutularında binlerce ölüm tehdidi bulduğunu ve bu durumun hakemlerin istifasına yol açan karanlık bir boyutu olduğunu açıkladı.",
+  "puan": 7.5,
+  "grup": "fia-president-f1-driver-death-threats",
+  "link": "https://www.thedrive.com/news/13000-death-threats-in-an-f1-drivers-inbox-fia-president-gets-real-about-the-dark-side-of-fame",
+  "source": "The Drive",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "Honda Mühendisleri Arazi Sürüş Eğitiminden Geçi̇yor",
+  "ozet": "Honda, Baja yarışları ve şirket içi off-road okulu sayesinde arazi sürüşüne verdiği önemin karşılığını almaya devam ediyor.",
+  "puan": 5.0,
+  "grup": "honda-engineers-off-road-school",
+  "link": "https://www.thedrive.com/news/honda-sends-its-engineers-to-off-road-school-and-its-paying-off",
+  "source": "The Drive",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mini Yuvarlak Ekranlarından Vazgeçmeyecek",
+  "ozet": "Kullanımı zor olsa bile yuvarlak gösterge ve ekranlar, markanın başından beri kimliğinin bir parçası olmaya devam ediyor.",
+  "puan": 4.5,
+  "grup": "mini-round-screens-identity",
+  "link": "https://www.motor1.com/news/813427/mini-big-round-display-heritage/",
+  "source": "Motor1",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "GM, SUV Fabrikasını Hibrit Üretimine Hazırlıyor",
+  "ozet": "Elektrikli araç satışlarındaki düşüş nedeniyle Chevy Traverse modelini üreten Lansing Delta Township fabrikası hibrit araç üretimi için hazırlanıyor.",
+  "puan": 7.0,
+  "grup": "gm-suv-plant-hybrid-production",
+  "link": "https://www.autoblog.com/news/gm-preps-major-suv-plant-for-hybrids-as-ev-sales-slide",
+  "source": "Autoblog",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ucuz Piyasasından Alınan Ekranlarda Casus Yazılım Tehlikesi",
+  "ozet": "Bir kullanıcının ucuz araç içi multimedya ünitesinin yazılımında yaptığı inceleme, sistemin çeşitli casus yazılımlarla yüklü olduğunu ortaya koydu.",
+  "puan": 5.0,
+  "grup": "cheap-aftermarket-car-screens-spyware",
+  "link": "https://www.thedrive.com/news/cheap-aftermarket-head-units-are-loaded-with-spyware-by-the-way",
+  "source": "The Drive",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "GM Sonunda Hibrit Crossover Modelleri Üretecek",
+  "ozet": "General Motors ürün gamına hibrit crossover modellerini dahil etmeye hazırlanıyor.",
+  "puan": 6.5,
+  "grup": "gm-hybrid-crossovers-upcoming",
+  "link": "https://www.jalopnik.com/2299494/gm-finally-making-hybrid-crossovers/",
+  "source": "Jalopnik",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mercedes-Benz GLB 250 Hibrit Amerika'ya Gelebilir",
+  "ozet": "Mercedes-Benz, 228 beygirlik yeni hibrit GLB 250 varyantını Amerika pazarında satışa sunmayı değerlendiriyor.",
+  "puan": 5.5,
+  "grup": "mercedes-benz-glb250-hybrid-us",
+  "link": "https://www.autoblog.com/news/mercedes-benz-glb-250-may-bring-its-228-hp-engine-to-america",
+  "source": "Autoblog",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "Önceki Sahiplerin Otomobillerde Yaptığı Hatalar",
+  "ozet": "Okur otomobillerinde geçmiş sahiplerin yaptığı amatör tamiratlar ve ilginç modifikasyonlar ele alınıyor.",
+  "puan": 2.0,
+  "grup": "previous-owners-bad-car-decisions",
+  "link": "https://www.jalopnik.com/2299329/terrible-decisions-previous-owners-made-with-readers-cars/",
+  "source": "Jalopnik",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "araba",
+  "baslik": "İngiltere'den Akaryakıt Vergisi Dondurması ve EV Yatırımı",
+  "ozet": "Yeni şansölye John Healey tarafından açıklanan bütçede akaryakıt vergisindeki indirim 2027'ye kadar uzatılırken halka açık şarj için 100 milyon sterlin ayrıldı.",
+  "puan": 6.5,
+  "grup": "uk-budget-fuel-duty-freeze-ev-funding",
+  "link": "https://www.autocar.co.uk/car-news/consumer/autumn-budget-fuel-duty-frozen-and-%C2%A3100m-public-ev-charging",
+  "source": "Autocar",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika GP için bahis tahminleri",
+  "ozet": "Uzmanlar, Meksika Grand Prix'si için podyum ve ilk altı tahminlerini içeren beş aşamalı bir bahis kombinasyonu hazırladı.",
+  "puan": 2.0,
+  "grup": "mexico-gp-2026-betting-guide",
+  "link": "https://www.formula1.com/en/latest/article/our-early-bet-builder-selections-for-the-mexico-city-grand-prix.51flZXyQqpCzSgbwj71FiV",
+  "source": "Formula1.com",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika GP lastik hamurları belli oldu",
+  "ozet": "Pirelli, Autodromo Hermanos Rodriguez pistinde düzenlenecek Meksika Grand Prix'si için kullanılacak lastik hamurlarını açıkladı.",
+  "puan": 3.0,
+  "grup": "mexico-gp-2026-tyre-compounds",
+  "link": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2026-mexico-city-grand-prix.3a3o08HqrmdQ9IqXYUwJrH",
+  "source": "Formula1.com",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika GP hava durumu tahmini",
+  "ozet": "Autodromo Hermanos Rodriguez'de gerçekleştirilecek Meksika Grand Prix'si öncesinde hafta sonu hava durumu tahminleri paylaşıldı.",
+  "puan": 3.0,
+  "grup": "mexico-gp-2026-weather-forecast",
+  "link": "https://www.formula1.com/en/latest/article/what-is-the-weather-forecast-for-the-2026-mexico-city-grand-prix.3KktGrfJjMyHWilzlrQGK6",
+  "source": "Formula1.com",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika GP öncesi öne çıkan 5 konu",
+  "ozet": "Chris Medland, 2026 sezonunun 19. yarışı olan Meksika Grand Prix'si öncesinde paddock'taki en önemli gündem maddelerini değerlendirdi.",
+  "puan": 4.0,
+  "grup": "mexico-gp-2026-preview",
+  "link": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-mexico-city-grand-prix.3qhXiCGvBjL6deUeE7qpvT",
+  "source": "Formula1.com",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "f1",
+  "baslik": "Las Vegas GP için VIP seyahat ödülü",
+  "ozet": "Formula 1, taraftarların Las Vegas Grand Prix'sine VIP seyahat kazanabileceği bir yarışma başlattı.",
+  "puan": 1.5,
+  "grup": "las-vegas-gp-fan-competition",
+  "link": "https://www.formula1.com/en/latest/article/think-youre-fan1-win-a-vip-trip-to-las-vegas-6.3X254pEwzMITS11jVkMZAp",
+  "source": "Formula1.com",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika GP'de strateji ve performans",
+  "ozet": "Meksika Grand Prix'sinin yüksek irtifa ve değişken koşullarında pilotların ve stratejistlerin karar verme süreçleri inceleniyor.",
+  "puan": 4.0,
+  "grup": "mexico-gp-2026-strategy-analysis",
+  "link": "https://www.formula1.com/en/latest/article/the-risk-perspective-how-f1-drivers-engineers-and-strategists-tackle-the-mexico-city-grand-prix.B8P8xr5i1sPDgQOmL7hzs",
+  "source": "Formula1.com",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "f1",
+  "baslik": "Bottas'ın Cadillac geleceği belirsiz",
+  "ozet": "Cadillac, Valtteri Bottas'ın sözleşmesindeki 2027 opsiyonunu henüz kullanmadı, bu durum pilotun geleceği hakkında soru işaretleri yaratıyor.",
+  "puan": 6.5,
+  "grup": "bottas-cadillac-seat-2027",
+  "link": "https://www.formula1.com/en/latest/article/analysis-what-does-the-future-hold-for-bottas-at-cadillac.1KzNAtutw1HxVernUWD5TG",
+  "source": "Formula1.com",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "f1",
+  "baslik": "Cadillac'ın Perez kararı analiz edildi",
+  "ozet": "Lawrence Barretto, Cadillac'ın Sergio Perez ile sözleşme uzatma kararının arkasındaki stratejik nedenleri değerlendiriyor.",
+  "puan": 7.0,
+  "grup": "perez-cadillac-contract-2029",
+  "link": "https://www.formula1.com/en/latest/article/analysis-why-cadillac-moved-quickly-to-secure-perezs-f1-future.4SIs2e4heBk8BrUrsodtaX",
+  "source": "Formula1.com",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "f1",
+  "baslik": "Perez, Cadillac ile 2029'a kadar uzattı",
+  "ozet": "Sergio Perez, Cadillac Formula 1 takımıyla olan sözleşmesini en az 2029 sezonunun sonuna kadar uzattığını açıkladı.",
+  "puan": 8.5,
+  "grup": "perez-cadillac-contract-2029",
+  "link": "https://www.formula1.com/en/latest/article/perez-signs-contract-extension-to-remain-at-cadillac-until-at-least-2029.4oF3HFX8tK9qTWvU7wAXHM",
+  "source": "Formula1.com",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "f1",
+  "baslik": "F1'den ilk Sosyal Etki Raporu",
+  "ozet": "Formula 1, ilk kapsamlı sosyal etki raporunu yayınladı ve mühendislik burs programına 2.4 milyon sterlinlik ek yatırım yaptı.",
+  "puan": 3.5,
+  "grup": "f1-social-impact-report",
+  "link": "https://www.formula1.com/en/latest/article/formula-1-publishes-first-sport-wide-social-impact-report-and-renews-gbp2-4-million-engineering-scholarship-programme.2SBEfFCzB54FXnwTb6COdW",
+  "source": "Formula1.com",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "f1",
+  "baslik": "Christian Horner'dan Red Bull ayrılığı açıklaması",
+  "ozet": "Christian Horner, 2025 yılında Red Bull'dan ayrılışına yol açan süreç ve perde arkasındaki olaylar hakkında duygusal bir röportaj verdi.",
+  "puan": 7.5,
+  "grup": "christian-horner-red-bull-exit",
+  "link": "https://www.motorsport.com/f1/news/christian-horner-drops-a-124-win-reality-check-on-the-execs-who-fired-him/10869043/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika GP'de dikkat edilmesi gerekenler",
+  "ozet": "Austin'deki zaferinin ardından Kimi Antonelli'nin formda olduğu Meksika Grand Prix'si öncesi izlenmesi gereken beş ana başlık.",
+  "puan": 4.5,
+  "grup": "mexico-gp-2026-preview",
+  "link": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-mexico-gp/10868922/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen Meksika'da 1. antrenmanda yok",
+  "ozet": "Red Bull, çaylak pilot kotasını doldurmak amacıyla Max Verstappen'i Meksika GP'nin ilk antrenman seansında dinlendirecek.",
+  "puan": 5.0,
+  "grup": "mexico-gp-2026-fp1-rookie",
+  "link": "https://www.motorsport.com/f1/news/max-verstappen-sits-out-for-red-bull-in-mexico-gp-fp1/10869125/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "f1",
+  "baslik": "F1 sosyal etki raporu ve burs yenilemesi",
+  "ozet": "Formula 1, sosyal etki raporunu yayınlarken mühendislik burs programını üç yıl daha uzatma kararı aldı.",
+  "puan": 3.5,
+  "grup": "f1-social-impact-report",
+  "link": "https://www.autosport.com/f1/news/f1-publishes-first-social-impact-report-key-student-scholarship-renewed/10869116/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "f1",
+  "baslik": "Perez'in yeni Cadillac sözleşmesi",
+  "ozet": "Sergio Perez, kendi evindeki 300. yarışına çıkmadan hemen önce Cadillac ile 2029'a kadar sürecek yeni bir sözleşme imzaladı.",
+  "puan": 8.5,
+  "grup": "perez-cadillac-contract-2029",
+  "link": "https://www.racefans.net/2026/10/28/new-contract-to-keep-perez-racing-for-cadillac-until-at-least-2029/",
+  "source": "RaceFans",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "f1",
+  "baslik": "F1 burs programına 2.4 milyon sterlin",
+  "ozet": "Formula 1, sosyal etki raporuyla birlikte mühendislik burslarına 2.4 milyon sterlinlik yeni bir finansman sağladığını duyurdu.",
+  "puan": 3.5,
+  "grup": "f1-social-impact-report",
+  "link": "https://www.the-race.com/business/f1-renews-engineering-scholarships-first-social-impact-report-published/",
+  "source": "The Race",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "f1",
+  "baslik": "F1'in sosyal etki raporu yayınlandı",
+  "ozet": "Formula 1, dünya genelinde yarım milyondan fazla gence ulaşan programlarını içeren ilk sosyal etki raporunu paylaştı.",
+  "puan": 3.5,
+  "grup": "f1-social-impact-report",
+  "link": "https://www.motorsport.com/f1/news/f1-publishes-first-social-impact-report-key-student-scholarship-renewed/10869086/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "f1",
+  "baslik": "Perez, Cadillac ile 2029'a kadar devam edecek",
+  "ozet": "Red Bull'dan ayrıldıktan sonra Cadillac'a katılan Sergio Perez, takımla olan sözleşmesini 2029'a kadar uzatarak geleceğini garanti altına aldı.",
+  "puan": 8.5,
+  "grup": "perez-cadillac-contract-2029",
+  "link": "https://www.motorsport.com/f1/news/sergio-perez-signs-fresh-cadillac-f1-deal-until-2029/10869093/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "f1",
+  "baslik": "Cadillac'tan Perez'e uzun vadeli sözleşme",
+  "ozet": "Cadillac, Sergio Perez ile sözleşme yenileyerek Meksikalı pilotu on yılın sonuna kadar takımda tutacağını duyurdu.",
+  "puan": 8.5,
+  "grup": "perez-cadillac-contract-2029",
+  "link": "https://www.the-race.com/formula-1/cadillac-gives-perez-new-f1-deal-through-2029/",
+  "source": "The Race",
+  "ts": 1793216942.6301944
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 F1 pilotlarının sözleşme durumları",
+  "ozet": "2026 Formula 1 gridinde yer alan tüm pilotların mevcut sözleşmelerinin bitiş tarihlerini içeren güncel liste.",
+  "puan": 4.0,
+  "grup": "f1-2026-driver-contracts",
+  "link": "https://www.the-race.com/formula-1/f1-driver-contracts-when-do-they-expire/",
+  "source": "The Race",
+  "ts": 1793216942.6301944
  }
 ]
