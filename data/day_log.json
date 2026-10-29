@@ -1,26 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "NHTSA'dan Otonom Araçlar İçin Cyan Işık Önerisi",
-  "ozet": "NHTSA, Tesla'ya özel kolaylıklar sağlayabilecek yeni otonom araç aydınlatma düzenlemeleri önerdi.",
-  "puan": 6.0,
-  "grup": "robotaxi-cyan-lights-autonomous-signal",
-  "link": "https://www.jalopnik.com/2297629/nhtsa-proposes-cyan-lights-autonomous-vehicles-tesla-specific-changes/",
-  "source": "Jalopnik",
-  "ts": 1793081461.6574886
- },
- {
-  "cat": "araba",
-  "baslik": "Otomobillerden Önce Uçaklarda Kullanılan ABS Tarihi",
-  "ozet": "Uçaklar 1940'larda ABS fren sistemlerine kavuşurken, seri üretim otomobillerde bu teknoloji 1960'larda kullanılmaya başlandı.",
-  "puan": 3.0,
-  "grup": "airplane-abs-history-before-cars",
-  "link": "https://www.jalopnik.com/2293691/anti-lock-brakes-abs-airplanes-1940s-production-cars-1960s-jensen-ff/",
-  "source": "Jalopnik",
-  "ts": 1793081461.6574886
- },
- {
-  "cat": "araba",
   "baslik": "Toyota'dan SEMA İçin Paletli Konseptler",
   "ozet": "Toyota, 2026 SEMA Fuarı için Tundra, Tacoma, 4Runner, Land Cruiser ve Sequoia modellerini kış şartlarına uygun paletli versiyonlara dönüştürdü.",
   "puan": 4.5,
@@ -2498,5 +2478,155 @@
   "link": "https://www.motorsport.com/f1/news/christian-horner-finally-speaks-on-the-leaked-whatsapp-file-and-coercion-allegations/10869049/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1793242551.504448
+ },
+ {
+  "cat": "araba",
+  "baslik": "Volkswagen'e Göre Elektrikli Araçlar Benzinlilerden Daha Az Karlı",
+  "ozet": "Volkswagen Grubu, artan elektrikli araç satışlarının şirketin karlılığı üzerinde baskı yarattığını ve içten yanmalı motorlu araçlara göre hala daha az karlı olduklarını açıkladı.",
+  "puan": 7.0,
+  "grup": "volkswagen-ev-profitability-pressures",
+  "link": "https://www.motor1.com/news/813667/vw-group-electric-cars-less-profitable/",
+  "source": "Motor1",
+  "ts": 1793267286.1501818
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yoğun Kar Yağışı İçin Kış Fırtınası Uyarısı Yapıldı",
+  "ozet": "Cuma gününe kadar 15 inçe varan kar yağışı beklenen bölgede hafif karın ardından en yoğun dalganın gece saatlerinde geleceği ve görüş mesafesinin düşeceği bildirildi.",
+  "puan": 2.0,
+  "grup": "washington-winter-weather-i90",
+  "link": "https://www.autoblog.com/news/winter-storm-warning-issued-for-up-to-15-inches-of-snow-through-friday",
+  "source": "Autoblog",
+  "ts": 1793267286.1501818
+ },
+ {
+  "cat": "araba",
+  "baslik": "Audi, Scout Tabanlı Yeni Bir Arazi SUV Modeli Araştırıyor",
+  "ozet": "Amerikalı bir yetkili, Güney Carolina'da yılda 25.000 adetlik üretimin Audi ile bağlantılı olabileceğini ve markanın Scout tabanlı şasi üzerine kurulu bir arazi aracı planladığını belirtti.",
+  "puan": 7.5,
+  "grup": "audi-scout-based-offroad-suv",
+  "link": "https://www.motor1.com/news/813660/audi-scout-based-south-carolina/",
+  "source": "Motor1",
+  "ts": 1793267286.1501818
+ },
+ {
+  "cat": "araba",
+  "baslik": "Toyota'dan Yeni Nesil Hibrit Sistem ve Motor Mimarisi",
+  "ozet": "Tamamen yeni bir benzinli motor etrafında geliştirilen daha küçük ve hafif hibrit sistem, yüzde 15'ten fazla yakıt tasarrufu hedefliyor.",
+  "puan": 7.5,
+  "grup": "toyota-next-gen-hybrid-platform",
+  "link": "https://www.motor1.com/news/813639/toyota-new-platform-gas-engine/",
+  "source": "Motor1",
+  "ts": 1793267286.1501818
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mitsubishi Outlander PHEV ile İngiltere Pazarına Geri Dönüyor",
+  "ozet": "Beş yıllık aranın ardından İngiltere pazarına dönen Mitsubishi, plug-in hibrit SUV modeli Outlander ile rekabete yeniden dahil oluyor.",
+  "puan": 5.0,
+  "grup": "mitsubishi-outlander-phev-uk-return",
+  "link": "https://www.autocar.co.uk/car-review/mitsubishi/outlander-phev",
+  "source": "Autocar",
+  "ts": 1793267286.1501818
+ },
+ {
+  "cat": "araba",
+  "baslik": "Nadir Bulunan 1928 Model Bentley Milyon Dolar Edebilir",
+  "ozet": "Vanden Plas gövde tasarımı, düşük üretim rakamları ve geçmişteki benzer açık artırma satışları sayesinde bu nadir Bentley'nin değeri yedi haneli rakamlara ulaşabilir.",
+  "puan": 4.5,
+  "grup": "rare-1928-bentley-barn-find",
+  "link": "https://www.motor1.com/news/813649/forgotten-1928-bentley-barn-find/",
+  "source": "Motor1",
+  "ts": 1793267286.1501818
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ferrari 308 Tribute Manuel V8 ve Karbon Gövdeyle Dönüyor",
+  "ozet": "AC Motorsport, atmosferik V8 motor, klasik manuel şanzıman ve tam karbon fiber gövdeyle hafifliği ve yüksek devirli gücü bir araya getiriyor.",
+  "puan": 8.0,
+  "grup": "gruppo-four-ferrari-308-tribute",
+  "link": "https://www.motor1.com/news/813641/michelotto-gruppo-4-tributo-ferrari/",
+  "source": "Motor1",
+  "ts": 1793267286.1501818
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yerden Yüksek Station Wagonlar Pazar Payı Arıyor",
+  "ozet": "Yeni Audi A6 Allroad, havalı süspansiyonu ve geniş çamurluklarıyla dikkat çekerken, SUV pazarının ezici üstünlüğüne karşı direnmeye çalışıyor.",
+  "puan": 5.0,
+  "grup": "audi-a6-allroad-estate-market",
+  "link": "https://www.autocar.co.uk/opinion/new-cars/how-jacked-estates-can-find-their-niche-last",
+  "source": "Autocar",
+  "ts": 1793267286.1501818
+ },
+ {
+  "cat": "f1",
+  "baslik": "Quiz: F1 '300 Kulübü' Hakkında Ne Biliyorsunuz?",
+  "ozet": "Sergio Perez'in bu hafta sonu kariyerindeki 300. Grand Prix'sine çıkacak olması şerefine F1'in 300 kulübündeki diğer pilotlar hakkında bir quiz hazırlandı.",
+  "puan": 1.5,
+  "grup": "mexico-gp-2026-fan-competition",
+  "link": "https://www.formula1.com/en/latest/article/quiz-how-much-do-you-know-about-the-drivers-in-the-f1-300-club.3MbaQSikVNjuvFSZHI8RwT",
+  "source": "Formula1.com",
+  "ts": 1793267286.1501818
+ },
+ {
+  "cat": "f1",
+  "baslik": "Sergio Perez Kariyerini Fotoğraflarla Değerlendiriyor",
+  "ozet": "Sergio Perez, Mexico City Grand Prix'sinde 300. F1 yarışına çıkarak Sebastian Vettel'i geride bırakıp tüm zamanlar listesinde yedinci sıraya yükseliyor.",
+  "puan": 4.5,
+  "grup": "perez-cadillac-contract-2029",
+  "link": "https://www.formula1.com/en/latest/article/exclusive-sergio-perez-reflects-on-his-f1-career-in-photos-as-he-reaches-300-grand-prix-starts.4c7PQiuN2WobXtsQ2tEeRw",
+  "source": "Formula1.com",
+  "ts": 1793267286.1501818
+ },
+ {
+  "cat": "f1",
+  "baslik": "Oscar Piastri'nin 2026 Sezonundaki Yeni Zorlukları",
+  "ozet": "Oscar Piastri, takım arkadaşı Lando Norris'e kıyasla 2026 McLaren aracıyla farklı zorluklar yaşıyor.",
+  "puan": 5.0,
+  "grup": "mclaren-mexican-gp-livery",
+  "link": "https://www.the-race.com/formula-1/superpower-neutered-piastris-fresh-f1-struggles-explained/",
+  "source": "The Race",
+  "ts": 1793267286.1501818
+ },
+ {
+  "cat": "f1",
+  "baslik": "Carlos Sainz: 'Uzayan Takvim F1'e İlgiyi Azaltıyor'",
+  "ozet": "Carlos Sainz, Formula 1 takviminin aşırı uzamasının taraftarların yarışlara daha az odaklanmasına neden olduğunu ve bunun ters tepki yarattığını belirtti.",
+  "puan": 4.0,
+  "grup": "f1-social-impact-report",
+  "link": "https://www.racefans.net/2026/10/29/fans-pay-a-bit-less-attention-to-formula-1-as-calendar-gets-longer-sainz/",
+  "source": "RaceFans",
+  "ts": 1793267286.1501818
+ },
+ {
+  "cat": "f1",
+  "baslik": "Christian Horner'dan 67 Milyonluk Red Bull Tazminatı Açıklaması",
+  "ozet": "Christian Horner, Red Bull'dan aldığı devasa tazminat sayesinde artık acilen Formula 1'e dönme ihtiyacı hissetmediğini ifade etti.",
+  "puan": 8.0,
+  "grup": "christian-horner-red-bull-exit",
+  "link": "https://www.motorsport.com/f1/news/will-christian-horner-buy-his-own-f1-team-the-sacked-boss-speaks-out/10869059/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793267286.1501818
+ },
+ {
+  "cat": "f1",
+  "baslik": "Mark Webber'in Ayrılığı ve Daniel Ricciardo Övgüsü",
+  "ozet": "Christian Horner, Mark Webber'in Red Bull'dan ayrılış sürecini eleştirirken Daniel Ricciardo'dan övgüyle bahsetti.",
+  "puan": 4.5,
+  "grup": "christian-horner-red-bull-exit",
+  "link": "https://www.motorsport.com/f1/news/horner-reflects-on-ricciardos-prime-red-bull-era-he-never-stopped-overtaking/10869056/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793267286.1501818
+ },
+ {
+  "cat": "f1",
+  "baslik": "Christian Horner: 'Netflix Beni Kötü Adam Yaptı'",
+  "ozet": "Christian Horner, Netflix'in 'Drive to Survive' serisinde kendisinin neden bilinçli olarak kötü karakter olarak gösterildiğini açıkladı.",
+  "puan": 3.5,
+  "grup": "christian-horner-red-bull-exit",
+  "link": "https://www.motorsport.com/f1/news/christian-horner-admits-netflix-hijacked-his-f1-reputation-i-was-the-villain/10869051/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793267286.1501818
  }
 ]
