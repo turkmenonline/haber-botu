@@ -1,86 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Yeni Mercedes C-Serisi İncelemesi",
-  "ozet": "Beşinci nesil benzinli Mercedes C-Serisi, yeni elektrikli kardeşiyle aynı showroom'u paylaşırken makyaj operasyonundan geçti ve sürüş dinamikleri geliştirildi.",
-  "puan": 6.5,
-  "grup": "2027-mercedes-c-class-facelift",
-  "link": "https://www.autocar.co.uk/car-review/mercedes-benz/c-class",
-  "source": "Autocar",
-  "ts": 1793062552.9095294
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Mercedes-Benz C350 Tanıtıldı",
-  "ozet": "2027 model ailesinde yer alan C350, standart C300 modeline kıyasla çok daha kapsamlı güncellemeler ve yenilikler alıyor.",
-  "puan": 6.0,
-  "grup": "2027-mercedes-c-class-facelift",
-  "link": "https://www.caranddriver.com/reviews/a74233440/2027-mercedes-benz-c350-drive/",
-  "source": "Car and Driver",
-  "ts": 1793062552.9095294
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Mercedes-Benz C350 İç Mekan Fotoğrafları",
-  "ozet": "Yeni 2027 Mercedes-Benz C350 modelinin yenilenen iç mekanını farklı açılardan detaylıca inceleyin.",
-  "puan": 5.0,
-  "grup": "2027-mercedes-c-class-facelift",
-  "link": "https://www.caranddriver.com/photos/a74247632/2027-mercedes-benz-c350-drive-interior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1793062552.9095294
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Mercedes-Benz C350 Dış Tasarım Fotoğrafları",
-  "ozet": "Yenilenen 2027 Mercedes-Benz C350'nin dış tasarım detaylarını ve hatlarını farklı açılardan gösteren fotoğraflar.",
-  "puan": 5.0,
-  "grup": "2027-mercedes-c-class-facelift",
-  "link": "https://www.caranddriver.com/photos/a74247610/2027-mercedes-benz-c350-drive-exterior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1793062552.9095294
- },
- {
-  "cat": "araba",
-  "baslik": "Spor Arabalarda Sahte Havalandırma Izgaraları Neden Var?",
-  "ozet": "Otomobil üreticilerinin araçlara daha sportif bir görünüm katmak için kullandığı sahte havalandırma ızgaralarının arkasındaki nedenler inceleniyor.",
-  "puan": 3.0,
-  "grup": "why-cars-have-fake-vents",
-  "link": "https://www.motor1.com/features/813246/why-cars-have-fake-vents/",
-  "source": "Motor1",
-  "ts": 1793062552.9095294
- },
- {
-  "cat": "araba",
-  "baslik": "Brabus, Mercedes-AMG G63'ü 900 Beygirlik Pikaba Dönüştürüyor",
-  "ozet": "Brabus, Mercedes-AMG G-Serisi'ni temel alarak 900 beygir güç üreten devasa bir pikap modeli geliştirdi.",
-  "puan": 8.0,
-  "grup": "brabus-mercedes-amg-g63-pickup",
-  "link": "https://www.caranddriver.com/news/a74251542/brabus-mercedes-amg-g63-pickup-truck/",
-  "source": "Car and Driver",
-  "ts": 1793062552.9095294
- },
- {
-  "cat": "f1",
-  "baslik": "İkincilik Mücadelesi Kızışıyor",
-  "ozet": "Şampiyonada ikincilik koltuğu için beş pilot kıyasıya bir mücadele veriyor ve bu sezonu kimin ikinci bitireceği merak konusu.",
-  "puan": 5.0,
-  "grup": "us-gp-2026-antonelli-title-scenarios",
-  "link": "https://www.formula1.com/en/latest/article/attention-turns-to-the-race-for-second-place-as-kimi-antonelli-closes-in-on-title-success.4UFMy0lQi5bRt1lBhZLgDG",
-  "source": "Formula1.com",
-  "ts": 1793062552.9095294
- },
- {
-  "cat": "f1",
-  "baslik": "Naomi Schiff'ten Red Bull'a Uyarı",
-  "ozet": "Naomi Schiff, Red Bull'un dar ayar penceresinin Max Verstappen ve Isack Hadjar'ın sezonunu tehlikeye atabileceği konusunda uyardı.",
-  "puan": 4.5,
-  "grup": "us-gp-2026-red-bull-struggles",
-  "link": "https://www.motorsport.com/f1/news/naomi-schiff-warns-red-bull-over-knifes-edge-f1-car-after-us-gp-struggles/10868723/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793062552.9095294
- },
- {
-  "cat": "araba",
   "baslik": "NHTSA'dan Otonom Araçlar İçin Cyan Işık Önerisi",
   "ozet": "NHTSA, Tesla'ya özel kolaylıklar sağlayabilecek yeni otonom araç aydınlatma düzenlemeleri önerdi.",
   "puan": 6.0,
@@ -2518,5 +2438,65 @@
   "link": "https://www.racefans.net/2026/10/28/f1-newcomers-tsolov-mini-and-slater-among-eight-drivers-to-run-in-practice-on-friday/",
   "source": "RaceFans",
   "ts": 1793230759.2506003
+ },
+ {
+  "cat": "araba",
+  "baslik": "Nissan Sentra Spec-V Konsepti Tanıtıldı",
+  "ozet": "Nissan, Sentra modelini 300 beygirlik performanslı bir versiyona dönüştüren yeni bir konsept tanıttı, ancak bu aracın üretime geçip geçmeyeceği belirsizliğini koruyor.",
+  "puan": 5.5,
+  "grup": "nissan-sentra-specv-concept-sema",
+  "link": "https://www.autoblog.com/news/nissan-just-turned-the-sentra-into-a-300-hp-gt-r-wannabe-with-a-huge-catch",
+  "source": "Autoblog",
+  "ts": 1793242551.504448
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Hyundai Ioniq 6 Fiyatıyla Dikkat Çekiyor",
+  "ozet": "Makyaşlanan aerodinamik elektrikli Hyundai Ioniq 6, 84 kWh bataryası ve 423 millik menziliyle İngiltere'de 33.240 sterlinlik rekabetçi bir fiyat etiketiyle satışa sunuldu.",
+  "puan": 6.0,
+  "grup": "hyundai-ioniq-6-facelift-price",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/new-hyundai-ioniq-6-driven-423-mile-saloon-hatchback-money",
+  "source": "Autocar",
+  "ts": 1793242551.504448
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ricciardo'dan Le Mans ve Verstappen Açıklaması",
+  "ozet": "Eski F1 pilotu Daniel Ricciardo, gelecekte Le Mans 24 Saat yarışına katılabileceğini ve eski takım arkadaşı Max Verstappen ile aynı aracı paylaşmak isteyeceğini belirtti.",
+  "puan": 3.5,
+  "grup": "daniel-ricciardo-le-mans-verstappen",
+  "link": "https://www.motorsport.com/f1/news/daniel-ricciardo-opens-door-to-racing-return-with-max-verstappen-at-le-mans/10869169/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793242551.504448
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ricciardo'dan 2018 Red Bull Ayrılığı İtirafı",
+  "ozet": "Daniel Ricciardo, 2018 sezonunun sonunda Red Bull'dan ayrılmak yerine takımda kalmış olmayı dilediğini itiraf etti.",
+  "puan": 4.0,
+  "grup": "ricciardo-red-bull-2018-regret",
+  "link": "https://www.motorsport.com/f1/news/daniel-ricciardo-reveals-major-regret-over-2018-red-bull-departure/10869167/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793242551.504448
+ },
+ {
+  "cat": "f1",
+  "baslik": "FIA, Gelecek F1 Kuralları İçin AWS ile Anlaştı",
+  "ozet": "FIA, Formula 1'in yeni nesil araç kurallarını şekillendirmeye yardımcı olması için Amazon Web Services yapay zeka teknolojilerini kullanacak yeni bir küresel ortaklık imzaladı.",
+  "puan": 6.5,
+  "grup": "fia-aws-ai-f1-regulations",
+  "link": "https://www.motorsport.com/f1/news/fia-to-use-ai-to-help-shape-future-f1-regulations-in-new-aws-partnership/10869165/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793242551.504448
+ },
+ {
+  "cat": "f1",
+  "baslik": "Christian Horner'dan Eski Suçlama Açıklamaları",
+  "ozet": "Red Bull'daki görevinden ayrılışının ardından uzun süre sessiz kalan Christian Horner, geçmişteki uygunsuzluk iddialarına karşı röportajda açıklamalarda bulundu.",
+  "puan": 7.0,
+  "grup": "christian-horner-red-bull-exit",
+  "link": "https://www.motorsport.com/f1/news/christian-horner-finally-speaks-on-the-leaked-whatsapp-file-and-coercion-allegations/10869049/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793242551.504448
  }
 ]
