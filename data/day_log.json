@@ -1,176 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Aston Martin Valhalla Spider Tanıtıldı",
-  "ozet": "1.000 beygirin üzerinde güce sahip yeni Aston Martin Valhalla Spider, tavanı açıkken 217 mph hıza ulaşabiliyor.",
-  "puan": 8.5,
-  "grup": "aston-martin-valhalla-spider",
-  "link": "https://www.autocar.co.uk/car-news/new-cars/new-aston-martin-valhalla-spider-%C2%A313m-roadster-tops-217mph",
-  "source": "Autocar",
-  "ts": 1793151435.304893
- },
- {
-  "cat": "araba",
-  "baslik": "Range Rover Sport Electric İlk Sürüş İncelemesi",
-  "ozet": "Tamamen elektrikli Range Rover Sport, lüks ve performansıyla segmentinin en iyisi olmaya aday.",
-  "puan": 6.0,
-  "grup": "range-rover-sport-electric-review",
-  "link": "https://www.autocar.co.uk/car-news/new-cars/range-rover-sport-electric-driven-it-really-could-be-best-4x4-far",
-  "source": "Autocar",
-  "ts": 1793151435.304893
- },
- {
-  "cat": "araba",
-  "baslik": "Yeni Aston Martin Valhalla Spider 217 MPH Hıza Ulaşıyor",
-  "ozet": "Aston Martin'in ilk ortadan motorlu üstü açık süperspor otomobili, 1.000 beygirden fazla güç sunuyor.",
-  "puan": 8.5,
-  "grup": "aston-martin-valhalla-spider",
-  "link": "https://www.motor1.com/news/813475/aston-martin-valhalla-spider-debuts/",
-  "source": "Motor1",
-  "ts": 1793151435.304893
- },
- {
-  "cat": "araba",
-  "baslik": "2028 Aston Martin Valhalla İncelemesi",
-  "ozet": "Yeni Aston Martin Valhalla modelinin teknik özellikleri, fiyatlandırması ve genel değerlendirmesi.",
-  "puan": 8.0,
-  "grup": "2028-aston-martin-valhalla",
-  "link": "https://www.caranddriver.com/aston-martin/valhalla-2028",
-  "source": "Car and Driver",
-  "ts": 1793151435.304893
- },
- {
-  "cat": "araba",
-  "baslik": "2028 Aston Martin Valhalla Spider Dış Tasarım Fotoğrafları",
-  "ozet": "Yeni Aston Martin Valhalla Spider modelinin dış tasarımını farklı açılardan gösteren fotoğraflar yayınlandı.",
-  "puan": 7.5,
-  "grup": "aston-martin-valhalla-spider",
-  "link": "https://www.caranddriver.com/photos/a74248635/2028-aston-martin-valhalla-spider-revealed-exterior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1793151435.304893
- },
- {
-  "cat": "araba",
-  "baslik": "2028 Aston Martin Valhalla Spider İç Mekan Fotoğrafları",
-  "ozet": "Yeni Aston Martin Valhalla Spider'ın iç mekan detaylarını gözler önüne seren fotoğraflar paylaşıldı.",
-  "puan": 7.5,
-  "grup": "aston-martin-valhalla-spider",
-  "link": "https://www.caranddriver.com/photos/a74248637/2028-aston-martin-valhalla-spider-revealed-interior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1793151435.304893
- },
- {
-  "cat": "araba",
-  "baslik": "1064 Beygirlik Aston Martin Valhalla Spider Üstü Açık Versiyonuyla Geliyor",
-  "ozet": "Yeni Spider modeli tavanını kaybediyor ancak 217 mph'lik son hızını koruyarak markanın en hızlı üstü açık modeli oluyor.",
-  "puan": 8.5,
-  "grup": "aston-martin-valhalla-spider",
-  "link": "https://www.caranddriver.com/news/a74264241/2028-aston-martin-valhalla-spider-revealed/",
-  "source": "Car and Driver",
-  "ts": 1793151435.304893
- },
- {
-  "cat": "araba",
-  "baslik": "Aston Martin Valhalla Spider Tavanı Yokken Daha Hızlı",
-  "ozet": "Yeni üstü açık süperspor otomobil, tavanı kapalıyken değil açıkken 217 mph son hıza ulaşabiliyor.",
-  "puan": 8.5,
-  "grup": "aston-martin-valhalla-spider",
-  "link": "https://www.thedrive.com/news/1064-hp-aston-martin-valhalla-spider-is-actually-faster-with-its-roof-off",
-  "source": "The Drive",
-  "ts": 1793151435.304893
- },
- {
-  "cat": "araba",
-  "baslik": "Aston Martin Valhalla Spider ile 217 MPH Hız",
-  "ozet": "Yeni Valhalla Spider, coupe kardeşiyle benzer performans verilerini sunarak 1.000 beygirin üzerinde güç üretiyor.",
-  "puan": 8.5,
-  "grup": "aston-martin-valhalla-spider",
-  "link": "https://www.jalopnik.com/2298994/aston-martin-valhalla-spider-debuts-217-mph-top-speed/",
-  "source": "Jalopnik",
-  "ts": 1793151435.304893
- },
- {
-  "cat": "araba",
-  "baslik": "Porsche ABD Fabrikalarına Karşı Çıkarken Audi Georgia'ya Yatırım Yapıyor",
-  "ozet": "Porsche modellerini Avrupa'da tutmaya devam ederken, Audi Georgia'da binlerce SUV üretmek için milyarlarca dolar yatırıyor.",
-  "puan": 8.0,
-  "grup": "porsche-vs-audi-us-factory",
-  "link": "https://www.motor1.com/news/813400/porsche-staying-imported-while-audi/",
-  "source": "Motor1",
-  "ts": 1793151435.304893
- },
- {
-  "cat": "araba",
-  "baslik": "Toyota Modelleri Karlı Arazi Paletleriyle Donatıldı",
-  "ozet": "Toyota; Tundra, Tacoma, 4Runner, Land Cruiser ve Sequoia modellerini kış şartlarına uygun paletli araçlara dönüştürdü.",
-  "puan": 5.0,
-  "grup": "toyota-snow-tracks-sema-trucks",
-  "link": "https://www.autoblog.com/news/sema-2026-concepts-toyota-snowhunter-tundra-tacoma-4runner-land-cruiser-sequoia",
-  "source": "Autoblog",
-  "ts": 1793151435.304893
- },
- {
-  "cat": "araba",
-  "baslik": "Bugatti CEO'sundan Manuel Vites Açıklaması",
-  "ozet": "Bugatti CEO'su Mate Rimac, 986 beygirlik Tourbillon modelinin hafif ve manuel vitesli bir versiyonunun mümkün olabileceğini belirtti.",
-  "puan": 8.0,
-  "grup": "bugatti-tourbillon-manual-rumor",
-  "link": "https://www.autoblog.com/news/bugatti-ceo-says-a-manual-986-hp-tourbillon-is-possible",
-  "source": "Autoblog",
-  "ts": 1793151435.304893
- },
- {
-  "cat": "f1",
-  "baslik": "Toto Wolff'tan Helmut Marko'ya Russell Yanıtı",
-  "ozet": "Mercedes takım patronu Toto Wolff, Helmut Marko'nun George Russell'ın bir daha şampiyonluk şansı bulamayacağı yönündeki iddiasını reddetti.",
-  "puan": 5.0,
-  "grup": "us-gp-2026-russell-struggles",
-  "link": "https://www.motorsport.com/f1/news/george-russell-f1-title-chances-defended-by-toto-wolff-after-helmut-marko-comments/10868961/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793151435.304893
- },
- {
-  "cat": "f1",
-  "baslik": "Helmut Marko Yapay Zeka Girişimine Yatırım Yaptı",
-  "ozet": "Eski Red Bull danışmanı Helmut Marko, kişisel mesajların ölümden sonra sevdiklerine iletilmesini sağlayan Avusturya merkezli bir yapay zeka girişimine yatırım yaptı.",
-  "puan": 2.0,
-  "grup": "helmut-marko-ai-startup-investment",
-  "link": "https://www.motorsport.com/f1/news/helmut-marko-invests-in-ai-start-up-after-red-bull-f1-exit/10868955/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793151435.304893
- },
- {
-  "cat": "f1",
-  "baslik": "Red Bull'dan Aston Martin Motor İddialarına Yanıt",
-  "ozet": "Red Bull takım patronu Laurent Mekies, Aston Martin'e güç ünitesi tedarik etme konusunda ciddi görüşmeler yürütmediklerini doğruladı.",
-  "puan": 5.5,
-  "grup": "red-bull-aston-martin-pu-rumours",
-  "link": "https://www.motorsport.com/f1/news/red-bull-responds-to-aston-martin-f1-power-unit-rumours/10868957/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793151435.304893
- },
- {
-  "cat": "f1",
-  "baslik": "Tarihte Bugün: Hamilton ve Schumacher İlk Kez Yarıştı",
-  "ozet": "Lewis Hamilton ve Michael Schumacher, Kerpen'deki bir karting finalinde ilk kez birbirlerine karşı yarıştı.",
-  "puan": 1.5,
-  "grup": "hamilton-schumacher-first-kart-race",
-  "link": "https://www.racefans.net/2026/10/28/on-this-day-hamilton-rosberg-schumacher-and-liuzzi-in-world-karting-championship-final/",
-  "source": "RaceFans",
-  "ts": 1793151435.304893
- },
- {
-  "cat": "f1",
-  "baslik": "Kimi Antonelli ABD GP Zaferiyle Farkı Açtı",
-  "ozet": "Zorlu geçen antrenman seanslarına rağmen Mercedes pilotu Andrea Kimi Antonelli, Amerika Grand Prix'sini kazanarak şampiyonadaki liderliğini genişletti.",
-  "puan": 9.0,
-  "grup": "us-gp-2026-antonelli-win",
-  "link": "https://www.motorsport.com/f1/news/mercedes-admits-they-were-clueless-before-kimi-antonellis-austin-miracle-a-remarkable-turnaround/10868571/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793151435.304893
- },
- {
-  "cat": "araba",
   "baslik": "Yangwang Altior Dubai'de Tanıtıldı",
   "ozet": "Rolls-Royce Ghost'a rakip olarak geliştirilen 217 inç uzunluğundaki lüks sedan Yangwang Altior, 5 Kasım'da Dubai'de görücüye çıkıyor.",
   "puan": 7.5,
@@ -2688,5 +2518,75 @@
   "link": "https://www.motorsport.com/f1/news/charles-leclerc-reveals-what-he-really-wants-from-final-five-f1-races-of-2026/10869431/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1793323114.5628266
+ },
+ {
+  "cat": "araba",
+  "baslik": "McLaren 750S'in Halefi Gelecek",
+  "ozet": "İpuçları verilen yeni McLaren McL 820 modeli, hibrit V8 motoru ve 809 beygir gücüyle 750S'in yerini almaya hazırlanıyor.",
+  "puan": 8.5,
+  "grup": "mclaren-750s-successor-mcl-820",
+  "link": "https://www.motor1.com/news/813801/mclaren-mcl-820-name-hints/",
+  "source": "Motor1",
+  "ts": 1793344600.842408
+ },
+ {
+  "cat": "araba",
+  "baslik": "Bugatti CEO'su Çalınan Araçlarını Kovaladı",
+  "ozet": "Bugatti CEO'su, çok milyonluk Chiron hypercar'ının çalınmasının ardından bir Porsche 911 ile hırsızın peşine düştü.",
+  "puan": 7.0,
+  "grup": "bugatti-chiron-ceo-stolen-recovered",
+  "link": "https://www.motor1.com/news/813799/bugatti-boss-chased-chiron-thief/",
+  "source": "Motor1",
+  "ts": 1793344600.842408
+ },
+ {
+  "cat": "araba",
+  "baslik": "10.000 Devirli V8'li Yeniden Doğmuş Audi Quattro",
+  "ozet": "İngiliz bir firma tarafından geliştirilen 350 bin sterlin üzerindeki bu özel restomod, RS4 altyapısı ve 10.000 devirli V8 motoruyla dikkat çekiyor.",
+  "puan": 8.0,
+  "grup": "audi-quattro-v8-restomod-audacious",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/revealed-brit-firms-reborn-audi-quattro-brings-10000rpm-v8-twist",
+  "source": "Autocar",
+  "ts": 1793344600.842408
+ },
+ {
+  "cat": "araba",
+  "baslik": "Honda Passport Baja Spec Trophy Truck Fotoğrafları",
+  "ozet": "Yarışa hazır Honda Passport Baja Spec'in iç ve dış detaylarını gösteren görseller yayınlandı.",
+  "puan": 4.5,
+  "grup": "honda-passport-baja-spec-trophy-truck",
+  "link": "https://www.caranddriver.com/photos/a74289296/honda-passport-baja-spec-revealed-gallery/",
+  "source": "Car and Driver",
+  "ts": 1793344600.842408
+ },
+ {
+  "cat": "araba",
+  "baslik": "1300 Beygirlik Hibrit Honda Passport Tanıtıldı",
+  "ozet": "İkiz turbolu V6 motor ve güçlü hibrit sistemle donatılan bu yarış aracı, Acura'nın IMSA yarış aracının teknolojilerini kullanıyor.",
+  "puan": 7.5,
+  "grup": "honda-passport-baja-spec-trophy-truck",
+  "link": "https://www.caranddriver.com/news/a74289346/honda-passport-baja-spec-revealed/",
+  "source": "Car and Driver",
+  "ts": 1793344600.842408
+ },
+ {
+  "cat": "araba",
+  "baslik": "Honda Passport Baja Spec Yarışlara Katılıyor",
+  "ozet": "Hibrit sistemli yeni Honda Passport Baja Spec, SCORE Dünya Çöl Şampiyonası'nın en üst sınıfında yarışacak ilk hibrit araç olacak.",
+  "puan": 7.5,
+  "grup": "honda-passport-baja-spec-trophy-truck",
+  "link": "https://www.autoblog.com/news/hondas-1300-hp-hybrid-passport-baja-spec-takes-aim-at-trophy-truck-racing",
+  "source": "Autoblog",
+  "ts": 1793344600.842408
+ },
+ {
+  "cat": "araba",
+  "baslik": "Honda'dan 1300 Beygirlik Hibrit Yarış Kamyonu",
+  "ozet": "F1 esintili hibrit teknolojiye ve ikiz turbolu V6 motora sahip yeni Honda yarış aracı, Baja'daki V8 canavarlarına meydan okuyor.",
+  "puan": 7.5,
+  "grup": "honda-passport-baja-spec-trophy-truck",
+  "link": "https://www.motor1.com/news/813768/honda-passport-hybrid-baja-trophy-truck/",
+  "source": "Motor1",
+  "ts": 1793344600.842408
  }
 ]
