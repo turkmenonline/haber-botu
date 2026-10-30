@@ -1,86 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Yangwang Altior Dubai'de Tanıtıldı",
-  "ozet": "Rolls-Royce Ghost'a rakip olarak geliştirilen 217 inç uzunluğundaki lüks sedan Yangwang Altior, 5 Kasım'da Dubai'de görücüye çıkıyor.",
-  "puan": 7.5,
-  "grup": "yangwang-altior-rolls-royce-rival",
-  "link": "https://www.motor1.com/news/813490/byd-yangwang-altior-luxury-sedan/",
-  "source": "Motor1",
-  "ts": 1793172682.619089
- },
- {
-  "cat": "araba",
-  "baslik": "Toyota Yeni Motor Satışlarıyla Milyarlarca Dolar Kazanmayı Hedefliyor",
-  "ozet": "Toyota, yeni nesil içten yanmalı motorlarını diğer üreticilere satarak yılda 1.7 milyar dolar gelir elde etmeyi bekliyor.",
-  "puan": 8.0,
-  "grup": "toyota-engine-supply-revenue",
-  "link": "https://www.motor1.com/news/813488/toyota-sell-new-engines-other-companies/",
-  "source": "Motor1",
-  "ts": 1793172682.619089
- },
- {
-  "cat": "araba",
-  "baslik": "Dodge Charger Mopar 90. Yıl Özel Versiyonu Duyuruldu",
-  "ozet": "Mopar '27 paketiyle donatılan Dodge Charger R/T ve Scat Pack Plus modelleri, sadece 270 adetlik sınırlı üretimle satışa sunuluyor.",
-  "puan": 6.5,
-  "grup": "dodge-charger-mopar-90th-anniversary",
-  "link": "https://www.motor1.com/news/813486/dodge-charger-mopar-27-package/",
-  "source": "Motor1",
-  "ts": 1793172682.619089
- },
- {
-  "cat": "araba",
-  "baslik": "Paris Otomobil Fuarı'nın Gizli Yıldızı Leapmotor Oldu",
-  "ozet": "Stellantis çatısı altında yer alan Leapmotor, Paris Otomobil Fuarı'ndaki sade ama etkileyici varlığıyla dikkatleri üzerine çekti.",
-  "puan": 5.5,
-  "grup": "leapmotor-paris-motor-show-star",
-  "link": "https://www.autocar.co.uk/opinion/business-electric-vehicles/why-bland-leapmotor-was-real-star-paris-motor-show",
-  "source": "Autocar",
-  "ts": 1793172682.619089
- },
- {
-  "cat": "araba",
-  "baslik": "Toyota Sienna'lar Koltuk Problemi Nedeniyle Geri Çağrılıyor",
-  "ozet": "İkinci sıra kaptan koltuklarının bir kaza anında yerinden oynayabilmesi riski nedeniyle 228.000 adet Toyota Sienna geri çağrılıyor.",
-  "puan": 7.0,
-  "grup": "toyota-sienna-seatback-recall",
-  "link": "https://www.jalopnik.com/2298546/toyota-recalls-228000-sienna-minivans-second-row-seat-crash-safety/",
-  "source": "Jalopnik",
-  "ts": 1793172682.619089
- },
- {
-  "cat": "f1",
-  "baslik": "Meksika GP Öncesi Öne Çıkanlar",
-  "ozet": "Andrea Kimi Antonelli bu hafta sonu şampiyonluğunu ilan edebilir mi? İşte Meksika Grand Prix'si öncesinde merak edilen beş ana konu başlığı.",
-  "puan": 7.0,
-  "grup": "kimi-antonelli-us-gp-title-contender",
-  "link": "https://www.racefans.net/2026/10/28/antonellis-coronation-mexicos-optional-turn-one-and-more-mexican-gp-talking-points/",
-  "source": "RaceFans",
-  "ts": 1793172682.619089
- },
- {
-  "cat": "f1",
-  "baslik": "Max Verstappen: Red Bull Austin'de Sadece Ortalama Seviyedeydi",
-  "ozet": "Amerika Grand Prix'sini podyumda bitirmesine rağmen Max Verstappen, yanlış lastik seçimi, güç ünitesi ve telsiz sorunları nedeniyle hafta sonundan memnun ayrılmadı.",
-  "puan": 7.5,
-  "grup": "us-gp-2026-red-bull-struggles",
-  "link": "https://www.motorsport.com/f1/news/max-verstappen-admits-red-bull-was-just-a-little-average-in-austin/10868963/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793172682.619089
- },
- {
-  "cat": "f1",
-  "baslik": "Toto Wolff'ten Mercedes Koltuğunun Hikayesi",
-  "ozet": "Mercedes takım patronu Toto Wolff, Williams'ın 2012 İspanya GP'deki sürpriz zaferi sonrasında Mercedes'teki görevini nasıl güvenceye aldığını açıkladı.",
-  "puan": 3.5,
-  "grup": "toto-wolff-williams-mercedes-history",
-  "link": "https://www.motorsport.com/f1/news/toto-wolff-reveals-how-williams-surprise-victory-helped-him-secure-mercedes-role/10868959/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793172682.619089
- },
- {
-  "cat": "araba",
   "baslik": "Honda'dan TrailSport Modellerinde Yeni Strateji",
   "ozet": "Honda, TrailSport rozeti taşıyan modellerindeki yaklaşımını değiştirerek daha iddialı bir yola giriyor.",
   "puan": 5.0,
@@ -2588,5 +2508,585 @@
   "link": "https://www.motor1.com/news/813768/honda-passport-hybrid-baja-trophy-truck/",
   "source": "Motor1",
   "ts": 1793344600.842408
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Mitsubishi Pajero Kabini Land Cruiser'dan İyi mi?",
+  "ozet": "Yeniden doğan Mitsubishi Pajero'nun ilk izlenimleri, kabin kalitesinin Toyota Land Cruiser 300'den bile daha iyi olabileceğini gösteriyor.",
+  "puan": 6.0,
+  "grup": "mitsubishi-pajero-revival-cabin",
+  "link": "https://www.autoblog.com/news/mitsubishi-pajero-cabin-feels-better-than-land-cruiser-300-reviewer-says",
+  "source": "Autoblog",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "GM Sürücü Verisi Satışı Davasında Uzlaştı",
+  "ozet": "General Motors, sürücülerin özel verilerini izinsiz sattığı iddialarıyla ilgili açılan davayı düşürmek için 220 milyon dolar ödemeyi kabul etti.",
+  "puan": 8.5,
+  "grup": "gm-driver-data-privacy-lawsuit",
+  "link": "https://www.jalopnik.com/2302174/gm-pays-220-million-dollars-settle-privacy-violation-lawsuit/",
+  "source": "Jalopnik",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "GM, Sürücü Verisi Davası İçin 220 Milyon Dolar Ödedi",
+  "ozet": "GM, gizlilik prosedürlerinin üçüncü tarafça denetlenmesini de içeren anlaşmayla sürücü verilerinin satışı davasını kapattı.",
+  "puan": 8.5,
+  "grup": "gm-driver-data-privacy-lawsuit",
+  "link": "https://www.thedrive.com/news/gm-pays-220-million-after-lawsuit-over-illegally-selling-drivers-data-tds",
+  "source": "The Drive",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "Honda Ridgeline Neden Geleneksel Olmadı?",
+  "ozet": "Tasarımcı Don Herner, SUV iç mekan odaklı bir konseptin Honda'nın sıra dışı pikap modeli Ridgeline'a nasıl dönüştüğünü anlattı.",
+  "puan": 5.0,
+  "grup": "honda-ridgeline-design-history",
+  "link": "https://www.motor1.com/news/813897/honda-ridgeline-designer-explains-truck/",
+  "source": "Motor1",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 BMW 3 Serisi İncelemesi",
+  "ozet": "Yeni 2027 BMW 3 Serisi hakkında merak edilenler, fiyatlandırma detayları ve teknik özellikler.",
+  "puan": 7.0,
+  "grup": "bmw-3-series-2027-specs",
+  "link": "https://www.caranddriver.com/bmw/3-series",
+  "source": "Car and Driver",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "BYD'nin Hiperi 310 Mil Sınırını Zorlayacak",
+  "ozet": "BYD, elektrikli hiper otomobilini Kasım ayında sınırları zorlayarak 310 mph üzerine çıkarma testi yapmayı planlıyor.",
+  "puan": 7.5,
+  "grup": "byd-electric-hypercar-speed-record",
+  "link": "https://www.autoblog.com/news/byds-308-mph-hypercar-wants-to-go-even-faster",
+  "source": "Autoblog",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "İkinci El Elektrikliler Hızlı Satılıyor",
+  "ozet": "Yapılan yeni bir araştırmaya göre ikinci el elektrikli araçlar, daha yüksek fiyatlarına rağmen benzinli ve hibrit araçlara kıyasla çok daha hızlı alıcı buluyor.",
+  "puan": 4.5,
+  "grup": "used-ev-market-sales-speed",
+  "link": "https://www.caranddriver.com/news/a74287278/used-evs-selling-faster-gas-hybrid/",
+  "source": "Car and Driver",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "Satın Almak Yerine Sadece Kiralamak İstediğiniz Arabalar",
+  "ozet": "Bazı otomobiller ömürlük saklanmak içindir, bazıları ise sadece geçici bir macera sunar; işte uzun süre tutulmayacak o modeller.",
+  "puan": 2.0,
+  "grup": "cars-to-lease-not-buy",
+  "link": "https://www.jalopnik.com/2301689/car-you-would-lease-but-never-buy-reader-question/",
+  "source": "Jalopnik",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Nissan Rogue Hibrit Tantıldı",
+  "ozet": "Yenilenen 2027 Nissan Rogue Hibrit modelinin öne çıkan özellikleri, fiyatı ve teknik detayları açıklandı.",
+  "puan": 6.5,
+  "grup": "nissan-rogue-hybrid-2027",
+  "link": "https://www.caranddriver.com/nissan/rogue-hybrid",
+  "source": "Car and Driver",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "Nissan'ın ABD Satışları Artarken Çin'de Düşüş Var",
+  "ozet": "Eylül 2026 raporuna göre Nissan, Kuzey Amerika ve Japonya'da güçlü bir satış artışı yaşarken Çin pazarında büyük düşüş kaydetti.",
+  "puan": 6.0,
+  "grup": "nissan-global-sales-q3-2026",
+  "link": "https://www.autoblog.com/news/nissan-u-s-sales-rise-10-as-china-sales-collapse-62",
+  "source": "Autoblog",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "Amerika'ya Gelebilecek Çinli Otomobiller",
+  "ozet": "Kuzey Amerika pazarına girebilecek üç Geely modeli test edildi ve aralarından biri yazar üzerinde derin bir iz bıraktı.",
+  "puan": 5.5,
+  "grup": "chinese-geely-cars-us-market",
+  "link": "https://www.motor1.com/features/813758/driving-geely-suvs-e2-e5-starray/",
+  "source": "Motor1",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "ABT'den 709 Beygirlik Audi RS 5 Modifikasyonu",
+  "ozet": "ABT Sportsline tarafından geliştirilen 709 beygirlik yeni Audi RS 5-R paketinin maliyeti yaklaşık 70 bin doları buluyor.",
+  "puan": 6.5,
+  "grup": "abt-audi-rs5-709hp-tuning",
+  "link": "https://www.autoblog.com/news/audi-rs-5-gets-709-hp-but-the-upgrade-costs-nearly-70000",
+  "source": "Autoblog",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "22.995 Dolara İkinci El Polestar 2 Alınır mı?",
+  "ozet": "Son iki yılda büyük değer kaybeden temiz ve düşük kilometreli bir Polestar 2 Long Range cazip bir teklif sunuyor.",
+  "puan": 3.0,
+  "grup": "used-polestar-2-buying-deal",
+  "link": "https://www.jalopnik.com/2301334/2024-polestar-2-long-range-for-sale-22995/",
+  "source": "Jalopnik",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "Honda'nın Filo Satış Hamlesinin Arkasındaki Plan",
+  "ozet": "Honda, bayii ikame araç programını genişletmek ve kaliteli ikinci el havuzu oluşturmak için filo satışlarını %54 oranında artırdı.",
+  "puan": 5.0,
+  "grup": "honda-fleet-sales-strategy",
+  "link": "https://www.autoblog.com/news/hondas-fleet-push-is-really-about-creating-more-used-cars",
+  "source": "Autoblog",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "Karbon Gövdeli ve Çift Turbolu Klasik Datsun 240Z",
+  "ozet": "Karbon fiber paneller, Nismo parçaları ve çift turbolu V6 motor, klasik bir Datsun S30 konseptini modern bir Nissan Z gösterisine dönüştürdü.",
+  "puan": 7.0,
+  "grup": "classic-datsun-240z-twin-turbo-carbon",
+  "link": "https://www.motor1.com/news/813889/datsun-s30-concept-blends-240z/",
+  "source": "Motor1",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "Toyota SEMA Fuarı İçin Beş Woodland Konsepti Hazırladı",
+  "ozet": "Toyota'nın SEMA için hazırladığı beş konsept model, yükseltilmiş süspansiyonlar ve arazi lastikleriyle dikkat çekiyor.",
+  "puan": 5.5,
+  "grup": "toyota-woodland-sema-concepts",
+  "link": "https://www.motor1.com/news/813879/toyota-woodland-concepts-sema-2026/",
+  "source": "Motor1",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Nissan Rogue Hibrit İç Mekan Fotoğrafları",
+  "ozet": "Yeni 2027 Nissan Rogue Hibrit modelinin iç tasarımını farklı açılardan inceleyin.",
+  "puan": 5.0,
+  "grup": "nissan-rogue-hybrid-2027",
+  "link": "https://www.caranddriver.com/photos/a74283521/2027-nissan-rogue-hybrid-drive-interior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "Sürüş İzlenimi: 2027 Nissan Rogue Hibrit",
+  "ozet": "Nissan'ın e-Power hibrit güç ünitesi, Rogue modelini sınıfının en iddialı oyuncularından biri haline getiriyor.",
+  "puan": 6.5,
+  "grup": "nissan-rogue-hybrid-2027",
+  "link": "https://www.caranddriver.com/reviews/a74276638/2027-nissan-rogue-hybrid-drive/",
+  "source": "Car and Driver",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Nissan Rogue Hibrit Dış Tasarım Fotoğrafları",
+  "ozet": "2027 Nissan Rogue Hibrit'in dış tasarım detaylarını ve hatlarını farklı açılardan keşfedin.",
+  "puan": 5.0,
+  "grup": "nissan-rogue-hybrid-2027",
+  "link": "https://www.caranddriver.com/photos/a74283503/2027-nissan-rogue-hybrid-drive-exterior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "Toyota'nın SEMA İçin Hazırladığı Arazi Odaklı 5 Konsepti",
+  "ozet": "Crown Signia, bZ Woodland, Grand Highlander, RAV4 ve Sienna modelleri doğa maceraları için özel dokunuşlar aldı.",
+  "puan": 5.5,
+  "grup": "toyota-woodland-sema-concepts",
+  "link": "https://www.caranddriver.com/news/a74288931/toyota-grand-highlander-rav4-woodland-sema-concepts/",
+  "source": "Car and Driver",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "İngiltere'de Japonya'dan İthal İkinci El Otomobil Talebi Artıyor",
+  "ozet": "Artan nakliye maliyetlerine rağmen, sağdan direksiyonlu ve kaliteli olması nedeniyle Japonya'dan ithal edilen ikinci el araçlar İngiltere pazarında büyük ilgi görmeye devam ediyor.",
+  "puan": 3.5,
+  "grup": "uk-japanese-used-car-imports",
+  "link": "https://www.autocar.co.uk/car-news/used-cars/rise-jdm-import-japanese-used-cars-are-booming-uk",
+  "source": "Autocar",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Nissan Rogue Hibrit Sessizliğiyle Öne Çıkıyor",
+  "ozet": "Benzersiz güç aktarma organına sahip yeni 2027 Nissan Rogue Hibrit, sınıfındaki diğer araçlardan farklı bir sürüş deneyimi sunuyor.",
+  "puan": 5.0,
+  "grup": "nissan-rogue-hybrid-2027",
+  "link": "https://www.jalopnik.com/2301577/2027-nissan-rogue-hybrid-epower-first-drive-review/",
+  "source": "Jalopnik",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "GM, Sürücü Verilerinin Sigorta Fiyatlarında Kullanılması Nedeniyle 220 Milyon Dolar Ödeyecek",
+  "ozet": "Güvenli sürüşü teşvik etmek amacıyla başlatılan GM Smart Driver programı, milyonlarca dolarlık gizlilik ihlalleri nedeniyle büyük bir hukuki sorun haline geldi.",
+  "puan": 7.5,
+  "grup": "gm-driver-data-privacy-lawsuit",
+  "link": "https://www.autoblog.com/news/gm-to-pay-220-million-over-driver-data-used-to-set-insurance-rates",
+  "source": "Autoblog",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "V8 Motorlu Audi Quattro Restomod Tanıtıldı",
+  "ozet": "İngiliz bir otomobil üreticisi, efsanevi Audi Quattro'yu beş silindirli motor yerine 10.000 devirlik bir V8 ile yeniden hayata geçirdi.",
+  "puan": 7.0,
+  "grup": "audi-quattro-v8-restomod",
+  "link": "https://www.autoblog.com/news/this-audi-quattro-restomod-swaps-its-famous-five-cylinder-for-a-10000-rpm-v8",
+  "source": "Autoblog",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "Çalıntı Araç Dolandırıcılığı: Baba ve Oğula Suçlama",
+  "ozet": "Pensilvanya'da bir baba ve oğlu, Facebook Marketplace üzerinden yaklaşık 500.000 dolar değerinde çalıntı ve sahte ruhsatlı araç satmakla suçlanıyor.",
+  "puan": 4.0,
+  "grup": "stolen-car-facebook-marketplace-scam",
+  "link": "https://www.autoblog.com/news/father-and-son-charged-in-500000-stolen-car-scheme",
+  "source": "Autoblog",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "Bentley'nin İlk Elektrikli Aracı Zorlu Testlerden Geçti",
+  "ozet": "Kapsamlı test süreçleri, Bentley Torcal'ın batarya, yazılım ve yapısal dayanıklılığını zorlu iklimlerde ve yüksek rakımlarda doğruladı.",
+  "puan": 8.0,
+  "grup": "bentley-first-ev-extreme-testing",
+  "link": "https://www.motor1.com/news/813869/bentley-torcal-passes-a-million/",
+  "source": "Motor1",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "Dodge Charger Daytona EV'nin Kiralama Maliyeti Çok Yüksek",
+  "ozet": "Dodge Charger Daytona kağıt üzerinde benzinli kardeşine yakın görünse de, kiralama söz konusu olduğunda aradaki fiyat farkı katlanıyor.",
+  "puan": 4.5,
+  "grup": "dodge-charger-ev-lease-deal-criticism",
+  "link": "https://www.autoblog.com/news/dodge-charger-daytona-ev-costs-103-more-to-lease-than-gas-scat-pack",
+  "source": "Autoblog",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "Volkswagen Mali Sıkıntılar Nedeniyle Elektrikli Golf Gelişimini Askıya Aldı",
+  "ozet": "Artan finansal baskılar ve yatırım önceliklerinin yeniden gözden geçirilmesi nedeniyle VW, ID. Golf projesini erteleme kararı aldı.",
+  "puan": 7.5,
+  "grup": "volkswagen-electric-golf-paused",
+  "link": "https://www.motor1.com/news/813853/volkswagen-electric-golf-development-paused/",
+  "source": "Motor1",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ariel Modelleri Sonunda ABD Pazarına Giriş Yapıyor",
+  "ozet": "Forman Motorworks, Ariel Atom ve Nomad modellerini ABD'de şasi halinde satışa sunarak performans tutkunlarıyla buluşturuyor.",
+  "puan": 6.0,
+  "grup": "ariel-atom-nomad-us-launch",
+  "link": "https://www.motor1.com/news/813846/ariel-extreme-cars-finally-coming/",
+  "source": "Motor1",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "Geely, 2027'de İngiltere'de Satışlarını Artırmayı Hedefliyor",
+  "ozet": "Yeni modelleri ve filo odaklı stratejisiyle Çinli marka Geely, gelecek yıl İngiltere'deki satış hacmini iki katından fazla artırmayı amaçlıyor.",
+  "puan": 5.5,
+  "grup": "chinese-geely-cars-us-market",
+  "link": "https://www.autocar.co.uk/car-news/business/geely-chases-chery-plan-46000-uk-sales-2027",
+  "source": "Autocar",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "Abt, Audi RS5'i 709 Beygirlik Canavara Dönüştürdü",
+  "ozet": "Audi RS5 Avant tabanlı RS5-R, 709 beygir güç, yaklaşık 200.000 dolarlık etiket fiyatı ve 120 adetlik sınırlı üretim adediyle geliyor.",
+  "puan": 7.0,
+  "grup": "abt-audi-rs5-709hp-tuning",
+  "link": "https://www.motor1.com/news/813837/abt-audi-rs5-r-wagon/",
+  "source": "Motor1",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "Kaliforniya İçin Kış Hava Durumu Uyarısı Yapıldı",
+  "ozet": "Hafta sonu yüksek kesimlerde etkili olması beklenen kar yağışı ve kuvvetli rüzgarlar nedeniyle sürücülere zincir ve kış lastiği uyarısında bulunuldu.",
+  "puan": 3.0,
+  "grup": "drivers-bad-weather-driving-experiences",
+  "link": "https://www.autoblog.com/news/winter-weather-advisory-issued-for-up-to-12-inches-of-snow-and-50-mph-gusts-this-weekend",
+  "source": "Autoblog",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "Toyota ve Waymo Sürücüsüz bZ4X Filosu İçin Güçlerini Birleştirdi",
+  "ozet": "Fabrika çıkışlı Toyota bZ4X robotaksiler, özel araç planlarından önce 2027 yılında Japonya'da test edilmeye başlanacak.",
+  "puan": 8.5,
+  "grup": "toyota-waymo-driverless-bz4x-fleet",
+  "link": "https://www.motor1.com/news/813829/toyota-bz4x-waymo-next-robotaxi/",
+  "source": "Motor1",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "Alpine Yeni Bir Benzinli Spor Otomobil İçin Kapıyı Aralık Bıraktı",
+  "ozet": "Marka yöneticileri, gelecekte içten yanmalı motorlu yeni bir spor otomobilin üretilme ihtimalinin tamamen ortadan kalkmadığını belirtti.",
+  "puan": 6.0,
+  "grup": "alpine-gas-sports-car-possibility",
+  "link": "https://www.motor1.com/news/813824/new-gas-alpine-a110-possible/",
+  "source": "Motor1",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "Volkswagen Çin'de Geliştirilen Teknolojileri Küresel Çapta Kullanacak",
+  "ozet": "Strateji değişikliğine giden Volkswagen, Çin'de geliştirilen elektronik mimariyi Avrupa ve Küresel Güney pazarlarındaki yeni nesil araçlarında değerlendirecek.",
+  "puan": 7.5,
+  "grup": "volkswagen-china-ev-software-partnership",
+  "link": "https://www.motor1.com/news/813818/volkswagen-taking-china-tech-global/",
+  "source": "Motor1",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Yılın Otomobili Finalistlerinin Tamamı Elektrikli",
+  "ozet": "Altı yılı aşkın süredir düzenlenen Yılın Otomobili (COTY) yarışmasında ilk kez finalistlerin tamamı tamamen elektrikli araçlardan oluşuyor.",
+  "puan": 6.5,
+  "grup": "car-of-the-year-2027-ev-finalists",
+  "link": "https://www.autocar.co.uk/opinion/new-cars/car-year-2027-seven-cars-running-are-evs",
+  "source": "Autocar",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "Cupra Raval ile Kompakt Sınıfta Elektrikli Atılım",
+  "ozet": "Volkswagen Grubu'nun İspanyol markası Cupra, uygun fiyatlı küçük elektrikli araç pazarına yönelik stratejisini Raval modeliyle genişletiyor.",
+  "puan": 6.0,
+  "grup": "cupra-raval-ev-launch",
+  "link": "https://www.autocar.co.uk/car-review/cupra/raval",
+  "source": "Autocar",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "araba",
+  "baslik": "Aston Martin Finansal Zarar Etmeye Devam Ediyor",
+  "ozet": "Satışlardaki artışa rağmen, büyüyen borçlar ve artan finansman maliyetleri Aston Martin'in toparlanma sürecini zorlaştırmaya devam ediyor.",
+  "puan": 6.5,
+  "grup": "aston-martin-financial-losses",
+  "link": "https://www.motor1.com/news/813805/aston-martin-keeps-losing-money/",
+  "source": "Motor1",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "f1",
+  "baslik": "Audi ve Haas Orta Sıra Mücadelesinde Karşı Karşıya",
+  "ozet": "Nico Hulkenberg, Audi'nin Meksika'daki sıkı orta sıra mücadelesinde kusursuz olması gerektiğini belirtirken, Gabriel Bortoleto Haas ile olan puan farkını kapatabileceklerinden emin.",
+  "puan": 4.5,
+  "grup": "audi-haas-midfield-battle-mexico",
+  "link": "https://www.formula1.com/en/latest/article/hulkenberg-believes-midfield-battle-is-on-a-knifes-edge-as-audi-target-haas-in-mexico.4bLtkwTVJwOHEEUjCzTLp1",
+  "source": "Formula1.com",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "f1",
+  "baslik": "Formula 1 Tarihindeki En Eğlenceli Şakalar",
+  "ozet": "Ayrton Senna, Michael Schumacher, Max Verstappen ve Kimi Antonelli gibi isimlerin yer aldığı en komik F1 şakalarını keşfedin.",
+  "puan": 2.0,
+  "grup": "f1-history-funny-pranks",
+  "link": "https://www.formula1.com/en/latest/article/practical-jokes-and-paddock-mischief-halloween-inspiration-with-f1s-greatest-pranks.4iwxlYilplMbe2OgWdzbbs",
+  "source": "Formula1.com",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "f1",
+  "baslik": "Beat Zehnder 2026 Sezonu Sonunda Audi'den Ayrılıyor",
+  "ozet": "Sauber'in deneyimli mühendisi ve uzun süredir takım menajerliği yapan Beat Zehnder, yıl sonunda Audi takımından ayrılacak.",
+  "puan": 6.0,
+  "grup": "beat-zehnder-audi-exit",
+  "link": "https://www.formula1.com/en/latest/article/sauber-veteran-zehnder-to-leave-audi-at-end-of-2026.4a26d2DMBeYhGUkbdd8xCN",
+  "source": "Formula1.com",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ollie Bearman'dan 2027 Geleceği Açıklaması",
+  "ozet": "Ollie Bearman, henüz resmi bir duyuru yapılmamış olsa da 2027'de Haas ile devam etmek istediğini açıkça belirtti.",
+  "puan": 5.0,
+  "grup": "bearman-haas-2027-contract",
+  "link": "https://www.formula1.com/en/latest/article/clear-i-want-to-continue-with-haas-bearman-offers-update-on-f1-future-ahead-of-mexico-city-gp.JM5Cf94lnTraFxuKBR8nx",
+  "source": "Formula1.com",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "f1",
+  "baslik": "Isack Hadjar Red Bull'un Zayıf Yönüne İşaret Etti",
+  "ozet": "Isack Hadjar, Meksika Grand Prix'si öncesinde Red Bull'un zaferler için mücadele etmek adına geliştirmesi gereken alanı belirledi.",
+  "puan": 4.5,
+  "grup": "hadjar-red-bull-weakness-mexico",
+  "link": "https://www.formula1.com/en/latest/article/nothing-could-be-done-hadjar-identifies-the-weakness-red-bull-still-suffer-from.Se87vcJiXrG3Qd1WJMPfi",
+  "source": "Formula1.com",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "f1",
+  "baslik": "Sergio Perez Meksika Grand Prix'sinde 300. Yarışına Çıkıyor",
+  "ozet": "Sergio Perez, Meksika'daki ev sahibi yarışında kariyerinin 300. Formula 1 yarışına çıkmaya hazırlanıyor.",
+  "puan": 6.5,
+  "grup": "perez-300th-f1-race-mexico",
+  "link": "https://www.formula1.com/en/latest/article/why-sergio-perez-means-so-much-to-mexico-as-he-celebrates-his-300th-grand-prix.55aJ3d90HUJ8smyvsIZtsr",
+  "source": "Formula1.com",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "f1",
+  "baslik": "Daniel Ricciardo'ya Göre Antonelli'nin Sırrı Cehalet",
+  "ozet": "Daniel Ricciardo, Kimi Antonelli'nin gençliği ve masumiyetinin bu sezonki başarısının arkasındaki en büyük güç olduğunu düşünüyor.",
+  "puan": 5.0,
+  "grup": "antonelli-ricciardo-success-mexico",
+  "link": "https://www.autosport.com/f1/news/why-ignorance-is-a-superpower-for-antonelli-in-f1/10869685/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "f1",
+  "baslik": "Daniel Ricciardo: Antonelli İçin Cehalet Bir Süper Güç",
+  "ozet": "Daniel Ricciardo, Kimi Antonelli'nin yaşı ve masumiyetinin 2026 sezonundaki başarısını getirdiğini ifade etti.",
+  "puan": 5.0,
+  "grup": "antonelli-ricciardo-success-mexico",
+  "link": "https://www.motorsport.com/f1/news/why-ignorance-is-a-superpower-for-kimi-antonelli-according-to-daniel-ricciardo/10869339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika'da Çaylak Pilotlar İçin Kritik İlk Antrenman",
+  "ozet": "Meksika GP'sindeki ilk antrenman seansında piste çıkacak üç çaylak pilot için sürücü pazarında önemli bir fırsat bulunuyor.",
+  "puan": 4.0,
+  "grup": "mexico-gp-fp1-rookies",
+  "link": "https://www.the-race.com/formula-1/three-mexico-fp1-changes-with-high-driver-market-stakes/",
+  "source": "The Race",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen ve Ricciardo'nun Le Mans Buluşmasının Önündeki Engeller",
+  "ozet": "Daniel Ricciardo kariyerini Max Verstappen ile Le Mans'ta bitirmek isterken, Verstappen bunun ne kadar uygulanabilir olduğundan emin değil.",
+  "puan": 3.0,
+  "grup": "daniel-ricciardo-le-mans-verstappen",
+  "link": "https://www.the-race.com/formula-1/the-bummer-hurdle-to-a-verstappen-ricciardo-le-mans-reunion/",
+  "source": "The Race",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "f1",
+  "baslik": "Isack Hadjar: Red Bull Eleştirilerimden Pişmanım",
+  "ozet": "ABD GP sonrası Red Bull'un operasyonlarını eleştiren Isack Hadjar, bazı şeyleri kendine saklaması gerektiğini itiraf etti.",
+  "puan": 5.5,
+  "grup": "hadjar-red-bull-criticism-us",
+  "link": "https://www.motorsport.com/f1/news/isack-hadjar-admits-after-criticising-red-bull-theres-stuff-that-i-should-have-kept-for-myself/10869496/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "f1",
+  "baslik": "Alonso'nun Sürücü Standartları Eleştirisine Rakiplerinden Yanıt",
+  "ozet": "Fernando Alonso'nun gridin üçte birinin sürüş standartlarının çok düşük olduğu yönündeki görüşü diğer pilotlar tarafından paylaşılmadı.",
+  "puan": 4.0,
+  "grup": "alonso-criticises-f1-driving-standards",
+  "link": "https://www.racefans.net/2026/10/30/theres-no-pay-drivers-now-alonsos-rivals-reject-his-criticism-of-one-third-of-the-grid/",
+  "source": "RaceFans",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "f1",
+  "baslik": "Sauber Efsanesi Beat Zehnder Audi'den Ayrılıyor",
+  "ozet": "Audi F1 takımı, kıdemli mühendis ve direktör Beat Zehnder'in 2026 sezonunun sonunda takımdan ayrılacağını açıkladı.",
+  "puan": 6.0,
+  "grup": "beat-zehnder-audi-exit",
+  "link": "https://www.the-race.com/formula-1/key-sauber-era-figure-to-leave-audi-f1-team/",
+  "source": "The Race",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika GP'si Takımlar İçin Neden Büyük Bilinmezler Barındırıyor?",
+  "ozet": "Deniz seviyesinden 2.286 metre yükseklikteki Autodromo Hermanos Rodriguez, ince hava nedeniyle güç ünitelerine ve turbolara büyük bir yük bindiriyor.",
+  "puan": 4.5,
+  "grup": "mexico-gp-altitude-challenges",
+  "link": "https://www.autosport.com/f1/news/why-f1-teams-and-manufacturers-face-more-unknowns-in-mexico-than-ever/10869626/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "f1",
+  "baslik": "Yeni Regülasyonlar Meksika GP'sini Daha Büyük Bir Meydan Okumaya Dönüştürüyor",
+  "ozet": "Yüksek rakım ve ince hava, yeni F1 kurallarıyla birlikte Meksika Grand Prix'sini takımlar için daha da zorlu kılıyor.",
+  "puan": 4.5,
+  "grup": "mexico-gp-altitude-challenges",
+  "link": "https://www.motorsport.com/f1/news/why-f1s-new-regulations-make-the-mexican-gp-an-even-bigger-challenge/10869622/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "f1",
+  "baslik": "Beat Zehnder 34 Yıllık Audi Kariyerini Noktalıyor",
+  "ozet": "Hinwil merkezli takımda 34 yıldır görev yapan eski takım menajeri Beat Zehnder, 2026 sezon sonunda ayrılıyor.",
+  "puan": 6.0,
+  "grup": "beat-zehnder-audi-exit",
+  "link": "https://www.autosport.com/f1/news/f1-stalwart-zehnder-set-for-audi-exit/10869600/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "f1",
+  "baslik": "Audi'den Ayrılacak Olan Beat Zehnder'e Veda Töreni",
+  "ozet": "Audi F1 takımı, uzun yıllardır emektar olan Beat Zehnder'in sezon sonunda takımdan ayrılacağını duyurarak teşekkür mesajı yayınladı.",
+  "puan": 6.0,
+  "grup": "beat-zehnder-audi-exit",
+  "link": "https://www.motorsport.com/f1/news/audi-pays-tribute-as-f1-stalwart-beat-zehnder-set-for-exit/10869594/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "f1",
+  "baslik": "Lewis Hamilton 2030'lu Yıllarda Bile Yarışabileceğini Söyledi",
+  "ozet": "Lewis Hamilton, mevcut Ferrari sözleşmesinin ötesine geçerek 2030'lu yıllarda bile Formula 1'de yarışmayı düşünebileceğini belirtti.",
+  "puan": 4.0,
+  "grup": "hamilton-f1-career-2030s",
+  "link": "https://www.the-race.com/formula-1/hamilton-f1-career-plans-2030-retirement-ferrari/",
+  "source": "The Race",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "f1",
+  "baslik": "George Russell'a Göre Ferrari'nin Meksika'da Avantajı Var",
+  "ozet": "George Russell, turbo tasarımı sayesinde Ferrari'nin Meksika Grand Prix'sinde önemli bir avantaja sahip olduğunu düşünüyor.",
+  "puan": 4.5,
+  "grup": "russell-ferrari-mexico-advantage",
+  "link": "https://www.motorsport.com/f1/news/george-russell-predicts-key-ferrari-advantage-at-f1-mexico-gp/10869473/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793369909.9628978
+ },
+ {
+  "cat": "f1",
+  "baslik": "Lando Norris: Unvanımı Kaybettiğim İçin Mutluyum",
+  "ozet": "Lando Norris, bu sezon harika bir performans sergileyen Kimi Antonelli'nin kendisinden unvanı almasından memnun olduğunu söyledi.",
+  "puan": 5.0,
+  "grup": "norris-antonelli-title-success",
+  "link": "https://www.racefans.net/2026/10/30/not-much-more-i-could-have-done-about-horrible-title-defence-norris/",
+  "source": "RaceFans",
+  "ts": 1793369909.9628978
  }
 ]
