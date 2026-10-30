@@ -1,506 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Ford'dan Hatalı Göstergeler Nedeniyle F-150 ve Super Duty Geri Çağırması",
-  "ozet": "Ford, hatalı analog göstergelerin yanlış hız okumaları sunabilmesi riski nedeniyle 102.159 adet F-150 ve Super Duty kamyoneti geri çağırıyor.",
-  "puan": 7.5,
-  "grup": "ford-truck-gauge-recall",
-  "link": "https://www.caranddriver.com/news/a74275121/2025-2026-ford-f150-super-duty-analog-gauge-recall/",
-  "source": "Car and Driver",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "2027 BMW X3 M50 Gücünü Artırdı",
-  "ozet": "BMW, 2027 model X3 M50'ye ekstra 44 beygir gücü ekleyerek ana rakibine göz kırpmasını sağladı ve başka güncellemeler de yaptı.",
-  "puan": 6.5,
-  "grup": "bmw-x3-m50-power-update",
-  "link": "https://www.jalopnik.com/2300256/bmw-x3-m50-increases-horsepower-by-44-in-2027/",
-  "source": "Jalopnik",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "Yeni Tesla Roadster'ın Retro-Fügürist Arayüzü",
-  "ozet": "Tesla, Roadster modelinin kırmızı grafikleri, siyah arka planı ve performans verileriyle dikkat çeken 80'ler esintili retro ekranını sergiledi.",
-  "puan": 7.0,
-  "grup": "tesla-roadster-retro-interface",
-  "link": "https://www.motor1.com/news/813597/tesla-roadster-reto-user-interface/",
-  "source": "Motor1",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "Elektrikli Crossover Pazarında Satış Yarışı",
-  "ozet": "Tesla Model Y elektrikli crossover segmentinde liderliğini korurken, başka bir rakip satışlarını yüzde 103 artırarak ilk 5'e girdi.",
-  "puan": 5.0,
-  "grup": "electric-crossover-sales-comparison",
-  "link": "https://www.autoblog.com/news/tesla-model-y-vs-hyundai-ioniq-5-vs-toyota-bz-sales",
-  "source": "Autoblog",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "Nadir 1969 Shelby GT500 Satışa Çıktı",
-  "ozet": "Sadece 1.100 adet üretilen 1969 Shelby GT500 fastback modellerinden biri, 12.283 mil göstergesinde ve nadir teknik özellikleriyle satışta.",
-  "puan": 6.0,
-  "grup": "1969-shelby-gt500-for-sale",
-  "link": "https://www.jalopnik.com/2298202/1969-shelby-gt500-for-sale-12283-miles-428-cobra-jet-v8/",
-  "source": "Jalopnik",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "Akron Kasabası Nasıl Dünyanın Lastik Başkenti Oldu?",
-  "ozet": "Ohio'daki Akron kasabası, dört büyük lastik devi sayesinde dünyanın kauçuk başkenti haline geldi ve bu imparatorluğun yükseliş ile düşüş hikayesi yaşandı.",
-  "puan": 3.0,
-  "grup": "akron-ohio-tire-capital-history",
-  "link": "https://www.motor1.com/features/813430/why-is-akron-ohio-rubber-capital-of-the-world/",
-  "source": "Motor1",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "Lüks Dünya Turu Gemisi Kamboçya'da Mahsur Kaldı",
-  "ozet": "Yüksek yakıt maliyetleri nedeniyle aylık masrafların katlanması sonucu lüks bir tur gemisi Kamboçya'da mahsur kalırken yolcular mağdur oldu.",
-  "puan": 3.0,
-  "grup": "luxury-cruise-stranded-fuel-costs",
-  "link": "https://www.jalopnik.com/2300053/luxury-around-the-world-cruise-stranded-in-cambodia-over-staggering-fuel-costs/",
-  "source": "Jalopnik",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "Toyota Crown Signia GT-S Konsepti Tanıtıldı",
-  "ozet": "Crown Signia GT-S Performans Konsepti, Toyota'nın sportif olmayan crossover modeline daha dinamik bir hava katıyor.",
-  "puan": 6.0,
-  "grup": "toyota-crown-signia-gts-concept",
-  "link": "https://www.jalopnik.com/2300031/toyota-crown-signia-gt-s-performance-concept-cool-design/",
-  "source": "Jalopnik",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "Bring a Trailer Başkanı'ndan Para Aklama İddialarına Yanıt",
-  "ozet": "Bring a Trailer Başkanı Howard Swig, sitedeki yüksek fiyatlı satışların para aklama iddialarıyla ilgili görüşlerini paylaştı.",
-  "puan": 3.0,
-  "grup": "bring-a-trailer-president-interview",
-  "link": "https://www.thedrive.com/news/bring-a-trailers-president-has-a-message-for-money-launderers",
-  "source": "The Drive",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "ABD'de Petrol ve Gaz Şirketleri İçin Metan Gazı Adımı",
-  "ozet": "Yönetim, sağlık etkilerine rağmen petrol ve gaz şirketlerinin atmosfere daha fazla metan pompalamasına izin vermeye hazırlanıyor.",
-  "puan": 4.0,
-  "grup": "us-methane-emissions-policy",
-  "link": "https://www.jalopnik.com/2299966/prepare-to-inhale-more-methane-under-trump-plan/",
-  "source": "Jalopnik",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "Bring a Trailer Fiyatları Neden Bu Kadar Yüksek?",
-  "ozet": "Bring a Trailer Başkanı Howard Swig, milyon dolarlık Ford GT satışları ve klasik araç fiyatlandırma trendleri hakkında açıklamalarda bulundu.",
-  "puan": 3.0,
-  "grup": "bring-a-trailer-president-interview",
-  "link": "https://www.thedrive.com/news/bring-a-trailer-sold-a-650000-acura-nsx-market-price-or-bat-price",
-  "source": "The Drive",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "Honda Passport Baja Yarışlarına Katılıyor",
-  "ozet": "Honda, 1.300 beygir gücündeki tam Trophy Truck donanımlı aracıyla 2027 Score Baja 500 yarışını hedefliyor.",
-  "puan": 6.0,
-  "grup": "honda-passport-baja-spec-trophy-truck",
-  "link": "https://www.motor1.com/news/813570/honda-passport-baja-spec-trophy/",
-  "source": "Motor1",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "Tesla Semi Kamyonlar Ana Akım İstasyonlarda Şarj Oluyor",
-  "ozet": "Pilot'un Georgia ve Kaliforniya'daki ilk 1.2 megavatlık Megacharger istasyonları hizmete girdi ve bunlar Batı Yakası dışındaki ilk halka açık Semi şarj noktaları oldu.",
-  "puan": 6.0,
-  "grup": "tesla-semi-megacharger-expansion",
-  "link": "https://www.thedrive.com/news/tesla-semis-are-now-charging-at-mainstream-truck-stops",
-  "source": "The Drive",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "2026 Yılının En Çok Satan Lüks Araçları",
-  "ozet": "BMW, Mercedes ve Lexus gibi markaların satış listelerindeki en popüler ilk 10 lüks model verilerle derlendi.",
-  "puan": 4.0,
-  "grup": "bestselling-luxury-vehicles-2026",
-  "link": "https://www.caranddriver.com/news/g71039041/bestselling-luxury-cars-2026/",
-  "source": "Car and Driver",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "2027 BMW iX3 ve Mercedes-Benz GLC400 Karşılaştırması",
-  "ozet": "Benzer amaçlara sahip bu iki yeni elektrikli SUV, sürüş dinamikleri ve kabin teknolojisi konularında farklı yaklaşımlar sergiliyor.",
-  "puan": 6.5,
-  "grup": "bmw-ix3-vs-mercedes-glc400-comparison",
-  "link": "https://www.caranddriver.com/reviews/comparison-test/a74205372/2027-bmw-ix3-vs-mercedes-benz-glc400-comparison-test/",
-  "source": "Car and Driver",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "Washington ve Oregon İçin Kış Hava Uyarısı",
-  "ozet": "Cascades Dağları'nda devam eden kar yağışı nedeniyle geçitlerde zincir kuralına uymayan sürücülere yüksek para cezaları uygulanıyor.",
-  "puan": 2.0,
-  "grup": "washington-winter-weather-i90",
-  "link": "https://www.autoblog.com/news/winter-weather-advisory-through-wednesday-night-up-to-6-inches-of-snow-in-2-states",
-  "source": "Autoblog",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "Bring a Trailer'ın Başarı Hikayesi ve Sektöre Etkisi",
-  "ozet": "Bring a Trailer Başkanı Howard Swig, sitenin Craigslist blogundan milyon dolarlık bir açık artırma devine nasıl dönüştüğünü anlattı.",
-  "puan": 3.0,
-  "grup": "bring-a-trailer-president-interview",
-  "link": "https://www.thedrive.com/podcast/bring-a-trailer-started-as-a-craigslist-blog-it-created-an-industry",
-  "source": "The Drive",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "Honda Accord İçin Kapsamlı Yenilikler Yolda",
-  "ozet": "Accord'un makyaj operasyonu yeni bir tasarım, güncellenmiş hibrit motorlar ve yüksek yapılı bir hatchback varyantını getirebilir.",
-  "puan": 6.0,
-  "grup": "honda-accord-refresh-rumor",
-  "link": "https://www.motor1.com/features/813473/2028-honda-accord-sedan-hatchback-specs-details-price/",
-  "source": "Motor1",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "2027 BMW X3 M50 Güç Artışı ve Yeni Görünüm Paketiyle Geliyor",
-  "ozet": "BMW, X3 M50'nin 3.0 litrelik çift turbo beslemeli sıralı altı silindirli motorundan 44 beygir daha fazla güç alarak toplam gücü 437 beygire çıkardı.",
-  "puan": 6.5,
-  "grup": "bmw-x3-m50-power-update",
-  "link": "https://www.caranddriver.com/news/a74272007/2027-bmw-x3-m50-power-appearance-package/",
-  "source": "Car and Driver",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Lexus TX Hibrit İncelemesi ve Özellikleri",
-  "ozet": "Lexus'un büyük hibrit SUV modeli TX'in teknik özellikleri, fiyatlandırma detayları ve sürüş izlenimleri incelendi.",
-  "puan": 5.0,
-  "grup": "lexus-tx-hybrid-review",
-  "link": "https://www.caranddriver.com/lexus/tx-hybrid-2027",
-  "source": "Car and Driver",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Kia EV9 Daha Fazla Standart Donanımla Geliyor",
-  "ozet": "2027 model Kia EV9, minimal fiyat artışlarıyla birlikte Land donanımında Nightfall paketini ve 516 lb-ft tork sunan geçici güç takviyesini standart olarak sunuyor.",
-  "puan": 5.5,
-  "grup": "kia-ev9-2027-standard-features",
-  "link": "https://www.caranddriver.com/news/a74272785/2027-kia-ev9-pricing-details/",
-  "source": "Car and Driver",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "FIA Başkanından F1 Pilotlarına Gelen Tehdit Açıklaması",
-  "ozet": "FIA Başkanı, F1 pilotlarının gelen kutularında binlerce ölüm tehdidi bulduğunu ve bu durumun hakemlerin istifasına yol açan karanlık bir boyutu olduğunu açıkladı.",
-  "puan": 7.5,
-  "grup": "fia-president-f1-driver-death-threats",
-  "link": "https://www.thedrive.com/news/13000-death-threats-in-an-f1-drivers-inbox-fia-president-gets-real-about-the-dark-side-of-fame",
-  "source": "The Drive",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "Honda Mühendisleri Arazi Sürüş Eğitiminden Geçi̇yor",
-  "ozet": "Honda, Baja yarışları ve şirket içi off-road okulu sayesinde arazi sürüşüne verdiği önemin karşılığını almaya devam ediyor.",
-  "puan": 5.0,
-  "grup": "honda-engineers-off-road-school",
-  "link": "https://www.thedrive.com/news/honda-sends-its-engineers-to-off-road-school-and-its-paying-off",
-  "source": "The Drive",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "Mini Yuvarlak Ekranlarından Vazgeçmeyecek",
-  "ozet": "Kullanımı zor olsa bile yuvarlak gösterge ve ekranlar, markanın başından beri kimliğinin bir parçası olmaya devam ediyor.",
-  "puan": 4.5,
-  "grup": "mini-round-screens-identity",
-  "link": "https://www.motor1.com/news/813427/mini-big-round-display-heritage/",
-  "source": "Motor1",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "GM, SUV Fabrikasını Hibrit Üretimine Hazırlıyor",
-  "ozet": "Elektrikli araç satışlarındaki düşüş nedeniyle Chevy Traverse modelini üreten Lansing Delta Township fabrikası hibrit araç üretimi için hazırlanıyor.",
-  "puan": 7.0,
-  "grup": "gm-suv-plant-hybrid-production",
-  "link": "https://www.autoblog.com/news/gm-preps-major-suv-plant-for-hybrids-as-ev-sales-slide",
-  "source": "Autoblog",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "Ucuz Piyasasından Alınan Ekranlarda Casus Yazılım Tehlikesi",
-  "ozet": "Bir kullanıcının ucuz araç içi multimedya ünitesinin yazılımında yaptığı inceleme, sistemin çeşitli casus yazılımlarla yüklü olduğunu ortaya koydu.",
-  "puan": 5.0,
-  "grup": "cheap-aftermarket-car-screens-spyware",
-  "link": "https://www.thedrive.com/news/cheap-aftermarket-head-units-are-loaded-with-spyware-by-the-way",
-  "source": "The Drive",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "GM Sonunda Hibrit Crossover Modelleri Üretecek",
-  "ozet": "General Motors ürün gamına hibrit crossover modellerini dahil etmeye hazırlanıyor.",
-  "puan": 6.5,
-  "grup": "gm-hybrid-crossovers-upcoming",
-  "link": "https://www.jalopnik.com/2299494/gm-finally-making-hybrid-crossovers/",
-  "source": "Jalopnik",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "Mercedes-Benz GLB 250 Hibrit Amerika'ya Gelebilir",
-  "ozet": "Mercedes-Benz, 228 beygirlik yeni hibrit GLB 250 varyantını Amerika pazarında satışa sunmayı değerlendiriyor.",
-  "puan": 5.5,
-  "grup": "mercedes-benz-glb250-hybrid-us",
-  "link": "https://www.autoblog.com/news/mercedes-benz-glb-250-may-bring-its-228-hp-engine-to-america",
-  "source": "Autoblog",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "Önceki Sahiplerin Otomobillerde Yaptığı Hatalar",
-  "ozet": "Okur otomobillerinde geçmiş sahiplerin yaptığı amatör tamiratlar ve ilginç modifikasyonlar ele alınıyor.",
-  "puan": 2.0,
-  "grup": "previous-owners-bad-car-decisions",
-  "link": "https://www.jalopnik.com/2299329/terrible-decisions-previous-owners-made-with-readers-cars/",
-  "source": "Jalopnik",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
-  "baslik": "İngiltere'den Akaryakıt Vergisi Dondurması ve EV Yatırımı",
-  "ozet": "Yeni şansölye John Healey tarafından açıklanan bütçede akaryakıt vergisindeki indirim 2027'ye kadar uzatılırken halka açık şarj için 100 milyon sterlin ayrıldı.",
-  "puan": 6.5,
-  "grup": "uk-budget-fuel-duty-freeze-ev-funding",
-  "link": "https://www.autocar.co.uk/car-news/consumer/autumn-budget-fuel-duty-frozen-and-%C2%A3100m-public-ev-charging",
-  "source": "Autocar",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "f1",
-  "baslik": "Meksika GP için bahis tahminleri",
-  "ozet": "Uzmanlar, Meksika Grand Prix'si için podyum ve ilk altı tahminlerini içeren beş aşamalı bir bahis kombinasyonu hazırladı.",
-  "puan": 2.0,
-  "grup": "mexico-gp-2026-betting-guide",
-  "link": "https://www.formula1.com/en/latest/article/our-early-bet-builder-selections-for-the-mexico-city-grand-prix.51flZXyQqpCzSgbwj71FiV",
-  "source": "Formula1.com",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "f1",
-  "baslik": "Meksika GP lastik hamurları belli oldu",
-  "ozet": "Pirelli, Autodromo Hermanos Rodriguez pistinde düzenlenecek Meksika Grand Prix'si için kullanılacak lastik hamurlarını açıkladı.",
-  "puan": 3.0,
-  "grup": "mexico-gp-2026-tyre-compounds",
-  "link": "https://www.formula1.com/en/latest/article/what-tyres-will-the-teams-and-drivers-have-for-the-2026-mexico-city-grand-prix.3a3o08HqrmdQ9IqXYUwJrH",
-  "source": "Formula1.com",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "f1",
-  "baslik": "Meksika GP hava durumu tahmini",
-  "ozet": "Autodromo Hermanos Rodriguez'de gerçekleştirilecek Meksika Grand Prix'si öncesinde hafta sonu hava durumu tahminleri paylaşıldı.",
-  "puan": 3.0,
-  "grup": "mexico-gp-2026-weather-forecast",
-  "link": "https://www.formula1.com/en/latest/article/what-is-the-weather-forecast-for-the-2026-mexico-city-grand-prix.3KktGrfJjMyHWilzlrQGK6",
-  "source": "Formula1.com",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "f1",
-  "baslik": "Meksika GP öncesi öne çıkan 5 konu",
-  "ozet": "Chris Medland, 2026 sezonunun 19. yarışı olan Meksika Grand Prix'si öncesinde paddock'taki en önemli gündem maddelerini değerlendirdi.",
-  "puan": 4.0,
-  "grup": "mexico-gp-2026-preview",
-  "link": "https://www.formula1.com/en/latest/article/its-race-week-5-storylines-were-excited-about-ahead-of-the-2026-mexico-city-grand-prix.3qhXiCGvBjL6deUeE7qpvT",
-  "source": "Formula1.com",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "f1",
-  "baslik": "Las Vegas GP için VIP seyahat ödülü",
-  "ozet": "Formula 1, taraftarların Las Vegas Grand Prix'sine VIP seyahat kazanabileceği bir yarışma başlattı.",
-  "puan": 1.5,
-  "grup": "las-vegas-gp-fan-competition",
-  "link": "https://www.formula1.com/en/latest/article/think-youre-fan1-win-a-vip-trip-to-las-vegas-6.3X254pEwzMITS11jVkMZAp",
-  "source": "Formula1.com",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "f1",
-  "baslik": "Meksika GP'de strateji ve performans",
-  "ozet": "Meksika Grand Prix'sinin yüksek irtifa ve değişken koşullarında pilotların ve stratejistlerin karar verme süreçleri inceleniyor.",
-  "puan": 4.0,
-  "grup": "mexico-gp-2026-strategy-analysis",
-  "link": "https://www.formula1.com/en/latest/article/the-risk-perspective-how-f1-drivers-engineers-and-strategists-tackle-the-mexico-city-grand-prix.B8P8xr5i1sPDgQOmL7hzs",
-  "source": "Formula1.com",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "f1",
-  "baslik": "Bottas'ın Cadillac geleceği belirsiz",
-  "ozet": "Cadillac, Valtteri Bottas'ın sözleşmesindeki 2027 opsiyonunu henüz kullanmadı, bu durum pilotun geleceği hakkında soru işaretleri yaratıyor.",
-  "puan": 6.5,
-  "grup": "bottas-cadillac-seat-2027",
-  "link": "https://www.formula1.com/en/latest/article/analysis-what-does-the-future-hold-for-bottas-at-cadillac.1KzNAtutw1HxVernUWD5TG",
-  "source": "Formula1.com",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "f1",
-  "baslik": "Cadillac'ın Perez kararı analiz edildi",
-  "ozet": "Lawrence Barretto, Cadillac'ın Sergio Perez ile sözleşme uzatma kararının arkasındaki stratejik nedenleri değerlendiriyor.",
-  "puan": 7.0,
-  "grup": "perez-cadillac-contract-2029",
-  "link": "https://www.formula1.com/en/latest/article/analysis-why-cadillac-moved-quickly-to-secure-perezs-f1-future.4SIs2e4heBk8BrUrsodtaX",
-  "source": "Formula1.com",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "f1",
-  "baslik": "Perez, Cadillac ile 2029'a kadar uzattı",
-  "ozet": "Sergio Perez, Cadillac Formula 1 takımıyla olan sözleşmesini en az 2029 sezonunun sonuna kadar uzattığını açıkladı.",
-  "puan": 8.5,
-  "grup": "perez-cadillac-contract-2029",
-  "link": "https://www.formula1.com/en/latest/article/perez-signs-contract-extension-to-remain-at-cadillac-until-at-least-2029.4oF3HFX8tK9qTWvU7wAXHM",
-  "source": "Formula1.com",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "f1",
-  "baslik": "F1'den ilk Sosyal Etki Raporu",
-  "ozet": "Formula 1, ilk kapsamlı sosyal etki raporunu yayınladı ve mühendislik burs programına 2.4 milyon sterlinlik ek yatırım yaptı.",
-  "puan": 3.5,
-  "grup": "f1-social-impact-report",
-  "link": "https://www.formula1.com/en/latest/article/formula-1-publishes-first-sport-wide-social-impact-report-and-renews-gbp2-4-million-engineering-scholarship-programme.2SBEfFCzB54FXnwTb6COdW",
-  "source": "Formula1.com",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "f1",
-  "baslik": "Christian Horner'dan Red Bull ayrılığı açıklaması",
-  "ozet": "Christian Horner, 2025 yılında Red Bull'dan ayrılışına yol açan süreç ve perde arkasındaki olaylar hakkında duygusal bir röportaj verdi.",
-  "puan": 7.5,
-  "grup": "christian-horner-red-bull-exit",
-  "link": "https://www.motorsport.com/f1/news/christian-horner-drops-a-124-win-reality-check-on-the-execs-who-fired-him/10869043/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "f1",
-  "baslik": "Meksika GP'de dikkat edilmesi gerekenler",
-  "ozet": "Austin'deki zaferinin ardından Kimi Antonelli'nin formda olduğu Meksika Grand Prix'si öncesi izlenmesi gereken beş ana başlık.",
-  "puan": 4.5,
-  "grup": "mexico-gp-2026-preview",
-  "link": "https://www.motorsport.com/f1/news/five-things-to-look-out-for-at-the-f1-mexico-gp/10868922/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "f1",
-  "baslik": "Verstappen Meksika'da 1. antrenmanda yok",
-  "ozet": "Red Bull, çaylak pilot kotasını doldurmak amacıyla Max Verstappen'i Meksika GP'nin ilk antrenman seansında dinlendirecek.",
-  "puan": 5.0,
-  "grup": "mexico-gp-2026-fp1-rookie",
-  "link": "https://www.motorsport.com/f1/news/max-verstappen-sits-out-for-red-bull-in-mexico-gp-fp1/10869125/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "f1",
-  "baslik": "F1 sosyal etki raporu ve burs yenilemesi",
-  "ozet": "Formula 1, sosyal etki raporunu yayınlarken mühendislik burs programını üç yıl daha uzatma kararı aldı.",
-  "puan": 3.5,
-  "grup": "f1-social-impact-report",
-  "link": "https://www.autosport.com/f1/news/f1-publishes-first-social-impact-report-key-student-scholarship-renewed/10869116/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "f1",
-  "baslik": "Perez'in yeni Cadillac sözleşmesi",
-  "ozet": "Sergio Perez, kendi evindeki 300. yarışına çıkmadan hemen önce Cadillac ile 2029'a kadar sürecek yeni bir sözleşme imzaladı.",
-  "puan": 8.5,
-  "grup": "perez-cadillac-contract-2029",
-  "link": "https://www.racefans.net/2026/10/28/new-contract-to-keep-perez-racing-for-cadillac-until-at-least-2029/",
-  "source": "RaceFans",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "f1",
-  "baslik": "F1 burs programına 2.4 milyon sterlin",
-  "ozet": "Formula 1, sosyal etki raporuyla birlikte mühendislik burslarına 2.4 milyon sterlinlik yeni bir finansman sağladığını duyurdu.",
-  "puan": 3.5,
-  "grup": "f1-social-impact-report",
-  "link": "https://www.the-race.com/business/f1-renews-engineering-scholarships-first-social-impact-report-published/",
-  "source": "The Race",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "f1",
-  "baslik": "F1'in sosyal etki raporu yayınlandı",
-  "ozet": "Formula 1, dünya genelinde yarım milyondan fazla gence ulaşan programlarını içeren ilk sosyal etki raporunu paylaştı.",
-  "puan": 3.5,
-  "grup": "f1-social-impact-report",
-  "link": "https://www.motorsport.com/f1/news/f1-publishes-first-social-impact-report-key-student-scholarship-renewed/10869086/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "f1",
-  "baslik": "Perez, Cadillac ile 2029'a kadar devam edecek",
-  "ozet": "Red Bull'dan ayrıldıktan sonra Cadillac'a katılan Sergio Perez, takımla olan sözleşmesini 2029'a kadar uzatarak geleceğini garanti altına aldı.",
-  "puan": 8.5,
-  "grup": "perez-cadillac-contract-2029",
-  "link": "https://www.motorsport.com/f1/news/sergio-perez-signs-fresh-cadillac-f1-deal-until-2029/10869093/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "f1",
-  "baslik": "Cadillac'tan Perez'e uzun vadeli sözleşme",
-  "ozet": "Cadillac, Sergio Perez ile sözleşme yenileyerek Meksikalı pilotu on yılın sonuna kadar takımda tutacağını duyurdu.",
-  "puan": 8.5,
-  "grup": "perez-cadillac-contract-2029",
-  "link": "https://www.the-race.com/formula-1/cadillac-gives-perez-new-f1-deal-through-2029/",
-  "source": "The Race",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "f1",
-  "baslik": "2026 F1 pilotlarının sözleşme durumları",
-  "ozet": "2026 Formula 1 gridinde yer alan tüm pilotların mevcut sözleşmelerinin bitiş tarihlerini içeren güncel liste.",
-  "puan": 4.0,
-  "grup": "f1-2026-driver-contracts",
-  "link": "https://www.the-race.com/formula-1/f1-driver-contracts-when-do-they-expire/",
-  "source": "The Race",
-  "ts": 1793216942.6301944
- },
- {
-  "cat": "araba",
   "baslik": "Los Angeles Hız Kameralarını Aktif Hale Getirdi",
   "ozet": "Los Angeles, hız sınırını aşan sürücülere 500 dolara varan cezalar göndermeye hazırlanıyor. İlk aşamada uyarı gönderen kameralar, kısa süre içinde para cezası kesmeye başlayacak.",
   "puan": 5.5,
@@ -2998,5 +2498,265 @@
   "link": "https://www.motorsport.com/f1/news/sergio-perez-praises-colton-herta-impact-but-has-no-say-over-2027-cadillac-team-mate-choice/10869487/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1793388551.8671904
+ },
+ {
+  "cat": "araba",
+  "baslik": "Modern Araçlar Hacklenebilir mi?",
+  "ozet": "Anahtarsız araç hırsızlığından uzaktan ele geçirmelere kadar hackerların modern araçları nasıl hedef aldığı ve sürücülerin alabileceği önlemler ele alınıyor.",
+  "puan": 5.5,
+  "grup": "modern-car-hacking-security",
+  "link": "https://www.motor1.com/features/813703/can-someone-really-hack-your-car/",
+  "source": "Motor1",
+  "ts": 1793401736.5943801
+ },
+ {
+  "cat": "araba",
+  "baslik": "Waymo, Toyota Elektrikli SUV'yi Otonom Taksiye Dönüştürüyor",
+  "ozet": "Toyota bZ4X robotaksi, büyük pazarlara çıkmadan önce Japonya'da test ve validasyon süreçlerinden geçecek.",
+  "puan": 7.5,
+  "grup": "toyota-waymo-driverless-bz4x-fleet",
+  "link": "https://www.autoblog.com/news/waymo-is-turning-toyotas-electric-suv-into-a-driverless-robotaxi",
+  "source": "Autoblog",
+  "ts": 1793401736.5943801
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 BMW i3'ün İç Mekan Fotoğrafları",
+  "ozet": "2027 model BMW i3'ün iç mekanını her açısıyla inceleyin.",
+  "puan": 5.0,
+  "grup": "bmw-3-series-m350-i3-launch",
+  "link": "https://www.caranddriver.com/photos/a74273370/2027-bmw-i3-drive-interior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1793401736.5943801
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 BMW i3'ün Dış Tasarım Fotoğrafları",
+  "ozet": "2027 model BMW i3'ün dış tasarımını her açısıyla detaylıca görün.",
+  "puan": 5.0,
+  "grup": "bmw-3-series-m350-i3-launch",
+  "link": "https://www.caranddriver.com/photos/a74273300/2027-bmw-i3-drive-exterior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1793401736.5943801
+ },
+ {
+  "cat": "araba",
+  "baslik": "Tamamen Elektrikli 2027 BMW i3 Sürüş İzlenimi",
+  "ozet": "Çok farklı görünmese de elektrikli i3 sedan, standart 3 serisi kardeşlerinden bazı önemli noktalarda ayrılıyor.",
+  "puan": 6.0,
+  "grup": "bmw-3-series-m350-i3-launch",
+  "link": "https://www.caranddriver.com/reviews/a74275637/2027-bmw-i3-drive/",
+  "source": "Car and Driver",
+  "ts": 1793401736.5943801
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 BMW 3-Serisi Konfigürasyonu",
+  "ozet": "BMW'nin yeni spor sedanını kendi zevkinize göre nasıl yapılandırabileceğiniz inceleniyor.",
+  "puan": 4.5,
+  "grup": "bmw-3-series-2027-specs",
+  "link": "https://www.caranddriver.com/news/a74297968/2027-bmw-3-series-build-price-spec/",
+  "source": "Car and Driver",
+  "ts": 1793401736.5943801
+ },
+ {
+  "cat": "araba",
+  "baslik": "Lamborghini Temerario'ya Çift Renk Makyajı",
+  "ozet": "Lamborghini, yeni hibrit süper otomobilini siyah detaylar ve özel özelliklerle eşleştirilen beş farklı dış renk kombinasyonuyla sunuyor.",
+  "puan": 8.0,
+  "grup": "lamborghini-temerario-tettonero",
+  "link": "https://www.autoblog.com/news/lamborghini-temerario-gets-a-wild-two-tone-makeover-in-five-colors",
+  "source": "Autoblog",
+  "ts": 1793401736.5943801
+ },
+ {
+  "cat": "araba",
+  "baslik": "FAA, Boeing 737 Max 10'a Onay Verdi",
+  "ozet": "Beş yıllık bekleyişin ardından Federal Havacılık İdaresi, Boeing'in 737 Max ailesinin son üyesini ticari teslimatlar için onayladı.",
+  "puan": 7.0,
+  "grup": "boeing-737-max-10-faa-certification",
+  "link": "https://www.jalopnik.com/2300336/faa-certifies-boeing-737-max-10-for-delivery/",
+  "source": "Jalopnik",
+  "ts": 1793401736.5943801
+ },
+ {
+  "cat": "araba",
+  "baslik": "GM Sürücü Verilerini Sattığı İçin Cezalandırıldı",
+  "ozet": "Otom üreticisi, 36 eyaletle yapılan anlaşma kapsamında 220 milyon dolar ödemek ve yeni gizlilik değerlendirmeleri uygulamak zorunda.",
+  "puan": 8.0,
+  "grup": "gm-driver-data-privacy-lawsuit",
+  "link": "https://www.motor1.com/news/813942/general-motors-privacy-settlement-36-states/",
+  "source": "Motor1",
+  "ts": 1793401736.5943801
+ },
+ {
+  "cat": "araba",
+  "baslik": "Rivian R2 Satışları R1 Modellerini Geride Bıraktı",
+  "ozet": "Güçlü satışlar, Rivian'ın şu anda yalnızca en pahalı model olan 59.485 dolarlık R2 Performance'ı sunmasına rağmen gerçekleşti.",
+  "puan": 6.5,
+  "grup": "rivian-r2-sales-strong",
+  "link": "https://www.caranddriver.com/news/a74298144/rivian-r2-strong-sales-start/",
+  "source": "Car and Driver",
+  "ts": 1793401736.5943801
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mate Rimac Çalınan Bugatti Chiron'unu Takip Etti",
+  "ozet": "Rimac merkezinden anahtarları üzerinde unutulan Chiron'u çalan hırsız Hırvatistan'dan Avusturya'ya kadar takip edilerek yakalandı.",
+  "puan": 7.5,
+  "grup": "bugatti-chiron-ceo-stolen-recovered",
+  "link": "https://www.jalopnik.com/2302848/mate-rimac-chased-his-stolen-bugatti-chiron-across-border-in-911/",
+  "source": "Jalopnik",
+  "ts": 1793401736.5943801
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika GP 2. Antrenman Canlı Anlatımı",
+  "ozet": "2026 Meksika Grand Prix'si ikinci antrenman seansı canlı olarak aktarılıyor.",
+  "puan": 4.5,
+  "grup": "mexico-gp-fp2-live",
+  "link": "https://www.formula1.com/en/latest/article/live-coverage-second-practice-in-mexico-city-2026.3nb452uxR9tTmO83J73OeN",
+  "source": "Formula1.com",
+  "ts": 1793401736.5943801
+ },
+ {
+  "cat": "f1",
+  "baslik": "Bottas'a Meksika'da Güç Ünitesi Cezası",
+  "ozet": "Cadillac pilotu Valtteri Bottas, güç ünitesi elemanlarındaki değişiklikler nedeniyle Meksika GP'de grid cezası alacak.",
+  "puan": 7.5,
+  "grup": "bottas-mexico-gp-grid-penalty",
+  "link": "https://www.formula1.com/en/latest/article/bottas-set-for-grid-penalty-at-mexico-city-grand-prix-after-power-unit-changes.2J7hkopU6hrvgFvlK82cip",
+  "source": "Formula1.com",
+  "ts": 1793401736.5943801
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika GP FP1'de En Hızlısı Leclerc",
+  "ozet": "Meksika Grand Prix'sinin ilk antrenman seansında Charles Leclerc en hızlı turu atarken, Kimi Antonelli ve Fred Vesti onu takip etti.",
+  "puan": 5.0,
+  "grup": "mexico-gp-fp1-results",
+  "link": "https://www.formula1.com/en/latest/article/fp1-leclerc-leads-antonelli-in-mexico-city-as-new-faces-make-formula-1-debuts.5IkozqYxX25QgmGJqc0NlA",
+  "source": "Formula1.com",
+  "ts": 1793401736.5943801
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika GP FP2'de Leclerc Zirvede, Verstappen ve Lawson İncelemede",
+  "ozet": "Charles Leclerc ikinci antrenman seansında da en hızlı olurken, Lewis Hamilton aracındaki sorun nedeniyle yolda kaldı ve Verstappen ile Lawson arasında olay yaşandı.",
+  "puan": 5.5,
+  "grup": "mexico-gp-fp2-results",
+  "link": "https://www.racefans.net/2026/10/30/leclerc-fastest-again-verstappen-and-lawson-face-investigation-over-collision/",
+  "source": "RaceFans",
+  "ts": 1793401736.5943801
+ },
+ {
+  "cat": "f1",
+  "baslik": "Herta Süper Lisans İçin Bir Puan Eksik",
+  "ozet": "Colton Herta, IndyCar puan durumundaki hatalı bir yayın nedeniyle F1 süper lisansını almak için hâlâ bir puan eksikle karşı karşıya.",
+  "puan": 3.0,
+  "grup": "colton-herta-f1-superlicence",
+  "link": "https://www.the-race.com/formula-1/why-colton-herta-still-one-point-off-f1-superlicence/",
+  "source": "The Race",
+  "ts": 1793401736.5943801
+ },
+ {
+  "cat": "f1",
+  "baslik": "Oliver Bearman Sözleşme Söylentilerine Yanıt",
+  "ozet": "Haas takımının kadrosunu büyük ölçüde şekillendirmesine rağmen Oliver Bearman'ın sözleşme durumuna dair çıkan iddialar paddock'ta konuşuluyor.",
+  "puan": 4.0,
+  "grup": "bearman-haas-2027-contract",
+  "link": "https://www.motorsport.com/f1/news/whats-behind-absolute-nonsense-bearman-contract-rumours/10869831/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793401736.5943801
+ },
+ {
+  "cat": "f1",
+  "baslik": "Mekies'ten Horner'ın 'Ruhunu Kaybetti' İddiasına Yanıt",
+  "ozet": "Red Bull Takım Patronu Laurent Mekies, Christian Horner'ın takımın ruhunu kaybettiği yönündeki iddialarını reddederek yapılan çıkışı savundu.",
+  "puan": 4.5,
+  "grup": "mekies-responds-to-horner-red-bull",
+  "link": "https://www.motorsport.com/f1/news/red-bull-f1-boss-laurent-mekies-hits-back-at-christian-horners-lost-its-mojo-claim/10869825/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793401736.5943801
+ },
+ {
+  "cat": "f1",
+  "baslik": "Red Bull'un Yeni Rüzgar Tüneli 2027'de Faaliyete Geçecek",
+  "ozet": "Red Bull takım patronu Laurent Mekies, uzun süredir beklenen yeni rüzgar tünelinin 2027 sezonu içerisinde devreye gireceğini doğruladı.",
+  "puan": 5.0,
+  "grup": "red-bull-new-wind-tunnel-2027",
+  "link": "https://www.motorsport.com/f1/news/red-bull-reveals-when-its-long-awaited-new-f1-wind-tunnel-will-be-operational/10869820/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793401736.5943801
+ },
+ {
+  "cat": "f1",
+  "baslik": "Steiner'dan Russell Uyarı: 'Mercedes Değişiklik Yapabilir'",
+  "ozet": "Guenther Steiner, George Russell'ın önümüzdeki sezon da zorlanması halinde Mercedes'in pilot kadrosunda değişiklik yapabileceğini belirtti.",
+  "puan": 3.5,
+  "grup": "steiner-warns-mercedes-russell",
+  "link": "https://www.motorsport.com/f1/news/guenther-steiner-warns-mercedes-will-make-changes-if-george-russell-struggles-in-2027/10869809/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793401736.5943801
+ },
+ {
+  "cat": "f1",
+  "baslik": "Budkowski: Bottas Austin Gibi Performanslar Sergilemeli",
+  "ozet": "Cadillac takım patronu Marcin Budkowski, Valtteri Bottas'ın koltuğunu koruması için Austin'deki gibi hafta sonları geçirmesi gerektiğini söyledi.",
+  "puan": 4.5,
+  "grup": "bottas-cadillac-seat-budkowski",
+  "link": "https://www.racefans.net/2026/10/30/bottas-needs-to-do-more-weekends-like-austin-to-keep-cadillac-seat-says-budkowski/",
+  "source": "RaceFans",
+  "ts": 1793401736.5943801
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika GP FP1'de 10 Çaylak Piste Çıktı",
+  "ozet": "Meksika Grand Prix'sinin ilk antrenman seansında 10 çaylak pilot piste çıkarken, Charles Leclerc en hızlı isim oldu.",
+  "puan": 5.0,
+  "grup": "mexico-gp-fp1-rookies",
+  "link": "https://www.the-race.com/formula-1/what-happened-f1-2026-mexican-gp-first-practice/",
+  "source": "The Race",
+  "ts": 1793401736.5943801
+ },
+ {
+  "cat": "f1",
+  "baslik": "Leclerc Meksika'da İlk Antrenmanda Zirvede",
+  "ozet": "Charles Leclerc, Meksika Grand Prix'sinin açılış antrenman seansında en hızlı zamanı yaparak güne lider başladı.",
+  "puan": 5.0,
+  "grup": "mexico-gp-fp1-results",
+  "link": "https://www.racefans.net/2026/10/30/leclerc-puts-ferrari-on-top-in-practice-again-in-mexico/",
+  "source": "RaceFans",
+  "ts": 1793401736.5943801
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika GP FP1: Leclerc Antonelli'yi Geride Bıraktı",
+  "ozet": "On çaylak pilotun katıldığı ilk antrenman seansında Charles Leclerc, Kimi Antonelli'yi geçerek en hızlı turu attı.",
+  "puan": 5.0,
+  "grup": "mexico-gp-fp1-results",
+  "link": "https://www.autosport.com/f1/news/f1-mexico-gp-leclerc-beats-antonelli-to-top-fp1/10869791/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1793401736.5943801
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika GP FP1'de En Hızlı İsim Charles Leclerc",
+  "ozet": "Charles Leclerc, 10 çaylağın yer aldığı Meksika GP ilk antrenman seansında Kimi Antonelli'yi geride bırakarak zirveye yerleşti.",
+  "puan": 5.0,
+  "grup": "mexico-gp-fp1-results",
+  "link": "https://www.motorsport.com/f1/news/f1-mexico-gp-fp1-report-10869780/10869780/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793401736.5943801
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 Meksika GP Antrenman Sonuçları",
+  "ozet": "On pilotun ilk seans için ana kadrodaki isimlerin yerini aldığı Meksika Grand Prix'sinin antrenman sonuçları açıklandı.",
+  "puan": 4.5,
+  "grup": "mexico-gp-fp1-results",
+  "link": "https://www.the-race.com/formula-1/f1-2026-mexican-grand-prix-practice-results/",
+  "source": "The Race",
+  "ts": 1793401736.5943801
  }
 ]
