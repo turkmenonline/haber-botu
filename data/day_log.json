@@ -1,66 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Nissan Sentra Spec-V Konsepti Tanıtıldı",
-  "ozet": "Nissan, Sentra modelini 300 beygirlik performanslı bir versiyona dönüştüren yeni bir konsept tanıttı, ancak bu aracın üretime geçip geçmeyeceği belirsizliğini koruyor.",
-  "puan": 5.5,
-  "grup": "nissan-sentra-specv-concept-sema",
-  "link": "https://www.autoblog.com/news/nissan-just-turned-the-sentra-into-a-300-hp-gt-r-wannabe-with-a-huge-catch",
-  "source": "Autoblog",
-  "ts": 1793242551.504448
- },
- {
-  "cat": "araba",
-  "baslik": "Yeni Hyundai Ioniq 6 Fiyatıyla Dikkat Çekiyor",
-  "ozet": "Makyaşlanan aerodinamik elektrikli Hyundai Ioniq 6, 84 kWh bataryası ve 423 millik menziliyle İngiltere'de 33.240 sterlinlik rekabetçi bir fiyat etiketiyle satışa sunuldu.",
-  "puan": 6.0,
-  "grup": "hyundai-ioniq-6-facelift-price",
-  "link": "https://www.autocar.co.uk/car-news/new-cars/new-hyundai-ioniq-6-driven-423-mile-saloon-hatchback-money",
-  "source": "Autocar",
-  "ts": 1793242551.504448
- },
- {
-  "cat": "f1",
-  "baslik": "Ricciardo'dan Le Mans ve Verstappen Açıklaması",
-  "ozet": "Eski F1 pilotu Daniel Ricciardo, gelecekte Le Mans 24 Saat yarışına katılabileceğini ve eski takım arkadaşı Max Verstappen ile aynı aracı paylaşmak isteyeceğini belirtti.",
-  "puan": 3.5,
-  "grup": "daniel-ricciardo-le-mans-verstappen",
-  "link": "https://www.motorsport.com/f1/news/daniel-ricciardo-opens-door-to-racing-return-with-max-verstappen-at-le-mans/10869169/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793242551.504448
- },
- {
-  "cat": "f1",
-  "baslik": "Ricciardo'dan 2018 Red Bull Ayrılığı İtirafı",
-  "ozet": "Daniel Ricciardo, 2018 sezonunun sonunda Red Bull'dan ayrılmak yerine takımda kalmış olmayı dilediğini itiraf etti.",
-  "puan": 4.0,
-  "grup": "ricciardo-red-bull-2018-regret",
-  "link": "https://www.motorsport.com/f1/news/daniel-ricciardo-reveals-major-regret-over-2018-red-bull-departure/10869167/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793242551.504448
- },
- {
-  "cat": "f1",
-  "baslik": "FIA, Gelecek F1 Kuralları İçin AWS ile Anlaştı",
-  "ozet": "FIA, Formula 1'in yeni nesil araç kurallarını şekillendirmeye yardımcı olması için Amazon Web Services yapay zeka teknolojilerini kullanacak yeni bir küresel ortaklık imzaladı.",
-  "puan": 6.5,
-  "grup": "fia-aws-ai-f1-regulations",
-  "link": "https://www.motorsport.com/f1/news/fia-to-use-ai-to-help-shape-future-f1-regulations-in-new-aws-partnership/10869165/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793242551.504448
- },
- {
-  "cat": "f1",
-  "baslik": "Christian Horner'dan Eski Suçlama Açıklamaları",
-  "ozet": "Red Bull'daki görevinden ayrılışının ardından uzun süre sessiz kalan Christian Horner, geçmişteki uygunsuzluk iddialarına karşı röportajda açıklamalarda bulundu.",
-  "puan": 7.0,
-  "grup": "christian-horner-red-bull-exit",
-  "link": "https://www.motorsport.com/f1/news/christian-horner-finally-speaks-on-the-leaked-whatsapp-file-and-coercion-allegations/10869049/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793242551.504448
- },
- {
-  "cat": "araba",
   "baslik": "Volkswagen'e Göre Elektrikli Araçlar Benzinlilerden Daha Az Karlı",
   "ozet": "Volkswagen Grubu, artan elektrikli araç satışlarının şirketin karlılığı üzerinde baskı yarattığını ve içten yanmalı motorlu araçlara göre hala daha az karlı olduklarını açıkladı.",
   "puan": 7.0,
@@ -2898,5 +2838,125 @@
   "link": "https://www.motorsport.com/f1/news/f1-mexico-gp-fp2-report-10869841/10869841/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1793413789.514933
+ },
+ {
+  "cat": "araba",
+  "baslik": "Idaho'da Kış Fırtınası Uyarısı",
+  "ozet": "Idaho'daki State Highway 75 üzerinde hafta sonu boyunca yoğun kar yağışı ve şiddetli rüzgarlar bekleniyor, sürücüler çivili lastik kullanabiliyor.",
+  "puan": 3.5,
+  "grup": "drivers-bad-weather-driving-experiences",
+  "link": "https://www.autoblog.com/news/winter-weather-advisory-up-to-10-inches-of-snow-and-35-mph-gusts-through-sunday",
+  "source": "Autoblog",
+  "ts": 1793436467.901854
+ },
+ {
+  "cat": "araba",
+  "baslik": "Skoda Kodiaq Uzun Dönem Testi",
+  "ozet": "Geniş ve yetenekli yedi koltuklu Skoda Kodiaq, sadece bir SUV'den fazlası olduğunu ve pratikliğini bu uzun dönem testinde kanıtlıyor.",
+  "puan": 4.5,
+  "grup": "skoda-kodiaq-long-term-test",
+  "link": "https://www.autocar.co.uk/car-news/features/pick-hot-hatch-estate-our-skoda-kodiaq-isnt-just-suv",
+  "source": "Autocar",
+  "ts": 1793436467.901854
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen ve Lawson'a Meksika'da ceza",
+  "ozet": "Max Verstappen ve Liam Lawson, Meksika GP'nin ikinci antrenman seansındaki temasları nedeniyle hakemler tarafından grid cezasına çarptırıldı.",
+  "puan": 8.5,
+  "grup": "verstappen-lawson-mexico-clash",
+  "link": "https://www.formula1.com/en/latest/article/verstappen-and-lawson-get-grid-penalties-after-clumsy-mexico-city-practice-clash.2m2ey8Pl7g5IfQfGeepilD",
+  "source": "Formula1.com",
+  "ts": 1793436467.901854
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika'da Cuma günü takımların açıklamaları",
+  "ozet": "Takımlar ve pilotlar, 2026 Meksika GP öncesi Cuma günkü antrenman seanslarının ardından değerlendirmelerde bulundu.",
+  "puan": 4.5,
+  "grup": "mexico-gp-friday-team-reports",
+  "link": "https://www.formula1.com/en/latest/article/what-the-teams-said-friday-in-mexico-city-2026.6smOV3lTU4s76z0vrnd1RJ",
+  "source": "Formula1.com",
+  "ts": 1793436467.901854
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hadjar'a Meksika'da soruşturma",
+  "ozet": "Red Bull pilotu Isack Hadjar, Meksika Grand Prix'si padokundaki iddia edilen uygunsuz davranışları nedeniyle hakemler tarafından çağrıldı.",
+  "puan": 6.5,
+  "grup": "hadjar-paddock-misconduct-mexico",
+  "link": "https://www.racefans.net/2026/10/31/spotlight-hadjar-faces-investigation-over-alleged-misconduct-at-mexican-grand-prix/",
+  "source": "RaceFans",
+  "ts": 1793436467.901854
+ },
+ {
+  "cat": "f1",
+  "baslik": "Herta'nın Cadillac F1 testi ve performansı",
+  "ozet": "Colton Herta, süper lisans puanı konusundaki belirsizliğe rağmen gelecekteki olası Cadillac koltuğu için önemli bir test sürüşü gerçekleştirdi.",
+  "puan": 5.5,
+  "grup": "colton-herta-f1-superlicence",
+  "link": "https://www.the-race.com/formula-1/colton-herta-mexican-gp-fp1-cadillac-f1-audition/",
+  "source": "The Race",
+  "ts": 1793436467.901854
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika'da Ferrari en hızlısı",
+  "ozet": "Charles Leclerc Meksika'daki her iki antrenman seansında da zirvede yer alırken, uzun sürüşlerin temposu dikkat çekti.",
+  "puan": 5.0,
+  "grup": "mexico-gp-fp-ferrari-pace",
+  "link": "https://www.the-race.com/formula-1/ferrari-is-fastest-in-mexico-but-not-for-reasons-rivals-expected/",
+  "source": "The Race",
+  "ts": 1793436467.901854
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hakemlerden Verstappen ve Lawson'a ceza",
+  "ozet": "Max Verstappen ve Liam Lawson, Meksika'daki antrenman seansında yaşadıkları tartışmalı olay sonrasında cezalandırıldı.",
+  "puan": 8.5,
+  "grup": "verstappen-lawson-mexico-clash",
+  "link": "https://www.autosport.com/f1/news/max-verstappen-and-liam-lawson-handed-f1-mexico-gp-grid-penalties-after-practice-clash/10869942/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1793436467.901854
+ },
+ {
+  "cat": "f1",
+  "baslik": "Isack Hadjar hakemlere çağrıldı",
+  "ozet": "Red Bull genç pilotu Isack Hadjar, Meksika'daki padok olayları nedeniyle hakemlerin incelemesi altına girdi.",
+  "puan": 6.5,
+  "grup": "hadjar-paddock-misconduct-mexico",
+  "link": "https://www.the-race.com/formula-1/isack-hadjar-summoned-alleged-f1-paddock-misconduct/",
+  "source": "The Race",
+  "ts": 1793436467.901854
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen ve Lawson'a grid cezası",
+  "ozet": "İkili, Meksika'daki antrenman seansında yaşanan 'sakarca' temasın ardından grid cezası aldı.",
+  "puan": 8.5,
+  "grup": "verstappen-lawson-mexico-clash",
+  "link": "https://www.the-race.com/formula-1/verstappen-and-lawson-get-grid-drops-for-clumsy-mexico-clash/",
+  "source": "The Race",
+  "ts": 1793436467.901854
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antrenman kazası sonrası ceza",
+  "ozet": "Max Verstappen ve Liam Lawson, Meksika GP antrenmanlarında yaşadıkları temas nedeniyle hakemler tarafından cezalandırıldı.",
+  "puan": 8.5,
+  "grup": "verstappen-lawson-mexico-clash",
+  "link": "https://www.motorsport.com/f1/news/max-verstappen-and-liam-lawson-both-handed-grid-penalties-after-clash-in-mexico-f1-practice/10869933/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793436467.901854
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen ve Lawson'a antrenman cezası",
+  "ozet": "Meksika'daki ikinci antrenmanda çarpışan Max Verstappen ve Liam Lawson birer sıra grid cezası aldı.",
+  "puan": 8.5,
+  "grup": "verstappen-lawson-mexico-clash",
+  "link": "https://www.racefans.net/2026/10/30/verstappen-and-lawson-handed-one-place-grid-drops-for-practice-collision/",
+  "source": "RaceFans",
+  "ts": 1793436467.901854
  }
 ]
