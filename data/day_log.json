@@ -1,156 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Volkswagen'e Göre Elektrikli Araçlar Benzinlilerden Daha Az Karlı",
-  "ozet": "Volkswagen Grubu, artan elektrikli araç satışlarının şirketin karlılığı üzerinde baskı yarattığını ve içten yanmalı motorlu araçlara göre hala daha az karlı olduklarını açıkladı.",
-  "puan": 7.0,
-  "grup": "volkswagen-ev-profitability-pressures",
-  "link": "https://www.motor1.com/news/813667/vw-group-electric-cars-less-profitable/",
-  "source": "Motor1",
-  "ts": 1793267286.1501818
- },
- {
-  "cat": "araba",
-  "baslik": "Yoğun Kar Yağışı İçin Kış Fırtınası Uyarısı Yapıldı",
-  "ozet": "Cuma gününe kadar 15 inçe varan kar yağışı beklenen bölgede hafif karın ardından en yoğun dalganın gece saatlerinde geleceği ve görüş mesafesinin düşeceği bildirildi.",
-  "puan": 2.0,
-  "grup": "washington-winter-weather-i90",
-  "link": "https://www.autoblog.com/news/winter-storm-warning-issued-for-up-to-15-inches-of-snow-through-friday",
-  "source": "Autoblog",
-  "ts": 1793267286.1501818
- },
- {
-  "cat": "araba",
-  "baslik": "Audi, Scout Tabanlı Yeni Bir Arazi SUV Modeli Araştırıyor",
-  "ozet": "Amerikalı bir yetkili, Güney Carolina'da yılda 25.000 adetlik üretimin Audi ile bağlantılı olabileceğini ve markanın Scout tabanlı şasi üzerine kurulu bir arazi aracı planladığını belirtti.",
-  "puan": 7.5,
-  "grup": "audi-scout-based-offroad-suv",
-  "link": "https://www.motor1.com/news/813660/audi-scout-based-south-carolina/",
-  "source": "Motor1",
-  "ts": 1793267286.1501818
- },
- {
-  "cat": "araba",
-  "baslik": "Toyota'dan Yeni Nesil Hibrit Sistem ve Motor Mimarisi",
-  "ozet": "Tamamen yeni bir benzinli motor etrafında geliştirilen daha küçük ve hafif hibrit sistem, yüzde 15'ten fazla yakıt tasarrufu hedefliyor.",
-  "puan": 7.5,
-  "grup": "toyota-next-gen-hybrid-platform",
-  "link": "https://www.motor1.com/news/813639/toyota-new-platform-gas-engine/",
-  "source": "Motor1",
-  "ts": 1793267286.1501818
- },
- {
-  "cat": "araba",
-  "baslik": "Mitsubishi Outlander PHEV ile İngiltere Pazarına Geri Dönüyor",
-  "ozet": "Beş yıllık aranın ardından İngiltere pazarına dönen Mitsubishi, plug-in hibrit SUV modeli Outlander ile rekabete yeniden dahil oluyor.",
-  "puan": 5.0,
-  "grup": "mitsubishi-outlander-phev-uk-return",
-  "link": "https://www.autocar.co.uk/car-review/mitsubishi/outlander-phev",
-  "source": "Autocar",
-  "ts": 1793267286.1501818
- },
- {
-  "cat": "araba",
-  "baslik": "Nadir Bulunan 1928 Model Bentley Milyon Dolar Edebilir",
-  "ozet": "Vanden Plas gövde tasarımı, düşük üretim rakamları ve geçmişteki benzer açık artırma satışları sayesinde bu nadir Bentley'nin değeri yedi haneli rakamlara ulaşabilir.",
-  "puan": 4.5,
-  "grup": "rare-1928-bentley-barn-find",
-  "link": "https://www.motor1.com/news/813649/forgotten-1928-bentley-barn-find/",
-  "source": "Motor1",
-  "ts": 1793267286.1501818
- },
- {
-  "cat": "araba",
-  "baslik": "Ferrari 308 Tribute Manuel V8 ve Karbon Gövdeyle Dönüyor",
-  "ozet": "AC Motorsport, atmosferik V8 motor, klasik manuel şanzıman ve tam karbon fiber gövdeyle hafifliği ve yüksek devirli gücü bir araya getiriyor.",
-  "puan": 8.0,
-  "grup": "gruppo-four-ferrari-308-tribute",
-  "link": "https://www.motor1.com/news/813641/michelotto-gruppo-4-tributo-ferrari/",
-  "source": "Motor1",
-  "ts": 1793267286.1501818
- },
- {
-  "cat": "araba",
-  "baslik": "Yerden Yüksek Station Wagonlar Pazar Payı Arıyor",
-  "ozet": "Yeni Audi A6 Allroad, havalı süspansiyonu ve geniş çamurluklarıyla dikkat çekerken, SUV pazarının ezici üstünlüğüne karşı direnmeye çalışıyor.",
-  "puan": 5.0,
-  "grup": "audi-a6-allroad-estate-market",
-  "link": "https://www.autocar.co.uk/opinion/new-cars/how-jacked-estates-can-find-their-niche-last",
-  "source": "Autocar",
-  "ts": 1793267286.1501818
- },
- {
-  "cat": "f1",
-  "baslik": "Quiz: F1 '300 Kulübü' Hakkında Ne Biliyorsunuz?",
-  "ozet": "Sergio Perez'in bu hafta sonu kariyerindeki 300. Grand Prix'sine çıkacak olması şerefine F1'in 300 kulübündeki diğer pilotlar hakkında bir quiz hazırlandı.",
-  "puan": 1.5,
-  "grup": "mexico-gp-2026-fan-competition",
-  "link": "https://www.formula1.com/en/latest/article/quiz-how-much-do-you-know-about-the-drivers-in-the-f1-300-club.3MbaQSikVNjuvFSZHI8RwT",
-  "source": "Formula1.com",
-  "ts": 1793267286.1501818
- },
- {
-  "cat": "f1",
-  "baslik": "Sergio Perez Kariyerini Fotoğraflarla Değerlendiriyor",
-  "ozet": "Sergio Perez, Mexico City Grand Prix'sinde 300. F1 yarışına çıkarak Sebastian Vettel'i geride bırakıp tüm zamanlar listesinde yedinci sıraya yükseliyor.",
-  "puan": 4.5,
-  "grup": "perez-cadillac-contract-2029",
-  "link": "https://www.formula1.com/en/latest/article/exclusive-sergio-perez-reflects-on-his-f1-career-in-photos-as-he-reaches-300-grand-prix-starts.4c7PQiuN2WobXtsQ2tEeRw",
-  "source": "Formula1.com",
-  "ts": 1793267286.1501818
- },
- {
-  "cat": "f1",
-  "baslik": "Oscar Piastri'nin 2026 Sezonundaki Yeni Zorlukları",
-  "ozet": "Oscar Piastri, takım arkadaşı Lando Norris'e kıyasla 2026 McLaren aracıyla farklı zorluklar yaşıyor.",
-  "puan": 5.0,
-  "grup": "mclaren-mexican-gp-livery",
-  "link": "https://www.the-race.com/formula-1/superpower-neutered-piastris-fresh-f1-struggles-explained/",
-  "source": "The Race",
-  "ts": 1793267286.1501818
- },
- {
-  "cat": "f1",
-  "baslik": "Carlos Sainz: 'Uzayan Takvim F1'e İlgiyi Azaltıyor'",
-  "ozet": "Carlos Sainz, Formula 1 takviminin aşırı uzamasının taraftarların yarışlara daha az odaklanmasına neden olduğunu ve bunun ters tepki yarattığını belirtti.",
-  "puan": 4.0,
-  "grup": "f1-social-impact-report",
-  "link": "https://www.racefans.net/2026/10/29/fans-pay-a-bit-less-attention-to-formula-1-as-calendar-gets-longer-sainz/",
-  "source": "RaceFans",
-  "ts": 1793267286.1501818
- },
- {
-  "cat": "f1",
-  "baslik": "Christian Horner'dan 67 Milyonluk Red Bull Tazminatı Açıklaması",
-  "ozet": "Christian Horner, Red Bull'dan aldığı devasa tazminat sayesinde artık acilen Formula 1'e dönme ihtiyacı hissetmediğini ifade etti.",
-  "puan": 8.0,
-  "grup": "christian-horner-red-bull-exit",
-  "link": "https://www.motorsport.com/f1/news/will-christian-horner-buy-his-own-f1-team-the-sacked-boss-speaks-out/10869059/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793267286.1501818
- },
- {
-  "cat": "f1",
-  "baslik": "Mark Webber'in Ayrılığı ve Daniel Ricciardo Övgüsü",
-  "ozet": "Christian Horner, Mark Webber'in Red Bull'dan ayrılış sürecini eleştirirken Daniel Ricciardo'dan övgüyle bahsetti.",
-  "puan": 4.5,
-  "grup": "christian-horner-red-bull-exit",
-  "link": "https://www.motorsport.com/f1/news/horner-reflects-on-ricciardos-prime-red-bull-era-he-never-stopped-overtaking/10869056/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793267286.1501818
- },
- {
-  "cat": "f1",
-  "baslik": "Christian Horner: 'Netflix Beni Kötü Adam Yaptı'",
-  "ozet": "Christian Horner, Netflix'in 'Drive to Survive' serisinde kendisinin neden bilinçli olarak kötü karakter olarak gösterildiğini açıkladı.",
-  "puan": 3.5,
-  "grup": "christian-horner-red-bull-exit",
-  "link": "https://www.motorsport.com/f1/news/christian-horner-admits-netflix-hijacked-his-f1-reputation-i-was-the-villain/10869051/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793267286.1501818
- },
- {
-  "cat": "araba",
   "baslik": "İkinci El Porsche Cayenne Alınır mı?",
   "ozet": "Porsche Cayenne GTS; V8 gücü, spor otomobil sürüş dinamikleri ve günlük kullanım pratikliğiyle dikkat çeken cazip bir ikinci el seçeneğidir.",
   "puan": 3.0,
@@ -2958,5 +2808,365 @@
   "link": "https://www.racefans.net/2026/10/30/verstappen-and-lawson-handed-one-place-grid-drops-for-practice-collision/",
   "source": "RaceFans",
   "ts": 1793436467.901854
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Nissan Rogue Hibrit'in Konfor Özelliği",
+  "ozet": "2027 model Nissan Rogue Hibrit, sürücünün fren pedalını basılı tutarak sistemin fren gücünü otomatik ayarlamasıyla daha sarsıntısız durmasını sağlayan bir konfor özelliğine sahip.",
+  "puan": 4.5,
+  "grup": "nissan-rogue-hybrid-comfort-feature",
+  "link": "https://www.autoblog.com/news/2027-nissan-rogue-hybrid-has-a-comfort-feature-its-biggest-rivals-lack",
+  "source": "Autoblog",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "araba",
+  "baslik": "Değerini En İyi Koruyan 7 Toyota Modeli",
+  "ozet": "Güvenilirlik ve yüksek ikinci el değeriyle öne çıkan yedi Toyota modeli, markayı değer koruma konusunda zirvede tutuyor.",
+  "puan": 2.5,
+  "grup": "toyota-models-value-retention-list",
+  "link": "https://www.jalopnik.com/2296856/toyota-models-hold-value-best-five-years/",
+  "source": "Jalopnik",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "araba",
+  "baslik": "Makyajlanan 2027 Ford Edge Çin'de Yaşıyor",
+  "ozet": "Bir zamanlar popüler olan Ford Edge crossover modeli hayatına Çin pazarında devam ediyor ve 2027 için makyajlanıyor.",
+  "puan": 4.0,
+  "grup": "ford-edge-china-facelift",
+  "link": "https://www.autoblog.com/news/remember-the-ford-edge-this-is-it-now",
+  "source": "Autoblog",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "araba",
+  "baslik": "Fabrika Bataryasına Sahip Eski Toyota RAV4 EV Satılık",
+  "ozet": "Hâlâ sürülebilir durumdaki nadir ve eski bir Toyota RAV4 EV, orijinal fabrika bataryasıyla 2.000 dolara alıcı bekliyor.",
+  "puan": 3.0,
+  "grup": "toyota-rav4-ev-for-sale",
+  "link": "https://www.thedrive.com/news/ancient-toyota-rav4-ev-for-sale-still-has-the-factory-battery",
+  "source": "The Drive",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "araba",
+  "baslik": "Volkswagen Elektrikli Golf Geliştirmesini Askıya Aldı",
+  "ozet": "Düşen karlar ve artan maliyetler nedeniyle Volkswagen, elektrikli Golf modelinin geliştirilme sürecini şimdilik rafa kaldırdı.",
+  "puan": 8.0,
+  "grup": "volkswagen-electric-golf-delayed",
+  "link": "https://www.autoblog.com/news/volkswagen-literally-cant-afford-to-develop-the-electric-golf-right-now",
+  "source": "Autoblog",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "araba",
+  "baslik": "2050 Yılında ABD'de Ulaşım Nasıl Olacak?",
+  "ozet": "Önümüzdeki onyıllarda uçan arabalara sahip olmasak da, otomotiv endüstrisinin gelecekte önemli değişimler geçirmesi bekleniyor.",
+  "puan": 2.0,
+  "grup": "us-transportation-future-2050",
+  "link": "https://www.jalopnik.com/2297523/what-will-transportation-look-like-united-states-2050-reader-question/",
+  "source": "Jalopnik",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Chevrolet Silverado Polis Aracı Tanıtıldı",
+  "ozet": "Chevrolet, ağır hizmet tipi devriye görevleri için tasarlanan, 355 beygirlik V8 motora sahip 2027 Silverado Polis Takip Aracı'nı tanıttı.",
+  "puan": 6.5,
+  "grup": "chevrolet-silverado-police-truck",
+  "link": "https://www.autoblog.com/news/chevys-2027-silverado-police-truck-is-built-for-112-mph-pursuits",
+  "source": "Autoblog",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "araba",
+  "baslik": "Brabus Kurucusunun Hayalini Gerçekleştirdi: Bodo",
+  "ozet": "Bodo Buschmann'ın ölümünden sekiz yıl sonra Brabus, onun 1000 beygirlik vizyonunu yansıtarak Bodo modelini yollara çıkardı.",
+  "puan": 8.5,
+  "grup": "brabus-bodo-1000-hp-supercar",
+  "link": "https://www.motor1.com/reviews/813787/brabus-founder-tribute-drive/",
+  "source": "Motor1",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ford Transit Trail Sahiplerine Lastik Tazminatı",
+  "ozet": "Ford, Transit Trail modelinde 30.5 inçlik tekerleklerin bazı durumlarda çamurluk açıklığı sorununa yol açması nedeniyle sahiplerine 6.000 dolar ödeyebilir.",
+  "puan": 7.5,
+  "grup": "ford-transit-trail-tire-recall",
+  "link": "https://www.autoblog.com/news/ford-transit-trail-owners-may-get-6000-over-rubbing-tires",
+  "source": "Autoblog",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mazda3'te Skyactiv-X Motor Sessizce Tarihe Karışıyor",
+  "ozet": "Mazda, hibrit teknolojisine odaklanırken ve yeni Skyactiv-Z motora hazırlanırken, 2027 Mazda3 serisinden yenilikçi Skyactiv-X motorunu kaldırıyor.",
+  "puan": 6.0,
+  "grup": "mazda-skyactiv-x-discontinued",
+  "link": "https://www.autoblog.com/news/mazda-is-quietly-killing-off-its-biggest-engine-experiment-in-the-mazda3",
+  "source": "Autoblog",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "araba",
+  "baslik": "ABD'ye İthal Edilebilen Popüler Japon Performans Otomobilleri",
+  "ozet": "25 yılı dolduran ve ABD'de resmi olarak satılmamış dokuz Japon iç pazar (JDM) modeli otomobil meraklıları tarafından ithal edilebiliyor.",
+  "puan": 2.5,
+  "grup": "japanese-performance-cars-import-list",
+  "link": "https://www.jalopnik.com/2298828/most-popular-japanese-performance-cars-to-import/",
+  "source": "Jalopnik",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "araba",
+  "baslik": "NYPD Avukatından Yeni Nesil Araç Paylaşım Önerisi",
+  "ozet": "New York Polis Departmanı için çalışan bir avukat, park halindeki e-bisikletlere yönelik denetimleri savunurken şehirdeki araç sahipliğine farklı bir bakış açısı getirdi.",
+  "puan": 3.0,
+  "grup": "nypd-lawyer-nyc-car-share",
+  "link": "https://www.jalopnik.com/2302127/nypd-attorney-says-cars-are-not-personal-property/",
+  "source": "Jalopnik",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "araba",
+  "baslik": "Amerika İçin Geliştirilen Yeni Honda Civic Type R",
+  "ozet": "Önden çekişli performans araçlarının iddialı ismi Civic Type R için HRC tarafından Amerika pazarına özel daha iddialı bir versiyon hazırlanıyor.",
+  "puan": 7.5,
+  "grup": "honda-civic-type-r-hrc-usa",
+  "link": "https://www.autoblog.com/news/hondas-wildest-civic-type-r-yet-is-being-developed-for-america",
+  "source": "Autoblog",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "araba",
+  "baslik": "Çin'in Yüksek Hızlı Demiryolu Ağı Diğer Ülkeleri Geride Bıraktı",
+  "ozet": "2008 yılından bu yana büyük bir hızla demiryolu inşa eden Çin, yüksek hızlı tren ağında ABD ve diğer ülkelere karşı devasa bir üstünlük kurdu.",
+  "puan": 3.5,
+  "grup": "china-high-speed-rail-growth",
+  "link": "https://www.jalopnik.com/2296853/chinas-high-speed-rail-covers-more-ground-than-rest-of-world/",
+  "source": "Jalopnik",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "araba",
+  "baslik": "Polis Takibinde Kaza Yapan Porsche Sürücüsü Aracını Geri İstedi",
+  "ozet": "Washington'da 127 mph hızla polisten kaçarken Porsche 911 GT3 ile kaza yapan 21 yaşındaki sürücü, spor aracını polisten geri isteyerek zor bir ders aldı.",
+  "puan": 5.0,
+  "grup": "porsche-gt3-police-chase-crash",
+  "link": "https://www.autoblog.com/news/porsche-gt3-driver-asks-for-car-back-after-127-mph-police-chase",
+  "source": "Autoblog",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "araba",
+  "baslik": "2028 BMW X5 M Yeni Tasarımıyla Test Edilirken Yakalandı",
+  "ozet": "İlk kez tamamen elektrikli bir versiyona da kavuşacak olan yeni nesil BMW X5 M'de V8 motor seçeneği de hayatta kalmaya devam edecek.",
+  "puan": 8.0,
+  "grup": "bmw-x5-m-spied-ev-v8",
+  "link": "https://www.autoblog.com/news/spy-shots-2028-bmw-x5-m-suv",
+  "source": "Autoblog",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "araba",
+  "baslik": "Rivian R2 Satışlarıyla R1S ve R1T Modellerini Geride Bıraktı",
+  "ozet": "Başlangıç fiyatı 59.485 dolar olan Rivian R2, henüz tek versiyonu olmasına rağmen markanın diğer modellerinin toplam satışını geçti.",
+  "puan": 7.0,
+  "grup": "rivian-r2-sales-strong",
+  "link": "https://www.autoblog.com/news/rivians-59485-r2-outsold-the-r1s-and-r1t-combined-in-q3",
+  "source": "Autoblog",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "araba",
+  "baslik": "Birden Fazla Kasko Teklifi Almanın Artıları ve Eksileri",
+  "ozet": "Sigorta şirketlerini değiştirmek tasarruf sağlasa da, en uygun poliçeyi seçerken sadece en düşük ücrete odaklanmaktan fazlası gerekiyor.",
+  "puan": 2.0,
+  "grup": "car-insurance-quotes-pros-cons",
+  "link": "https://www.jalopnik.com/2302433/pros-cons-getting-multiple-car-insurance-quotes/",
+  "source": "Jalopnik",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "araba",
+  "baslik": "Otomobillerden de Eski Olan AAA'nın Tarihçesi",
+  "ozet": "1902 yılında kurulan AAA, Amerika'nın seri üretim otomobil patlamasından öncesine dayanıyor ve bir kulüpten yol yardım devine dönüştü.",
+  "puan": 2.5,
+  "grup": "aaa-history-roadside-assistance",
+  "link": "https://www.motor1.com/features/813024/aaa-founded-before-most-americans-owned-cars/",
+  "source": "Motor1",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "araba",
+  "baslik": "McLaren 750S'in Yerini Alacak Yeni Süper Otomobil Geliyor",
+  "ozet": "Ferrari 296 GTB ile rekabet edecek güç çıkışına sahip yeni McLaren süper otomobil 2027 yılında vitrine çıkmaya hazırlanıyor.",
+  "puan": 8.5,
+  "grup": "mclaren-750s-successor-mcl-820",
+  "link": "https://www.autoblog.com/news/mclaren-reveals-name-and-power-of-its-next-supercar-as-the-750s-faces-the-axe",
+  "source": "Autoblog",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mini Lüks Otomobillerin Geçmişi",
+  "ozet": "Geçmişte üretilen küçük ve lüks otomobillerin nadir örnekleri günümüzde değer kazanmaya devam ediyor.",
+  "puan": 3.0,
+  "grup": "small-luxury-cars-history",
+  "link": "https://www.autocar.co.uk/opinion/new-cars/when-rolls-royce-made-mini-lost-art-small-luxury-cars",
+  "source": "Autocar",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "araba",
+  "baslik": "İkinci El Hyundai Ioniq 5 İncelemesi",
+  "ozet": "Hyundai Ioniq 5, günlük kullanımda sunduğu mantıklı özellikler ve performans odaklı N versiyonuyla dikkat çekiyor.",
+  "puan": 5.0,
+  "grup": "hyundai-ioniq-5-review",
+  "link": "https://www.autocar.co.uk/car-news/used-cars-used-car-buying-guides/game-changing-ev-sub-%C2%A320k-how-bag-hyundai-ioniq-5",
+  "source": "Autocar",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "araba",
+  "baslik": "Volkswagen Elektrikli Golf Geliştirilmesini Askıya Aldı",
+  "ozet": "Büyük mali zararlarla mücadele eden Volkswagen, maliyetleri düşürmek amacıyla elektrikli ID Golf modelinin geliştirme çalışmalarını erteledi.",
+  "puan": 8.0,
+  "grup": "volkswagen-electric-golf-delayed",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/golf-ev-ice-volkswagen-simply-cannot-afford-development",
+  "source": "Autocar",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "araba",
+  "baslik": "1979 Model Volvo 245 Karbüratör Dönüşümü",
+  "ozet": "Bir otomobil sahibi, 1979 model Volvo 245 aracındaki yakıt enjeksiyon sistemini karbüratöre dönüştürme deneyimini ve nedenlerini aktarıyor.",
+  "puan": 2.5,
+  "grup": "volvo-245-carburetion-conversion",
+  "link": "https://www.jalopnik.com/2296804/why-converted-1979-volvo-245-wagon-fuel-injection-to-carburetor/",
+  "source": "Jalopnik",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika GP Öncesi En İyi Sıralama Bahisleri",
+  "ozet": "Uzman bahis yazarları, Autodromo Hermanos Rodriguez pistindeki sıralama turları için en iyi tahminlerini paylaşıyor.",
+  "puan": 2.0,
+  "grup": "mexico-gp-betting-markets",
+  "link": "https://www.formula1.com/en/latest/article/best-qualifying-bets-available-on-the-markets-before-the-mexico-city-grand-prix.6vo71zRrlBile9GdUI3W8y",
+  "source": "Formula1.com",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "f1",
+  "baslik": "Mekies'ten Meksika GP ve Yeni Rüzgar Tüneli Açıklaması",
+  "ozet": "Laurent Mekies, Meksika'daki benzersiz zorlukların rekabet düzenini sarsabileceğini belirtirken takımın yeni rüzgar tünelinin ne zaman geleceğini açıkladı.",
+  "puan": 5.0,
+  "grup": "mekies-responds-to-horner-red-bull",
+  "link": "https://www.formula1.com/en/latest/article/mekies-predicts-one-off-mexico-pecking-order-as-he-gives-red-bull-wind-tunnel-update.xu23RRtyMHXYDzeyZ2Q7f",
+  "source": "Formula1.com",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "f1",
+  "baslik": "Alonso Meksika'daki Güçlü Cuma Günü Sonrası Umutlu",
+  "ozet": "Fernando Alonso, AMR26 aracının rakım zorluklarıyla iyi başa çıkması sayesinde Aston Martin'in Cuma günkü performansının beklentileri aştığını kabul etti.",
+  "puan": 4.5,
+  "grup": "alonso-criticises-f1-driving-standards",
+  "link": "https://www.formula1.com/en/latest/article/alonso-cautiously-upbeat-after-strong-friday-in-mexico-for-aston-martin.4vekgCuq0xUq8VaOuuxWAt",
+  "source": "Formula1.com",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "f1",
+  "baslik": "Haas'ta Şok Değişiklik: Ocon Yerine Hirakawa",
+  "ozet": "Haas takımı, Esteban Ocon'un Meksika Grand Prix'sinin kalan kısmında yarışmayacağını duyurdu.",
+  "puan": 8.5,
+  "grup": "bearman-haas-2027-contract",
+  "link": "https://www.racefans.net/2026/10/31/ocon-out-hirakawa-in-as-haas-make-shock-mexican-grand-prix-driver-change/",
+  "source": "RaceFans",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "f1",
+  "baslik": "F1 Takımları Meksika'nın Rakım Zorluğuyla Nasıl Başa Çıkıyor?",
+  "ozet": "Gary Anderson, Meksika'da 2000 metreyi aşan rakımın araçlar üzerinde yarattığı etkileri ve takımların çözümlerini inceliyor.",
+  "puan": 4.0,
+  "grup": "mexico-gp-altitude-challenges",
+  "link": "https://www.the-race.com/formula-1/how-f1-teams-are-tackling-mexicos-altitude-challenge-in-2026/",
+  "source": "The Race",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ferrari'den Hızlı Cuma Rağmen Temkinli Açıklama",
+  "ozet": "Fred Vasseur, Charles Leclerc'in her iki antrenman seansını da lider tamamlamasına rağmen beklentileri düşük tutuyor.",
+  "puan": 4.5,
+  "grup": "mexico-gp-fp-ferrari-pace",
+  "link": "https://www.motorsport.com/f1/news/fred-vasseur-downplays-expectations-for-f1-mexico-gp-despite-blistering-friday/10870125/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "f1",
+  "baslik": "Russell'dan Cadillac İçin Vesti Sürprizi",
+  "ozet": "George Russell, Frederik Vesti'nin 2027'de Cadillac koltuğu için sürpriz bir aday olabileceğini belirtti.",
+  "puan": 6.5,
+  "grup": "bottas-cadillac-seat-budkowski",
+  "link": "https://www.motorsport.com/f1/news/george-russell-frederik-vesti-deserves-cadillac-seat-for-f1-2027/10870111/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "f1",
+  "baslik": "Red Bull RB22'de Uyumsuzluk Yaşıyor",
+  "ozet": "Max Verstappen Liam Lawson ile yaşadığı olaya rağmen Cuma gününü beşinci tamamlarken, takım araçta çözülmesi gereken sorunlar olduğunu belirtti.",
+  "puan": 5.5,
+  "grup": "verstappen-lawson-mexico-clash",
+  "link": "https://www.motorsport.com/f1/news/red-bull-finds-disconnect-in-rb22-in-f1-mexico-gp-practice/10870035/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 Araçları Meksika'da Neden Oldukça Hızlı?",
+  "ozet": "Çeşitli faktörlerin birleşimi, 2026 F1 araçlarının Meksika'da eski yer etkisi dönemindeki araçların performansına yaklaşmasını sağladı.",
+  "puan": 4.0,
+  "grup": "mexico-gp-altitude-challenges",
+  "link": "https://www.the-race.com/formula-1/why-f1-2026-cars-unusually-quick-mexican-gp/",
+  "source": "The Race",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton'dan Güç Ünitesi Arızası Sonrası Açıklama",
+  "ozet": "Lewis Hamilton, 2. antrenman seansında yaşanan güç ünitesi arızası nedeniyle erken saatlerde yolda kaldı.",
+  "puan": 5.5,
+  "grup": "mexico-gp-fp-ferrari-pace",
+  "link": "https://www.motorsport.com/f1/news/lewis-hamilton-praying-for-ferrari-power-unit-after-mexico-fp2-failure/10870069/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "f1",
+  "baslik": "Taraftarlardan Hadjar'a Destek",
+  "ozet": "F1 taraftarları, padoktaki tartışmalı olay nedeniyle hakemlere çağrılan Isack Hadjar'ın arkasında durdu.",
+  "puan": 3.0,
+  "grup": "hadjar-paddock-misconduct-mexico",
+  "link": "https://www.motorsport.com/f1/news/f1-fans-defend-isack-hadjar-after-paddock-selfie-row-leads-to-fia-summons/10870067/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793458202.6614082
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hadjar Padoktaki 'Disiplinsizlik' Nedeniyle Hakem Çağrıldı",
+  "ozet": "Red Bull pilotu Isack Hadjar, padokta bir taraftarla yaşadığı olay sebebiyle hakemler tarafından ifadeye çağrıldı.",
+  "puan": 5.0,
+  "grup": "hadjar-paddock-misconduct-mexico",
+  "link": "https://www.motorsport.com/f1/news/isack-hadjar-summoned-to-mexico-gp-stewards-for-misconduct-in-f1-paddock/10870033/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793458202.6614082
  }
 ]
