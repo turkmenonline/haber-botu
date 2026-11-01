@@ -1,376 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Yeni BMW M350 Sürüş İzlenimi",
-  "ozet": "437 beygir gücüne sahip yeni BMW M350, M3 performansına yakın bir sürüş deneyimi sunuyor.",
-  "puan": 6.5,
-  "grup": "bmw-3-series-m350-i3-launch",
-  "link": "https://www.motor1.com/reviews/813775/2027-bmw-m350-first-drive-review/",
-  "source": "Motor1",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "araba",
-  "baslik": "2027 BMW 3 Serisi İncelemesi",
-  "ozet": "Yeni M350 modeli, 3 Serisi serisinde çıtayı bir üst seviyeye taşıyor.",
-  "puan": 6.0,
-  "grup": "bmw-3-series-m350-i3-launch",
-  "link": "https://www.caranddriver.com/reviews/a74274538/2027-bmw-3-series-drive/",
-  "source": "Car and Driver",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "araba",
-  "baslik": "Yeni BMW i3 Elektrikli Sedan İncelemesi",
-  "ozet": "BMW'nin yeni tamamen elektrikli 3 Serisi i3, uzun menzili ve güçlü performansıyla dikkat çekiyor.",
-  "puan": 6.0,
-  "grup": "bmw-3-series-m350-i3-launch",
-  "link": "https://www.autocar.co.uk/car-review/bmw/i3",
-  "source": "Autocar",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "araba",
-  "baslik": "Yeni BMW M350 Test Sürüşü",
-  "ozet": "Neue Klasse tasarımına sahip yeni 3 Serisi, eski nesil mimariyi ve güçlü altı silindirli benzinli motoru koruyor.",
-  "puan": 6.5,
-  "grup": "bmw-3-series-m350-i3-launch",
-  "link": "https://www.autocar.co.uk/car-review/bmw/3-series",
-  "source": "Autocar",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "araba",
-  "baslik": "Mazda ve Toyota'nın ABD Fabrikası Büyüyor",
-  "ozet": "Alabama'daki ortak girişim fabrikası 1 milyonuncu crossover'ını üretirken, iki marka ortaklıklarını genişletmeyi değerlendiriyor.",
-  "puan": 7.0,
-  "grup": "mazda-toyota-alabama-factory-expansion",
-  "link": "https://www.autoblog.com/news/inside-mazda-and-toyotas-u-s-factory-as-both-brands-eye-expansion",
-  "source": "Autoblog",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "araba",
-  "baslik": "Rivian Elektrikli Van Satış Başarısı",
-  "ozet": "Rivian'ın ticari elektrikli van modeli, R1S ve R1T modellerinin toplamından daha fazla satarak üçüncü çeyrekte dikkat çekti.",
-  "puan": 5.5,
-  "grup": "rivian-electric-van-sales",
-  "link": "https://www.autoblog.com/news/rivians-electric-van-outsold-r1s-suv-and-r1t-pickup-combined",
-  "source": "Autoblog",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "araba",
-  "baslik": "Volkswagen'den ID.4 ve Q4 e-tron için Yangın Uyarısı",
-  "ozet": "Termal yayılma riski nedeniyle Volkswagen, sahiplerinden araçlarını yüzde 80'in üzerinde şarj etmemelerini istiyor.",
-  "puan": 8.5,
-  "grup": "volkswagen-audi-ev-battery-fire-warning",
-  "link": "https://www.jalopnik.com/2301802/volkswagen-id4-audi-q4-e-tron-recalled-over-fire-risk/",
-  "source": "Jalopnik",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "araba",
-  "baslik": "Ford'dan Prototipler İçin Fathom Dökümleri",
-  "ozet": "Ford tarafından üretilen 5.000'den fazla tek parça döküm, şimdilik seri üretime değil yalnızca prototiplere gidecek.",
-  "puan": 5.0,
-  "grup": "ford-fathom-castings-prototypes",
-  "link": "https://www.autoblog.com/news/ford-built-5000-fathom-castings-but-none-will-reach-customers",
-  "source": "Autoblog",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "araba",
-  "baslik": "Audi'nin ABD Fabrikası Planlarının Geçmişi",
-  "ozet": "Audi'nin ABD fabrikası hayata geçerken, eski başkan Johan de Nysschen bu planın onlarca yıllık olduğunu açıkladı.",
-  "puan": 5.5,
-  "grup": "porsche-vs-audi-us-factory",
-  "link": "https://www.autoblog.com/news/audi-almost-built-cars-in-america-until-germany-changed-course",
-  "source": "Autoblog",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "araba",
-  "baslik": "Efsanevi Oyuncu Patrick Stewart'ın Otomobil Tutkusu",
-  "ozet": "Hayatını kaybeden ünlü aktör Patrick Stewart'ın aynı zamanda büyük bir motorsporları hayranı olduğu biliniyordu.",
-  "puan": 2.5,
-  "grup": "patrick-stewart-motorsport-passion",
-  "link": "https://www.thedrive.com/news/patrick-stewart-was-a-racing-fan-like-all-of-us",
-  "source": "The Drive",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "araba",
-  "baslik": "Vatikan'da Yeni Papalık Aracı Sergisi",
-  "ozet": "Mercedes-Benz, geçmişten günümüze Papalık araçlarının yer aldığı yeni serginin sponsorluğunu üstlendi.",
-  "puan": 3.5,
-  "grup": "mercedes-benz-popemobile-exhibition",
-  "link": "https://www.jalopnik.com/2299028/mercedes-benz-popemobile-exhibition-vatican/",
-  "source": "Jalopnik",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "f1",
-  "baslik": "Meksika GP Medya Günü Konuları",
-  "ozet": "Lawrence Barretto, Mexico City Grand Prix'si medya gününde padokta konuşulan ana başlıkları özetliyor.",
-  "puan": 4.5,
-  "grup": "mexico-gp-2026-preview",
-  "link": "https://www.formula1.com/en/latest/article/all-the-stories-that-got-the-mexico-city-paddock-talking.7nwhBepDfju9wmdjGdxEPk",
-  "source": "Formula1.com",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "f1",
-  "baslik": "Tsolov'un Antrenmanı Racing Bulls'un 2027 Planlarını Karıştırdı",
-  "ozet": "Nikola Tsolov'un Meksika'daki 1. antrenman seansına katılması, Racing Bulls'un 2027 koltuğu için verilen mücadeleyi kızıştırdı.",
-  "puan": 5.0,
-  "grup": "tsolov-racing-bulls-2027-seat",
-  "link": "https://www.formula1.com/en/latest/article/how-tsolovs-fp1-appearance-puts-a-spotlight-on-racing-bulls-2027-line-up.3ScioRvM975nKI375uYqkb",
-  "source": "Formula1.com",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "f1",
-  "baslik": "Norris'ten McLaren'ın Gelişimine Savunma",
-  "ozet": "Lando Norris, zorlu bir sezon başlangıcının ardından oldukça iyi bir yıl geçirdiklerini belirterek takımın 2026 gelişim sürecini savundu.",
-  "puan": 5.5,
-  "grup": "norris-mclaren-2026-progress",
-  "link": "https://www.formula1.com/en/latest/article/a-pretty-good-year-norris-defends-mclarens-2026-development-progress-ahead-of-mexico-city-grand-prix.51Xn2ULlO3UZRPy0sAGpem",
-  "source": "Formula1.com",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "f1",
-  "baslik": "Verstappen: 'Sürücüler Şampiyonluğunu Umursamıyorum'",
-  "ozet": "Red Bull pilotu Max Verstappen, 2026 sezonunun kalan yarışları için önceliklerini açıkladı.",
-  "puan": 6.0,
-  "grup": "verstappen-drivers-championship-2026",
-  "link": "https://www.formula1.com/en/latest/article/verstappen-explains-why-he-doesnt-really-care-about-the-drivers-championship.3MV9VgrNtTXBwMPVvg9N7c",
-  "source": "Formula1.com",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "f1",
-  "baslik": "Hamilton: 'Son Beş Yarış Test Gibi'",
-  "ozet": "Lewis Hamilton, önümüzdeki yılın şampiyonluklarına rekabetçi bir araçla çıkmak için son beş yarışın test niteliğinde olduğunu belirtti.",
-  "puan": 5.0,
-  "grup": "hamilton-ferrari-objectives-mexico",
-  "link": "https://www.formula1.com/en/latest/article/next-five-races-are-like-test-races-hamilton-outlines-ferraris-objectives-in-mexico-and-beyond.2nIpI4JGRd8wG4e2qqjp6r",
-  "source": "Formula1.com",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "f1",
-  "baslik": "Leclerc'e Göre Ferrari Meksika'da Kazanabilir",
-  "ozet": "Charles Leclerc, Mercedes ve Red Bull'u yenmek için kusursuz olmaları gerektiğini belirterek Ferrari'nin bu hafta sonu kazanma potansiyeli olduğunu söyledi.",
-  "puan": 5.5,
-  "grup": "leclerc-ferrari-mexico-chances",
-  "link": "https://www.formula1.com/en/latest/article/weve-got-to-be-perfect-leclerc-assesses-ferraris-chances-of-victory-in-mexico-city.3AVK2YwBQwT2Dp5FZUCBO1",
-  "source": "Formula1.com",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "f1",
-  "baslik": "Piastri McLaren'ın Araç Sorunlarını Değerlendirdi",
-  "ozet": "Oscar Piastri, zorlandığı pistlerdeki performansını artırmak ve yeni güncellemelerin etkilerini anlamak için çalıştığını belirtti.",
-  "puan": 4.5,
-  "grup": "piastri-mclaren-car-struggles",
-  "link": "https://www.motorsport.com/f1/news/two-steps-forward-one-step-back-piastri-explains-the-route-out-of-mclarens-car-woes/10869477/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "f1",
-  "baslik": "Sir Patrick Stewart Hayatını Kaybetti",
-  "ozet": "Star Trek ve X-Men rolleriyle tanınan, 2017 Kanada GP'sinde Daniel Ricciardo'nun ayakkabısından şampanya içmesiyle bilinen Sir Patrick Stewart 86 yaşında vefat etti.",
-  "puan": 2.0,
-  "grup": "patrick-stewart-tribute",
-  "link": "https://www.motorsport.com/f1/news/remembering-sir-patrick-stewarts-unforgettable-moment-on-the-f1-podium-with-daniel-ricciardo/10869481/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "f1",
-  "baslik": "Tarihte Bugün: Vettel İlk Hindistan GP'sini Kazandı",
-  "ozet": "Sebastian Vettel'in domine ettiği ilk Hindistan Grand Prix'sinde Hamilton ve Massa yine kaza yapmıştı.",
-  "puan": 2.5,
-  "grup": "sebastian-vettel-bmw-red-bull",
-  "link": "https://www.racefans.net/2026/10/30/on-this-day-indian-grand-prix/",
-  "source": "RaceFans",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "f1",
-  "baslik": "Meksika GP İlk Gün Notları",
-  "ozet": "Meksika'nın kendine has zorlukları bu yıl daha da artarken, ABD GP'sinden kalan bazı hayal kırıklıkları da devam ediyor.",
-  "puan": 4.0,
-  "grup": "mexico-gp-2026-preview",
-  "link": "https://www.the-race.com/formula-1/everything-we-learned-on-day-one-of-f1s-mexican-gp/",
-  "source": "The Race",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "f1",
-  "baslik": "Hamilton: 'Farklı Üretildim'",
-  "ozet": "Yedi kez dünya şampiyonu Lewis Hamilton, kariyerini yeni Ruanda Grand Prix'sinin de yer alacağı 2030'lara kadar uzatabileceğini söyledi.",
-  "puan": 5.0,
-  "grup": "hamilton-f1-career-2030s",
-  "link": "https://www.motorsport.com/f1/news/lewis-hamilton-im-built-differently-as-he-eyes-f1-career-into-2030s/10869464/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "f1",
-  "baslik": "Verstappen'den Yoğun Takvim Açıklaması",
-  "ozet": "Max Verstappen, iki pilotun hastalandığı Meksika'daki medya gününde sezonun bu aşamasında rahatsızlanmanın normal olduğunu belirtti.",
-  "puan": 4.5,
-  "grup": "antonelli-mexico-gp-illness",
-  "link": "https://www.motorsport.com/f1/news/max-verstappen-discusses-hidden-toll-of-f1-calendar-after-two-drivers-fall-ill/10869459/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "f1",
-  "baslik": "Verstappen'den Ricciardo'nun Le Mans Hayaline Esprili Yanıt",
-  "ozet": "Max Verstappen, gelecekteki olası bir Le Mans 24 Saat mücadelesi için kendisini seçen Daniel Ricciardo'nun akıllıca bir seçim yaptığını söyledi.",
-  "puan": 3.0,
-  "grup": "daniel-ricciardo-le-mans-verstappen",
-  "link": "https://www.motorsport.com/f1/news/max-verstappen-jokes-about-daniel-ricciardos-le-mans-ambition-hes-a-smart-man-picking-me/10869461/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "f1",
-  "baslik": "Verstappen ve Ricciardo'nun Le Mans Diyaloğu",
-  "ozet": "Max Verstappen, eski takım arkadaşı Daniel Ricciardo'nun rüya Le Mans kadrosu için kendisini seçmesini esprili bir dille değerlendirdi.",
-  "puan": 3.0,
-  "grup": "daniel-ricciardo-le-mans-verstappen",
-  "link": "https://www.motorsport.com/f1/news/max-verstappen-responds-to-daniel-ricciardos-le-mans-dream-team-call/10869457/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "f1",
-  "baslik": "Albon'dan Alonso'nun Eleştirilerine Yanıt",
-  "ozet": "Alex Albon, Fernando Alonso'nun Austin'deki temas sonrası gridin arka tarafındaki kaliteyi hedef alan sözlerinin duyulmaktan hoş olmadığını ifade etti.",
-  "puan": 5.0,
-  "grup": "alonso-criticises-f1-driving-standards",
-  "link": "https://www.motorsport.com/f1/news/alex-albon-dismisses-fernando-alonso-criticism-f1-has-no-more-pay-drivers/10869451/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "f1",
-  "baslik": "Perez'e Göre Cadillac İçin Zor Karar",
-  "ozet": "Sergio Perez, Cadillac'ın 2027'deki takım arkadaşının Valtteri Bottas mı yoksa Colton Herta mı olacağı konusunda zor bir karar vereceğini söyledi.",
-  "puan": 5.5,
-  "grup": "perez-cadillac-contract-2029",
-  "link": "https://www.racefans.net/2026/10/29/herta-or-bottas-for-2027-seat-is-not-an-easy-decision-for-cadillac-says-perez/",
-  "source": "RaceFans",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "f1",
-  "baslik": "Pilotlardan Alonso'nun 'Düşük Kalite' İddialarına Tepki",
-  "ozet": "Formula 1 pilotları, Fernando Alonso'nun gridin alt sıralarındaki sürücü kalitesinin çok düşük olduğu yönündeki iddialarına karşı çıktı.",
-  "puan": 5.0,
-  "grup": "alonso-criticises-f1-driving-standards",
-  "link": "https://www.the-race.com/formula-1/rivals-reject-alonsos-brutal-low-quality-f1-drivers-claim/",
-  "source": "The Race",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "f1",
-  "baslik": "Leclerc'den Albon'a Destek",
-  "ozet": "Charles Leclerc, Fernando Alonso'nun gridin arkasındaki sürüş standartlarının düşük olduğu iddialarını reddederek seviyenin çok yüksek olduğunu savundu.",
-  "puan": 5.0,
-  "grup": "alonso-criticises-f1-driving-standards",
-  "link": "https://www.motorsport.com/f1/news/charles-leclerc-defends-alex-albon-after-fernando-alonsos-scathing-criticism/10869433/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "f1",
-  "baslik": "Leclerc: 'İkinciliğe Takıntılı Değilim'",
-  "ozet": "Charles Leclerc, şampiyona ikinciliği için sadece dokuz puan geride olmasına rağmen bu konuya kafayı takmadığını belirtti.",
-  "puan": 4.5,
-  "grup": "leclerc-ferrari-mexico-chances",
-  "link": "https://www.motorsport.com/f1/news/charles-leclerc-reveals-what-he-really-wants-from-final-five-f1-races-of-2026/10869431/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793323114.5628266
- },
- {
-  "cat": "araba",
-  "baslik": "McLaren 750S'in Halefi Gelecek",
-  "ozet": "İpuçları verilen yeni McLaren McL 820 modeli, hibrit V8 motoru ve 809 beygir gücüyle 750S'in yerini almaya hazırlanıyor.",
-  "puan": 8.5,
-  "grup": "mclaren-750s-successor-mcl-820",
-  "link": "https://www.motor1.com/news/813801/mclaren-mcl-820-name-hints/",
-  "source": "Motor1",
-  "ts": 1793344600.842408
- },
- {
-  "cat": "araba",
-  "baslik": "Bugatti CEO'su Çalınan Araçlarını Kovaladı",
-  "ozet": "Bugatti CEO'su, çok milyonluk Chiron hypercar'ının çalınmasının ardından bir Porsche 911 ile hırsızın peşine düştü.",
-  "puan": 7.0,
-  "grup": "bugatti-chiron-ceo-stolen-recovered",
-  "link": "https://www.motor1.com/news/813799/bugatti-boss-chased-chiron-thief/",
-  "source": "Motor1",
-  "ts": 1793344600.842408
- },
- {
-  "cat": "araba",
-  "baslik": "10.000 Devirli V8'li Yeniden Doğmuş Audi Quattro",
-  "ozet": "İngiliz bir firma tarafından geliştirilen 350 bin sterlin üzerindeki bu özel restomod, RS4 altyapısı ve 10.000 devirli V8 motoruyla dikkat çekiyor.",
-  "puan": 8.0,
-  "grup": "audi-quattro-v8-restomod-audacious",
-  "link": "https://www.autocar.co.uk/car-news/new-cars/revealed-brit-firms-reborn-audi-quattro-brings-10000rpm-v8-twist",
-  "source": "Autocar",
-  "ts": 1793344600.842408
- },
- {
-  "cat": "araba",
-  "baslik": "Honda Passport Baja Spec Trophy Truck Fotoğrafları",
-  "ozet": "Yarışa hazır Honda Passport Baja Spec'in iç ve dış detaylarını gösteren görseller yayınlandı.",
-  "puan": 4.5,
-  "grup": "honda-passport-baja-spec-trophy-truck",
-  "link": "https://www.caranddriver.com/photos/a74289296/honda-passport-baja-spec-revealed-gallery/",
-  "source": "Car and Driver",
-  "ts": 1793344600.842408
- },
- {
-  "cat": "araba",
-  "baslik": "1300 Beygirlik Hibrit Honda Passport Tanıtıldı",
-  "ozet": "İkiz turbolu V6 motor ve güçlü hibrit sistemle donatılan bu yarış aracı, Acura'nın IMSA yarış aracının teknolojilerini kullanıyor.",
-  "puan": 7.5,
-  "grup": "honda-passport-baja-spec-trophy-truck",
-  "link": "https://www.caranddriver.com/news/a74289346/honda-passport-baja-spec-revealed/",
-  "source": "Car and Driver",
-  "ts": 1793344600.842408
- },
- {
-  "cat": "araba",
-  "baslik": "Honda Passport Baja Spec Yarışlara Katılıyor",
-  "ozet": "Hibrit sistemli yeni Honda Passport Baja Spec, SCORE Dünya Çöl Şampiyonası'nın en üst sınıfında yarışacak ilk hibrit araç olacak.",
-  "puan": 7.5,
-  "grup": "honda-passport-baja-spec-trophy-truck",
-  "link": "https://www.autoblog.com/news/hondas-1300-hp-hybrid-passport-baja-spec-takes-aim-at-trophy-truck-racing",
-  "source": "Autoblog",
-  "ts": 1793344600.842408
- },
- {
-  "cat": "araba",
-  "baslik": "Honda'dan 1300 Beygirlik Hibrit Yarış Kamyonu",
-  "ozet": "F1 esintili hibrit teknolojiye ve ikiz turbolu V6 motora sahip yeni Honda yarış aracı, Baja'daki V8 canavarlarına meydan okuyor.",
-  "puan": 7.5,
-  "grup": "honda-passport-baja-spec-trophy-truck",
-  "link": "https://www.motor1.com/news/813768/honda-passport-hybrid-baja-trophy-truck/",
-  "source": "Motor1",
-  "ts": 1793344600.842408
- },
- {
-  "cat": "araba",
   "baslik": "Yeni Mitsubishi Pajero Kabini Land Cruiser'dan İyi mi?",
   "ozet": "Yeniden doğan Mitsubishi Pajero'nun ilk izlenimleri, kabin kalitesinin Toyota Land Cruiser 300'den bile daha iyi olabileceğini gösteriyor.",
   "puan": 6.0,
@@ -3188,5 +2818,155 @@
   "link": "https://www.the-race.com/formula-1/f1-2026-mexican-grand-prix-qualifying-results/",
   "source": "The Race",
   "ts": 1793494709.1118512
+ },
+ {
+  "cat": "araba",
+  "baslik": "Noble M500 Tam Testi",
+  "ozet": "Elektronik yardımcıları ve abs, havayastığı gibi donanımları bulunmayan manuel vitesli çift turbolu Noble M500, saf sürüş deneyimiyle 180 bin sterlin fiyat etiketiyle test edildi.",
+  "puan": 7.5,
+  "grup": "noble-m500-full-test",
+  "link": "https://www.autocar.co.uk/car-review/noble/m500",
+  "source": "Autocar",
+  "ts": 1793517811.1366794
+ },
+ {
+  "cat": "araba",
+  "baslik": "Toyota Hilux'un Efsanevi Geçmişi",
+  "ozet": "Kompakt sınıfın en efsanevi modellerinden biri olan Toyota Hilux, dünya genelindeki sağlamlık ünü ve geniş hayran kitlesiyle dikkat çekiyor.",
+  "puan": 3.0,
+  "grup": "toyota-hilux-legendary-truck",
+  "link": "https://www.jalopnik.com/2296913/toyota-hilux-legendary-compact-truck/",
+  "source": "Jalopnik",
+  "ts": 1793517811.1366794
+ },
+ {
+  "cat": "araba",
+  "baslik": "V6 ve V8 Gücündeki 4 Silindirli Motorlar",
+  "ozet": "Turbo veya süperşarj olmaksızın, yüksek devir çevirerek V6 ve hatta V8 güç seviyelerine ulaşabilen 7 adet atmosferik dört silindirli motor incelendi.",
+  "puan": 2.5,
+  "grup": "naturally-aspirated-4-cylinder-engines",
+  "link": "https://www.jalopnik.com/2296918/naturally-aspirated-4-cylinder-engine-as-much-power-as-v6-v8/",
+  "source": "Jalopnik",
+  "ts": 1793517811.1366794
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika GP Öncesi Dikkat Edilmesi Gerekenler",
+  "ozet": "Chris Medland, Autodromo Hermanos Rodriguez'deki yarış öncesi takip edilmesi gereken beş kritik noktayı seçti.",
+  "puan": 4.5,
+  "grup": "mexico-gp-race-preview",
+  "link": "https://www.formula1.com/en/latest/article/what-to-watch-for-in-the-mexico-city-grand-prix.2L0L49djDMMYYHFCx7EpTf",
+  "source": "Formula1.com",
+  "ts": 1793517811.1366794
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika Sıralama Turları Sonrası Takım Açıklamaları",
+  "ozet": "Takımlar ve pilotlar, Meksika Grand Prix'si öncesinde son antrenman ve sıralama seansının ardından değerlendirmelerde bulundu.",
+  "puan": 5.0,
+  "grup": "mexico-gp-qualifying-team-reports",
+  "link": "https://www.formula1.com/en/latest/article/what-the-teams-said-qualifying-in-mexico-city-2026.OeV40dsukK0h4mpxdkqoj",
+  "source": "Formula1.com",
+  "ts": 1793517811.1366794
+ },
+ {
+  "cat": "f1",
+  "baslik": "Vasseur'den Hamilton'ın Sıralama Performansına Övgü",
+  "ozet": "Ferrari Takım Patronu Fred Vasseur, Lewis Hamilton'ın Meksika'daki sıralama performansını övdü.",
+  "puan": 5.0,
+  "grup": "mexico-gp-hamilton-pole",
+  "link": "https://www.formula1.com/en/latest/article/vasseur-sets-out-ferraris-approach-to-mexico-city-gp-after-hamiltons-fantastic-job-in-qualifying.aeOT8LBw7vwfZXACZuZNh",
+  "source": "Formula1.com",
+  "ts": 1793517811.1366794
+ },
+ {
+  "cat": "f1",
+  "baslik": "Norris: McLaren Meksika'da Fazla Yavaş",
+  "ozet": "Lando Norris, Q2'deki hızını tekrarlayamayınca Meksika Grand Prix'sine altıncı sıradan başlayacak.",
+  "puan": 5.0,
+  "grup": "mexico-gp-norris-struggles",
+  "link": "https://www.formula1.com/en/latest/article/norris-admits-mclaren-are-too-slow-after-he-was-unable-to-repeat-magical-q2-lap.27eAOnAt6RViOkqFEitAft",
+  "source": "Formula1.com",
+  "ts": 1793517811.1366794
+ },
+ {
+  "cat": "f1",
+  "baslik": "Leclerc Sıralama Sonrası Kendisine Kızgın",
+  "ozet": "Charles Leclerc Meksika Grand Prix'sine üçüncü sıradan başlarken, Lewis Hamilton 2023'ten bu yana ilk pole pozisyonunu kazandı.",
+  "puan": 6.0,
+  "grup": "mexico-gp-qualifying-results",
+  "link": "https://www.formula1.com/en/latest/article/leclerc-angry-with-myself-after-losing-out-to-ferrari-team-mate-hamilton-in-mexico-city-qualifying.6C1Gik6c58NfUOcaLpJTeM",
+  "source": "Formula1.com",
+  "ts": 1793517811.1366794
+ },
+ {
+  "cat": "f1",
+  "baslik": "Liam Lawson Meksika GP Sıralamalarından Diskalifiye Edildi",
+  "ozet": "Liam Lawson'ın olaylı Meksika Grand Prix'si hafta sonu, sıralama turlarından diskalifiye edilmesiyle devam etti.",
+  "puan": 8.5,
+  "grup": "lawson-mexico-qualifying-dsq",
+  "link": "https://www.formula1.com/en/latest/article/lawson-disqualified-from-mexico-city-gp-qualifying-for-technical-breach.1LIHCl2P75cYj0cGJgyZhx",
+  "source": "Formula1.com",
+  "ts": 1793517811.1366794
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli Meksika'da Her Zamankinden Daha Gergin",
+  "ozet": "Tarihi bir hafta sonu geçirebilecek olan Mercedes pilotu Kimi Antonelli, Meksika Grand Prix'sine dördüncü ceza cibinden başlayacak.",
+  "puan": 5.0,
+  "grup": "antonelli-mexico-title-tension",
+  "link": "https://www.formula1.com/en/latest/article/i-didnt-do-a-good-enough-job-antonelli-admits-feeling-more-tense-than-usual-in-mexico-city-qualifying.2DHPy7wRU0Qymi79OMvZyy",
+  "source": "Formula1.com",
+  "ts": 1793517811.1366794
+ },
+ {
+  "cat": "f1",
+  "baslik": "McLaren: Meksika'da Geçiş Yapmak Çok Zor Olacak",
+  "ozet": "McLaren pilotları, 2026 güç üniteleri nedeniyle bu yıl Meksika'da sollama yapmanın özellikle zor olacağını düşünüyor.",
+  "puan": 4.5,
+  "grup": "mexico-gp-overtaking-challenges",
+  "link": "https://www.racefans.net/2026/11/01/everyones-kind-of-stuck-in-this-speed-limiter-mclaren-pair-expect-little-passing-in-mexico/",
+  "source": "RaceFans",
+  "ts": 1793517811.1366794
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika'daki Pole Mücadelesini Ne Belirledi?",
+  "ozet": "Lewis Hamilton'ın pole pozisyonunu ve George Russell'ın yakın mücadelesini belirleyen anahtar faktörler sıralama turlarından önce ortaya çıktı.",
+  "puan": 4.5,
+  "grup": "mexico-gp-pole-analysis",
+  "link": "https://www.the-race.com/formula-1/what-decided-mexico-pole-fight-before-final-laps-even-started/",
+  "source": "The Race",
+  "ts": 1793517811.1366794
+ },
+ {
+  "cat": "f1",
+  "baslik": "Lawson Meksika'da Neden Diskalifiye Edildi?",
+  "ozet": "Yarışa dokuzuncu sıradan başlama hakkını kaybeden Liam Lawson, FIA tarafından sıralama turlarından diskalifiye edildi.",
+  "puan": 8.5,
+  "grup": "lawson-mexico-qualifying-dsq",
+  "link": "https://www.autosport.com/f1/news/lawson-disqualified-from-f1-qualifying-in-mexico-heres-why/10870411/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1793517811.1366794
+ },
+ {
+  "cat": "f1",
+  "baslik": "Liam Lawson F1 Meksika Sıralamalarından Diskalifiye Edildi",
+  "ozet": "Racing Bulls pilotu Liam Lawson, FIA kararıyla Meksika Grand Prix'si sıralama turlarından diskalifiye edildi.",
+  "puan": 8.5,
+  "grup": "lawson-mexico-qualifying-dsq",
+  "link": "https://www.motorsport.com/f1/news/liam-lawson-disqualified-after-f1-qualifying-in-mexico-heres-why/10870409/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793517811.1366794
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika GP Sıralama Turlarının Kazananları ve Kaybedenleri",
+  "ozet": "İlk iki sıradakiler hariç tutulduğunda, Meksika Grand Prix'si sıralamaları kazananlardan çok kaybedenler üretti.",
+  "puan": 4.5,
+  "grup": "mexico-gp-qualifying-winners-losers",
+  "link": "https://www.the-race.com/formula-1/winners-and-losers-from-mexican-grand-prix-f1-qualifying-2026/",
+  "source": "The Race",
+  "ts": 1793517811.1366794
  }
 ]
