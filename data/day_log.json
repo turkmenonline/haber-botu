@@ -2728,5 +2728,305 @@
   "link": "https://www.the-race.com/formula-1/how-ocons-replacements-really-faring-on-his-shock-f1-debut/",
   "source": "The Race",
   "ts": 1793543276.765057
+ },
+ {
+  "cat": "araba",
+  "baslik": "O'Reilly Auto Parts Jingle'ının Hikayesi",
+  "ozet": "Ünlü 'Oh, oh, oh, O'Reilly!' melodisi Missouri'deki basit bir kayıtla başladı ve Amerika'nın en tanınan reklam jingle'larından biri haline geldi.",
+  "puan": 2.5,
+  "grup": "oreilly-auto-parts-jingle-history",
+  "link": "https://www.motor1.com/features/813838/story-behind-oreilly-auto-parts-jingle/",
+  "source": "Motor1",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "araba",
+  "baslik": "Benzinli Araç Sahiplerinin Elektrikli Araçlara Bakışı",
+  "ozet": "Amerika'daki elektrikli araç pazarı gelişse de, geleneksel araç sahiplerini yeni bir elektrikli araç almaya ikna etmek hâlâ büyük bir zorluk olmaya devam ediyor.",
+  "puan": 5.0,
+  "grup": "gas-car-owners-ev-adoption-challenge",
+  "link": "https://www.autoblog.com/news/just-11-of-gas-car-owners-see-an-ev-as-their-likely-next-buy",
+  "source": "Autoblog",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "araba",
+  "baslik": "BMW'nin Yeni Araç Kokusu Uzmanları",
+  "ozet": "BMW, yeni araçlardaki kokuyu nötrleştirmek ve hoş olmayan kokuları engellemek için deriden yapıştırıcılara kadar her şeyi koklayan profesyonel uzmanlar istihdam ediyor.",
+  "puan": 4.5,
+  "grup": "bmw-professional-odor-sniffers-cabin",
+  "link": "https://www.autoblog.com/news/bmw-employs-professional-sniffers-to-eliminate-new-car-smell",
+  "source": "Autoblog",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "araba",
+  "baslik": "Sürüş Sırasında Uzun Atkı Kullanımı Tehlikesi",
+  "ozet": "Sürüş sırasında uzun ve savrulan kıyafetler veya atkılar takmak modadan öte, sizi ciddi bir tehlikeye atabilir.",
+  "puan": 2.0,
+  "grup": "long-scarf-driving-safety-hazard",
+  "link": "https://www.jalopnik.com/2297776/why-cars-long-scarf-bad-combination-injuries-danger/",
+  "source": "Jalopnik",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "araba",
+  "baslik": "Metallica Vokalistine Özel Mini Yükleyici",
+  "ozet": "Metallica'nın solisti James Hetfield, klasik bir süper otomobil yerine özelleştirilmiş bir inşaat ekipmanı olan özel bir mini yükleyici sipariş etti.",
+  "puan": 3.5,
+  "grup": "metallica-james-hetfield-skid-steer",
+  "link": "https://www.thedrive.com/news/metallica-skid-steer-where-heavy-metal-meets-heavy-equipment",
+  "source": "The Drive",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "araba",
+  "baslik": "Tarihin En Etkili 10 Konsept Otomobili",
+  "ozet": "Üretime geçmeyen konsept otomobiller bile endüstriye ilham vererek bugünkü otomotiv dünyasının şekillenmesinde büyük rol oynamıştır.",
+  "puan": 2.0,
+  "grup": "most-influential-concept-cars-history",
+  "link": "https://www.jalopnik.com/2298551/most-influential-concept-cars-ever-made/",
+  "source": "Jalopnik",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "araba",
+  "baslik": "Aracın Yağ Pompasının Arızalandığı Nasıl Anlaşılır?",
+  "ozet": "Arızalı bir yağ pompası ciddi motor hasarına yol açabilir; bu nedenle belirtileri erken fark etmek büyük sorunların önüne geçer.",
+  "puan": 4.0,
+  "grup": "car-oil-pump-failure-symptoms",
+  "link": "https://www.jalopnik.com/2297726/average-lifespan-oil-pump-know-when-its-bad/",
+  "source": "Jalopnik",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "araba",
+  "baslik": "Bugatti CEO'su Çalınan Chiron'unu Kovaladı",
+  "ozet": "Bugatti CEO'su Mate Rimac, içeride unutulan anahtarla çalınan Chiron'unu uluslararası sınır boyunca bir Porsche 911 ile takip etti.",
+  "puan": 8.5,
+  "grup": "bugatti-ceo-chases-stolen-chiron",
+  "link": "https://www.autoblog.com/news/bugatti-ceo-chased-his-stolen-chiron-across-borders-in-a-porsche-911",
+  "source": "Autoblog",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "araba",
+  "baslik": "Gençlerin Otomotiv Tutkusunu Sürdürme Mücadelesi",
+  "ozet": "Zorlu ekonomik koşullarda otomobil tutkusunu canlı tutmak zor olsa da, bu sevgiyi sürdürmenin hâlâ bazı yolları bulunuyor.",
+  "puan": 3.0,
+  "grup": "gen-z-automotive-enthusiasm-economy",
+  "link": "https://www.jalopnik.com/2297710/gen-zers-uphill-battle-automotive-enthusiasm-silver-lining/",
+  "source": "Jalopnik",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "araba",
+  "baslik": "Modifiye Dodge Charger Şanzımanı Zorluyor",
+  "ozet": "Rob Dahm'ın modifiye ettiği sıralı altı silindirli motor tekerleklere neredeyse 1.000 beygir güç veriyor ancak şanzıman bunu taşımakta zorlanıyor.",
+  "puan": 6.5,
+  "grup": "rob-dahm-modified-dodge-charger",
+  "link": "https://www.motor1.com/news/813788/dodge-charger-hurrican-968-hp/",
+  "source": "Motor1",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "araba",
+  "baslik": "1980'lerden Ferrari Yapımı Pace Car Yeniden Ortaya Çıktı",
+  "ozet": "PPG'nin CART sponsoru olduğu 1980'lerde Ferrari'nin inşa ettiği 1 milyon dolarlık özel pace car uzun süre sonra yeniden gün yüzüne çıktı.",
+  "puan": 7.0,
+  "grup": "ferrari-ppg-cart-pace-car-resurfaces",
+  "link": "https://www.thedrive.com/news/ferrari-built-this-one-off-1-million-pace-car-in-the-80s-it-just-resurfaced",
+  "source": "The Drive",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "araba",
+  "baslik": "2026 Tesla Model 3'e Cybercab Teknolojisi Geliyor",
+  "ozet": "Tesla Cybercab'in daha az parça içeren yeni invertörünün bir versiyonu bu yıl Model 3 üretim hatlarına eklenecek.",
+  "puan": 7.5,
+  "grup": "tesla-model-3-cybercab-tech-inverter",
+  "link": "https://www.autoblog.com/news/2026-tesla-model-3-is-getting-cybercab-tech",
+  "source": "Autoblog",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "araba",
+  "baslik": "McMurtry'nin 1000 Beygirlik Fanlı Otomobili",
+  "ozet": "On yıllık mühendislik çalışmasının ardından McMurtry Spéirling, vahşi bir prototipten satın alabileceğiniz rekortmen bir hiper otomobile dönüştü.",
+  "puan": 8.0,
+  "grup": "mcmurtry-speirling-fan-car-production",
+  "link": "https://www.autoblog.com/news/mcmurtrys-1000-hp-fan-car-still-sucks-after-10-years",
+  "source": "Autoblog",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "araba",
+  "baslik": "Subaru'nun ABD Pazarındaki Büyüme Planları",
+  "ozet": "Daha güçlü bir ürün gamı, esnek üretim ve düşük maliyetler Subaru'nun Amerikan pazarındaki payını artırma stratejisinin temelini oluşturuyor.",
+  "puan": 5.5,
+  "grup": "subaru-us-market-growth-strategy",
+  "link": "https://www.autoblog.com/news/subaru-thinks-it-can-steal-more-american-buyers-from-its-rivals",
+  "source": "Autoblog",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "araba",
+  "baslik": "Koli Bandının İcadı ve Tarihçesi",
+  "ozet": "Koli bandı İkinci Dünya Savaşı sırasında ortaya çıktı ve bir kadının fikri sayesinde evlerin, garajların vazgeçilmez aracı haline geldi.",
+  "puan": 2.0,
+  "grup": "duct-tape-invention-history-ww2",
+  "link": "https://www.motor1.com/features/813534/duct-tape-military-invention-household-staple/",
+  "source": "Motor1",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "araba",
+  "baslik": "Nadir 1987 Shelby Lancer Satışta",
+  "ozet": "Mustang kadar bilinmeyen ancak Shelby imzasını taşıyan bu 1987 model Shelby Lancer açık artırma platformunda alıcı bekliyor.",
+  "puan": 4.0,
+  "grup": "shelby-lancer-bat-auction",
+  "link": "https://www.caranddriver.com/news/a74275692/1987-shelby-lancer-bring-a-trailer-auction/",
+  "source": "Car and Driver",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "araba",
+  "baslik": "Toyota Global King Karavan ile JDM Yolculuğu",
+  "ozet": "Yüksek yakıt fiyatlarına rağmen 2001 model Toyota Global King karavan ile unutulmaz bir Japon yerli pazarı (JDM) yolculuğu yapabilirsiniz.",
+  "puan": 3.0,
+  "grup": "toyota-global-king-camper-jdm-trip",
+  "link": "https://www.thedrive.com/news/take-the-ultimate-jdm-road-trip-in-this-2001-toyota-global-king-camper",
+  "source": "The Drive",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mazda ve Toyota'nın Alabama Fabrikasından Üretim Rekoru",
+  "ozet": "Mazda ve Toyota'nın ortak Alabama fabrikası, 1 milyonuncu aracını üreterek bu dönüm noktasını yerel bağışlarla kutladı.",
+  "puan": 6.0,
+  "grup": "mazda-toyota-alabama-plant-milestone",
+  "link": "https://www.autoblog.com/news/mazda-and-toyotas-alabama-partnership-just-hit-a-major-milestone",
+  "source": "Autoblog",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "araba",
+  "baslik": "Plymouth Barracuda ile 'Cuda Arasındaki Fark",
+  "ozet": "Barracuda ve 'Cuda isimleri genellikle birbirinin yerine kullanılsa da, iki model arasında önemli farklar bulunmaktadır.",
+  "puan": 3.5,
+  "grup": "plymouth-barracuda-vs-cuda-difference",
+  "link": "https://www.jalopnik.com/2297470/difference-between-plymouth-barracuda-and-cuda/",
+  "source": "Jalopnik",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "araba",
+  "baslik": "43 Beygirlik Geo Metro ile New York'tan Los Angeles'a",
+  "ozet": "Çok düşük güçteki bir Geo Metro ile ülkeyi baştan başa geçmek zaman alsa da macera arayanlar için buna değer.",
+  "puan": 3.5,
+  "grup": "geo-metro-cross-country-road-trip",
+  "link": "https://www.thedrive.com/news/driving-a-43-hp-geo-metro-from-ny-to-la-takes-a-while-its-worth-it",
+  "source": "The Drive",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "araba",
+  "baslik": "Hyundai'den Alabama Fabrikasına 500 Milyon Dolarlık Yatırım",
+  "ozet": "Hyundai, yeni nesil Tucson üretimi ve motor teknolojileri için Alabama fabrikasını genişletmeye yönelik 500 milyon dolarlık dev bir yatırım yapıyor.",
+  "puan": 7.5,
+  "grup": "hyundai-alabama-plant-tucson-investment",
+  "link": "https://www.autoblog.com/news/hyundai-is-spending-500-million-to-build-its-next-tucson-in-alabama",
+  "source": "Autoblog",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "araba",
+  "baslik": "Audi Q9 Kavisli OLED Stop Lambalarıyla Geliyor",
+  "ozet": "Audi, Q9 modelinde kavisli OLED panel teknolojisini kullanarak bu özelliği bir seri üretim araçta sunan ilk üretici konumuna geliyor.",
+  "puan": 8.0,
+  "grup": "audi-q9-curved-oled-taillights",
+  "link": "https://www.autoblog.com/news/audi-q9s-curved-oled-taillights-are-a-bigger-deal-than-you-think",
+  "source": "Autoblog",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika GP Resmi Start Grid Sıralaması",
+  "ozet": "2026 Meksika Grand Prix'si için tam resmi başlangıç gridi açıklandı.",
+  "puan": 8.5,
+  "grup": "mexico-gp-qualifying-results",
+  "link": "https://www.formula1.com/en/latest/article/official-grid-who-starts-where-for-the-2026-mexico-city-grand-prix.4AUykgAAZz3GMiI15Fqfir",
+  "source": "Formula1.com",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika GP Canlı Anlatımı",
+  "ozet": "2026 Meksika Grand Prix'sindeki tüm pist aksiyonunu canlı olarak takip edin.",
+  "puan": 5.0,
+  "grup": "mexico-gp-race-preview",
+  "link": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-gran-premio-de-la-ciudad-de-mexico-2026.5CheEK7oQK2jf98nrc6i8Y",
+  "source": "Formula1.com",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika GP Öncesi Bahis İpuçları",
+  "ozet": "Meksika Grand Prix'sinde bahis yaparken taraftarların duygusal kararlardan kaçınması ve serinkanlı olması gerekiyor.",
+  "puan": 2.0,
+  "grup": "mexico-gp-bet-builder",
+  "link": "https://www.formula1.com/en/latest/article/why-f1-fans-must-avoid-emotional-betting-during-the-mexico-city-grand-prix.6XPJ9yMZJmUR7oF9cHe2Ql",
+  "source": "Formula1.com",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "f1",
+  "baslik": "Yamaha'nın MotoGP Boykotunun F1'e Etkisi",
+  "ozet": "Yamaha'nın Katar Grand Prix'sini boykot etmesi, F1'in Katar ve Abu Dabi yarışları öncesinde paddock'ta soru işaretleri yarattı.",
+  "puan": 4.5,
+  "grup": "yamaha-motogp-boycott-f1-impact",
+  "link": "https://www.motorsport.com/f1/news/what-does-yamahas-shock-motogp-boycott-mean-for-f1-in-qatar-and-abu-dhabi/10870664/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "f1",
+  "baslik": "Yamaha'nın MotoGP Boykotunun F1'e Etkisi",
+  "ozet": "Yamaha'nın Katar Grand Prix'sini boykot etmesi, F1'in Katar ve Abu Dabi yarışları öncesinde paddock'ta soru işaretleri yarattı.",
+  "puan": 4.5,
+  "grup": "yamaha-motogp-boycott-f1-impact",
+  "link": "https://www.autosport.com/f1/news/what-does-yamahas-shock-motogp-boycott-mean-for-f1-in-qatar-and-abu-dhabi/10870666/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "f1",
+  "baslik": "Bottas 2027 Koltuğundan Emin",
+  "ozet": "Valtteri Bottas, Colton Herta söylentilerine rağmen 2027'de Formula 1'de kalacağından oldukça emin.",
+  "puan": 6.5,
+  "grup": "bottas-cadillac-2027-contract",
+  "link": "https://www.motorsport.com/f1/news/valtteri-bottas-pretty-confident-of-staying-for-f1-2027-amid-colton-herta-rumours/10870623/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "f1",
+  "baslik": "Lawson'ın Diskalifiyesi F1 Kurallarını Hedef Aldı",
+  "ozet": "Liam Lawson'ın diskalifiye edilmesi, 2026 F1 kurallarındaki bir başka kusuru gözler önüne serdi.",
+  "puan": 8.0,
+  "grup": "lawson-mexico-qualifying-dsq",
+  "link": "https://www.racefans.net/2026/11/01/featured-comment-lawsons-disqualification-highlights-another-flaw-in-f1s-rules/",
+  "source": "RaceFans",
+  "ts": 1793560074.3587148
+ },
+ {
+  "cat": "f1",
+  "baslik": "İran Savaşı Nedeniyle MotoGP Katar'dan Çekiliyor",
+  "ozet": "Katar'daki MotoGP yarışı, İran'daki savaş nedeniyle bir takımın turnuvadan çekilmesiyle sarsıldı.",
+  "puan": 5.5,
+  "grup": "qatar-motogp-iran-war-withdrawal",
+  "link": "https://www.racefans.net/2026/11/01/qatars-moto-gp-round-hit-by-first-team-withdrawal-due-to-iran-war/",
+  "source": "RaceFans",
+  "ts": 1793560074.3587148
  }
 ]
