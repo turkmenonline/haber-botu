@@ -2778,5 +2778,415 @@
   "link": "https://www.the-race.com/formula-1/f1-mexican-gp-final-practice-what-happened/",
   "source": "The Race",
   "ts": 1793483847.0669122
+ },
+ {
+  "cat": "araba",
+  "baslik": "Neredeyse Yok Edilemeyen 7 Efsanevi V8 Motor",
+  "ozet": "Yüksek dayanıklılıklarıyla bilinen ve bir milyon kilometreyi devirebilen en sağlam yedi V8 motor listeleniyor.",
+  "puan": 3.0,
+  "grup": "indestructible-v8-engines-list",
+  "link": "https://www.jalopnik.com/2296916/v8-engines-nearly-indestructible/",
+  "source": "Jalopnik",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "araba",
+  "baslik": "Hyundai Tucson PHEV Modelinde Bagaj Hacmi Neden Küçülüyor?",
+  "ozet": "Plug-in hibrit Tucson modelinde batarya yerleşimi nedeniyle yaklaşık 7 fit küp kargo alanından fedakarlık ediliyor.",
+  "puan": 5.0,
+  "grup": "hyundai-tucson-phev-cargo-space",
+  "link": "https://www.jalopnik.com/2296914/phev-hyundai-tucson-loses-almost-7-cubic-feet-cargo-space/",
+  "source": "Jalopnik",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "araba",
+  "baslik": "Tırlar İçin Yakıt Tasarrufu Sağlayan Yeni Aerodinamik Çözüm",
+  "ozet": "Yüksek dizel fiyatlarıyla mücadele eden uzun yol filoları için geliştirilen hafif ve pratik aerodinamik eklenti tanıtıldı.",
+  "puan": 4.5,
+  "grup": "semi-truck-aerodynamic-fuel-aid",
+  "link": "https://www.jalopnik.com/2296912/semi-truck-fleets-high-diesel-prices-trailer-aeroslider/",
+  "source": "Jalopnik",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "araba",
+  "baslik": "Bosch'tan Elektronik Arızalara Karşı Dokunmatik Fren Çözümü",
+  "ozet": "Bosch'un yeni patenti, elektronik sistem arızası durumunda sürücülerin fren kontrolünü elinde tutmasını sağlayan bir ekran teknolojisini inceliyor.",
+  "puan": 7.0,
+  "grup": "bosch-touchscreen-brake-failure-patent",
+  "link": "https://www.autoblog.com/news/what-if-your-cars-brakes-fail-bosch-has-a-touchscreen-solution",
+  "source": "Autoblog",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen: Meksika'da turumu ne mahvetti",
+  "ozet": "Max Verstappen, Meksika GP sıralama turlarında pole pozisyonu için mücadele edebileceklerini ancak 5. cepten başlayacağını belirtti.",
+  "puan": 7.0,
+  "grup": "mexico-gp-qualifying-results",
+  "link": "https://www.formula1.com/en/latest/article/verstappen-reveals-what-killed-my-lap-as-he-assesses-red-bulls-mexico-city-gp-qualifying-performance.6aGB9J2CrK0d9IyF2f7b6q",
+  "source": "Formula1.com",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Russell'dan P2'ye rağmen 'hayal kırıklığı' açıklaması",
+  "ozet": "George Russell, pole pozisyonunu kıl payı kaçırdığı Meksika sıralama turlarının ardından yaşadığı hayal kırıklığını paylaştı.",
+  "puan": 6.5,
+  "grup": "mexico-gp-qualifying-results",
+  "link": "https://www.formula1.com/en/latest/article/russell-details-the-frustration-i-have-despite-securing-p2-qualifying-result-for-mexico-city-gp.7DMElgRPmwTePfGOfGiUu9",
+  "source": "Formula1.com",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton'dan Ferrari ile 'özel' ilk pole pozisyonu",
+  "ozet": "Lewis Hamilton, Meksika GP sıralama turlarında 2023'ten bu yana ilk pole pozisyonunu elde etti.",
+  "puan": 8.5,
+  "grup": "mexico-gp-qualifying-results",
+  "link": "https://www.formula1.com/en/latest/article/wow-hamilton-reacts-to-special-maiden-pole-with-ferrari-at-mexico-city-gp.1S7nqyX2uIPgZomeRkneq4",
+  "source": "Formula1.com",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hirakawa için son anda gelen Haas F1 fırsatı 'rüya gibi'",
+  "ozet": "Ryo Hirakawa, Meksika GP'de Haas ile Formula 1'deki ilk yarışına çıkacak olmanın bir hayalin gerçekleşmesi olduğunu söyledi.",
+  "puan": 7.5,
+  "grup": "ocon-replaced-by-hirakawa-mexico",
+  "link": "https://www.formula1.com/en/latest/article/dream-come-true-hirakawa-details-late-haas-call-up-for-mexico-city-gp-ahead-of-f1-debut.62Xxmfh0IWBr7dFTDM5ciw",
+  "source": "Formula1.com",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton Meksika'da Ferrari ile ilk pole'ünü aldı",
+  "ozet": "Lewis Hamilton, Meksika Grand Prix'sinde pole pozisyonu hasretine son verdi.",
+  "puan": 8.5,
+  "grup": "mexico-gp-qualifying-results",
+  "link": "https://www.formula1.com/en/latest/article/hamilton-clinches-first-pole-with-ferrari-in-qualifying-at-the-mexico-city-gp.4GffzFhlnOxOjbHHMc0AJI",
+  "source": "Formula1.com",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen, Lawson ile arasını düzeltti ancak koltuk hakkında konuşmadı",
+  "ozet": "Max Verstappen ve Liam Lawson, 2. antrenmanda yaşadıkları temasın ardından cezalandırılırken, Verstappen grid cezası alacak.",
+  "puan": 8.0,
+  "grup": "verstappen-lawson-mexico-clash",
+  "link": "https://www.autosport.com/f1/news/verstappen-clears-the-air-with-lawson-but-keeps-opinion-on-racing-bulls-f1-seat-to-himself/10870388/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ferrari'den 4.300 dolarlık lüks dolma kalem",
+  "ozet": "Ferrari, süper otomobillerinden ilham alan özel üretim dolma kalemini satışa çıkardı.",
+  "puan": 2.0,
+  "grup": "ferrari-luxury-fountain-pen",
+  "link": "https://www.motorsport.com/f1/news/ferrari-reveals-luxury-4300-fountain-pen-inspired-by-its-bespoke-supercars/10870386/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Max Verstappen ve Liam Lawson olayını geride bıraktı",
+  "ozet": "Verstappen, Lawson ile antrenmandaki temasın ardından havayı yumuşatsa da koltuk konusundaki görüşlerini kendine sakladı.",
+  "puan": 8.0,
+  "grup": "verstappen-lawson-mexico-clash",
+  "link": "https://www.motorsport.com/f1/news/max-verstappen-clears-the-air-with-liam-lawson-but-stays-tight-lipped-on-racing-bulls-f1-seat/10870381/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Leclerc'ten Meksika GP için geçiş korkusu",
+  "ozet": "Charles Leclerc, Meksika'da geçiş yapmanın zor olacağını ve yarış düzeninin ilk virajlarda belirleneceğini söyledi.",
+  "puan": 5.0,
+  "grup": "mexico-gp-qualifying-results",
+  "link": "https://www.motorsport.com/f1/news/charles-leclerc-reveals-mexican-gp-overtaking-fears-after-missing-out-on-pole/10870384/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli Meksika'da beklenmedik zorluklar yaşıyor",
+  "ozet": "Hastalığını atlatmaya çalışan Kimi Antonelli, Meksika'daki şampiyonluk yolunda gergin bir hafta sonu geçiriyor.",
+  "puan": 6.0,
+  "grup": "antonelli-mexico-title-tension",
+  "link": "https://www.the-race.com/formula-1/two-ways-antonelli-is-unexpectedly-struggling-in-mexico/",
+  "source": "The Race",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli şampiyonluk baskısıyla 'gergin ve yorgun' sürdüğünü kabul etti",
+  "ozet": "Kimi Antonelli, şampiyonluk stresinin kendisinde istenmeyen bir gerginlik yarattığını itiraf etti.",
+  "puan": 6.0,
+  "grup": "antonelli-mexico-title-tension",
+  "link": "https://www.autosport.com/f1/news/ill-bombard-myself-with-melatonin-kimi-antonelli-admits-to-driving-tense-and-tired-on-cusp-of-f1-ti/10870380/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli: 'Melatonin ile uyuyacağım'",
+  "ozet": "Şampiyonluk baskısı nedeniyle gergin hissettiğini belirten Antonelli, iyi bir uyku çekerek bu durumu aşmaya çalışacak.",
+  "puan": 5.5,
+  "grup": "antonelli-mexico-title-tension",
+  "link": "https://www.motorsport.com/f1/news/ill-bombard-myself-with-melatonin-kimi-antonelli-admits-to-driving-tense-and-tired-on-cusp-of-f1-ti/10870375/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Russell'a göre pole pozisyonunu mal eden karar",
+  "ozet": "George Russell, fazladan yakıt turu atmanın Hamilton'ın arkasında pole'ü kaçırmasına neden olduğuna inanıyor.",
+  "puan": 6.0,
+  "grup": "mexico-gp-qualifying-results",
+  "link": "https://www.motorsport.com/f1/news/george-russell-identifies-costly-decision-behind-mexican-gp-qualifying-near-miss/10870370/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Lawson'ın Meksika sıralaması DSQ riskiyle karşı karşıya",
+  "ozet": "Liam Lawson'ın ilk 10'daki başlangıç yeri inceleme altında.",
+  "puan": 7.5,
+  "grup": "lawson-mexico-qualifying-dsq",
+  "link": "https://www.the-race.com/formula-1/lawson-at-risk-of-mexico-qualifying-dsq/",
+  "source": "The Race",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton: Ferrari ile ilk pole beni Michael'ı izlediğim günlere götürdü",
+  "ozet": "Lewis Hamilton, Ferrari ile kazandığı ilk pole pozisyonunun kendisine Michael Schumacher'li yıllığı hatırlattığını söyledi.",
+  "puan": 8.0,
+  "grup": "mexico-gp-qualifying-results",
+  "link": "https://www.motorsport.com/f1/news/lewis-hamilton-first-ferrari-f1-pole-takes-me-back-to-watching-michael/10870368/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Lawson'dan Verstappen'e kaza sonrası özür",
+  "ozet": "Liam Lawson, antrenman seansındaki temasın ardından Max Verstappen'den özür diledi.",
+  "puan": 7.0,
+  "grup": "verstappen-lawson-mexico-clash",
+  "link": "https://www.racefans.net/2026/10/31/lawson-apologised-to-verstappen-for-clash-right-now-its-not-the-best-time/",
+  "source": "RaceFans",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hadjar'dan FIA uyarısı alan paddock olayı savunması",
+  "ozet": "Isack Hadjar, paddock'ta selfie çekilmek isteyen kişiyi itmesiyle ilgili eleştirilere yanıt verdi.",
+  "puan": 6.5,
+  "grup": "hadjar-paddock-misconduct-mexico",
+  "link": "https://www.motorsport.com/f1/news/isack-hadjar-defends-mexican-gp-paddock-incident-after-fia-warning-not-a-reality-show/10870360/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hirakawa: Trafik olmasaydı Q2'ye rahatça kalabilirdim",
+  "ozet": "Ryo Hirakawa, son turunda trafik engeliyle karşılaşmasa Q2'ye rahatlıkla çıkabileceğini belirtti.",
+  "puan": 6.0,
+  "grup": "ocon-replaced-by-hirakawa-mexico",
+  "link": "https://www.motorsport.com/f1/news/hirakawa-could-have-easily-made-q2-in-f1-mexico-gp-without-late-traffic/10870356/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen cezası sonrası Meksika GP başlangıç gridi",
+  "ozet": "Max Verstappen ve Liam Lawson'ın antrenman kazası sonrasındaki cezaları grid sıralamasını etkiledi.",
+  "puan": 8.0,
+  "grup": "verstappen-lawson-mexico-clash",
+  "link": "https://www.the-race.com/formula-1/f1-2026-mexican-grand-prix-starting-grid-with-verstappen-penalty/",
+  "source": "The Race",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika GP Pazar Programı ve Hava Durumu",
+  "ozet": "Meksika Grand Prix'si pazar gününe Lewis Hamilton'ın pole pozisyonunda girdiği yarışla devam ederken, Kimi Antonelli dokuzuncu veya daha iyi bir sonuçla şampiyonluğunu ilan edebilir.",
+  "puan": 7.0,
+  "grup": "mexico-gp-saturday-schedule",
+  "link": "https://www.motorsport.com/f1/news/f1-mexico-gp-sunday-schedule-weather-forecast-and-how-to-watch/10870318/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Max Verstappen: '13. Virajdaki Trafik Olmasa Pole Alabilirdim'",
+  "ozet": "Max Verstappen, Meksika GP sıralamalarında son turunda son sektörde Lando Norris ile karşılaşmasaydı pole pozisyonunu alabilecek hızda olduğunu belirtti.",
+  "puan": 5.5,
+  "grup": "mexico-gp-qualifying-results",
+  "link": "https://www.motorsport.com/f1/news/up-there-for-pole-verstappen-rues-turn-13-traffic-in-f1-mexico-gp-qualifying/10870339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Esteban Ocon'dan Fiziksel Tartışma İddialarına Yalanlama",
+  "ozet": "Haas'tan kadro dışı bırakılan Esteban Ocon, takım patronu Ayao Komatsu ile aralarında fiziksel şiddet içeren bir tartışma yaşandığı yönündeki Fransız medyası iddialarını yalanladı.",
+  "puan": 7.5,
+  "grup": "ocon-replaced-by-hirakawa-mexico",
+  "link": "https://www.autosport.com/f1/news/ocon-denies-physical-altercation-rumours-in-first-statement-since-being-dropped-by-haas-for-mexico-/10870348/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "F1 Pilotlarına Meksika GP Öncesi Pist Sınırı Uyarısı",
+  "ozet": "Yarış hakemleri, Meksika Grand Prix'sinin startında ve yeniden startlarda ilk ve dördüncü virajlardaki pist sınırları konusunda pilotları özel olarak uyardı.",
+  "puan": 5.0,
+  "grup": "mexico-gp-qualifying-results",
+  "link": "https://www.racefans.net/2026/10/31/stewards-warn-drivers-over-cutting-first-corner-sequences-at-start-and-restarts/",
+  "source": "RaceFans",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Esteban Ocon Kadro Dışı Kalması Sonrası Açıklama Yaptı",
+  "ozet": "Haas tarafından Meksika GP kadrosundan çıkarılan Esteban Ocon, fiziksel kavga iddialarını reddederek durumla ilgili ilk resmi açıklamasını yaptı.",
+  "puan": 7.5,
+  "grup": "ocon-replaced-by-hirakawa-mexico",
+  "link": "https://www.motorsport.com/f1/news/esteban-ocon-issues-statement-after-haas-benching-denies-physical-altercation-rumours/10870336/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ocon: 'Haas'tan Ayrılmam Görüş Ayrılığından Kaynaklandı'",
+  "ozet": "Esteban Ocon, Haas'taki şok ayrılığının fiziksel şiddetle bir ilgisi olmadığını, durumun görüş ayrılıklarından kaynaklandığını doğruladı.",
+  "puan": 7.5,
+  "grup": "ocon-replaced-by-hirakawa-mexico",
+  "link": "https://www.racefans.net/2026/10/31/ocon-confirms-difference-in-viewpoints-led-to-shock-exit-from-haas/",
+  "source": "RaceFans",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Liam Lawson MGU-K Kuralı Nedeniyle Diskalifiye Tehlikesinde",
+  "ozet": "Liam Lawson, teknik bir kural ihlali nedeniyle sıralama turları sonuçlarından diskalifiye edilme riskiyle karşı karşıya.",
+  "puan": 8.5,
+  "grup": "lawson-mexico-qualifying-dsq",
+  "link": "https://www.racefans.net/2026/10/31/lawson-at-risk-of-disqualification-from-qualifying-over-mgu-k-rules-breach/",
+  "source": "RaceFans",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Esteban Ocon Haas ile Anlaşmazlığı Kabul Etti, Şiddeti Reddetti",
+  "ozet": "Esteban Ocon, şok bir şekilde kadro dışı kalmadan önce Haas ile arasında bir anlaşmazlık olduğunu kabul etti ancak bunun asla şiddete dönüşmediğini belirtti.",
+  "puan": 7.5,
+  "grup": "ocon-replaced-by-hirakawa-mexico",
+  "link": "https://www.the-race.com/formula-1/ocon-denies-using-violence-in-his-disagreement-with-haas/",
+  "source": "The Race",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Lewis Hamilton Ferrari ile İlk Pole Pozisyonunun Ardından Konuştu",
+  "ozet": "Yedi kez dünya şampiyonu Lewis Hamilton, Meksika Grand Prix'sinde Ferrari ile ilk pole pozisyonunu alarak üç yıllık pole özlemine son vermesinin ardından kelimeleri bulamadığını söyledi.",
+  "puan": 9.0,
+  "grup": "mexico-gp-qualifying-results",
+  "link": "https://www.motorsport.com/f1/news/lewis-hamilton-lost-for-words-after-ending-three-year-f1-pole-drought-at-mexican-gp/10870309/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Lewis Hamilton'dan Tarihi Ferrari Pole Pozisyonu",
+  "ozet": "Lewis Hamilton, Meksika'da Ferrari'ye 2026 sezonunun ilk pole pozisyonunu kazandırırken, 2023 Macaristan'dan bu yana ilk kez bu başarıyı elde etti.",
+  "puan": 9.0,
+  "grup": "mexico-gp-qualifying-results",
+  "link": "https://www.motorsport.com/f1/news/lewis-hamilton-buoyant-by-historic-first-ferrari-f1-pole-i-still-love-what-i-do/10870304/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ryo Hirakawa Haas Çağrısına Şaşırdı",
+  "ozet": "Ryo Hirakawa, Haas'tan Esteban Ocon'un yerini alması yönünde aldığı telefon karşısında çok şaşırdığını ancak Q2'ye kalamadığı için hayal kırıklığı yaşadığını belirtti.",
+  "puan": 6.0,
+  "grup": "ocon-replaced-by-hirakawa-mexico",
+  "link": "https://www.racefans.net/2026/10/31/hirakawa-surprised-by-call-up-to-replace-ocon-but-disappointed-by-qualifying-result/",
+  "source": "RaceFans",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 Meksika Grand Prix Başlangıç Grid",
+  "ozet": "Meksika Grand Prix'sinde Lewis Hamilton pole pozisyonundan başlarken, George Russell ikinci ve Charles Leclerc üçüncü sırada yer alıyor.",
+  "puan": 8.0,
+  "grup": "mexico-gp-qualifying-results",
+  "link": "https://www.motorsport.com/f1/news/2026-f1-mexico-grand-prix-starting-grid/10870302/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton Meksika'da Ferrari İçin İlk Pole'ünü Aldı",
+  "ozet": "Lewis Hamilton, Meksika'da Ferrari Formula 1 takımı adına kariyerinin ilk pole pozisyonunu ve takımın 2026'daki ilk pole'ünü elde etti.",
+  "puan": 9.0,
+  "grup": "mexico-gp-qualifying-results",
+  "link": "https://www.the-race.com/formula-1/hamilton-takes-first-ferrari-gp-pole-in-mexico/",
+  "source": "The Race",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika GP: Hamilton Russell ve Leclerc'i Geride Bıraktı",
+  "ozet": "Lewis Hamilton, George Russell'ı kıl payı geride bırakarak Meksika Grand Prix'si sıralama turlarında Ferrari'ye 2026 sezonunun ilk pole pozisyonunu kazandırdı.",
+  "puan": 9.0,
+  "grup": "mexico-gp-qualifying-results",
+  "link": "https://www.autosport.com/f1/news/f1-mexico-gp-lewis-hamilton-beats-george-russell-and-charles-leclerc-to-pole/10870295/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Lewis Hamilton Meksika'da Pole Pozisyonunun Sahibi",
+  "ozet": "Nefes kesen sıralama seansında George Russell ve Charles Leclerc'i geride bırakan Lewis Hamilton, Meksika'da pole pozisyonunu kazanan isim oldu.",
+  "puan": 9.0,
+  "grup": "mexico-gp-qualifying-results",
+  "link": "https://www.motorsport.com/f1/news/f1-mexico-gp-quali-report/10870286/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton Meksika'da Üç Yıl Sonra İlk Pole Pozisyonunu Kazandı",
+  "ozet": "Lewis Hamilton, Meksika Grand Prix'si sıralama turlarında Ferrari pilotu olarak ilk pole pozisyonunu elde etti.",
+  "puan": 9.0,
+  "grup": "mexico-gp-qualifying-results",
+  "link": "https://www.racefans.net/2026/10/31/hamilton-claims-first-pole-position-for-three-years-ahead-of-russell-in-mexico/",
+  "source": "RaceFans",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 Meksika Grand Prix Sıralama Grid",
+  "ozet": "Lewis Hamilton, Ferrari adına Meksika Grand Prix'si için George Russell ve Charles Leclerc'in önünde geçici pole pozisyonunun sahibi oldu.",
+  "puan": 8.0,
+  "grup": "mexico-gp-qualifying-results",
+  "link": "https://www.racefans.net/2026/10/31/2026-mexican-grand-prix-grid/",
+  "source": "RaceFans",
+  "ts": 1793494709.1118512
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 Meksika Grand Prix Sıralama Sonuçları",
+  "ozet": "Lewis Hamilton, Meksika'daki sıralama turlarında Ferrari F1 takımıyla ilk Grand Prix pole pozisyonunu elde etti.",
+  "puan": 9.0,
+  "grup": "mexico-gp-qualifying-results",
+  "link": "https://www.the-race.com/formula-1/f1-2026-mexican-grand-prix-qualifying-results/",
+  "source": "The Race",
+  "ts": 1793494709.1118512
  }
 ]
