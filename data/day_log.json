@@ -1,406 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Yeni BMW Alpina B7 Nürburgring'de Test Ediliyor",
-  "ozet": "Makyajlı G70 7 Serisi'ni temel alan yeni BMW Alpina B7, Nürburgring testleri sırasında dörtlü egzoz sesleriyle görüntülendi.",
-  "puan": 7.5,
-  "grup": "bmw-alpina-b7-v8-spied",
-  "link": "https://www.jalopnik.com/2302808/new-bmw-alpina-b7-g70-7-series-spy-shots/",
-  "source": "Jalopnik",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "araba",
-  "baslik": "Formula 1'in En Sıradışı Yarış Otomobili: Brabham Fan Car",
-  "ozet": "Arkasındaki devasa fan sayesinde yere basma kuvveti üreten radikal Brabham F1 aracı, katıldığı tek yarışını kazandıktan sonra tartışmalar nedeniyle yasaklanmıştı.",
-  "puan": 5.0,
-  "grup": "brabham-fan-car-f1-history",
-  "link": "https://www.motor1.com/features/813666/formula-1-brabham-fan-car-bt46b/",
-  "source": "Motor1",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "araba",
-  "baslik": "Amazon'da Bulunan Gizli Mücevher İndirimli Saatler",
-  "ozet": "Amazon'un saat kataloglarında düşük kaliteli ürünler yer alsa da, dikkatli incelendiğinde cazip fırsatlar yakalamak mümkün.",
-  "puan": 2.0,
-  "grup": "amazon-tools-discount-deals",
-  "link": "https://www.thedrive.com/news/discounted-watches-youll-actually-wear-amazons-hidden-gem-watch-deals",
-  "source": "The Drive",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Dakar Rallisi Güzergahı Portekiz-Fas Hattına Taşındı",
-  "ozet": "2027 Dakar Rallisi organizatörleri yarışın Avrupa-Afrika hattına taşınma gerekçesini net açıklamasa da durumun jeopolitik sebepleri olduğu düşünülüyor.",
-  "puan": 6.0,
-  "grup": "2027-dakar-rally-portugal-morocco",
-  "link": "https://www.jalopnik.com/2302650/2027-dakar-rally-leaves-saudi-arabia-new-portugal-morocco-route-us-iran-war/",
-  "source": "Jalopnik",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "araba",
-  "baslik": "Sıcak, Şık ve Güvenli Sürüş Eldivenleri",
-  "ozet": "Otomotiv editörlerinin önerileriyle hazırlanan, sürüş keyfini artıracak en iyi sürüş eldivenleri listesi.",
-  "puan": 2.0,
-  "grup": "best-driving-gloves-selection",
-  "link": "https://www.caranddriver.com/shopping-advice/a38759816/driving-gloves-our-picks/",
-  "source": "Car and Driver",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "araba",
-  "baslik": "400 Beygirlik Dakar Buggy'si Polaris RZR Satışta",
-  "ozet": "Güçlendirilmiş 2.0 litrelik motorundan 400 beygir güç üreten 200.000 dolarlık bu Polaris RZR, sürücülere gerçek bir Dakar buggy deneyimi vadediyor.",
-  "puan": 6.5,
-  "grup": "polaris-rzr-dakar-buggy-400hp",
-  "link": "https://www.thedrive.com/news/this-200000-polaris-rzr-side-by-side-is-a-400-hp-dakar-buggy-you-can-own",
-  "source": "The Drive",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Kia EV9 İnceleme ve Fiyat Bilgileri",
-  "ozet": "Tamamen elektrikli 2027 Kia EV9 modelinin teknik özellikleri, fiyatlandırması ve genel değerlendirmesi.",
-  "puan": 5.0,
-  "grup": "kia-ev9-2027-review-specs",
-  "link": "https://www.caranddriver.com/kia/ev9-2027",
-  "source": "Car and Driver",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Kia EV9 Dış Fotoğrafları",
-  "ozet": "Yeni 2027 Kia EV9 modelinin dış tasarımını farklı açılardan detaylıca inceleyin.",
-  "puan": 3.0,
-  "grup": "kia-ev9-2027-exterior-photos",
-  "link": "https://www.caranddriver.com/photos/a74296386/2027-kia-ev9-pricing-details-exterior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Kia EV9 İç Mekan Fotoğrafları",
-  "ozet": "2027 Kia EV9'un kabin detaylarını ve iç tasarımını yakından görün.",
-  "puan": 3.0,
-  "grup": "kia-ev9-2027-interior-photos",
-  "link": "https://www.caranddriver.com/photos/a74297448/2027-kia-ev9-pricing-details-interior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "araba",
-  "baslik": "Kia'nın Yeni Tasarım Dili ABD'de İlgi Görüyor",
-  "ozet": "Yazar Kia'nın yeni tasarım çizgisini beğenmese de, yeni Seltos gibi modeller Amerikan pazarı tarafından oldukça olumlu karşılanıyor.",
-  "puan": 4.0,
-  "grup": "kia-design-us-market-reception",
-  "link": "https://www.thedrive.com/news/kias-design-isnt-working-for-me-anymore-but-its-sure-working-for-america",
-  "source": "The Drive",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "araba",
-  "baslik": "Modern Audi Quattro ve 10.000 Devirli V8 Motor",
-  "ozet": "Klasik Quattro gövdesinin altında RS4 şasi ve aktarma organlarını barındıran Audacious IV, süperşarjlı V8 seçeneği sunuyor.",
-  "puan": 8.5,
-  "grup": "audi-quattro-v8-restomod-audacious",
-  "link": "https://www.motor1.com/news/813910/audi-quattro-restomod-10000-rpm-v8/",
-  "source": "Motor1",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "araba",
-  "baslik": "BMW Ailesinin Yeni Üyesi Alpina V8 7 Serisi Casus Fotoğraflarda",
-  "ozet": "BMW çatısı altındaki ilk yeni ürün olan Alpina imzalı V8 motorlu 7 Serisi üretime hazırlanıyor.",
-  "puan": 7.5,
-  "grup": "bmw-alpina-b7-v8-spied",
-  "link": "https://www.autoblog.com/news/spy-shots-bmw-alpina-7-series-b7-nurburgring",
-  "source": "Autoblog",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "araba",
-  "baslik": "Yeni Dodge Charger ‘The Dukes of Hazzard’ Dizisinde Nasıl Olurdu?",
-  "ozet": "Yeni nesil elektrikli Dodge Charger'ın ünlü dizi temasına nasıl uyum sağlayacağı sorusu yanıt buluyor.",
-  "puan": 2.5,
-  "grup": "dodge-charger-dukes-of-hazzard",
-  "link": "https://www.caranddriver.com/features/a74263549/if-2026-dodge-charger-were-on-dukes-of-hazzard/",
-  "source": "Car and Driver",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "araba",
-  "baslik": "İngiliz Üreticiden 10.000 Devirli V8 Motorlu Yeni Audi Quattro",
-  "ozet": "B7 RS4 altyapısı üzerine inşa edilen Audacious Automotive IV modeli, 200 mil/s son hız iddiasıyla geliyor.",
-  "puan": 8.5,
-  "grup": "audi-quattro-v8-restomod-audacious",
-  "link": "https://www.caranddriver.com/news/a74295295/audi-quattro-audacious-automotive-iv-tribute-car/",
-  "source": "Car and Driver",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "araba",
-  "baslik": "En İyi Otomobil Markaları Sıralaması",
-  "ozet": "Yüzlerce modelin bireysel test puanlarının ortalaması alınarak en yüksek puanlı otomobil markaları belirlendi.",
-  "puan": 3.0,
-  "grup": "top-rated-car-brands-ranking",
-  "link": "https://www.caranddriver.com/features/a74263753/top-car-brands/",
-  "source": "Car and Driver",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "araba",
-  "baslik": "Toyota SEMA Fuarı İçin Beş Dayanıklı Woodland Konseptini Tanıttı",
-  "ozet": "Toyota, SEMA fuarında sergilenmek üzere aralarında yükseltilmiş bir Sienna'nın da bulunduğu beş özel Woodland konseptini tanıttı.",
-  "puan": 6.0,
-  "grup": "toyota-woodland-sema-concepts",
-  "link": "https://www.autoblog.com/news/toyota-unveils-five-rugged-woodland-concepts-including-a-lifted-sienna",
-  "source": "Autoblog",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "araba",
-  "baslik": "Nadir Özellikli 1970 Plymouth Hemi 'Cuda Satışta",
-  "ozet": "Sadece canlı rengiyle değil, 31.300 mildeki 426 V8 motoru ve nadir mekanik özellikleriyle dikkat çeken 1970 Plymouth Hemi 'Cuda yeni alıcısını bekliyor.",
-  "puan": 4.5,
-  "grup": "1970-plymouth-hemi-cuda-for-sale",
-  "link": "https://www.jalopnik.com/2302033/1970-plymouth-hemi-cuda-for-sale-31300-miles-426-v8-rare-spec/",
-  "source": "Jalopnik",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "araba",
-  "baslik": "McLaren'ın Yeni Süper Otomobili McL 820 809 Beygir Gücünde Olacak",
-  "ozet": "Giden 750S modelinin yerini alacak olan yeni McLaren süper otomobili, 2027'de yollara ve pistlere çıkacak.",
-  "puan": 8.5,
-  "grup": "mclaren-750s-successor-mcl-820",
-  "link": "https://www.caranddriver.com/news/a74296120/mclaren-mcl-820-supercar-name-confirmed/",
-  "source": "Car and Driver",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "araba",
-  "baslik": "Hâlâ Atmosferik V6 Motorla Satın Alabileceğiniz 16 Araç",
-  "ozet": "Aile minibüslerinden arazi SUV'lerine kadar, atmosferik V6 motorların pazardaki yerini korumaya devam ettiğini gösteren modeller.",
-  "puan": 3.0,
-  "grup": "naturally-aspirated-v6-cars-list",
-  "link": "https://www.motor1.com/features/813901/new-cars-naturally-aspirated-v6-engines/",
-  "source": "Motor1",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Ineos Grenadier Quartermaster İnceleme ve Özellikleri",
-  "ozet": "2027 Ineos Grenadier Quartermaster modelinin teknik verileri, fiyatlandırma beklentileri ve genel incelemesi.",
-  "puan": 5.0,
-  "grup": "ineos-grenadier-quartermaster-review",
-  "link": "https://www.caranddriver.com/ineos/grenadier-quartermaster-2027",
-  "source": "Car and Driver",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "araba",
-  "baslik": "Kaputsuz Camaro 105 Mil Hızla Yakalandı",
-  "ozet": "Arizona otoban polisleri, 75 millik hız sınırında 105 mil hızla giden kaputsuz bir Chevrolet Camaro'yu durdurdu ve sürücünün başka büyük sorunları olduğunu keşfetti.",
-  "puan": 3.5,
-  "grup": "arizona-trooper-hoodless-camaro-105-mph",
-  "link": "https://www.autoblog.com/news/arizona-trooper-stops-hoodless-camaro-at-105-mph-finds-bigger-problem",
-  "source": "Autoblog",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "araba",
-  "baslik": "Islak ve Kuru Kavramalı DCT Arasındaki Farklar",
-  "ozet": "Islak ve kuru çift kavramalı şanzımanlar hızlı vites değişimleri sunar ancak soğutma, verimlilik ve dayanıklılık konularındaki farkları günlük sürüşü etkileyebilir.",
-  "puan": 4.5,
-  "grup": "difference-wet-dry-dct-cooling-efficiency",
-  "link": "https://www.motor1.com/features/813847/dry-clutch-vs-wet-clutch-dct-differences/",
-  "source": "Motor1",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "araba",
-  "baslik": "Volkswagen Üç Ayda 6.6 Milyar Dolar Kaybetti",
-  "ozet": "Alman otom üreticisi, Dieselgate skandalından bu yana en büyük faaliyet zararını açıkladı; zararın arkasında Porsche değer kaybı ve Çinli rekabeti yer alıyor.",
-  "puan": 8.5,
-  "grup": "porsche-writedown-volkswagen-financial-crisis",
-  "link": "https://www.autoblog.com/news/volkswagen-lost-6-6-billion-in-just-three-months",
-  "source": "Autoblog",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Fiat Topolino Sokak Yasal Yükseltmesi Aldı",
-  "ozet": "15.000 doların altında fiyatlandırılan Fiat, mikro elektrikli aracının kullanım alanını genişletti ve yeni üstü açık bir varyant tanıttı.",
-  "puan": 5.0,
-  "grup": "fiat-topolino-us-legal-status",
-  "link": "https://www.autoblog.com/news/2027-fiat-topolino-gets-street-legal-upgrade",
-  "source": "Autoblog",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "araba",
-  "baslik": "The Drive ve Blipshift İş Birliği Geri Döndü",
-  "ozet": "Klasik otomobil temalı 5 yeni tişört, iki hafta süreyle sınırlı olarak satışa sunuldu.",
-  "puan": 2.0,
-  "grup": "thedrive-blipshift-classic-tees-return",
-  "link": "https://www.thedrive.com/news/the-drive-x-blipshift-is-back-with-5-new-tees-from-coke-bottles-to-z-cars",
-  "source": "The Drive",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "araba",
-  "baslik": "Dakar Rallisi Portekiz ve Fas Rotasına Dönüyor",
-  "ozet": "49. Dakar Rallisi, Portekiz'den Fas'a uzanan 4.862 millik rotayla 9-11 Ocak tarihleri arasında gerçekleştirilecek.",
-  "puan": 6.5,
-  "grup": "2027-dakar-rally-portugal-morocco",
-  "link": "https://www.thedrive.com/news/dakar-rally-returns-home-to-europe-africa-as-saudi-arabia-suddenly-seems-less-safe",
-  "source": "The Drive",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "araba",
-  "baslik": "İnsanların Gerçekten Aldığına Şaşırdığınız Otomobiller",
-  "ozet": "Nissan CrossCabriolet ve Buick Cascada gibi üstü açılır modellerden büyük lüks SUV'lere kadar trafikte görmek herkesi şaşırtan otomobiller listelendi.",
-  "puan": 2.5,
-  "grup": "surprising-cars-people-actually-bought-list",
-  "link": "https://www.jalopnik.com/2301863/surprising-cars-someone-actually-bought-reader-answers/",
-  "source": "Jalopnik",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "araba",
-  "baslik": "FIA Başkanı Kimi Antonelli'nin Yaşına İnanamadı",
-  "ozet": "FIA başkanı Mohammed Ben Sulayem, Kimi Antonelli'nin süper lisans başvurusundaki genç yaşını gördüğünde şaşkınlığını gizleyemediğini belirtti.",
-  "puan": 4.0,
-  "grup": "fia-president-kimi-antonelli-age-reaction",
-  "link": "https://www.thedrive.com/news/fia-president-couldnt-believe-kimi-antonellis-age-on-fia-super-license-application",
-  "source": "The Drive",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "f1",
-  "baslik": "Meksika GP Bahis Piyasalarini Neler Etkileyebilir?",
-  "ozet": "Meksika Grand Prix'si sonrasi bahisçiler, canli bahislerde dogru kararlar alabilmek için yarisi yakindan takip edecek.",
-  "puan": 2.0,
-  "grup": "mexico-gp-betting-markets",
-  "link": "https://www.formula1.com/en/latest/article/what-could-shake-up-mexico-city-grand-prix-markets-when-betting-in-race.2O1mWktrVDTGOKZXZofsLA",
-  "source": "Formula1.com",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "f1",
-  "baslik": "Meksika GP 1. Antrenman Seansi Canli Anlatim",
-  "ozet": "2026 Meksika Grand Prix'sinin ilk Formula 1 antrenman seansi canli olarak yayinlaniyor.",
-  "puan": 3.5,
-  "grup": "mexico-gp-fp1-live",
-  "link": "https://www.formula1.com/en/latest/article/live-coverage-first-practice-in-mexico-city-2026.3EQXBZtUSy8UX3vcLOrmta",
-  "source": "Formula1.com",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "f1",
-  "baslik": "Gelecegin Yildizlarinin Unutulmaz FP1 Çikislari",
-  "ozet": "Meksika'da FP1'e çikacak Nikola Tsolov ve Freddie Slater öncesinde, geçmiisteki benzer genç pilot çikislarina göz atiliyor.",
-  "puan": 2.5,
-  "grup": "mexico-gp-fp1-rookies",
-  "link": "https://www.formula1.com/en/latest/article/the-7-memorable-fp1-debuts-from-future-formula-1-stars.3YaqSX5YT9d54Eb4sPWtqb",
-  "source": "Formula1.com",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "f1",
-  "baslik": "Meksika'da Hangi Çaylaklar Direksiyona Geçecek?",
-  "ozet": "Autodromo Hermanos Rodriguez'deki ilk antrenmanda 10 asil pilot yerini genç ve yedek sürüceklere birakacak.",
-  "puan": 4.0,
-  "grup": "mexico-gp-fp1-rookies",
-  "link": "https://www.formula1.com/en/latest/article/which-rookie-drivers-are-getting-fp1-outings-at-the-mexico-city-grand-prix.7rCPdOEOjnSiAOM8SjUAsB",
-  "source": "Formula1.com",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "f1",
-  "baslik": "O2'de McLaren Canli Etkinligi Için Bilet Kazanin",
-  "ozet": "Taraftarlar, O2'de gerçeklesecek McLaren Racing Live etkinligine bilet kazanma sansi yakaliyor.",
-  "puan": 1.5,
-  "grup": "mclaren-o2-live-tickets",
-  "link": "https://www.formula1.com/en/latest/article/win-tickets-to-see-mclaren-racing-live-at-the-o2.3lzP8fNRqqmPZP6uSZwvDP",
-  "source": "Formula1.com",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "f1",
-  "baslik": "Fernando Alonso'nun Sürüş Standartlari Elestirisi",
-  "ozet": "Fernando Alonso'nun gridin alt siralarindaki pilotlar hakkindaki elestirileri padokta yankisi bulmaya devam ediyor ve diger sürücüler Alex Albon'u savunuyor.",
-  "puan": 4.5,
-  "grup": "alonso-criticises-f1-driving-standards",
-  "link": "https://www.motorsport.com/f1/news/what-alonso-is-getting-wrong-about-f1-driving-standards/10869771/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "f1",
-  "baslik": "Hastaliklanan Sergio Perez Meksika GP Taraftar Buluşmasini İptal Etti",
-  "ozet": "Rahatsizligi bulunan Cadillac pilotu Sergio Perez taraftar bulusmasini kaçiracak ancak antrenman seanslarina katilmasi bekleniyor.",
-  "puan": 4.0,
-  "grup": "perez-300th-f1-race-mexico",
-  "link": "https://www.motorsport.com/f1/news/serio-perez-to-skip-f1-mexico-gp-fan-forum-due-to-illness/10869750/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "f1",
-  "baslik": "Lewis Hamilton Uzun Vadeli F1 Kariyeri Hakkinda Konustu",
-  "ozet": "Rekabetçi kalabildigi sürece F1'de kalmaya devam etmek istedigini belirten Lewis Hamilton, olasi Afrika GP'sinde bile yarisabilecegini ima etti.",
-  "puan": 5.0,
-  "grup": "hamilton-f1-career-2030s",
-  "link": "https://www.motorsport.com/f1/news/lewis-hamilton-on-why-he-is-built-differently-to-stay-in-f1-for-the-foreseeable-future/10869704/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "f1",
-  "baslik": "Lewis Hamilton Uzun Vadeli F1 Kariyeri Hakkinda Konustu",
-  "ozet": "Rekabetçi kalabildigi sürece F1'de kalmaya devam etmek istedigini belirten Lewis Hamilton, olasi Afrika GP'sinde bile yarisabilecegini ima etti.",
-  "puan": 5.0,
-  "grup": "hamilton-f1-career-2030s",
-  "link": "https://www.autosport.com/f1/news/hamilton-on-why-he-is-built-differently-to-stay-in-f1-for-the-foreseeable-future/10869741/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "f1",
-  "baslik": "Verstappen ve Hadjar'dan Meksika'nin Zorluklari Açiklamasi",
-  "ozet": "Max Verstappen ve Isack Hadjar, yüksek rakim ve turbo gecikmesi nedeniyle Meksika pistinin asiri zorluklar barindirdigini belirtti.",
-  "puan": 4.5,
-  "grup": "mexico-gp-altitude-challenges",
-  "link": "https://www.motorsport.com/f1/news/slippery-as-hell-max-verstappen-and-isack-hadjar-explain-the-extreme-challenge-of-mexico/10869483/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "f1",
-  "baslik": "Ben Sulayem: Gasly İspanya GP Sonrasi Ölüm Tehditleri Aldi",
-  "ozet": "FIA baskani Ben Sulayem, Pierre Gasly'nin 2024 Ispanya Grand Prix'sinin ardindan 13 bin ölüm tehdidi aldigini açikladi.",
-  "puan": 5.5,
-  "grup": "gasly-death-threats-spanish-gp",
-  "link": "https://www.racefans.net/2026/10/30/sportlight-gasly-received-13000-death-threats-after-spanish-gp-claims-ben-sulayem/",
-  "source": "RaceFans",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "f1",
-  "baslik": "Sergio Perez: 2027 Takim Arkadasimi Seçme Yetkim Yok",
-  "ozet": "Cadillac ile 2029'a kadar sözlesme yenileyen Sergio Perez, gelecek yilki takim arkadasi seçiminde söz sahibi olmadigini belirtti.",
-  "puan": 7.5,
-  "grup": "perez-cadillac-contract-2029",
-  "link": "https://www.motorsport.com/f1/news/sergio-perez-praises-colton-herta-impact-but-has-no-say-over-2027-cadillac-team-mate-choice/10869487/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793388551.8671904
- },
- {
-  "cat": "araba",
   "baslik": "Modern Araçlar Hacklenebilir mi?",
   "ozet": "Anahtarsız araç hırsızlığından uzaktan ele geçirmelere kadar hackerların modern araçları nasıl hedef aldığı ve sürücülerin alabileceği önlemler ele alınıyor.",
   "puan": 5.5,
@@ -3028,5 +2628,325 @@
   "link": "https://www.racefans.net/2026/11/01/qatars-moto-gp-round-hit-by-first-team-withdrawal-due-to-iran-war/",
   "source": "RaceFans",
   "ts": 1793560074.3587148
+ },
+ {
+  "cat": "araba",
+  "baslik": "Steve McQueen'in Ferrari 275 NART Spider Modeli Açık Artırmada",
+  "ozet": "Steve McQueen'in nadide ve Hollywood tarihine sahip Ferrari 275 NART Spider otomobili yeni sahibini bulmak için açık artırmaya çıkıyor.",
+  "puan": 7.5,
+  "grup": "steve-mcqueen-ferrari-275-nart-spider-auction",
+  "link": "https://www.jalopnik.com/2298699/steve-mcqueen-ferrari-275-nart-spider-gooding-christies-auction/",
+  "source": "Jalopnik",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ferrari Challenge Stradale Geri Dönüyor İddiası",
+  "ozet": "Ferrari 296 tabanlı yeni Challenge Stradale modelinin dünya prömiyerinin yapılacağı ve detaylarının sızdırıldığı bildiriliyor.",
+  "puan": 8.5,
+  "grup": "ferrari-challenge-stradale-return",
+  "link": "https://www.autoblog.com/news/ferrari-challenge-stradale-is-reportedly-returning-after-20-plus-years",
+  "source": "Autoblog",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "araba",
+  "baslik": "Nesillere Göre Corvette Yanal Yol Tutuş Performansı",
+  "ozet": "Yüksek performanslı Corvette modellerinin viraj alma yeteneklerinin nesiller boyunca nasıl evrimleştiği inceleniyor.",
+  "puan": 4.5,
+  "grup": "corvette-skidpad-grip-generations",
+  "link": "https://www.jalopnik.com/2301787/chevrolet-corvette-skidpad-grip-ranked-best-to-worst/",
+  "source": "Jalopnik",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "araba",
+  "baslik": "Dodge'un Mitsubishi Temelli Kompakt Kamyonet Geçmişi",
+  "ozet": "1960 ve 70'lerde değişen pazar talepleriyle birlikte Chrysler'ın Japon üreticilerle kompakt kamyonet pazarındaki geç kalmış hamlesi.",
+  "puan": 3.0,
+  "grup": "dodge-mitsubishi-compact-truck-history",
+  "link": "https://www.jalopnik.com/2298355/dodge-ram-50-compact-truck-rebadged-mitsubishi-forte/",
+  "source": "Jalopnik",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "araba",
+  "baslik": "Aston Martin, Stroll Döneminde 3.1 Milyar Dolar Kaybetti",
+  "ozet": "Valhalla gibi yeni modeller işleri toparlamaya yardımcı olsa da Aston Martin'in finansal zorlukları devam ediyor.",
+  "puan": 7.0,
+  "grup": "aston-martin-financial-loss-stroll",
+  "link": "https://www.autoblog.com/news/aston-martin-has-lost-3-1-billion-since-stroll-took-over",
+  "source": "Autoblog",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "araba",
+  "baslik": "İhmal Edilmiş 1995 Model Toyota Camry'nin Detaylı Temizliği",
+  "ozet": "The Detail Geek, yıllarca ihmal edilmiş eski bir Toyota Camry'yi muhteşem bir şekilde orijinal haline döndürüyor.",
+  "puan": 2.0,
+  "grup": "neglected-toyota-camry-detailing-video",
+  "link": "https://www.motor1.com/news/813940/toyota-camry-fully-detailed-detail-geek-youtube/",
+  "source": "Motor1",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "araba",
+  "baslik": "2026 Model Araçlarda Büyük İndirim Fırsatları",
+  "ozet": "Yeni modellerin gelişiyle birlikte bazı markalar 2026 model araçlarında cazip indirimler sunmaya başladı.",
+  "puan": 2.5,
+  "grup": "new-cars-deep-discounts-deals",
+  "link": "https://www.jalopnik.com/2298283/new-cars-deep-discounts/",
+  "source": "Jalopnik",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "araba",
+  "baslik": "Hacker'lar Flock Kamera Sistemlerini Sökerek Çalışma Mantığını Çözdü",
+  "ozet": "Tartışmalı Flock kamera sistemleri, hacker'lar tarafından parçalarına ayrılarak iç mekanizmaları gözler önüne serildi.",
+  "puan": 5.5,
+  "grup": "flock-camera-system-hacked-anatomy",
+  "link": "https://www.jalopnik.com/2297988/hackers-figured-out-how-flock-camera-systems-work/",
+  "source": "Jalopnik",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeniden Doğan Mitsubishi Pajero, Land Cruiser Müşterilerini Çekiyor",
+  "ozet": "Henüz bayilere ulaşmayan yeni Mitsubishi Pajero, şirketin geleneksel müşteri kitlesinin dışında büyük ilgi görüyor.",
+  "puan": 6.5,
+  "grup": "mitsubishi-pajero-steals-land-cruiser-buyers",
+  "link": "https://www.jalopnik.com/2302556/relaunched-mitsubishi-pajero-stealing-toyota-land-cruiser-customers/",
+  "source": "Jalopnik",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli Meksika'da Şampiyon Oldu, Yarışı Verstappen Kazandı",
+  "ozet": "Mercedes pilotu Kimi Antonelli, Meksika Grand Prix'sini üçüncü sırada tamamlayarak 2026 Formula 1 Dünya Şampiyonu oldu ve tarihin en genç şampiyonu unvanını aldı. Yarışı ise Max Verstappen kazandı.",
+  "puan": 10.0,
+  "grup": "mexico-gp-antonelli-champion-verstappen-win",
+  "link": "https://www.formula1.com/en/latest/article/antonelli-crowned-youngest-ever-f1-champion-as-verstappen-wins-eventful-mexico-city-grand-prix.xpMMeef0KmRURs9IDs3LH",
+  "source": "Formula1.com",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton'dan Leclerc Tepkisi: \"Zaferimize Mal Oldu\"",
+  "ozet": "Lewis Hamilton, Meksika Grand Prix'sinde takım arkadaşı Charles Leclerc'in kendilerini zaferden ettiğini belirterek ciddi görüşmeler yapılması gerektiğini söyledi.",
+  "puan": 8.5,
+  "grup": "mexico-gp-hamilton-leclerc-feud",
+  "link": "https://www.racefans.net/2026/11/01/hamilton-says-leclerc-cost-ferrari-victory-in-mexico-and-calls-for-serious-talks/",
+  "source": "RaceFans",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "f1",
+  "baslik": "Kimi Antonelli F1'in En Genç Dünya Şampiyonu Oldu",
+  "ozet": "Meksika GP'yi üçüncü bitiren Kimi Antonelli, 20 yaşında bu unvanı alarak Sebastian Vettel'in rekorunu kırdı ve F1 tarihinin en genç şampiyonu oldu.",
+  "puan": 9.5,
+  "grup": "mexico-gp-antonelli-champion-verstappen-win",
+  "link": "https://www.motorsport.com/f1/news/f1s-youngest-world-champions/10870660/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika Grand Prix'si Hafta Sonunun Sürücüsü Oylaması",
+  "ozet": "2026 Meksika Grand Prix weekendinin en iyi performans sergileyen pilotunu belirlemek için oylama başladı.",
+  "puan": 3.0,
+  "grup": "mexico-gp-driver-of-the-weekend",
+  "link": "https://www.racefans.net/2026/11/01/vote-for-your-2026-mexican-grand-prix-driver-of-the-weekend/",
+  "source": "RaceFans",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli Şampiyonluğu Garantiledi, Verstappen Kazandı",
+  "ozet": "Ferrari'nin yaşadığı karmaşa ve Max Verstappen'in galibiyeti eşliğinde Kimi Antonelli, F1 tarihinin en genç dünya şampiyonu unvanını elde etti.",
+  "puan": 10.0,
+  "grup": "mexico-gp-antonelli-champion-verstappen-win",
+  "link": "https://www.the-race.com/formula-1/antonelli-clinches-title-as-ferrari-mess-helps-verstappen-win/",
+  "source": "The Race",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika GP: Antonelli En Genç Şampiyon, Verstappen Zirvede",
+  "ozet": "Max Verstappen liderliği alarak yarışı kazanırken, Kimi Antonelli üçüncü olarak tarih yazdı ve en genç F1 dünya şampiyonu unvanını kazandı.",
+  "puan": 10.0,
+  "grup": "mexico-gp-antonelli-champion-verstappen-win",
+  "link": "https://www.autosport.com/f1/news/f1-mexico-gp-kimi-antonelli-clinches-world-title-as-max-verstappen-holds-off-lewis-hamilton-for-vic/10870724/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika GP: Antonelli Şampiyonluk İlan Etti, Verstappen Kazandı",
+  "ozet": "Kimi Antonelli Meksika'da şampiyonluğa ulaşırken, Max Verstappen Lewis Hamilton'ın baskısına rağmen yarışın galibi oldu.",
+  "puan": 10.0,
+  "grup": "mexico-gp-antonelli-champion-verstappen-win",
+  "link": "https://www.motorsport.com/f1/news/f1-mexico-gp-race-report-/10870694/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 Meksika Grand Prix Yarış Sonucu ve Puan Durumu",
+  "ozet": "Meksika GP'yi kazanan Max Verstappen, şampiyon unvanını garantileyen Antonelli'nin ardından pilotlar klasmanında ikinciliğe yükseldi.",
+  "puan": 8.0,
+  "grup": "mexico-gp-race-results-standings",
+  "link": "https://www.racefans.net/2026/11/01/2026-mexican-grand-prix-race-result-and-championship-points/",
+  "source": "RaceFans",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen Ferrari Çekişmesinden Yararlanarak Meksika'da Kazandı",
+  "ozet": "Ferrari pilotlarının ilk turdaki mücadelesinden faydalanan Max Verstappen, bu sezonki üçüncü galibiyetini elde etti.",
+  "puan": 9.0,
+  "grup": "mexico-gp-antonelli-champion-verstappen-win",
+  "link": "https://www.racefans.net/2026/11/01/verstappen-capitalises-on-ferrari-feud-to-win-in-mexico-as-antonelli-takes-title/",
+  "source": "RaceFans",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "f1",
+  "baslik": "Tarihi Meksika GP'sinden 5 Önemli Not",
+  "ozet": "Kimi Antonelli'nin baskı altında aldığı şampiyonluk podyumu ve Meksika Grand Prix'sinden öne çıkan temel çıkarımlar.",
+  "puan": 5.0,
+  "grup": "mexico-gp-race-takeaways",
+  "link": "https://www.motorsport.com/f1/news/five-quick-takeaways-from-mexico-gp/10870690/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 Meksika Grand Prix Yarış Sonuçları",
+  "ozet": "2026 Formula 1 Meksika Grand Prix'sinin resmi yarış sonuçları listelendi.",
+  "puan": 7.5,
+  "grup": "mexico-gp-race-results-standings",
+  "link": "https://www.the-race.com/formula-1/f1-2026-mexican-grand-prix-race-result/",
+  "source": "The Race",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "f1",
+  "baslik": "Kimi Antonelli F1 Tarihinin En Genç Şampiyonu Oldu",
+  "ozet": "Meksika'da dokuzunculuğun yeterli olduğu yarışı üçüncü bitiren Mercedes pilotu Antonelli, Sebastian Vettel'in rekorunu kırarak şampiyon oldu.",
+  "puan": 10.0,
+  "grup": "mexico-gp-antonelli-champion-verstappen-win",
+  "link": "https://www.motorsport.com/f1/news/kimi-antonelli-becomes-youngest-world-champion-in-f1-history/10870717/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "f1",
+  "baslik": "İstatistiklerle Antonelli'nin Rekor Kıran Şampiyonluğu",
+  "ozet": "Andrea Kimi Antonelli, 44 yıl sonra ilk sezonunda hem yarış hem de şampiyonluk kazanan ilk pilot oldu; işte rekorun rakamları.",
+  "puan": 5.5,
+  "grup": "mexico-gp-antonelli-stats",
+  "link": "https://www.racefans.net/2026/11/01/stats-antonellis-record-breaking-youngest-world-championship-title-in-numbers/",
+  "source": "RaceFans",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli 2026 Şampiyonluğunu Aldı ve Rekor Kırdı",
+  "ozet": "Andrea Kimi Antonelli, Sebastian Vettel'in rekorunu üç yıldan fazla farkla kırarak tarihin en genç F1 dünya şampiyonu oldu.",
+  "puan": 10.0,
+  "grup": "mexico-gp-antonelli-champion-verstappen-win",
+  "link": "https://www.racefans.net/2026/11/01/antonelli-clinches-2026-title-and-smashes-record-for-youngest-formula-1-world-champion/",
+  "source": "RaceFans",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "f1",
+  "baslik": "Yarışı Değerlendirin: 2026 Meksika Grand Prix",
+  "ozet": "Okuyucuların 2026 Meksika Grand Prix'si hakkındaki görüşlerini paylaştığı ve yarışı oyladığı anket sayfası.",
+  "puan": 2.0,
+  "grup": "mexico-gp-rate-the-race",
+  "link": "https://www.racefans.net/2026/11/01/rate-the-race-2026-mexican-grand-prix/",
+  "source": "RaceFans",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "f1",
+  "baslik": "Valtteri Bottas Büyük Kazadan Yara Almadan Kurtuldu",
+  "ozet": "Meksika GP'de kırmızı bayraklara sebep olan şiddetli kazanın ardından Valtteri Bottas tıp merkezinden taburcu edildi.",
+  "puan": 8.0,
+  "grup": "mexico-gp-bottas-crash",
+  "link": "https://www.the-race.com/formula-1/bottas-taken-for-medical-checks-after-race-stopping-crash/",
+  "source": "The Race",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "f1",
+  "baslik": "Fotoğraflarla 2026 Meksika Grand Prix",
+  "ozet": "Autodromo Hermanos Rodriguez pistinde gerçekleşen 2026 Meksika Grand Prix'sinin en iyi kareleri.",
+  "puan": 2.5,
+  "grup": "mexico-gp-pictures",
+  "link": "https://www.racefans.net/2026/11/01/2026-mexican-grand-prix-in-pictures/",
+  "source": "RaceFans",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "f1",
+  "baslik": "FIA'dan Tartışmalı Leclerc Cezası Açıklaması",
+  "ozet": "Lewis Hamilton'ı öfkelendiren olayda Charles Leclerc'e neden sadece beş saniye ceza verildiği hakemler tarafından açıklandı.",
+  "puan": 7.5,
+  "grup": "mexico-gp-leclerc-penalty",
+  "link": "https://www.the-race.com/formula-1/fia-explains-controversial-leclerc-penalty-decision/",
+  "source": "The Race",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hakemler Leclerc'in Beş Saniyelik Cezasını Detaylandırdı",
+  "ozet": "FIA hakemleri, Meksika GP'de Ferrari pilotları arasındaki mücadelede Leclerc'e verilen 5 saniyelik cezanın gerekçesini paylaştı.",
+  "puan": 7.5,
+  "grup": "mexico-gp-leclerc-penalty",
+  "link": "https://www.autosport.com/f1/news/fia-stewards-explain-charles-leclercs-five-second-penalty-in-f1-mexico-gp/10870705/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika Grand Prix'si Bottas'ın Kazası Nedeniyle Durduruldu",
+  "ozet": "Valtteri Bottas'ın ilk virajda yaptığı kazanın ardından Meksika Grand Prix'si kırmızı bayrakla durduruldu.",
+  "puan": 8.0,
+  "grup": "mexico-gp-bottas-crash",
+  "link": "https://www.racefans.net/2026/11/01/mexican-grand-prix-stopped-after-bottas-crashes-out-at-turn-one/",
+  "source": "RaceFans",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "f1",
+  "baslik": "FIA, Charles Leclerc'in Meksika GP Cezasını Açıkladı",
+  "ozet": "FIA hakemleri, Meksika Grand Prix'sinin ilk turunda takım arkadaşı Lewis Hamilton'ı pist dışından geçen Charles Leclerc'e neden beş saniye ceza verildiğini açıkladı.",
+  "puan": 8.0,
+  "grup": "mexico-gp-leclerc-penalty",
+  "link": "https://www.motorsport.com/f1/news/fia-stewards-explain-charles-leclercs-five-second-penalty-in-f1-mexico-gp/10870700/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hakemlerden Leclerc'in Cezası Hakkında Açıklama",
+  "ozet": "Yarış hakemleri, yarışın ilk turunda pist dışına çıkarak Hamilton'ı geçen Charles Leclerc'e neden beş saniye zaman cezası verdiklerini detaylandırdı.",
+  "puan": 8.0,
+  "grup": "mexico-gp-leclerc-penalty",
+  "link": "https://www.racefans.net/2026/11/01/stewards-explain-leclercs-penalty-for-passing-hamilton-when-both-went-off/",
+  "source": "RaceFans",
+  "ts": 1793573644.9977226
+ },
+ {
+  "cat": "f1",
+  "baslik": "Leclerc'in Cezası F1 Taraftarlarını İkiye Böldü",
+  "ozet": "Charles Leclerc'in Meksika Grand Prix'sinde aldığı beş saniyelik ceza, taraftarlar arasında büyük tartışma yaratarak ikiye bölünmelere yol açtı.",
+  "puan": 6.5,
+  "grup": "mexico-gp-leclerc-penalty",
+  "link": "https://www.motorsport.com/f1/news/charles-leclercs-mexico-gp-penalty-leaves-f1-fans-furious-for-very-different-reasons/10870698/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793573644.9977226
  }
 ]
