@@ -1,265 +1,5 @@
 [
  {
-  "cat": "araba",
-  "baslik": "Modern Araçlar Hacklenebilir mi?",
-  "ozet": "Anahtarsız araç hırsızlığından uzaktan ele geçirmelere kadar hackerların modern araçları nasıl hedef aldığı ve sürücülerin alabileceği önlemler ele alınıyor.",
-  "puan": 5.5,
-  "grup": "modern-car-hacking-security",
-  "link": "https://www.motor1.com/features/813703/can-someone-really-hack-your-car/",
-  "source": "Motor1",
-  "ts": 1793401736.5943801
- },
- {
-  "cat": "araba",
-  "baslik": "Waymo, Toyota Elektrikli SUV'yi Otonom Taksiye Dönüştürüyor",
-  "ozet": "Toyota bZ4X robotaksi, büyük pazarlara çıkmadan önce Japonya'da test ve validasyon süreçlerinden geçecek.",
-  "puan": 7.5,
-  "grup": "toyota-waymo-driverless-bz4x-fleet",
-  "link": "https://www.autoblog.com/news/waymo-is-turning-toyotas-electric-suv-into-a-driverless-robotaxi",
-  "source": "Autoblog",
-  "ts": 1793401736.5943801
- },
- {
-  "cat": "araba",
-  "baslik": "2027 BMW i3'ün İç Mekan Fotoğrafları",
-  "ozet": "2027 model BMW i3'ün iç mekanını her açısıyla inceleyin.",
-  "puan": 5.0,
-  "grup": "bmw-3-series-m350-i3-launch",
-  "link": "https://www.caranddriver.com/photos/a74273370/2027-bmw-i3-drive-interior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1793401736.5943801
- },
- {
-  "cat": "araba",
-  "baslik": "2027 BMW i3'ün Dış Tasarım Fotoğrafları",
-  "ozet": "2027 model BMW i3'ün dış tasarımını her açısıyla detaylıca görün.",
-  "puan": 5.0,
-  "grup": "bmw-3-series-m350-i3-launch",
-  "link": "https://www.caranddriver.com/photos/a74273300/2027-bmw-i3-drive-exterior-gallery/",
-  "source": "Car and Driver",
-  "ts": 1793401736.5943801
- },
- {
-  "cat": "araba",
-  "baslik": "Tamamen Elektrikli 2027 BMW i3 Sürüş İzlenimi",
-  "ozet": "Çok farklı görünmese de elektrikli i3 sedan, standart 3 serisi kardeşlerinden bazı önemli noktalarda ayrılıyor.",
-  "puan": 6.0,
-  "grup": "bmw-3-series-m350-i3-launch",
-  "link": "https://www.caranddriver.com/reviews/a74275637/2027-bmw-i3-drive/",
-  "source": "Car and Driver",
-  "ts": 1793401736.5943801
- },
- {
-  "cat": "araba",
-  "baslik": "2027 BMW 3-Serisi Konfigürasyonu",
-  "ozet": "BMW'nin yeni spor sedanını kendi zevkinize göre nasıl yapılandırabileceğiniz inceleniyor.",
-  "puan": 4.5,
-  "grup": "bmw-3-series-2027-specs",
-  "link": "https://www.caranddriver.com/news/a74297968/2027-bmw-3-series-build-price-spec/",
-  "source": "Car and Driver",
-  "ts": 1793401736.5943801
- },
- {
-  "cat": "araba",
-  "baslik": "Lamborghini Temerario'ya Çift Renk Makyajı",
-  "ozet": "Lamborghini, yeni hibrit süper otomobilini siyah detaylar ve özel özelliklerle eşleştirilen beş farklı dış renk kombinasyonuyla sunuyor.",
-  "puan": 8.0,
-  "grup": "lamborghini-temerario-tettonero",
-  "link": "https://www.autoblog.com/news/lamborghini-temerario-gets-a-wild-two-tone-makeover-in-five-colors",
-  "source": "Autoblog",
-  "ts": 1793401736.5943801
- },
- {
-  "cat": "araba",
-  "baslik": "FAA, Boeing 737 Max 10'a Onay Verdi",
-  "ozet": "Beş yıllık bekleyişin ardından Federal Havacılık İdaresi, Boeing'in 737 Max ailesinin son üyesini ticari teslimatlar için onayladı.",
-  "puan": 7.0,
-  "grup": "boeing-737-max-10-faa-certification",
-  "link": "https://www.jalopnik.com/2300336/faa-certifies-boeing-737-max-10-for-delivery/",
-  "source": "Jalopnik",
-  "ts": 1793401736.5943801
- },
- {
-  "cat": "araba",
-  "baslik": "GM Sürücü Verilerini Sattığı İçin Cezalandırıldı",
-  "ozet": "Otom üreticisi, 36 eyaletle yapılan anlaşma kapsamında 220 milyon dolar ödemek ve yeni gizlilik değerlendirmeleri uygulamak zorunda.",
-  "puan": 8.0,
-  "grup": "gm-driver-data-privacy-lawsuit",
-  "link": "https://www.motor1.com/news/813942/general-motors-privacy-settlement-36-states/",
-  "source": "Motor1",
-  "ts": 1793401736.5943801
- },
- {
-  "cat": "araba",
-  "baslik": "Rivian R2 Satışları R1 Modellerini Geride Bıraktı",
-  "ozet": "Güçlü satışlar, Rivian'ın şu anda yalnızca en pahalı model olan 59.485 dolarlık R2 Performance'ı sunmasına rağmen gerçekleşti.",
-  "puan": 6.5,
-  "grup": "rivian-r2-sales-strong",
-  "link": "https://www.caranddriver.com/news/a74298144/rivian-r2-strong-sales-start/",
-  "source": "Car and Driver",
-  "ts": 1793401736.5943801
- },
- {
-  "cat": "araba",
-  "baslik": "Mate Rimac Çalınan Bugatti Chiron'unu Takip Etti",
-  "ozet": "Rimac merkezinden anahtarları üzerinde unutulan Chiron'u çalan hırsız Hırvatistan'dan Avusturya'ya kadar takip edilerek yakalandı.",
-  "puan": 7.5,
-  "grup": "bugatti-chiron-ceo-stolen-recovered",
-  "link": "https://www.jalopnik.com/2302848/mate-rimac-chased-his-stolen-bugatti-chiron-across-border-in-911/",
-  "source": "Jalopnik",
-  "ts": 1793401736.5943801
- },
- {
-  "cat": "f1",
-  "baslik": "Meksika GP 2. Antrenman Canlı Anlatımı",
-  "ozet": "2026 Meksika Grand Prix'si ikinci antrenman seansı canlı olarak aktarılıyor.",
-  "puan": 4.5,
-  "grup": "mexico-gp-fp2-live",
-  "link": "https://www.formula1.com/en/latest/article/live-coverage-second-practice-in-mexico-city-2026.3nb452uxR9tTmO83J73OeN",
-  "source": "Formula1.com",
-  "ts": 1793401736.5943801
- },
- {
-  "cat": "f1",
-  "baslik": "Bottas'a Meksika'da Güç Ünitesi Cezası",
-  "ozet": "Cadillac pilotu Valtteri Bottas, güç ünitesi elemanlarındaki değişiklikler nedeniyle Meksika GP'de grid cezası alacak.",
-  "puan": 7.5,
-  "grup": "bottas-mexico-gp-grid-penalty",
-  "link": "https://www.formula1.com/en/latest/article/bottas-set-for-grid-penalty-at-mexico-city-grand-prix-after-power-unit-changes.2J7hkopU6hrvgFvlK82cip",
-  "source": "Formula1.com",
-  "ts": 1793401736.5943801
- },
- {
-  "cat": "f1",
-  "baslik": "Meksika GP FP1'de En Hızlısı Leclerc",
-  "ozet": "Meksika Grand Prix'sinin ilk antrenman seansında Charles Leclerc en hızlı turu atarken, Kimi Antonelli ve Fred Vesti onu takip etti.",
-  "puan": 5.0,
-  "grup": "mexico-gp-fp1-results",
-  "link": "https://www.formula1.com/en/latest/article/fp1-leclerc-leads-antonelli-in-mexico-city-as-new-faces-make-formula-1-debuts.5IkozqYxX25QgmGJqc0NlA",
-  "source": "Formula1.com",
-  "ts": 1793401736.5943801
- },
- {
-  "cat": "f1",
-  "baslik": "Meksika GP FP2'de Leclerc Zirvede, Verstappen ve Lawson İncelemede",
-  "ozet": "Charles Leclerc ikinci antrenman seansında da en hızlı olurken, Lewis Hamilton aracındaki sorun nedeniyle yolda kaldı ve Verstappen ile Lawson arasında olay yaşandı.",
-  "puan": 5.5,
-  "grup": "mexico-gp-fp2-results",
-  "link": "https://www.racefans.net/2026/10/30/leclerc-fastest-again-verstappen-and-lawson-face-investigation-over-collision/",
-  "source": "RaceFans",
-  "ts": 1793401736.5943801
- },
- {
-  "cat": "f1",
-  "baslik": "Herta Süper Lisans İçin Bir Puan Eksik",
-  "ozet": "Colton Herta, IndyCar puan durumundaki hatalı bir yayın nedeniyle F1 süper lisansını almak için hâlâ bir puan eksikle karşı karşıya.",
-  "puan": 3.0,
-  "grup": "colton-herta-f1-superlicence",
-  "link": "https://www.the-race.com/formula-1/why-colton-herta-still-one-point-off-f1-superlicence/",
-  "source": "The Race",
-  "ts": 1793401736.5943801
- },
- {
-  "cat": "f1",
-  "baslik": "Oliver Bearman Sözleşme Söylentilerine Yanıt",
-  "ozet": "Haas takımının kadrosunu büyük ölçüde şekillendirmesine rağmen Oliver Bearman'ın sözleşme durumuna dair çıkan iddialar paddock'ta konuşuluyor.",
-  "puan": 4.0,
-  "grup": "bearman-haas-2027-contract",
-  "link": "https://www.motorsport.com/f1/news/whats-behind-absolute-nonsense-bearman-contract-rumours/10869831/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793401736.5943801
- },
- {
-  "cat": "f1",
-  "baslik": "Mekies'ten Horner'ın 'Ruhunu Kaybetti' İddiasına Yanıt",
-  "ozet": "Red Bull Takım Patronu Laurent Mekies, Christian Horner'ın takımın ruhunu kaybettiği yönündeki iddialarını reddederek yapılan çıkışı savundu.",
-  "puan": 4.5,
-  "grup": "mekies-responds-to-horner-red-bull",
-  "link": "https://www.motorsport.com/f1/news/red-bull-f1-boss-laurent-mekies-hits-back-at-christian-horners-lost-its-mojo-claim/10869825/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793401736.5943801
- },
- {
-  "cat": "f1",
-  "baslik": "Red Bull'un Yeni Rüzgar Tüneli 2027'de Faaliyete Geçecek",
-  "ozet": "Red Bull takım patronu Laurent Mekies, uzun süredir beklenen yeni rüzgar tünelinin 2027 sezonu içerisinde devreye gireceğini doğruladı.",
-  "puan": 5.0,
-  "grup": "red-bull-new-wind-tunnel-2027",
-  "link": "https://www.motorsport.com/f1/news/red-bull-reveals-when-its-long-awaited-new-f1-wind-tunnel-will-be-operational/10869820/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793401736.5943801
- },
- {
-  "cat": "f1",
-  "baslik": "Steiner'dan Russell Uyarı: 'Mercedes Değişiklik Yapabilir'",
-  "ozet": "Guenther Steiner, George Russell'ın önümüzdeki sezon da zorlanması halinde Mercedes'in pilot kadrosunda değişiklik yapabileceğini belirtti.",
-  "puan": 3.5,
-  "grup": "steiner-warns-mercedes-russell",
-  "link": "https://www.motorsport.com/f1/news/guenther-steiner-warns-mercedes-will-make-changes-if-george-russell-struggles-in-2027/10869809/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793401736.5943801
- },
- {
-  "cat": "f1",
-  "baslik": "Budkowski: Bottas Austin Gibi Performanslar Sergilemeli",
-  "ozet": "Cadillac takım patronu Marcin Budkowski, Valtteri Bottas'ın koltuğunu koruması için Austin'deki gibi hafta sonları geçirmesi gerektiğini söyledi.",
-  "puan": 4.5,
-  "grup": "bottas-cadillac-seat-budkowski",
-  "link": "https://www.racefans.net/2026/10/30/bottas-needs-to-do-more-weekends-like-austin-to-keep-cadillac-seat-says-budkowski/",
-  "source": "RaceFans",
-  "ts": 1793401736.5943801
- },
- {
-  "cat": "f1",
-  "baslik": "Meksika GP FP1'de 10 Çaylak Piste Çıktı",
-  "ozet": "Meksika Grand Prix'sinin ilk antrenman seansında 10 çaylak pilot piste çıkarken, Charles Leclerc en hızlı isim oldu.",
-  "puan": 5.0,
-  "grup": "mexico-gp-fp1-rookies",
-  "link": "https://www.the-race.com/formula-1/what-happened-f1-2026-mexican-gp-first-practice/",
-  "source": "The Race",
-  "ts": 1793401736.5943801
- },
- {
-  "cat": "f1",
-  "baslik": "Leclerc Meksika'da İlk Antrenmanda Zirvede",
-  "ozet": "Charles Leclerc, Meksika Grand Prix'sinin açılış antrenman seansında en hızlı zamanı yaparak güne lider başladı.",
-  "puan": 5.0,
-  "grup": "mexico-gp-fp1-results",
-  "link": "https://www.racefans.net/2026/10/30/leclerc-puts-ferrari-on-top-in-practice-again-in-mexico/",
-  "source": "RaceFans",
-  "ts": 1793401736.5943801
- },
- {
-  "cat": "f1",
-  "baslik": "Meksika GP FP1: Leclerc Antonelli'yi Geride Bıraktı",
-  "ozet": "On çaylak pilotun katıldığı ilk antrenman seansında Charles Leclerc, Kimi Antonelli'yi geçerek en hızlı turu attı.",
-  "puan": 5.0,
-  "grup": "mexico-gp-fp1-results",
-  "link": "https://www.autosport.com/f1/news/f1-mexico-gp-leclerc-beats-antonelli-to-top-fp1/10869791/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1793401736.5943801
- },
- {
-  "cat": "f1",
-  "baslik": "Meksika GP FP1'de En Hızlı İsim Charles Leclerc",
-  "ozet": "Charles Leclerc, 10 çaylağın yer aldığı Meksika GP ilk antrenman seansında Kimi Antonelli'yi geride bırakarak zirveye yerleşti.",
-  "puan": 5.0,
-  "grup": "mexico-gp-fp1-results",
-  "link": "https://www.motorsport.com/f1/news/f1-mexico-gp-fp1-report-10869780/10869780/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793401736.5943801
- },
- {
-  "cat": "f1",
-  "baslik": "2026 Meksika GP Antrenman Sonuçları",
-  "ozet": "On pilotun ilk seans için ana kadrodaki isimlerin yerini aldığı Meksika Grand Prix'sinin antrenman sonuçları açıklandı.",
-  "puan": 4.5,
-  "grup": "mexico-gp-fp1-results",
-  "link": "https://www.the-race.com/formula-1/f1-2026-mexican-grand-prix-practice-results/",
-  "source": "The Race",
-  "ts": 1793401736.5943801
- },
- {
   "cat": "f1",
   "baslik": "Meksika'da Çaylakların FP2 Performansları",
   "ozet": "Meksika'daki ilk antrenman seansında 10 çaylak pilot piste çıktı.",
@@ -2948,5 +2688,385 @@
   "link": "https://www.motorsport.com/f1/news/charles-leclercs-mexico-gp-penalty-leaves-f1-fans-furious-for-very-different-reasons/10870698/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1793573644.9977226
+ },
+ {
+  "cat": "araba",
+  "baslik": "Lüks Otomobil Tarihinde 4 Silindirli 7 Model",
+  "ozet": "20. yüzyılın başından modern lüks SUV'lere kadar, dört silindirli motorların lüks otomobil tarihinde nasıl yer aldığını gösteren yedi araç inceleniyor.",
+  "puan": 2.5,
+  "grup": "naturally-aspirated-4-cylinder-engines",
+  "link": "https://www.jalopnik.com/2299001/luxury-vehicles-throughout-history-4-cylinder-engines/",
+  "source": "Jalopnik",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "araba",
+  "baslik": "Sekiz Dört Mevsim Lastik Karşılaştırma Testi",
+  "ozet": "Her koşulda performans göstermeyi vadeli eden sekiz dört mevsim lastik kıyasıya bir teste tabi tutuldu ve iki model öne çıkmayı başardı.",
+  "puan": 3.0,
+  "grup": "all-weather-tires-performance-test",
+  "link": "https://www.jalopnik.com/2298970/can-one-tire-do-it-all-eight-all-weather-tires-compete/",
+  "source": "Jalopnik",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mitsubishi Outlander Diamond Trail Edition Tanıtıldı",
+  "ozet": "Rugged dış mekan vurgusu yapan Diamond Trail Edition ismi, Mitsubishi'nin köklü tarihiyle bağlar kuran özel detaylar barındırıyor.",
+  "puan": 4.5,
+  "grup": "mitsubishi-outlander-diamond-trail",
+  "link": "https://www.jalopnik.com/2299523/mitsubishi-outlander-diamond-trail-edition-great-name/",
+  "source": "Jalopnik",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "araba",
+  "baslik": "Boeing'in Askeri Aracı Phantom Badger",
+  "ozet": "Boeing tarafından Donanma için geliştirilen Phantom Badger, sevimsiz adının aksine amfibi yetenekleri ve sağlam tasarımıyla dikkat çekiyor.",
+  "puan": 3.5,
+  "grup": "boeing-phantom-badger-navy-vehicle",
+  "link": "https://www.jalopnik.com/2298930/boeing-developed-navy-vehicle-phantom-badger/",
+  "source": "Jalopnik",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Alpine pilotlarına Meksika GP sonrası ceza",
+  "ozet": "Franco Colapinto ve Pierre Gasly, yarış sonrası aldıkları cezalar nedeniyle Meksika Grand Prix'sindeki puanlarını kaybetti.",
+  "puan": 8.0,
+  "grup": "mexico-gp-alpine-penalties",
+  "link": "https://www.formula1.com/en/latest/article/alpines-gasly-and-colapinto-stripped-of-mexico-city-gp-points-after-post-race-penalties.2wLfobQHufuH1L1aMYPl7h",
+  "source": "Formula1.com",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Marco Antonelli'den oğlunun şampiyonluk yorumu",
+  "ozet": "Marco Antonelli, oğlu Kimi Antonelli'nin Mexico City Grand Prix'sindeki tarihi Dünya Şampiyonluğu başarısını değerlendirdi.",
+  "puan": 6.5,
+  "grup": "antonelli-mexico-title-tension",
+  "link": "https://www.formula1.com/en/latest/article/he-makes-himself-stronger-antonellis-dad-reflects-on-sons-important-title-triumph.2jMjsfdy0bakm0FChw4Qk4",
+  "source": "Formula1.com",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Leclerc: Cezayı hak ettim",
+  "ozet": "Charles Leclerc, liderlik mücadelesinde takım arkadaşı Hamilton'ı pist dışından geçtikten sonra aldığı beş saniyelik cezayı kabul etti.",
+  "puan": 6.0,
+  "grup": "mexico-gp-leclerc-penalty",
+  "link": "https://www.formula1.com/en/latest/article/leclerc-concedes-he-deserved-penalty-over-hamilton-clash-in-mexico-city-gp.4rYJb2xww8myo1gtgBV5pV",
+  "source": "Formula1.com",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Oscar Piastri'ye Meksika GP'de ceza",
+  "ozet": "Oscar Piastri, Arvid Lindblad ile yaşadığı kolyonda kusurlu bulunarak Meksika Grand Prix'sindeki puanlarını kaybetti.",
+  "puan": 8.0,
+  "grup": "mexico-gp-piastri-penalty",
+  "link": "https://www.formula1.com/en/latest/article/piastri-loses-p7-after-being-handed-post-race-penalty-at-mexico-city-gp.5dk3wHeak2yu7xWF0OhsRt",
+  "source": "Formula1.com",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen'den Meksika zaferi değerlendirmesi",
+  "ozet": "Max Verstappen, Ferrari pilotları Hamilton ve Leclerc arasındaki erken mücadeleden faydalanarak Mexico City Grand Prix'sini kazandı.",
+  "puan": 9.0,
+  "grup": "mexico-gp-antonelli-champion-verstappen-win",
+  "link": "https://www.formula1.com/en/latest/article/verstappen-on-the-opportunistic-move-that-earned-him-fantastic-win-at-mexico-city-gp.5C4UF8HgiJdAGfZeXRBbpB",
+  "source": "Formula1.com",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli'nin şampiyonluğu F1 için ne ifade ediyor?",
+  "ozet": "F1 Onur Listesi gazetecisi David Tremayne, Kimi Antonelli'nin çaylaklıktan İtalya'nın yedi on yıldır ilk Dünya Şampiyonluğuna uzanan yükselişini kaleme aldı.",
+  "puan": 5.5,
+  "grup": "mexico-gp-antonelli-stats",
+  "link": "https://www.formula1.com/en/latest/article/why-antonellis-title-win-is-an-explosive-shot-in-the-arm-for-f1.12gxuZAJJfsXGMhHdrACkd",
+  "source": "Formula1.com",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika'da Günün Pilotu Verstappen",
+  "ozet": "Max Verstappen, 2026 Mexico City Grand Prix'sinde taraftarlar tarafından Günün Pilotu seçildi.",
+  "puan": 5.0,
+  "grup": "mexico-gp-driver-of-the-weekend",
+  "link": "https://www.formula1.com/en/latest/article/driver-of-the-day-verstappen-claims-his-sixth-win-in-mexico-city-and-gets-your-vote.dVgeTMPzsIX2IZlm95mfa",
+  "source": "Formula1.com",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli'den şampiyonluk sonrası duygusal tepki",
+  "ozet": "Mexico City GP'sini üçüncü sırada tamamlayarak kariyerinin ilk Sürücüler Şampiyonluğu'nu kazanan Kimi Antonelli büyük duygusallık yaşadı.",
+  "puan": 9.5,
+  "grup": "mexico-gp-antonelli-champion-verstappen-win",
+  "link": "https://www.formula1.com/en/latest/article/this-moment-will-live-forever-antonelli-shares-touching-reaction-to-incredible-world-championship-victory-in-mexico-city.zU8TYn4f00R4YcOAfOK1m",
+  "source": "Formula1.com",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Cezalar Piastri'yi puan barajının dışına itti",
+  "ozet": "Oscar Piastri'nin zorlu Meksika hafta sonu, Arvid Lindblad ile yaşadığı temas cezasıyla puansız kapandı.",
+  "puan": 8.0,
+  "grup": "mexico-gp-piastri-penalty",
+  "link": "https://www.motorsport.com/f1/news/penalty-drops-oscar-piastri-out-of-f1-mexico-gp-points/10870856/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Alpine cezaları sonrası Hirakawa F1'de ilk puanını aldı",
+  "ozet": "Pierre Gasly ve Franco Colapinto'nun sarı bayrak kurallarını ihlal etmesiyle cezalandırılması, Haas debutmeni Ryo Hirakawa'ya puan kazandırdı.",
+  "puan": 8.0,
+  "grup": "mexico-gp-alpine-penalties",
+  "link": "https://www.autosport.com/f1/news/gasly-and-colapinto-penalised-post-race-hirakawa-scores-on-f1-debut-at-mexico-gp/10870863/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Alpine pilotlarının cezası Hirakawa'yı puanla tanıştırdı",
+  "ozet": "Sarı bayrak ihlalleri nedeniyle ceza alan Alpine pilotları puan kaybederken, Ryo Hirakawa F1 debutunda ilk puanlarını elde etti.",
+  "puan": 8.0,
+  "grup": "mexico-gp-alpine-penalties",
+  "link": "https://www.motorsport.com/f1/news/pierre-gasly-and-franco-colapinto-penalised-post-race-ryo-hirakawa-scores-on-f1-debut/10870860/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Alpine Meksika GP puanlarını cezalarla kaybetti",
+  "ozet": "Franco Colapinto ve Pierre Gasly'nin sarı bayrak ihlalleri Alpine'i Meksika GP puanlarından mahrum bıraktı.",
+  "puan": 8.0,
+  "grup": "mexico-gp-alpine-penalties",
+  "link": "https://www.the-race.com/formula-1/double-penalty-costs-alpine-all-its-mexican-gp-points/",
+  "source": "The Race",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Mercedes'e Russell'ın basın toplantısına katılmaması nedeniyle para cezası",
+  "ozet": "Mercedes, takım arkadaşı Antonelli'nin şampiyon olduğu yarış sonrası George Russell'ın medya görevlerine katılmaması nedeniyle para cezasına çarptırıldı.",
+  "puan": 7.0,
+  "grup": "mercedes-russell-mexico-penalty",
+  "link": "https://www.the-race.com/formula-1/mercedes-explains-distraught-russells-post-race-absence-after-fine/",
+  "source": "The Race",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Vasseur'den Ferrari temas açıklaması: \"Bu bir saygı meselesi\"",
+  "ozet": "Ferrari takım patronu Fred Vasseur, pol pozisyonundan başladıkları yarışta Hamilton ve Leclerc'in yaşadığı temasın ardından büyük hayal kırıklığı yaşadı.",
+  "puan": 6.5,
+  "grup": "mexico-gp-hamilton-leclerc-feud",
+  "link": "https://www.motorsport.com/f1/news/fred-vasseur-reacts-to-lewis-hamilton-charles-leclerc-clash-its-a-matter-of-respect/10870842/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "F1 pilotlarından Kimi Antonelli'ye övgüler",
+  "ozet": "F1 pilotları, Mexico City GP'de şampiyonluğunu ilan eden genç sürücü Kimi Antonelli için övgü dolu sözler sarf etti.",
+  "puan": 6.0,
+  "grup": "antonelli-mexico-title-tension",
+  "link": "https://www.motorsport.com/f1/news/how-f1-drivers-reacted-to-kimi-antonellis-world-title-hes-made-everyone-else-look-silly/10870828/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Piastri, Lindblad teması nedeniyle cezalandırıldı",
+  "ozet": "Oscar Piastri, Arvid Lindblad ile yaşadığı kaza sonucunda Meksika'daki puan finişini kaybetti.",
+  "puan": 8.0,
+  "grup": "mexico-gp-piastri-penalty",
+  "link": "https://www.the-race.com/formula-1/piastri-punished-for-lindblad-collision/",
+  "source": "The Race",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika Grand Prix'sinin kazananları ve kaybedenleri",
+  "ozet": "Kimi Antonelli'nin tarihe geçtiği ve rekorların kırıldığı 2026 Mexico City Grand Prix'sinin kazananları ve kaybedenleri derlendi.",
+  "puan": 5.0,
+  "grup": "mexico-gp-qualifying-winners-losers",
+  "link": "https://www.motorsport.com/f1/news/winners-and-losers-from-f1s-historic-mexico-grand-prix/10870803/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Toto Wolff'tan George Russell'a özür",
+  "ozet": "Mercedes patronu Toto Wolff, güç ünitesi sorunu nedeniyle startta geride kalan ve ceza alan George Russell'ı hayal kırıklığına uğrattıklarını belirtti.",
+  "puan": 6.5,
+  "grup": "mercedes-russell-mexico-penalty",
+  "link": "https://www.motorsport.com/f1/news/toto-wolff-apologises-to-george-russell-after-mercedes-let-him-down-at-mexican-gp/10870825/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Vasseur: \"Bir ve ikinci durumdayken kaybetmezsiniz sandık\"",
+  "ozet": "Ferrari takım patronu Frederic Vasseur, Meksika'da galibiyeti ellerinden kaçırmış olmalarını kabul etmenin zor olduğunu ifade etti.",
+  "puan": 6.5,
+  "grup": "mexico-gp-hamilton-leclerc-feud",
+  "link": "https://www.racefans.net/2026/11/02/when-youre-one-two-you-dont-imagine-you-will-lose-and-we-did-vasseur/",
+  "source": "RaceFans",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Leclerc'ten Hamilton'ın görüşme çağrısına yanıt",
+  "ozet": "Charles Leclerc, Meksika GP başlangıcındaki mücadelesini savunurken Lewis Hamilton'ın sürüşünün 'sınırda' olduğunu söyledi.",
+  "puan": 6.5,
+  "grup": "mexico-gp-hamilton-leclerc-feud",
+  "link": "https://www.motorsport.com/f1/news/charles-leclerc-responds-to-lewis-hamiltons-call-for-ferrari-talks-after-mexico-gp/10870814/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Piastri Meksika'da Cezalandırıldı",
+  "ozet": "Oscar Piastri, Lindblad ile yaşadığı çarpışma nedeniyle 10 saniye ceza alarak Meksika Grand Prix'sinde puan barajının dışına düştü.",
+  "puan": 8.0,
+  "grup": "mexico-gp-piastri-penalty",
+  "link": "https://www.racefans.net/2026/11/02/piastri-loses-points-finish-after-10-second-penalty-for-lindblad-collision/",
+  "source": "RaceFans",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Leclerc'ten 5. Viraj Savunması",
+  "ozet": "Charles Ferrari sürücüsü Charles Leclerc, Meksika GP'sinde Lewis Hamilton'dan liderliği nasıl aldığını ve virajı kestikten sonra neden bırakmadığını açıkladı.",
+  "puan": 5.0,
+  "grup": "mexico-gp-hamilton-leclerc-feud",
+  "link": "https://www.autosport.com/f1/news/why-leclerc-didnt-give-up-mexico-gp-lead-after-cutting-turn-5/10870807/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Leclerc'in Viraj 5 Savunması",
+  "ozet": "Charles Leclerc, Meksika Grand Prix'sinde Hamilton ile yaşadığı mücadelede liderliği neden vermediğini detaylandırdı.",
+  "puan": 5.0,
+  "grup": "mexico-gp-hamilton-leclerc-feud",
+  "link": "https://www.motorsport.com/f1/news/why-charles-leclerc-didnt-yield-mexico-gp-lead-after-cutting-turn-5/10870796/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 Meksika GP İnteraktif Verileri",
+  "ozet": "Meksika Grand Prix'sine ait tur grafikleri, dereceler ve lastik stratejileri paylaşıldı.",
+  "puan": 3.0,
+  "grup": "mexico-gp-interactive-data",
+  "link": "https://www.racefans.net/2026/11/01/2026-mexican-grand-prix-interactive-data-lap-charts-times-and-tyres/",
+  "source": "RaceFans",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Domenicali'den Antonelli'ye Övgü",
+  "ozet": "F1 CEO'su Stefano Domenicali, Kimi Antonelli'nin tarihi şampiyonluğunun ardından tüm ülkenin kutlama yapacağını belirtti.",
+  "puan": 8.5,
+  "grup": "mexico-gp-antonelli-champion-verstappen-win",
+  "link": "https://www.motorsport.com/f1/news/f1-ceo-stefano-domenicali-releases-touching-statement-after-kimi-antonellis-title-win/10870790/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton'dan Ferrari İçin Ciddi Görüşme Çağrısı",
+  "ozet": "Lewis Hamilton, son Leclerc olayının ardından Ferrari'nin kapalı kapılar ardında ciddi görüşmeler yapması gerektiğini söyledi.",
+  "puan": 6.5,
+  "grup": "mexico-gp-hamilton-leclerc-feud",
+  "link": "https://www.the-race.com/formula-1/hamilton-demands-serious-talks-after-latest-leclerc-incident/",
+  "source": "The Race",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Norris'ten Antonelli'ye Kutlama",
+  "ozet": "Lando Norris, çığır açan bir sezonun ardından şampiyonluğunu ilan eden Kimi Antonelli'nin bu başarıyı uygun şekilde kutlaması gerektiğini belirtti.",
+  "puan": 5.0,
+  "grup": "mexico-gp-antonelli-champion-verstappen-win",
+  "link": "https://www.motorsport.com/f1/news/lando-norris-says-kimi-antonelli-should-celebrate-f1-title-properly-after-breakthrough-season/10870775/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Vettel'den Antonelli'ye Tebrik",
+  "ozet": "Eski en genç şampiyon Sebastian Vettel, rekorunu kıran Kimi Antonelli'yi tebrik etti.",
+  "puan": 5.5,
+  "grup": "mexico-gp-antonelli-champion-verstappen-win",
+  "link": "https://www.racefans.net/2026/11/01/social-media-vettel-congratulates-antonelli-for-breaking-his-record-as-youngest-f1-champion/",
+  "source": "RaceFans",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton: Leclerc ile Temas Galibiyete Mal Oldu",
+  "ozet": "Lewis Hamilton, Meksika GP'sinde takım arkadaşı Charles Leclerc ile yaşadıkları temasın kendilerine galibiyete mal olduğunu belirterek Ferrari'de ciddi görüşmeler talep etti.",
+  "puan": 6.5,
+  "grup": "mexico-gp-hamilton-leclerc-feud",
+  "link": "https://www.autosport.com/f1/news/lewis-hamilton-demands-serious-talks-at-ferrari-after-charles-leclerc-clash-that-lost-us-the-win-to/10870772/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton'dan Leclerc Çatışması Sonrası Tepki",
+  "ozet": "Lewis Hamilton, Meksika GP'sinde Charles Leclerc ile yaşadığı temasın ardından Ferrari'de ciddi konuşmalar yapılması gerektiğini ifade etti.",
+  "puan": 6.5,
+  "grup": "mexico-gp-hamilton-leclerc-feud",
+  "link": "https://www.motorsport.com/f1/news/lewis-hamilton-demands-serious-talks-at-ferrari-after-charles-leclerc-clash-that-lost-us-the-win-to/10870745/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ferrari 1-2'yi mi Harcadı?",
+  "ozet": "Editör ekibimiz, Charles Leclerc ile Lewis Hamilton arasındaki son gerilimi ve Ferrari'nin kaçırdığı fırsatı değerlendirdi.",
+  "puan": 5.0,
+  "grup": "mexico-gp-hamilton-leclerc-feud",
+  "link": "https://www.the-race.com/formula-1/a-ferrari-1-2-thrown-away-our-verdict-on-latest-leclerc-hamilton-spat/",
+  "source": "The Race",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen'den Antonelli Paylaşımı",
+  "ozet": "Max Verstappen, Kimi Antonelli'nin Meksika'daki tarihi şampiyonluğunun ardından gurur duyduğunu belirten duygusal bir mesaj paylaştı.",
+  "puan": 8.5,
+  "grup": "mexico-gp-antonelli-champion-verstappen-win",
+  "link": "https://www.motorsport.com/f1/news/max-verstappen-shares-emotional-message-after-kimi-antonellis-historic-f1-title-win/10870753/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton: Leclerc Teması Galibiyete Mal Oldu",
+  "ozet": "Lewis Hamilton, ilk turdaki Leclerc temasının Meksika GP galibiyetini engellediğini ve takımın ciddi görüşmeler yapması gerektiğini söyledi.",
+  "puan": 6.5,
+  "grup": "mexico-gp-hamilton-leclerc-feud",
+  "link": "https://www.motorsport.com/f1/news/lewis-hamilton-says-ferrari-needs-serious-talks-after-charles-leclerc-clash-cost-mexico-gp-win/10870748/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793586106.3600128
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli'den Tarihi Şampiyonluk Sonrası Duygusal Anlar",
+  "ozet": "Meksika'da F1'in en genç şampiyonu olan Kimi Antonelli, rekor kırarak kazandığı ilk unvanının ardından duygusal ifadeler kullandı.",
+  "puan": 9.0,
+  "grup": "mexico-gp-antonelli-champion-verstappen-win",
+  "link": "https://www.motorsport.com/f1/news/emotional-kimi-antonelli-left-speechless-by-maiden-f1-world-title-in-mexico/10870739/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793586106.3600128
  }
 ]
