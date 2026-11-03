@@ -1,156 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Noble M500 Tam Testi",
-  "ozet": "Elektronik yardımcıları ve abs, havayastığı gibi donanımları bulunmayan manuel vitesli çift turbolu Noble M500, saf sürüş deneyimiyle 180 bin sterlin fiyat etiketiyle test edildi.",
-  "puan": 7.5,
-  "grup": "noble-m500-full-test",
-  "link": "https://www.autocar.co.uk/car-review/noble/m500",
-  "source": "Autocar",
-  "ts": 1793517811.1366794
- },
- {
-  "cat": "araba",
-  "baslik": "Toyota Hilux'un Efsanevi Geçmişi",
-  "ozet": "Kompakt sınıfın en efsanevi modellerinden biri olan Toyota Hilux, dünya genelindeki sağlamlık ünü ve geniş hayran kitlesiyle dikkat çekiyor.",
-  "puan": 3.0,
-  "grup": "toyota-hilux-legendary-truck",
-  "link": "https://www.jalopnik.com/2296913/toyota-hilux-legendary-compact-truck/",
-  "source": "Jalopnik",
-  "ts": 1793517811.1366794
- },
- {
-  "cat": "araba",
-  "baslik": "V6 ve V8 Gücündeki 4 Silindirli Motorlar",
-  "ozet": "Turbo veya süperşarj olmaksızın, yüksek devir çevirerek V6 ve hatta V8 güç seviyelerine ulaşabilen 7 adet atmosferik dört silindirli motor incelendi.",
-  "puan": 2.5,
-  "grup": "naturally-aspirated-4-cylinder-engines",
-  "link": "https://www.jalopnik.com/2296918/naturally-aspirated-4-cylinder-engine-as-much-power-as-v6-v8/",
-  "source": "Jalopnik",
-  "ts": 1793517811.1366794
- },
- {
-  "cat": "f1",
-  "baslik": "Meksika GP Öncesi Dikkat Edilmesi Gerekenler",
-  "ozet": "Chris Medland, Autodromo Hermanos Rodriguez'deki yarış öncesi takip edilmesi gereken beş kritik noktayı seçti.",
-  "puan": 4.5,
-  "grup": "mexico-gp-race-preview",
-  "link": "https://www.formula1.com/en/latest/article/what-to-watch-for-in-the-mexico-city-grand-prix.2L0L49djDMMYYHFCx7EpTf",
-  "source": "Formula1.com",
-  "ts": 1793517811.1366794
- },
- {
-  "cat": "f1",
-  "baslik": "Meksika Sıralama Turları Sonrası Takım Açıklamaları",
-  "ozet": "Takımlar ve pilotlar, Meksika Grand Prix'si öncesinde son antrenman ve sıralama seansının ardından değerlendirmelerde bulundu.",
-  "puan": 5.0,
-  "grup": "mexico-gp-qualifying-team-reports",
-  "link": "https://www.formula1.com/en/latest/article/what-the-teams-said-qualifying-in-mexico-city-2026.OeV40dsukK0h4mpxdkqoj",
-  "source": "Formula1.com",
-  "ts": 1793517811.1366794
- },
- {
-  "cat": "f1",
-  "baslik": "Vasseur'den Hamilton'ın Sıralama Performansına Övgü",
-  "ozet": "Ferrari Takım Patronu Fred Vasseur, Lewis Hamilton'ın Meksika'daki sıralama performansını övdü.",
-  "puan": 5.0,
-  "grup": "mexico-gp-hamilton-pole",
-  "link": "https://www.formula1.com/en/latest/article/vasseur-sets-out-ferraris-approach-to-mexico-city-gp-after-hamiltons-fantastic-job-in-qualifying.aeOT8LBw7vwfZXACZuZNh",
-  "source": "Formula1.com",
-  "ts": 1793517811.1366794
- },
- {
-  "cat": "f1",
-  "baslik": "Norris: McLaren Meksika'da Fazla Yavaş",
-  "ozet": "Lando Norris, Q2'deki hızını tekrarlayamayınca Meksika Grand Prix'sine altıncı sıradan başlayacak.",
-  "puan": 5.0,
-  "grup": "mexico-gp-norris-struggles",
-  "link": "https://www.formula1.com/en/latest/article/norris-admits-mclaren-are-too-slow-after-he-was-unable-to-repeat-magical-q2-lap.27eAOnAt6RViOkqFEitAft",
-  "source": "Formula1.com",
-  "ts": 1793517811.1366794
- },
- {
-  "cat": "f1",
-  "baslik": "Leclerc Sıralama Sonrası Kendisine Kızgın",
-  "ozet": "Charles Leclerc Meksika Grand Prix'sine üçüncü sıradan başlarken, Lewis Hamilton 2023'ten bu yana ilk pole pozisyonunu kazandı.",
-  "puan": 6.0,
-  "grup": "mexico-gp-qualifying-results",
-  "link": "https://www.formula1.com/en/latest/article/leclerc-angry-with-myself-after-losing-out-to-ferrari-team-mate-hamilton-in-mexico-city-qualifying.6C1Gik6c58NfUOcaLpJTeM",
-  "source": "Formula1.com",
-  "ts": 1793517811.1366794
- },
- {
-  "cat": "f1",
-  "baslik": "Liam Lawson Meksika GP Sıralamalarından Diskalifiye Edildi",
-  "ozet": "Liam Lawson'ın olaylı Meksika Grand Prix'si hafta sonu, sıralama turlarından diskalifiye edilmesiyle devam etti.",
-  "puan": 8.5,
-  "grup": "lawson-mexico-qualifying-dsq",
-  "link": "https://www.formula1.com/en/latest/article/lawson-disqualified-from-mexico-city-gp-qualifying-for-technical-breach.1LIHCl2P75cYj0cGJgyZhx",
-  "source": "Formula1.com",
-  "ts": 1793517811.1366794
- },
- {
-  "cat": "f1",
-  "baslik": "Antonelli Meksika'da Her Zamankinden Daha Gergin",
-  "ozet": "Tarihi bir hafta sonu geçirebilecek olan Mercedes pilotu Kimi Antonelli, Meksika Grand Prix'sine dördüncü ceza cibinden başlayacak.",
-  "puan": 5.0,
-  "grup": "antonelli-mexico-title-tension",
-  "link": "https://www.formula1.com/en/latest/article/i-didnt-do-a-good-enough-job-antonelli-admits-feeling-more-tense-than-usual-in-mexico-city-qualifying.2DHPy7wRU0Qymi79OMvZyy",
-  "source": "Formula1.com",
-  "ts": 1793517811.1366794
- },
- {
-  "cat": "f1",
-  "baslik": "McLaren: Meksika'da Geçiş Yapmak Çok Zor Olacak",
-  "ozet": "McLaren pilotları, 2026 güç üniteleri nedeniyle bu yıl Meksika'da sollama yapmanın özellikle zor olacağını düşünüyor.",
-  "puan": 4.5,
-  "grup": "mexico-gp-overtaking-challenges",
-  "link": "https://www.racefans.net/2026/11/01/everyones-kind-of-stuck-in-this-speed-limiter-mclaren-pair-expect-little-passing-in-mexico/",
-  "source": "RaceFans",
-  "ts": 1793517811.1366794
- },
- {
-  "cat": "f1",
-  "baslik": "Meksika'daki Pole Mücadelesini Ne Belirledi?",
-  "ozet": "Lewis Hamilton'ın pole pozisyonunu ve George Russell'ın yakın mücadelesini belirleyen anahtar faktörler sıralama turlarından önce ortaya çıktı.",
-  "puan": 4.5,
-  "grup": "mexico-gp-pole-analysis",
-  "link": "https://www.the-race.com/formula-1/what-decided-mexico-pole-fight-before-final-laps-even-started/",
-  "source": "The Race",
-  "ts": 1793517811.1366794
- },
- {
-  "cat": "f1",
-  "baslik": "Lawson Meksika'da Neden Diskalifiye Edildi?",
-  "ozet": "Yarışa dokuzuncu sıradan başlama hakkını kaybeden Liam Lawson, FIA tarafından sıralama turlarından diskalifiye edildi.",
-  "puan": 8.5,
-  "grup": "lawson-mexico-qualifying-dsq",
-  "link": "https://www.autosport.com/f1/news/lawson-disqualified-from-f1-qualifying-in-mexico-heres-why/10870411/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1793517811.1366794
- },
- {
-  "cat": "f1",
-  "baslik": "Liam Lawson F1 Meksika Sıralamalarından Diskalifiye Edildi",
-  "ozet": "Racing Bulls pilotu Liam Lawson, FIA kararıyla Meksika Grand Prix'si sıralama turlarından diskalifiye edildi.",
-  "puan": 8.5,
-  "grup": "lawson-mexico-qualifying-dsq",
-  "link": "https://www.motorsport.com/f1/news/liam-lawson-disqualified-after-f1-qualifying-in-mexico-heres-why/10870409/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793517811.1366794
- },
- {
-  "cat": "f1",
-  "baslik": "Meksika GP Sıralama Turlarının Kazananları ve Kaybedenleri",
-  "ozet": "İlk iki sıradakiler hariç tutulduğunda, Meksika Grand Prix'si sıralamaları kazananlardan çok kaybedenler üretti.",
-  "puan": 4.5,
-  "grup": "mexico-gp-qualifying-winners-losers",
-  "link": "https://www.the-race.com/formula-1/winners-and-losers-from-mexican-grand-prix-f1-qualifying-2026/",
-  "source": "The Race",
-  "ts": 1793517811.1366794
- },
- {
-  "cat": "araba",
   "baslik": "Hayalinizdeki Motor Modifiyesi Hangisi?",
   "ozet": "Küçük bir hatchback araca motosiklet motoru veya klasik bir modele süper şarjlı V8 yerleştirmek gibi hayallerdeki motor değişimleri tartışılıyor.",
   "puan": 3.0,
@@ -2688,5 +2538,205 @@
   "link": "https://www.motorsport.com/f1/news/george-russell-breaks-silence-with-heartfelt-message-after-kimi-antonellis-f1-title-win/10871112/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1793670745.740233
+ },
+ {
+  "cat": "araba",
+  "baslik": "Tesla Optimus Robot Siparisleri Gündemde",
+  "ozet": "Tek bir analist raporu ve belirsiz 2027 hedefi, Tesla'nın insansı robotu Optimus için siparişlerin durumunu belirsiz bırakıyor.",
+  "puan": 5.5,
+  "grup": "tesla-optimus-robot-orders",
+  "link": "https://www.motor1.com/news/814187/tesla-optimus-reservation-confusion-explained/",
+  "source": "Motor1",
+  "ts": 1793697969.3643036
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mercedes-AMG CLE Nürburgring Turunda",
+  "ozet": "Güçlü V8 sesine sahip prototip Mercedes-AMG CLE, Nürburgring pistinde test edilirken görüntülendi.",
+  "puan": 7.0,
+  "grup": "mercedes-amg-cle-nurburgring",
+  "link": "https://www.motor1.com/news/814180/mercedes-amg-ultimate-cle-video/",
+  "source": "Motor1",
+  "ts": 1793697969.3643036
+ },
+ {
+  "cat": "araba",
+  "baslik": "28 Yıl Sonra Bulunan Nissan 300ZX Hayata Dönüyor",
+  "ozet": "Bir ahırda 28 yıl yatan 1990 model Nissan 300ZX, kozmetik yenilemenin ardından yakıt ve ateşleme onarımları bekliyor.",
+  "puan": 4.0,
+  "grup": "nissan-300zx-barn-find",
+  "link": "https://www.motor1.com/news/814177/1990-nissan-300zx-barn-find/",
+  "source": "Motor1",
+  "ts": 1793697969.3643036
+ },
+ {
+  "cat": "araba",
+  "baslik": "Kia Sürücü Odaklı Otomobil Eksikliğinden Şikayetçi",
+  "ozet": "Kia yetkilileri piyasadaki saf sürücü otomobili eksikliğinden duydukları memnuniyetsizliği dile getirdi.",
+  "puan": 4.5,
+  "grup": "kia-dissatisfied-drivers-cars",
+  "link": "https://www.motor1.com/news/814171/kia-greatly-dissatisfied-lack-drivers-cars/",
+  "source": "Motor1",
+  "ts": 1793697969.3643036
+ },
+ {
+  "cat": "araba",
+  "baslik": "Su Altında Çalışabilen Yeni Horse Benzinli Motor",
+  "ozet": "Horse tarafından geliştirilen yeni nesil motor teknolojisi, su enjeksiyonu ve off-road performansıyla dikkat çekiyor.",
+  "puan": 7.5,
+  "grup": "horse-petrol-engine-water",
+  "link": "https://www.autocar.co.uk/car-news/technology/new-horse-petrol-engine-can-run-underwater",
+  "source": "Autocar",
+  "ts": 1793697969.3643036
+ },
+ {
+  "cat": "araba",
+  "baslik": "BMW'den 2027'de Gelecek Yeni Sürüş Asistanı",
+  "ozet": "BMW'nin City Assistant güncellemesi, şehir içi karmaşık manevraları yönetmek için yeni harita ve kamera teknolojilerini hedefliyor.",
+  "puan": 6.5,
+  "grup": "bmw-city-assistant-tech",
+  "link": "https://www.motor1.com/news/814170/bmw-brings-level-2-city/",
+  "source": "Motor1",
+  "ts": 1793697969.3643036
+ },
+ {
+  "cat": "araba",
+  "baslik": "BMW'den Sıkıcı Otomobillere 90'lar Göndermesi",
+  "ozet": "BMW, 1990'ların Toyota modellerini andıran yapay zeka destekli bir konseptle sıkıcı tasarımları eleştirdi.",
+  "puan": 4.5,
+  "grup": "bmw-90s-ai-car-boring",
+  "link": "https://www.motor1.com/news/814159/bmw-calls-out-1990s-car-boring/",
+  "source": "Motor1",
+  "ts": 1793697969.3643036
+ },
+ {
+  "cat": "araba",
+  "baslik": "MG IM5 ve Tesla Model 3 Karşılaştırması",
+  "ozet": "MG'nin yeni elektrikli spor sedanı IM5, Amerikan rakibi Tesla Model 3 ile karşı karşıya geldi.",
+  "puan": 5.5,
+  "grup": "mg-im5-vs-tesla-model-3",
+  "link": "https://www.autocar.co.uk/car-news/features/im5-vs-model-3-how-does-mgs-tesla-compare-real-thing",
+  "source": "Autocar",
+  "ts": 1793697969.3643036
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Jeep Wrangler Scrambler SRT Tanıtıldı",
+  "ozet": "V8 motorlu Jeep Wrangler Scrambler SRT konsepti, bağımsız süspansiyonu ve çöl performansı ile öne çıkıyor.",
+  "puan": 8.0,
+  "grup": "jeep-wrangler-scrambler-srt-concept",
+  "link": "https://www.motor1.com/news/814161/jeep-wrangler-scrambler-srt-concept/",
+  "source": "Motor1",
+  "ts": 1793697969.3643036
+ },
+ {
+  "cat": "araba",
+  "baslik": "Range Rover Evoque ve Velar Tarihe Karışıyor",
+  "ozet": "JLR, 2027 sonrasında Evoque ve Velar modellerini yenilemeyerek giriş seviyesini GT modeline bırakmaya hazırlanıyor.",
+  "puan": 7.0,
+  "grup": "evoque-velar-retire-gt-entry",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/evoque-and-velar-retire-%C2%A390k-gt-becomes-entry-range-rover",
+  "source": "Autocar",
+  "ts": 1793697969.3643036
+ },
+ {
+  "cat": "araba",
+  "baslik": "Elektrikli Araç Benimsenmesi İçin Tavsiye",
+  "ozet": "Daha fazla insanın elektrikli araca geçmesi için mevcut EV sahiplerinin araçlarını arkadaşlarıyla paylaşması öneriliyor.",
+  "puan": 3.0,
+  "grup": "ev-owners-lend-cars-study",
+  "link": "https://www.jalopnik.com/2304398/ev-owners-should-lend-out-their-cars/",
+  "source": "Jalopnik",
+  "ts": 1793697969.3643036
+ },
+ {
+  "cat": "araba",
+  "baslik": "Turtle Wax'tan Dağınık Araçlar ve Flört Araştırması",
+  "ozet": "Turtle Wax'ın yaptığı araştırma, kirli ve dağınık otomobillerin insanların flört hayatını olumsuz etkilediğini iddia ediyor.",
+  "puan": 2.0,
+  "grup": "turtle-wax-messy-cars-dating",
+  "link": "https://www.jalopnik.com/2299452/survey-shows-messy-car-actually-means-worse-love-life/",
+  "source": "Jalopnik",
+  "ts": 1793697969.3643036
+ },
+ {
+  "cat": "araba",
+  "baslik": "Dodge NASCAR'a Geri Dönüyor",
+  "ozet": "Dodge, 2027 sezonundan itibaren NASCAR Cup Series yarışlarına resmi olarak geri döneceğini duyurdu.",
+  "puan": 7.5,
+  "grup": "dodge-return-to-nascar",
+  "link": "https://www.motor1.com/news/814146/dodge-returns-to-nascar-cup-series-2027/",
+  "source": "Motor1",
+  "ts": 1793697969.3643036
+ },
+ {
+  "cat": "araba",
+  "baslik": "Jeep Wrangler Scrambler SRT Detayları",
+  "ozet": "V8 motorlu ve bağımsız süspansiyonlu Jeep Wrangler Scrambler SRT konsepti Stellantis planlarında yer alıyor.",
+  "puan": 8.0,
+  "grup": "jeep-wrangler-scrambler-srt-concept",
+  "link": "https://www.thedrive.com/news/this-is-the-jeep-wrangler-scrambler-srt-with-reversible-jump-seats-a-v8-and-37-inch-tires",
+  "source": "The Drive",
+  "ts": 1793697969.3643036
+ },
+ {
+  "cat": "araba",
+  "baslik": "Modern Otomobillerde Pas Koruma Gerekli mi?",
+  "ozet": "Fabrika çıkışlı korumalar gelişse de, tuz ve nem gibi faktörler nedeniyle modern araçlarda pas korumasının yeri inceleniyor.",
+  "puan": 3.5,
+  "grup": "modern-car-rustproofing-worth-it",
+  "link": "https://www.motor1.com/features/813721/is-rustproofing-worth-it-for-modern-cars/",
+  "source": "Motor1",
+  "ts": 1793697969.3643036
+ },
+ {
+  "cat": "f1",
+  "baslik": "Sao Paulo GP Bahis Rehberi ve Oranları",
+  "ozet": "Uzmanlar, Interlagos'taki yarış tahminleriniz için en önemli bahis bilgilerini ve güncel oranları derledi.",
+  "puan": 2.0,
+  "grup": "brazil-gp-betting-guide",
+  "link": "https://www.formula1.com/en/latest/article/sao-paulo-grand-prix-race-betting-guide-and-what-the-markets-expect-to-happen.3R5CCxfCtap5Fnb1hsQIhr",
+  "source": "Formula1.com",
+  "ts": 1793697969.3643036
+ },
+ {
+  "cat": "f1",
+  "baslik": "2026 Brezilya Grand Prix Hafta Sonu Programı",
+  "ozet": "Formula 1 takviminin sıradaki yarışı olan 2026 Brezilya Grand Prix'sinin (Sao Paulo GP) tüm seans saatleri açıklandı.",
+  "puan": 3.5,
+  "grup": "brazil-gp-weekend-schedule",
+  "link": "https://www.the-race.com/formula-1/what-time-is-f1s-2026-brazilian-grand-prix-full-weekend-schedule/",
+  "source": "The Race",
+  "ts": 1793697969.3643036
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton'dan Meksika GP'sindeki Hız Sınırına Eleştiri",
+  "ozet": "Lewis Hamilton, 2026 regülasyonlarındaki tuhaflıkların Meksika Grand Prix'sinde geçişleri engellediğini belirterek durumu 'aptalca' olarak nitelendirdi.",
+  "puan": 5.0,
+  "grup": "mexico-gp-speed-limit-criticism",
+  "link": "https://www.the-race.com/formula-1/the-stupid-speed-limit-that-neutered-mexican-gp-explained/",
+  "source": "The Race",
+  "ts": 1793697969.3643036
+ },
+ {
+  "cat": "f1",
+  "baslik": "Leclerc ve Vasseur'den Meksika GP Temas Açıklaması",
+  "ozet": "Charles Leclerc Meksika'daki kazanın pist düzeninden kaynaklandığını söylerken, takım patronu Fred Vasseur bu görüşe katılmadı.",
+  "puan": 6.5,
+  "grup": "mexico-gp-hamilton-leclerc-feud",
+  "link": "https://www.motorsport.com/f1/news/charles-leclerc-blames-mexico-gp-clash-on-track-layout-fred-vasseur-disagrees/10871092/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793697969.3643036
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli: 'Şüpheciler Şampiyonluk Ateşimi Hırslandırdı'",
+  "ozet": "Yeni dünya şampiyonu Andrea Kimi Antonelli, Formula 1 için hazır olmadığını söyleyenlerin kendisini daha da hırslandırdığını belirtti.",
+  "puan": 6.0,
+  "grup": "antonelli-mexico-title-tension",
+  "link": "https://www.racefans.net/2026/11/03/antonelli-says-doubters-added-fuel-to-the-fire-in-his-world-championship-pursuit/",
+  "source": "RaceFans",
+  "ts": 1793697969.3643036
  }
 ]
