@@ -1,306 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "O'Reilly Auto Parts Jingle'ının Hikayesi",
-  "ozet": "Ünlü 'Oh, oh, oh, O'Reilly!' melodisi Missouri'deki basit bir kayıtla başladı ve Amerika'nın en tanınan reklam jingle'larından biri haline geldi.",
-  "puan": 2.5,
-  "grup": "oreilly-auto-parts-jingle-history",
-  "link": "https://www.motor1.com/features/813838/story-behind-oreilly-auto-parts-jingle/",
-  "source": "Motor1",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "araba",
-  "baslik": "Benzinli Araç Sahiplerinin Elektrikli Araçlara Bakışı",
-  "ozet": "Amerika'daki elektrikli araç pazarı gelişse de, geleneksel araç sahiplerini yeni bir elektrikli araç almaya ikna etmek hâlâ büyük bir zorluk olmaya devam ediyor.",
-  "puan": 5.0,
-  "grup": "gas-car-owners-ev-adoption-challenge",
-  "link": "https://www.autoblog.com/news/just-11-of-gas-car-owners-see-an-ev-as-their-likely-next-buy",
-  "source": "Autoblog",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "araba",
-  "baslik": "BMW'nin Yeni Araç Kokusu Uzmanları",
-  "ozet": "BMW, yeni araçlardaki kokuyu nötrleştirmek ve hoş olmayan kokuları engellemek için deriden yapıştırıcılara kadar her şeyi koklayan profesyonel uzmanlar istihdam ediyor.",
-  "puan": 4.5,
-  "grup": "bmw-professional-odor-sniffers-cabin",
-  "link": "https://www.autoblog.com/news/bmw-employs-professional-sniffers-to-eliminate-new-car-smell",
-  "source": "Autoblog",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "araba",
-  "baslik": "Sürüş Sırasında Uzun Atkı Kullanımı Tehlikesi",
-  "ozet": "Sürüş sırasında uzun ve savrulan kıyafetler veya atkılar takmak modadan öte, sizi ciddi bir tehlikeye atabilir.",
-  "puan": 2.0,
-  "grup": "long-scarf-driving-safety-hazard",
-  "link": "https://www.jalopnik.com/2297776/why-cars-long-scarf-bad-combination-injuries-danger/",
-  "source": "Jalopnik",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "araba",
-  "baslik": "Metallica Vokalistine Özel Mini Yükleyici",
-  "ozet": "Metallica'nın solisti James Hetfield, klasik bir süper otomobil yerine özelleştirilmiş bir inşaat ekipmanı olan özel bir mini yükleyici sipariş etti.",
-  "puan": 3.5,
-  "grup": "metallica-james-hetfield-skid-steer",
-  "link": "https://www.thedrive.com/news/metallica-skid-steer-where-heavy-metal-meets-heavy-equipment",
-  "source": "The Drive",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "araba",
-  "baslik": "Tarihin En Etkili 10 Konsept Otomobili",
-  "ozet": "Üretime geçmeyen konsept otomobiller bile endüstriye ilham vererek bugünkü otomotiv dünyasının şekillenmesinde büyük rol oynamıştır.",
-  "puan": 2.0,
-  "grup": "most-influential-concept-cars-history",
-  "link": "https://www.jalopnik.com/2298551/most-influential-concept-cars-ever-made/",
-  "source": "Jalopnik",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "araba",
-  "baslik": "Aracın Yağ Pompasının Arızalandığı Nasıl Anlaşılır?",
-  "ozet": "Arızalı bir yağ pompası ciddi motor hasarına yol açabilir; bu nedenle belirtileri erken fark etmek büyük sorunların önüne geçer.",
-  "puan": 4.0,
-  "grup": "car-oil-pump-failure-symptoms",
-  "link": "https://www.jalopnik.com/2297726/average-lifespan-oil-pump-know-when-its-bad/",
-  "source": "Jalopnik",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "araba",
-  "baslik": "Bugatti CEO'su Çalınan Chiron'unu Kovaladı",
-  "ozet": "Bugatti CEO'su Mate Rimac, içeride unutulan anahtarla çalınan Chiron'unu uluslararası sınır boyunca bir Porsche 911 ile takip etti.",
-  "puan": 8.5,
-  "grup": "bugatti-ceo-chases-stolen-chiron",
-  "link": "https://www.autoblog.com/news/bugatti-ceo-chased-his-stolen-chiron-across-borders-in-a-porsche-911",
-  "source": "Autoblog",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "araba",
-  "baslik": "Gençlerin Otomotiv Tutkusunu Sürdürme Mücadelesi",
-  "ozet": "Zorlu ekonomik koşullarda otomobil tutkusunu canlı tutmak zor olsa da, bu sevgiyi sürdürmenin hâlâ bazı yolları bulunuyor.",
-  "puan": 3.0,
-  "grup": "gen-z-automotive-enthusiasm-economy",
-  "link": "https://www.jalopnik.com/2297710/gen-zers-uphill-battle-automotive-enthusiasm-silver-lining/",
-  "source": "Jalopnik",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "araba",
-  "baslik": "Modifiye Dodge Charger Şanzımanı Zorluyor",
-  "ozet": "Rob Dahm'ın modifiye ettiği sıralı altı silindirli motor tekerleklere neredeyse 1.000 beygir güç veriyor ancak şanzıman bunu taşımakta zorlanıyor.",
-  "puan": 6.5,
-  "grup": "rob-dahm-modified-dodge-charger",
-  "link": "https://www.motor1.com/news/813788/dodge-charger-hurrican-968-hp/",
-  "source": "Motor1",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "araba",
-  "baslik": "1980'lerden Ferrari Yapımı Pace Car Yeniden Ortaya Çıktı",
-  "ozet": "PPG'nin CART sponsoru olduğu 1980'lerde Ferrari'nin inşa ettiği 1 milyon dolarlık özel pace car uzun süre sonra yeniden gün yüzüne çıktı.",
-  "puan": 7.0,
-  "grup": "ferrari-ppg-cart-pace-car-resurfaces",
-  "link": "https://www.thedrive.com/news/ferrari-built-this-one-off-1-million-pace-car-in-the-80s-it-just-resurfaced",
-  "source": "The Drive",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "araba",
-  "baslik": "2026 Tesla Model 3'e Cybercab Teknolojisi Geliyor",
-  "ozet": "Tesla Cybercab'in daha az parça içeren yeni invertörünün bir versiyonu bu yıl Model 3 üretim hatlarına eklenecek.",
-  "puan": 7.5,
-  "grup": "tesla-model-3-cybercab-tech-inverter",
-  "link": "https://www.autoblog.com/news/2026-tesla-model-3-is-getting-cybercab-tech",
-  "source": "Autoblog",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "araba",
-  "baslik": "McMurtry'nin 1000 Beygirlik Fanlı Otomobili",
-  "ozet": "On yıllık mühendislik çalışmasının ardından McMurtry Spéirling, vahşi bir prototipten satın alabileceğiniz rekortmen bir hiper otomobile dönüştü.",
-  "puan": 8.0,
-  "grup": "mcmurtry-speirling-fan-car-production",
-  "link": "https://www.autoblog.com/news/mcmurtrys-1000-hp-fan-car-still-sucks-after-10-years",
-  "source": "Autoblog",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "araba",
-  "baslik": "Subaru'nun ABD Pazarındaki Büyüme Planları",
-  "ozet": "Daha güçlü bir ürün gamı, esnek üretim ve düşük maliyetler Subaru'nun Amerikan pazarındaki payını artırma stratejisinin temelini oluşturuyor.",
-  "puan": 5.5,
-  "grup": "subaru-us-market-growth-strategy",
-  "link": "https://www.autoblog.com/news/subaru-thinks-it-can-steal-more-american-buyers-from-its-rivals",
-  "source": "Autoblog",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "araba",
-  "baslik": "Koli Bandının İcadı ve Tarihçesi",
-  "ozet": "Koli bandı İkinci Dünya Savaşı sırasında ortaya çıktı ve bir kadının fikri sayesinde evlerin, garajların vazgeçilmez aracı haline geldi.",
-  "puan": 2.0,
-  "grup": "duct-tape-invention-history-ww2",
-  "link": "https://www.motor1.com/features/813534/duct-tape-military-invention-household-staple/",
-  "source": "Motor1",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "araba",
-  "baslik": "Nadir 1987 Shelby Lancer Satışta",
-  "ozet": "Mustang kadar bilinmeyen ancak Shelby imzasını taşıyan bu 1987 model Shelby Lancer açık artırma platformunda alıcı bekliyor.",
-  "puan": 4.0,
-  "grup": "shelby-lancer-bat-auction",
-  "link": "https://www.caranddriver.com/news/a74275692/1987-shelby-lancer-bring-a-trailer-auction/",
-  "source": "Car and Driver",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "araba",
-  "baslik": "Toyota Global King Karavan ile JDM Yolculuğu",
-  "ozet": "Yüksek yakıt fiyatlarına rağmen 2001 model Toyota Global King karavan ile unutulmaz bir Japon yerli pazarı (JDM) yolculuğu yapabilirsiniz.",
-  "puan": 3.0,
-  "grup": "toyota-global-king-camper-jdm-trip",
-  "link": "https://www.thedrive.com/news/take-the-ultimate-jdm-road-trip-in-this-2001-toyota-global-king-camper",
-  "source": "The Drive",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "araba",
-  "baslik": "Mazda ve Toyota'nın Alabama Fabrikasından Üretim Rekoru",
-  "ozet": "Mazda ve Toyota'nın ortak Alabama fabrikası, 1 milyonuncu aracını üreterek bu dönüm noktasını yerel bağışlarla kutladı.",
-  "puan": 6.0,
-  "grup": "mazda-toyota-alabama-plant-milestone",
-  "link": "https://www.autoblog.com/news/mazda-and-toyotas-alabama-partnership-just-hit-a-major-milestone",
-  "source": "Autoblog",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "araba",
-  "baslik": "Plymouth Barracuda ile 'Cuda Arasındaki Fark",
-  "ozet": "Barracuda ve 'Cuda isimleri genellikle birbirinin yerine kullanılsa da, iki model arasında önemli farklar bulunmaktadır.",
-  "puan": 3.5,
-  "grup": "plymouth-barracuda-vs-cuda-difference",
-  "link": "https://www.jalopnik.com/2297470/difference-between-plymouth-barracuda-and-cuda/",
-  "source": "Jalopnik",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "araba",
-  "baslik": "43 Beygirlik Geo Metro ile New York'tan Los Angeles'a",
-  "ozet": "Çok düşük güçteki bir Geo Metro ile ülkeyi baştan başa geçmek zaman alsa da macera arayanlar için buna değer.",
-  "puan": 3.5,
-  "grup": "geo-metro-cross-country-road-trip",
-  "link": "https://www.thedrive.com/news/driving-a-43-hp-geo-metro-from-ny-to-la-takes-a-while-its-worth-it",
-  "source": "The Drive",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "araba",
-  "baslik": "Hyundai'den Alabama Fabrikasına 500 Milyon Dolarlık Yatırım",
-  "ozet": "Hyundai, yeni nesil Tucson üretimi ve motor teknolojileri için Alabama fabrikasını genişletmeye yönelik 500 milyon dolarlık dev bir yatırım yapıyor.",
-  "puan": 7.5,
-  "grup": "hyundai-alabama-plant-tucson-investment",
-  "link": "https://www.autoblog.com/news/hyundai-is-spending-500-million-to-build-its-next-tucson-in-alabama",
-  "source": "Autoblog",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "araba",
-  "baslik": "Audi Q9 Kavisli OLED Stop Lambalarıyla Geliyor",
-  "ozet": "Audi, Q9 modelinde kavisli OLED panel teknolojisini kullanarak bu özelliği bir seri üretim araçta sunan ilk üretici konumuna geliyor.",
-  "puan": 8.0,
-  "grup": "audi-q9-curved-oled-taillights",
-  "link": "https://www.autoblog.com/news/audi-q9s-curved-oled-taillights-are-a-bigger-deal-than-you-think",
-  "source": "Autoblog",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "f1",
-  "baslik": "Meksika GP Resmi Start Grid Sıralaması",
-  "ozet": "2026 Meksika Grand Prix'si için tam resmi başlangıç gridi açıklandı.",
-  "puan": 8.5,
-  "grup": "mexico-gp-qualifying-results",
-  "link": "https://www.formula1.com/en/latest/article/official-grid-who-starts-where-for-the-2026-mexico-city-grand-prix.4AUykgAAZz3GMiI15Fqfir",
-  "source": "Formula1.com",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "f1",
-  "baslik": "Meksika GP Canlı Anlatımı",
-  "ozet": "2026 Meksika Grand Prix'sindeki tüm pist aksiyonunu canlı olarak takip edin.",
-  "puan": 5.0,
-  "grup": "mexico-gp-race-preview",
-  "link": "https://www.formula1.com/en/latest/article/live-coverage-formula-1-gran-premio-de-la-ciudad-de-mexico-2026.5CheEK7oQK2jf98nrc6i8Y",
-  "source": "Formula1.com",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "f1",
-  "baslik": "Meksika GP Öncesi Bahis İpuçları",
-  "ozet": "Meksika Grand Prix'sinde bahis yaparken taraftarların duygusal kararlardan kaçınması ve serinkanlı olması gerekiyor.",
-  "puan": 2.0,
-  "grup": "mexico-gp-bet-builder",
-  "link": "https://www.formula1.com/en/latest/article/why-f1-fans-must-avoid-emotional-betting-during-the-mexico-city-grand-prix.6XPJ9yMZJmUR7oF9cHe2Ql",
-  "source": "Formula1.com",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "f1",
-  "baslik": "Yamaha'nın MotoGP Boykotunun F1'e Etkisi",
-  "ozet": "Yamaha'nın Katar Grand Prix'sini boykot etmesi, F1'in Katar ve Abu Dabi yarışları öncesinde paddock'ta soru işaretleri yarattı.",
-  "puan": 4.5,
-  "grup": "yamaha-motogp-boycott-f1-impact",
-  "link": "https://www.motorsport.com/f1/news/what-does-yamahas-shock-motogp-boycott-mean-for-f1-in-qatar-and-abu-dhabi/10870664/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "f1",
-  "baslik": "Yamaha'nın MotoGP Boykotunun F1'e Etkisi",
-  "ozet": "Yamaha'nın Katar Grand Prix'sini boykot etmesi, F1'in Katar ve Abu Dabi yarışları öncesinde paddock'ta soru işaretleri yarattı.",
-  "puan": 4.5,
-  "grup": "yamaha-motogp-boycott-f1-impact",
-  "link": "https://www.autosport.com/f1/news/what-does-yamahas-shock-motogp-boycott-mean-for-f1-in-qatar-and-abu-dhabi/10870666/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
-  "source": "Autosport",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "f1",
-  "baslik": "Bottas 2027 Koltuğundan Emin",
-  "ozet": "Valtteri Bottas, Colton Herta söylentilerine rağmen 2027'de Formula 1'de kalacağından oldukça emin.",
-  "puan": 6.5,
-  "grup": "bottas-cadillac-2027-contract",
-  "link": "https://www.motorsport.com/f1/news/valtteri-bottas-pretty-confident-of-staying-for-f1-2027-amid-colton-herta-rumours/10870623/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "f1",
-  "baslik": "Lawson'ın Diskalifiyesi F1 Kurallarını Hedef Aldı",
-  "ozet": "Liam Lawson'ın diskalifiye edilmesi, 2026 F1 kurallarındaki bir başka kusuru gözler önüne serdi.",
-  "puan": 8.0,
-  "grup": "lawson-mexico-qualifying-dsq",
-  "link": "https://www.racefans.net/2026/11/01/featured-comment-lawsons-disqualification-highlights-another-flaw-in-f1s-rules/",
-  "source": "RaceFans",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "f1",
-  "baslik": "İran Savaşı Nedeniyle MotoGP Katar'dan Çekiliyor",
-  "ozet": "Katar'daki MotoGP yarışı, İran'daki savaş nedeniyle bir takımın turnuvadan çekilmesiyle sarsıldı.",
-  "puan": 5.5,
-  "grup": "qatar-motogp-iran-war-withdrawal",
-  "link": "https://www.racefans.net/2026/11/01/qatars-moto-gp-round-hit-by-first-team-withdrawal-due-to-iran-war/",
-  "source": "RaceFans",
-  "ts": 1793560074.3587148
- },
- {
-  "cat": "araba",
   "baslik": "Steve McQueen'in Ferrari 275 NART Spider Modeli Açık Artırmada",
   "ozet": "Steve McQueen'in nadide ve Hollywood tarihine sahip Ferrari 275 NART Spider otomobili yeni sahibini bulmak için açık artırmaya çıkıyor.",
   "puan": 7.5,
@@ -3008,5 +2708,375 @@
   "link": "https://www.racefans.net/2026/11/03/silly-power-unit-rules-prevent-passing-says-hamilton-the-engine-can-go-faster/",
   "source": "RaceFans",
   "ts": 1793726208.5941339
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Chevrolet Silverado V8'leri Daha Fazla Yakıt Tüketecek",
+  "ozet": "2027 model Chevrolet Silverado'nun yeni V8 motorları, eskilerine göre daha kötü yakıt ekonomisi sunacak ve bu durum GMC Sierra modellerini de etkileyecek.",
+  "puan": 4.5,
+  "grup": "chevy-silverado-diesel-update",
+  "link": "https://www.jalopnik.com/2306047/2027-chevrolet-silverado-new-v8s-worse-gas-mileage/",
+  "source": "Jalopnik",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "araba",
+  "baslik": "Patlak Lastikle Yola Devam Etmenizi Sağlayan Run-Flat Teknolojisi",
+  "ozet": "Run-flat lastikler patlama sonrasında sürüşe devam etmenize izin verir, ancak ek maliyetleri ve sert sürüş deneyimleri bazı soru işaretleri barındırır.",
+  "puan": 3.0,
+  "grup": "run-flat-tires-explained",
+  "link": "https://www.motor1.com/features/814235/run-flat-tire-technology-is-it-worth-it/",
+  "source": "Motor1",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "araba",
+  "baslik": "Everest'te Helikopter Kazası: 1 Ölü",
+  "ozet": "Everest Ana Kampı yakınlarında aynı noktaya iniş yapmaya çalışan iki helikopterin çarpışması sonucu bir turist hayatını kaybetti, iki kişi yaralandı.",
+  "puan": 2.0,
+  "grup": "everest-helicopter-collision",
+  "link": "https://www.jalopnik.com/2306016/mid-air-helicopter-collision-near-everest-base-camp/",
+  "source": "Jalopnik",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "araba",
+  "baslik": "Fabrika Çıkışlı Damperli Mahindra Roxor Tanıtıldı",
+  "ozet": "Daha önce aftermarket kitler gerektiren damper yatağı, artık dizel motor ve manuel şanzıman seçenekleriyle doğrudan fabrikadan sunuluyor.",
+  "puan": 4.0,
+  "grup": "mahindra-roxor-dump-truck",
+  "link": "https://www.thedrive.com/news/the-mahindra-roxor-is-basically-a-mini-dump-truck-now-with-a-diesel-and-five-speed-manual",
+  "source": "The Drive",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "araba",
+  "baslik": "En Çok Satan Elektrikli Kamyonetler",
+  "ozet": "2024'ün başından bu yana toplam 232.809 adet elektrikli kamyonet satılırken, Ford tek başına bu sayıya yaklaşan benzinli F-serisi satışı gerçekleştiriyor.",
+  "puan": 3.5,
+  "grup": "best-selling-electric-pickup-trucks",
+  "link": "https://www.caranddriver.com/features/a74324287/bestselling-electric-pickup-trucks/",
+  "source": "Car and Driver",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "araba",
+  "baslik": "Range Rover Evoque ve Velar Yerini GT EV'ye Bırakıyor",
+  "ozet": "Range Rover, Evoque ve Velar modellerini emekliye ayırarak yerlerine yeni bir GT elektrikli araç getirmeyi planlıyor.",
+  "puan": 7.5,
+  "grup": "evoque-velar-retire-gt-entry",
+  "link": "https://www.caranddriver.com/news/a74323107/range-rover-evoque-velar-ending-production-2027/",
+  "source": "Car and Driver",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "araba",
+  "baslik": "15 Bin Saatte Tamamlanan 800 Beygirlik Ford Restomod",
+  "ozet": "Fat Fender Garage, klasik bir Ford kamyoneti süper şarjlı, süper otomobil ilhamlı bir restomod projeye dönüştürdü.",
+  "puan": 6.5,
+  "grup": "ford-f250-raptor-restomod-sema",
+  "link": "https://www.motor1.com/news/814286/ford-f100-restomod-800-hp-coyote-v8-restomod/",
+  "source": "Motor1",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "araba",
+  "baslik": "Fat Fender Garage'dan 800 Beygirlik GT/FX Projesi",
+  "ozet": "1956 model Ford F-100 baz alınarak geliştirilen radikal kamyonet; yeni şasi, 800 beygirlik Coyote V8 ve modernize edilmiş bir kabin sunuyor.",
+  "puan": 6.5,
+  "grup": "ford-f250-raptor-restomod-sema",
+  "link": "https://www.caranddriver.com/news/a74314900/fat-fender-garage-gtfx-truck-sema-revealed/",
+  "source": "Car and Driver",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ford Transit Trail Sahiplerine Tazminat Ödeyecek",
+  "ozet": "Ford, Transit Trail sınıf davasını, sahiplerine orijinal paket ücretinin yarısından daha az bir ödeme yaparak sonuçlandırdı.",
+  "puan": 4.0,
+  "grup": "ford-transit-trail-lawsuit",
+  "link": "https://www.jalopnik.com/2305700/ford-settles-transit-trail-class-action-lawsuit/",
+  "source": "Jalopnik",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "araba",
+  "baslik": "Dodge, NASCAR Cup Series'e Geri Dönüyor",
+  "ozet": "14 yıllık bir aranın ardından Dodge, 2027'de NASCAR Cup Series'e geri dönerek Amerikan üreticilerin rekabetini kızıştıracak.",
+  "puan": 8.5,
+  "grup": "dodge-return-to-nascar",
+  "link": "https://www.jalopnik.com/2305521/dodge-rejoins-nascar-cap-series/",
+  "source": "Jalopnik",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "araba",
+  "baslik": "GTA VI Konsollarda 212 GB Yer Kaplayacak",
+  "ozet": "Grand Theft Auto VI, son dönemin en büyük video oyunlarından biri olarak konsollarda devasa bir depolama alanına ihtiyaç duyacak.",
+  "puan": 2.0,
+  "grup": "gta-6-storage-size",
+  "link": "https://www.jalopnik.com/2305654/gta-vi-212-gb-console-hard-drive/",
+  "source": "Jalopnik",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "araba",
+  "baslik": "Modern Arabaları Sabahları Isıtmanıza Gerek Yok",
+  "ozet": "Modern motorlar, donma sıcaklıklarında bile hızlıca hareket etmeye uygun tasarlandığından geleneksel sabah ısıtma ritüeli artık eskidi.",
+  "puan": 3.0,
+  "grup": "car-engine-warmup-myth",
+  "link": "https://www.motor1.com/features/814216/why-modern-cars-dont-need-to-warm-up-before-driving/",
+  "source": "Motor1",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "araba",
+  "baslik": "Çocuklar İçin En İyi Elektrikli Oyuncak Arabalar",
+  "ozet": "Otomobil tutkunu çocuklar için harika birer hediye alternatifi olan elektrikli oyuncak arabalar editörler tarafından incelendi.",
+  "puan": 1.5,
+  "grup": "best-electric-ride-on-cars-kids",
+  "link": "https://www.caranddriver.com/shopping-advice/g41298125/best-kids-ride-on-electric-cars/",
+  "source": "Car and Driver",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "araba",
+  "baslik": "Hemi V8'li Jeep Wrangler Scrambler SRT Konsepti",
+  "ozet": "Bağımsız ön süspansiyon ve Hemi V8 motoruyla dikkat çeken Wrangler Scrambler SRT konsepti geleneksel çizgilerden uzaklaşıyor.",
+  "puan": 7.0,
+  "grup": "jeep-wrangler-scrambler-srt-concept",
+  "link": "https://www.jalopnik.com/2305615/jeep-wrangler-scrambler-srt-concept/",
+  "source": "Jalopnik",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "araba",
+  "baslik": "Nissan İçin İlham Veren Aşırı Pathfinder Projeleri",
+  "ozet": "V8 motorlu ve manuel şanzımanlı modifiye Pathfinder versiyonları, Nissan'ın gelecekteki tasarımları için ipuçları barındırıyor.",
+  "puan": 5.0,
+  "grup": "nissan-pathfinder-custom-builds",
+  "link": "https://www.thedrive.com/news/these-extreme-pathfinder-builds-are-the-blueprint-nissan-should-stick-to",
+  "source": "The Drive",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "araba",
+  "baslik": "Kia Telluride, Sportage'ın Satış Tahtına Göz Dikti",
+  "ozet": "Üst üste altı ay rekor satış kıran Kia Telluride, markanın ABD'deki en çok satan modeli olmak üzere.",
+  "puan": 4.0,
+  "grup": "kia-telluride-sales-surge",
+  "link": "https://www.autoblog.com/news/kias-telluride-is-closing-in-on-the-sportages-u-s-sales-crown",
+  "source": "Autoblog",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "araba",
+  "baslik": "Honda Prelude İçin Hayali Type R Tasarımı",
+  "ozet": "Civic Type R parçalarının yeni hibrit coupe modeliyle birleştirilmesi, otomobil severlerin hayalindeki Prelude versiyonunu ortaya koydu.",
+  "puan": 5.5,
+  "grup": "honda-prelude-type-r-render",
+  "link": "https://www.thedrive.com/news/honda-could-do-this-prelude-type-r-build-realizes-the-coupe-everyone-wants",
+  "source": "The Drive",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mercedes 2027'de 7 Yeni Model Çıkaracak",
+  "ozet": "Mercedes, 2027 yılında V8 motorları geri getirmeyi, elektrikli araç yelpazesini genişletmeyi ve bazı tanıdık isimleri diriltmeyi planlıyor.",
+  "puan": 8.0,
+  "grup": "mercedes-seven-new-models-2027",
+  "link": "https://www.motor1.com/news/814259/new-mercedes-model-2027/",
+  "source": "Motor1",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "araba",
+  "baslik": "65 Metreden Ağaç Kesen Sekiz Tekerlekli Orman Aracı",
+  "ozet": "Sekiz tekerlekli ve 40 tonu aşan ağırlıktaki devasa orman aracı, zorlu arazilerde uzak mesafelerden ağaç kesebiliyor.",
+  "puan": 4.0,
+  "grup": "heavy-duty-logging-vehicle",
+  "link": "https://www.thedrive.com/news/this-strange-looking-logging-vehicle-cuts-down-trees-from-65-feet-away",
+  "source": "The Drive",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "araba",
+  "baslik": "Sözleşmeler İptal Edilse Bile Flock Kameraları Sökmüyor",
+  "ozet": "Belediyeler sözleşmeleri iptal etmesine rağmen Flock, güvenlik kameralarını kaldırmamakta direniyor ve polisler cihazları kendileri söküyor.",
+  "puan": 2.5,
+  "grup": "flock-surveillance-cameras-controversy",
+  "link": "https://www.jalopnik.com/2304810/flock-keeping-cameras-in-service-after-communities-cancel-contracts/",
+  "source": "Jalopnik",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "araba",
+  "baslik": "1966 Ford Mustang, 360 Beygirlik V8 ile Yenilendi",
+  "ozet": "Ford, yarış mirasını kutlamak ve meraklılara sunulan performans parçalarını sergilemek için klasik bir Mustang'i 360 beygirlik V8 motor ve beş ileri manuel şanzımanla donuttu.",
+  "puan": 7.0,
+  "grup": "ford-mustang-1966-sema-restomod",
+  "link": "https://www.autoblog.com/news/ford-gives-a-1966-mustang-a-360-hp-v8-and-five-speed-manual",
+  "source": "Autoblog",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "araba",
+  "baslik": "Dörtlü Flaşörler Ne Zaman Kullanılmalı?",
+  "ozet": "Basit bir ön panel düğmesi, diğer sürücüleri uyarmak ile onları tehlikeye atmak arasındaki farkı belirleyebilir.",
+  "puan": 2.5,
+  "grup": "hazard-lights-usage-guide",
+  "link": "https://www.motor1.com/features/814034/how-to-use-hazard-lights-correctly/",
+  "source": "Motor1",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "araba",
+  "baslik": "Lincoln, Sürüş Sırasında Boşa Atabilen 11.623 SUV'yi Geri Çağırdı",
+  "ozet": "Garip bir arıza, Lincoln'ün iki premium SUV modelinde büyük bir soruna yol açarak araçların seyir halindeyken boşa geçmesine neden oluyor.",
+  "puan": 8.0,
+  "grup": "lincoln-suv-recall-neutral-shift",
+  "link": "https://www.autoblog.com/news/lincoln-recalls-11623-suvs-that-may-shift-into-neutral-while-driving",
+  "source": "Autoblog",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "araba",
+  "baslik": "Nissan Pathfinder'a 4 İnçlik Yükseltme ve Off-Road Makyajı",
+  "ozet": "Nissan, bu yılki SEMA fuarı için Pathfinder'ı havalı bir arazi konseptine dönüştürdü ancak bu durum, Frontier tabanlı modeli daha çok istememize neden oldu.",
+  "puan": 5.0,
+  "grup": "nissan-pathfinder-jungle-patrol-concept",
+  "link": "https://www.autoblog.com/news/nissan-gives-the-pathfinder-a-4-inch-lift-and-old-school-off-road-makeover",
+  "source": "Autoblog",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ringbrothers'tan Ultimate 1965 Pontiac GTO",
+  "ozet": "Bu 1965 model Pontiac'ı daha geniş, daha güçlü ve tamamen yenilenmiş bir makineye dönüştürmek için 5.500 saatin üzerinde üretim çalışması harcandı.",
+  "puan": 7.5,
+  "grup": "ringbrothers-pontiac-gto",
+  "link": "https://www.autoblog.com/news/ringbrothers-just-made-the-ultimate-pontiac-gto",
+  "source": "Autoblog",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "araba",
+  "baslik": "SEMA'nın Gözdesi 800 Dolarlık Ford F-250",
+  "ozet": "Matt Johnson, 1985 model Ford F-250'nin orijinal şasi ve gövdesini koruyarak üzerine bir Ford Racing V8 ve yenilenmiş TTB süspansiyon ekledi.",
+  "puan": 6.5,
+  "grup": "ford-f250-raptor-restomod-sema",
+  "link": "https://www.motor1.com/news/814206/ford-f-250-sema-restomod/",
+  "source": "Motor1",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "araba",
+  "baslik": "BMW Dönemindeki İlk Alpina Yüksek Hız Testinde 300 Km/S Hıza Ulaştı",
+  "ozet": "V8 motorlu lüks sedan, 2027 yılındaki resmi tanıtımı öncesinde yüksek hız doğrulama testlerinden geçiyor.",
+  "puan": 8.5,
+  "grup": "alpina-v8-luxury-sedan-testing",
+  "link": "https://www.motor1.com/news/814203/bmw-alpina-7-series-speed-test/",
+  "source": "Motor1",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "araba",
+  "baslik": "1966 Ford Mustang Fastback, SEMA İçin Modern V8 Kalbine Kavuştu",
+  "ozet": "Ford, 1966 model bir Mustang Fastback'i 347 kübik inçlik V8, elektronik enjeksiyon ve TREMEC TKX 600 ile kullanılabilir bir restomoda dönüştürdü.",
+  "puan": 7.0,
+  "grup": "ford-mustang-1966-sema-restomod",
+  "link": "https://www.motor1.com/news/814194/ford-racing-r125-mustang-restomod/",
+  "source": "Motor1",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "f1",
+  "baslik": "Lewis Hamilton'ın İlk F1 Testinin Hikayesi",
+  "ozet": "Sao Paulo Grand Prix'si ile 400. yarışına çıkacak olan Lewis Hamilton'ın, McLaren ile yaptığı ilk F1 testinin hikayesi hatırlatılıyor.",
+  "puan": 3.0,
+  "grup": "hamilton-first-f1-test-mclaren",
+  "link": "https://www.formula1.com/en/latest/article/20-years-on-the-inside-story-of-lewis-hamiltons-first-f1-test-with-mclaren.52SbO6oNunu7mGcpWMV8U1",
+  "source": "Formula1.com",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "f1",
+  "baslik": "Sao Paulo GP'yi Kazanma Şansı En Yüksek 5 Pilot",
+  "ozet": "Bahis oranları göz önünde bulundurularak Sao Paulo Grand Prix'sinde zafer için en güçlü beş pilot analiz ediliyor.",
+  "puan": 4.0,
+  "grup": "brazil-gp-betting-guide",
+  "link": "https://www.formula1.com/en/latest/article/the-5-drivers-most-likely-to-win-the-sao-paulo-grand-prix-according-to-the-betting-markets.4bzkRPAjDqrOZ9EH6cwwoB",
+  "source": "Formula1.com",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "f1",
+  "baslik": "Rafael Camara, Haas ile Sao Paulo'da F1'e Adım Atıyor",
+  "ozet": "Rafael Camara'nın Haas takımıyla yapacağı Formula 1 debutu, Sao Paulo Grand Prix'sine öne çekildi.",
+  "puan": 8.5,
+  "grup": "haas-ocon-dropped-camara-debut",
+  "link": "https://www.formula1.com/en/latest/article/f2-racer-camara-to-make-f1-debut-at-sao-paulo-grand-prix-as-haas-confirm-ocon-will-not-return.12Qa0tpaMZ9kgnEuGJBKFp",
+  "source": "Formula1.com",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "f1",
+  "baslik": "Açık Artırmada Satılan Efsanevi F1 Pilotlarının Otomobilleri",
+  "ozet": "Ayrton Senna'nın Honda NSX'inin satışının ardından, Formula 1 efsaneleriyle bağlantılı dikkat çekici yol araçları inceleniyor.",
+  "puan": 2.0,
+  "grup": "f1-legends-auction-cars",
+  "link": "https://www.formula1.com/en/latest/article/f1-legends-cars-that-sold-at-auction-after-sennas-honda-sells-for-over-1m.5IOJyw63yjGPZ0sHACG9AP",
+  "source": "Formula1.com",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "f1",
+  "baslik": "Haas, Esteban Ocon ile Yolları Ayırdı ve Camara'yı Kadroya Aldı",
+  "ozet": "Meksika'daki gerginliğin ardından Haas, Esteban Ocon'u kadro dışı bırakarak genç pilot Rafa Camara'yı bu hafta sonu piste çıkarma kararı aldı.",
+  "puan": 8.5,
+  "grup": "haas-ocon-dropped-camara-debut",
+  "link": "https://www.autosport.com/f1/news/rafa-camara-to-debut-in-f1-brazil-gp-as-esteban-ocon-out-at-haas/10871378/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "f1",
+  "baslik": "Esteban Ocon 2026 Sezonunun Kalanında Haas'ta Yarışamayacak",
+  "ozet": "Esteban Ocon kalıcı olarak Haas'tan gönderildi ve Interlagos'ta yerini Rafa Camara alacak.",
+  "puan": 8.5,
+  "grup": "haas-ocon-dropped-camara-debut",
+  "link": "https://www.the-race.com/formula-1/haas-drops-ocon-for-rest-of-2026-f1-season/",
+  "source": "The Race",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "f1",
+  "baslik": "Haas'ta Ocon Dönemi Bitti, Rafa Camara Brezilya'da F1'e Başlıyor",
+  "ozet": "İlişkilerin bozulması ve Meksika'daki tartışma sonrasında Esteban Ocon'u biletleyen Haas, 2027 pilotu Camara'yı erken sahneye sürüyor.",
+  "puan": 8.5,
+  "grup": "haas-ocon-dropped-camara-debut",
+  "link": "https://www.motorsport.com/f1/news/camara-to-debut-in-f1-brazil-gp-as-ocon-out-at-haas/10871372/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "f1",
+  "baslik": "Toto Wolff'ten Kimi Antonelli ve Lewis Hamilton Şampiyonlukları Karşılaştırması",
+  "ozet": "Mercedes patronu Toto Wolff, Kimi Antonelli'nin şampiyonluğunu kazanmasının Lewis Hamilton döneminden ne kadar farklı hissettirdiğini açıkladı.",
+  "puan": 6.5,
+  "grup": "wolff-antonelli-vs-hamilton-title",
+  "link": "https://www.motorsport.com/f1/news/the-difference-between-kimi-antonellis-f1-title-and-lewis-hamiltons-according-to-toto-wolff/10871082/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793744504.662176
+ },
+ {
+  "cat": "f1",
+  "baslik": "Haas, Oliver Bearman'ın 2027 Sözleşmesini Neden Henüz Açıklamadı?",
+  "ozet": "Oliver Bearman'ın başarılı sezonuna ve takımda kalmasına kesin gözüyle bakılmasına rağmen 2027 sözleşmesinin neden resmiyete dökülmediği merak ediliyor.",
+  "puan": 4.5,
+  "grup": "haas-bearman-2027-contract-delay",
+  "link": "https://www.autosport.com/f1/news/why-bearman-is-yet-to-be-announced-as-a-haas-driver-for-f1-2027/10871339/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1793744504.662176
  }
 ]
