@@ -2478,5 +2478,155 @@
   "link": "https://www.racefans.net/2026/11/03/official-ocon-will-not-return-to-drive-for-haas-camara-to-take-over-in-brazil/",
   "source": "RaceFans",
   "ts": 1793759302.3859098
+ },
+ {
+  "cat": "araba",
+  "baslik": "Honda'dan Son Altı Yılın En İyi Ekim Ayı",
+  "ozet": "SUV ve hibrit modellerin desteğiyle ekim ayında satışlarını artıran Honda'da CR-V yeni bir aylık rekora imza attı.",
+  "puan": 4.5,
+  "grup": "honda-october-sales-surge",
+  "link": "https://www.motor1.com/news/814339/honda-best-october-sales-in-six-years/",
+  "source": "Motor1",
+  "ts": 1793785601.9911997
+ },
+ {
+  "cat": "araba",
+  "baslik": "Cadillac'ın F1 Takımı 3 Milyar Dolara Satışta Olabilir",
+  "ozet": "Genel Motors ve TWG Motorsports destekli Cadillac Formula 1 girişimi, artan maliyetler ve incelemelerle birlikte satış iddialarıyla karşı karşıya.",
+  "puan": 7.5,
+  "grup": "cadillac-f1-team-sale",
+  "link": "https://www.motor1.com/news/814337/cadillac-f1-3-billion-stake/",
+  "source": "Motor1",
+  "ts": 1793785601.9911997
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mercedes Ekranları Pencerelere Taşıyor",
+  "ozet": "Entegre LED'li yan camlardan holografik görüntü yansıtan ön camlara kadar otomotivde ekran çılgınlığı devam ediyor.",
+  "puan": 5.0,
+  "grup": "mercedes-window-screen-tech",
+  "link": "https://www.motor1.com/news/814327/mercedes-screens-in-windows/",
+  "source": "Motor1",
+  "ts": 1793785601.9911997
+ },
+ {
+  "cat": "araba",
+  "baslik": "BMW Çin'de 1.800 Kişiyi İşten Çıkarıyor",
+  "ozet": "Shenyang operasyonlarında Kasım itibarıyla başlayan işten çıkarmalar ve düşen satışlar 2026 kârlılığını baskılıyor.",
+  "puan": 7.0,
+  "grup": "bmw-china-job-cuts",
+  "link": "https://www.motor1.com/news/814323/bmw-china-reportedly-cutting-1/",
+  "source": "Motor1",
+  "ts": 1793785601.9911997
+ },
+ {
+  "cat": "araba",
+  "baslik": "Chevy Corvette SUV ve Sedan Modelleri İptal Edilebilir",
+  "ozet": "Genişletilmiş Corvette ailesi planları kapsamında elektrikli spor araba ile birlikte SUV ve sedan projeleri de şimdilik rafa kalktı.",
+  "puan": 6.0,
+  "grup": "chevy-corvette-suv-sedan-cancelled",
+  "link": "https://www.motor1.com/news/814318/corvette-sedan-suv-canceled-report/",
+  "source": "Motor1",
+  "ts": 1793785601.9911997
+ },
+ {
+  "cat": "araba",
+  "baslik": "Range Rover En Uygun Fiyatlı İki Modelini Kaldırıyor",
+  "ozet": "Evoque ve Velar'ın 2027'de üretimden kalkmasıyla Range Rover, üç modelden oluşan daha pahalı bir lüks ürün gamına geçecek.",
+  "puan": 6.5,
+  "grup": "evoque-velar-retire-gt-entry",
+  "link": "https://www.motor1.com/news/814319/range-rover-entry-price-set/",
+  "source": "Motor1",
+  "ts": 1793785601.9911997
+ },
+ {
+  "cat": "araba",
+  "baslik": "Üreticiler İçten Yanmalı Süresi Uzasa Bile Elektrikliye Devam Edecek",
+  "ozet": "Avrupa'da emisyon kuralları esnetilse bile otomobil üreticilerinin pazar talebi doğrultusunda elektrikli araç stratejilerini değiştirmesi beklenmiyor.",
+  "puan": 6.0,
+  "grup": "automakers-ev-push-despite-rules",
+  "link": "https://www.autocar.co.uk/opinion/technology/why-car-makers-wont-slow-ev-push-even-if-ice-age-extended",
+  "source": "Autocar",
+  "ts": 1793785601.9911997
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ford'dan 1,200 Beygirlik Arktik Kurtarma Aracı",
+  "ozet": "Megazilla 2.0 motoruna sahip Bronco Frostwarden, zorlu koşullar için tek seferlik bir Arktik kurtarma aracı olarak geliştirildi.",
+  "puan": 6.5,
+  "grup": "ford-frostwarden-bronco-megazilla",
+  "link": "https://www.motor1.com/news/814311/ford-bronco-frostwarden-arctic-rescue/",
+  "source": "Motor1",
+  "ts": 1793785601.9911997
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mahindra 2027'de İngiltere Pazarına Giriş Yapıyor",
+  "ozet": "Hindistanlı dev üretici Mahindra, Oxfordshire'da tasarlanan üç yeni elektrikli SUV modeliyle gelecek yıl İngiltere'ye açılmaya hazırlanıyor.",
+  "puan": 6.5,
+  "grup": "mahindra-uk-suv-launch",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/indias-mahindra-prepares-2027-uk-launch-bold-suv-trio",
+  "source": "Autocar",
+  "ts": 1793785601.9911997
+ },
+ {
+  "cat": "araba",
+  "baslik": "BYD Dolphin G PHEV, Renault Clio'ya Rakip Oluyor",
+  "ozet": "BYD'nin yeni ve erişilebilir plug-in hibrit süperminisi, Avrupa pazarının köklü oyuncusu Clio ile rekabet etmeye hazırlanıyor.",
+  "puan": 5.5,
+  "grup": "byd-dolphin-phev-clio-rival",
+  "link": "https://www.autocar.co.uk/car-news/features/can-byd-beat-renault-%C2%A326k-dolphin-g-phev-takes-clio",
+  "source": "Autocar",
+  "ts": 1793785601.9911997
+ },
+ {
+  "cat": "araba",
+  "baslik": "Honda ABD İçin Daha Sportif Bir Civic Type R Geliştiriyor",
+  "ozet": "Kamuflajlı konsept üzerinden şekillenen HRC imzalı yeni Civic Type R'ın daha agresif aero parçalara ve gelişmiş soğutmaya sahip olması bekleniyor.",
+  "puan": 7.0,
+  "grup": "honda-civic-type-r-hrc-us",
+  "link": "https://www.jalopnik.com/2305761/honda-racier-civic-type-r-u-s/",
+  "source": "Jalopnik",
+  "ts": 1793785601.9911997
+ },
+ {
+  "cat": "f1",
+  "baslik": "Toto Wolff'ten Mercedes'teki Geleceği Hakkında Açıklama",
+  "ozet": "Kimi Antonelli'nin tarihi şampiyonluğunun ardından Toto Wolff, Mercedes'teki uzun vadeli geleceğini ve takımın başında kalma süresini değerlendirdi.",
+  "puan": 6.5,
+  "grup": "toto-wolff-mercedes-future",
+  "link": "https://www.motorsport.com/f1/news/toto-wolff-addresses-mercedes-future-dont-plan-to-call-it-a-day/10871261/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793785601.9911997
+ },
+ {
+  "cat": "f1",
+  "baslik": "Haas'ta Ocon Ayrılığı ve Camara'nın Çıkışı",
+  "ozet": "Esteban Ocon'un Haas F1 takımıyla yollarını kalıcı olarak ayırması ve Rafael Camara'nın takımdaki ilk çıkışı değerlendirildi.",
+  "puan": 7.0,
+  "grup": "haas-ocon-dropped-camara-debut",
+  "link": "https://www.the-race.com/formula-1/esteban-ocon-permanent-haas-f1-exit-rafael-camara-debut-our-verdict/",
+  "source": "The Race",
+  "ts": 1793785601.9911997
+ },
+ {
+  "cat": "f1",
+  "baslik": "Meksika GP İstatistikleri ve Hirakawa'nın Başarısı",
+  "ozet": "Meksika Grand Prix'sinde Ryo Hirakawa tek yarışlık startta dünya şampiyonası puanı alan altıncı isim olurken, Lando Norris'in unvanı sona erdi.",
+  "puan": 5.5,
+  "grup": "mexico-gp-antonelli-stats",
+  "link": "https://www.racefans.net/2026/11/04/mexican-gp-stats-norris-has-third-shortest-reign-as-world-champion/",
+  "source": "RaceFans",
+  "ts": 1793785601.9911997
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ferrari'nin Motor Zayıflığı Vasseur'ün Başarısını Gölgeliyor",
+  "ozet": "Ferrari'nin yaşadığı büyük motor dezavantajı, Fred Vasseur'ün dönemindeki gerçek başarıları ve zaferleri gölgede bırakıyor.",
+  "puan": 5.0,
+  "grup": "ferrari-engine-weakness-vasseur",
+  "link": "https://www.the-race.com/formula-1/why-ferrari-engine-weakness-hides-vasseurs-biggest-success/",
+  "source": "The Race",
+  "ts": 1793785601.9911997
  }
 ]
