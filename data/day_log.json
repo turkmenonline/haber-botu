@@ -1,206 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Jeep Wrangler Scrambler SRT Konsepti Tanıtıldı",
-  "ozet": "Klasik CJ-8 Scrambler modelinden ilham alan Jeep Wrangler Scrambler SRT Konsepti, bağımsız ön süspansiyon ve Trophy Truck tarzı arka aksla görücüye çıktı.",
-  "puan": 7.0,
-  "grup": "jeep-wrangler-scrambler-srt-concept",
-  "link": "https://www.caranddriver.com/news/a74314455/jeep-wrangler-scrambler-srt-concept-revealed/",
-  "source": "Car and Driver",
-  "ts": 1793670745.740233
- },
- {
-  "cat": "araba",
-  "baslik": "Jeep Wrangler Scrambler SRT Konsepti Tüm Detaylarıyla",
-  "ozet": "Klasik Jeep CJ-8 Scrambler'ın modern yorumu olan yeni konseptin dış ve iç mekan fotoğrafları paylaşıldı.",
-  "puan": 6.5,
-  "grup": "jeep-wrangler-scrambler-srt-concept",
-  "link": "https://www.caranddriver.com/photos/a74316800/jeep-wrangler-scrambler-srt-concept-revealed-gallery/",
-  "source": "Car and Driver",
-  "ts": 1793670745.740233
- },
- {
-  "cat": "araba",
-  "baslik": "Nissan Armada Jungle Patrol SEMA İçin Hazırlandı",
-  "ozet": "Nissan Armada, SEMA fuarı için geleneksel çatısını ve lüks detaylarını bir kenara bırakarak tübüler kafes ve safari odaklı bir iç mekana kavuştu.",
-  "puan": 6.0,
-  "grup": "nissan-armada-jungle-patrol-concept",
-  "link": "https://www.autoblog.com/news/nissan-armada-jungle-patrol-ditches-roof-and-luxury-for-serious-off-roading",
-  "source": "Autoblog",
-  "ts": 1793670745.740233
- },
- {
-  "cat": "araba",
-  "baslik": "Ferrari'nin Formula 1'den Ayrılmanın Eşiğinden Döndüğü Hikaye",
-  "ozet": "Ferrari Mondial tabanlı bu 1 milyon dolarlık pace car, markanın F1'den ayrılma eşiğinde olduğu dönemi ve 348 için geliştirilen V8 motorun hikayesini anlatıyor.",
-  "puan": 7.5,
-  "grup": "ferrari-mondial-pace-car-f1-history",
-  "link": "https://www.autoblog.com/news/ferrari-almost-quit-formula-1-and-this-1-million-pace-car-tells-the-story",
-  "source": "Autoblog",
-  "ts": 1793670745.740233
- },
- {
-  "cat": "araba",
-  "baslik": "2027 Harley-Davidson Sprint 440 Duyuruldu",
-  "ozet": "Harley-Davidson'ın yeni başlangıç seviyesi motosikleti, klasik ismi ve tek silindirli formülünü günümüze taşıyor.",
-  "puan": 5.5,
-  "grup": "harley-davidson-sprint-440",
-  "link": "https://www.caranddriver.com/news/a74315777/2027-harley-davidson-sprint-440-revealed/",
-  "source": "Car and Driver",
-  "ts": 1793670745.740233
- },
- {
-  "cat": "araba",
-  "baslik": "Doug DeMuro'nun Gizli Yeraltı Garajı",
-  "ozet": "Doug DeMuro'nun penceresiz, üç katlı yeraltı Cars and Bids garajı; araç asansörü, nadir klasikleri ve yarış simülatörüyle görüntülendi.",
-  "puan": 3.0,
-  "grup": "doug-demuro-underground-car-garage",
-  "link": "https://www.autoblog.com/news/inside-doug-demuros-secret-underground-car-garage",
-  "source": "Autoblog",
-  "ts": 1793670745.740233
- },
- {
-  "cat": "araba",
-  "baslik": "Deri Koltuklar Neden Çatlar?",
-  "ozet": "Düzenli hafif temizlik ve üç aylık bakım döngüleri, araba deri koltuklarının esnek kalmasını sağlayarak aşınmaya meyilli bölgelerde çatlamayı önler.",
-  "puan": 2.5,
-  "grup": "car-leather-seat-care-guide",
-  "link": "https://www.motor1.com/features/814124/car-leather-seat-care-tips/",
-  "source": "Motor1",
-  "ts": 1793670745.740233
- },
- {
-  "cat": "araba",
-  "baslik": "Neden Bir Mazda Miata Almalısınız?",
-  "ozet": "Yeni bir Mazda Miata satın almak, sosyal hayatınızı canlandırmanın ve sürüş keyfi yaşamanın en eğlenceli yollarından biri olarak öne çıkıyor.",
-  "puan": 2.0,
-  "grup": "why-buy-a-mazda-miata",
-  "link": "https://www.jalopnik.com/2303119/buy-a-new-mazda-miata-you-will-not-regret-it/",
-  "source": "Jalopnik",
-  "ts": 1793670745.740233
- },
- {
-  "cat": "araba",
-  "baslik": "McLaren'in Manuel V8 McL 6GT Modeli Çıktı",
-  "ozet": "Manuel şanzımanlı McLaren McL 6GT, Las Vegas'ta düzenlenen etkinlikte küresel kamuoyuna tanıtılarak 2028'de gelecek özel süper otomobilin sinyalini verdi.",
-  "puan": 8.5,
-  "grup": "mclaren-manual-v8-mcl-6gt",
-  "link": "https://www.autoblog.com/news/mclarens-manual-v8-mcl-6gt-makes-its-public-debut-in-las-vegas",
-  "source": "Autoblog",
-  "ts": 1793670745.740233
- },
- {
-  "cat": "araba",
-  "baslik": "Ringbrothers'tan 650 Beygirlik Pontiac GTO Projesi",
-  "ozet": "Ringbrothers, eski bir Pontiac Tempest'i 5.500 saatten fazla çalışarak 650 beygirlik geniş gövdeli bir GTO'ya dönüştürdü.",
-  "puan": 6.5,
-  "grup": "ringbrothers-pontiac-gto",
-  "link": "https://www.motor1.com/news/814130/ringbrothers-pontiac-gto-sema-show-build/",
-  "source": "Motor1",
-  "ts": 1793670745.740233
- },
- {
-  "cat": "araba",
-  "baslik": "Yeni Harley-Davidson Sprint 440 Beklentileri Karşılıyor mu?",
-  "ozet": "Pratik tek silindirli yapısı ve başlangıç seviyesindeki fiyatıyla yeni Sprint 440, markanın yeni sürücüler çekmesi için doğru bir adım.",
-  "puan": 5.0,
-  "grup": "harley-davidson-sprint-440",
-  "link": "https://www.jalopnik.com/2304671/harley-davidson-sprint-440/",
-  "source": "Jalopnik",
-  "ts": 1793670745.740233
- },
- {
-  "cat": "araba",
-  "baslik": "Florida'da Düşen Jet Kazasında 9 Kişi Hayatını Kaybetti",
-  "ozet": "Dakikada 20.000 feet hızla düşerek Florida'da çakılan jetin kazasında 9 kişi yaşamını yitirirken, görgü tanıkları patlama sesi duyduklarını belirtti.",
-  "puan": 4.0,
-  "grup": "florida-jet-crash-accident",
-  "link": "https://www.jalopnik.com/2304645/fiery-jet-crash-florida-kills-9/",
-  "source": "Jalopnik",
-  "ts": 1793670745.740233
- },
- {
-  "cat": "araba",
-  "baslik": "1985 Ford F-250 Restomod SEMA'da Sergilendi",
-  "ozet": "Matt Johnson'ın Ford Performance destekli Raptor ilhamlı 1985 F-250 projesi, bu yılki SEMA fuarında Ford standında yerini aldı.",
-  "puan": 6.0,
-  "grup": "ford-f250-raptor-restomod-sema",
-  "link": "https://www.caranddriver.com/news/a74314548/1985-ford-f-250-raptor-sema/",
-  "source": "Car and Driver",
-  "ts": 1793670745.740233
- },
- {
-  "cat": "araba",
-  "baslik": "Orijinal Tesla Roadster Fiyatları: 2008 vs. Bugün",
-  "ozet": "Lotus Elise tabanlı ilk Tesla Roadster 2008'de altı haneli fiyat etiketiyle satılırken, günümüzdeki ikinci el piyasa değeri merak konusu oluyor.",
-  "puan": 4.5,
-  "grup": "original-tesla-roadster-value",
-  "link": "https://www.jalopnik.com/2299446/what-tesla-roadster-cost-2008-vs-today/",
-  "source": "Jalopnik",
-  "ts": 1793670745.740233
- },
- {
-  "cat": "araba",
-  "baslik": "Yamaha Katar'daki MotoGP Yarışını Boykot Ediyor",
-  "ozet": "MotoGP'nin ceza tehditlerine rağmen Katar'da yarışmayı reddeden Yamaha'da, sürücüler de ülkeye seyahat etmek istemediklerini dile getiriyor.",
-  "puan": 7.0,
-  "grup": "yamaha-motogp-qatar-boycott",
-  "link": "https://www.jalopnik.com/2304624/yamaha-refuses-to-race-in-qatar-motogp-despite-penalty-threats/",
-  "source": "Jalopnik",
-  "ts": 1793670745.740233
- },
- {
-  "cat": "araba",
-  "baslik": "BYD'nin 3 Milyon Dolarlık Hiper Otomobili Kaza Yaptı",
-  "ozet": "2.977 beygir gücündeki Yangwang U9 Xtreme, Çin'deki yüksek hız testleri sırasında ağır hasar aldı.",
-  "puan": 8.0,
-  "grup": "byd-yangwang-u9-xtreme-crash",
-  "link": "https://www.motor1.com/news/814129/byd-hypercar-crashes-video/",
-  "source": "Motor1",
-  "ts": 1793670745.740233
- },
- {
-  "cat": "f1",
-  "baslik": "Antonelli'nin Rekoru ve 2027 Bahisleri",
-  "ozet": "Kimi Antonelli Meksika'da F1'in en genç dünya şampiyonu olurken, bahis piyasaları şimdiden 2027 sezonu için farklı bir senaryo öngörüyor.",
-  "puan": 8.5,
-  "grup": "mexico-gp-antonelli-champion-verstappen-win",
-  "link": "https://www.formula1.com/en/latest/article/max-verstappen-named-early-favourite-for-2027-title-despite-kimi-antonellis-record-breaking-season.2f4lCLl3YobQIzZd6CEiCu",
-  "source": "Formula1.com",
-  "ts": 1793670745.740233
- },
- {
-  "cat": "f1",
-  "baslik": "Lewis Hamilton ve Peter Bonnington Duygusal Anı",
-  "ozet": "Meksika Grand Prix'si sonrasında eski yarış mühendisi Peter Bonnington'ı tebrik eden Lewis Hamilton'ın duygusal anları sosyal medyada viral oldu.",
-  "puan": 2.5,
-  "grup": "mexico-gp-hamilton-leclerc-feud",
-  "link": "https://www.motorsport.com/f1/news/lewis-hamilton-goes-viral-after-emotional-moment-with-peter-bonnington-in-mexico/10871136/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793670745.740233
- },
- {
-  "cat": "f1",
-  "baslik": "George Russell: 2026'da Kötü Günler Çoğunluktaydı",
-  "ozet": "George Russell, 2026 sezonunda performansını yeniden yakalamak zorunda olduğunu ve bu yıl beklediğinden çok daha fazla zorluk yaşadığını belirtti.",
-  "puan": 4.5,
-  "grup": "george-russell-2026-struggles",
-  "link": "https://www.racefans.net/2026/11/02/social-media-russell-vows-to-rediscover-his-performance-after-more-bad-days-than-good-in-2026/",
-  "source": "RaceFans",
-  "ts": 1793670745.740233
- },
- {
-  "cat": "f1",
-  "baslik": "Russell'dan Antonelli'nin Şampiyonluğu Sonrası Mesaj",
-  "ozet": "Takım arkadaşı Kimi Antonelli'nin şampiyonluğu sonrasında medya görevlerini atlayan George Russell, 2026 yılının kendisi için olmadığını belirten içten bir mesaj paylaştı.",
-  "puan": 5.0,
-  "grup": "george-russell-antonelli-title-message",
-  "link": "https://www.motorsport.com/f1/news/george-russell-breaks-silence-with-heartfelt-message-after-kimi-antonellis-f1-title-win/10871112/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793670745.740233
- },
- {
-  "cat": "araba",
   "baslik": "Tesla Optimus Robot Siparisleri Gündemde",
   "ozet": "Tek bir analist raporu ve belirsiz 2027 hedefi, Tesla'nın insansı robotu Optimus için siparişlerin durumunu belirsiz bırakıyor.",
   "puan": 5.5,
@@ -2508,5 +2308,95 @@
   "link": "https://www.motorsport.com/f1/news/liam-lawsons-remarkable-form-is-giving-red-bull-a-headache-for-2027/10871541/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1793832688.0570774
+ },
+ {
+  "cat": "araba",
+  "baslik": "Modern Farlar Neden Binlerce Dolara Mal Oluyor?",
+  "ozet": "Modern farların karmaşık teknolojileri ve tasarımları, basit bir değişimi bile binlerce dolarlık maliyetli bir kabusa dönüştürebiliyor.",
+  "puan": 5.0,
+  "grup": "modern-headlight-replacement-cost",
+  "link": "https://www.motor1.com/features/814393/why-replacing-a-headlight-can-cost-thousands-of-dollars/",
+  "source": "Motor1",
+  "ts": 1793847283.4089534
+ },
+ {
+  "cat": "araba",
+  "baslik": "NASA'nın Swift Uzay Teleskobu Atmosfere Girdi",
+  "ozet": "NASA'nın Swift Uzay Teleskobu, beklenenden beş kat daha yüksek yaralanma riskiyle atmosfere yeniden giriş yaptı.",
+  "puan": 2.0,
+  "grup": "nasa-swift-space-telescope-reentry",
+  "link": "https://www.jalopnik.com/2307383/nasa-swift-space-telescope-re-enters-atmosphere-five-times-more-risk/",
+  "source": "Jalopnik",
+  "ts": 1793847283.4089534
+ },
+ {
+  "cat": "araba",
+  "baslik": "Otomotiv Üreticileri Çinli Araçların Yasaklanmasını İstiyor",
+  "ozet": "Otomotiv endüstrisi, Çin yapımı araçlara yönelik kısıtlamaların kalıcı hale getirilmesi için Kongre'ye çağrıda bulunuyor.",
+  "puan": 8.0,
+  "grup": "automakers-want-chinese-cars-banned",
+  "link": "https://www.motor1.com/news/814446/automakers-chinese-cars-permanent-ban/",
+  "source": "Motor1",
+  "ts": 1793847283.4089534
+ },
+ {
+  "cat": "f1",
+  "baslik": "Max Verstappen'den Brezilya GP'ye Özel Kask",
+  "ozet": "Red Bull pilotu Max Verstappen, Sao Paulo Grand Prix'si için Brezilya bayrağının renklerini taşıyan özel bir kask tasarımı tanıttı.",
+  "puan": 3.0,
+  "grup": "brazil-gp-verstappen-helmet",
+  "link": "https://www.motorsport.com/f1/news/max-verstappen-brings-some-samba-to-sao-paulo-with-brazil-themed-f1-helmet/10871580/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793847283.4089534
+ },
+ {
+  "cat": "f1",
+  "baslik": "Kimi Antonelli'den Ayrton Senna'ya Vefa Kaskı",
+  "ozet": "2026 dünya şampiyonu Kimi Antonelli, Brezilya Grand Prix'sinde kahramanı Ayrton Senna'yı onurlandırmak için özel bir kask giyecek.",
+  "puan": 3.0,
+  "grup": "brazilian-gp-antonelli-senna-helmet",
+  "link": "https://www.motorsport.com/f1/news/kimi-antonelli-to-honour-ayrton-senna-with-special-helmet-at-brazilian-gp/10871582/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793847283.4089534
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli'den Unutulmaz Senna Anısı",
+  "ozet": "2026 şampiyonu Kimi Antonelli, Meksika'daki zaferinin ardından Brezilya GP öncesinde Ayrton Senna'nın ailesinin evini ziyaret ederek ikonik Lotus 98T'nin kokpitine oturdu.",
+  "puan": 3.5,
+  "grup": "brazilian-gp-antonelli-senna-helmet",
+  "link": "https://www.motorsport.com/f1/news/kimi-antonelli-shares-unforgettable-ayrton-senna-moment-after-f1-title-win/10871578/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793847283.4089534
+ },
+ {
+  "cat": "f1",
+  "baslik": "Mercedes'ten Brezilya GP'ye Özel Mor Tulumlar",
+  "ozet": "Mercedes, Sao Paulo Grand Prix'sinde Nubank ortaklığı kapsamında geleneksel renkleri yerine mor renkli yarış tulumlarıyla mücadele edecek.",
+  "puan": 3.0,
+  "grup": "mercedes-brazil-purple-suits",
+  "link": "https://www.motorsport.com/f1/news/mercedes-to-race-in-new-suits-at-brazil-gp-in-nod-to-legendary-era/10871575/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793847283.4089534
+ },
+ {
+  "cat": "f1",
+  "baslik": "Laurent Mekies: Leclerc'in Cezası Hafifti",
+  "ozet": "Ferrari yarış direktörü Laurent Mekies, Meksika GP'de Charles Leclerc ile Lewis Hamilton arasında yaşanan temas sonrası verilen cezayı hafif bulduğunu belirtti.",
+  "puan": 5.0,
+  "grup": "mexico-gp-hamilton-leclerc-feud",
+  "link": "https://www.motorsport.com/f1/news/laurent-mekies-charles-leclercs-penalty-felt-a-bit-light/10871284/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793847283.4089534
+ },
+ {
+  "cat": "f1",
+  "baslik": "Lando Norris'ten F1 Hız Sınırı Eleştirisi",
+  "ozet": "McLaren pilotu Lando Norris, mevcut teknik regülasyonlar ve hız sınırlamaları nedeniyle F1 araçlarının motosikletlerden bile yavaş kaldığını belirterek duruma tepki gösterdi.",
+  "puan": 4.5,
+  "grup": "lando-norris-f1-top-speed-criticism",
+  "link": "https://www.motorsport.com/f1/news/lando-norris-blasts-f1-top-speed-limiters-we-should-easily-go-quicker-than-a-motorbike/10871276/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793847283.4089534
  }
 ]
