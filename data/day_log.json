@@ -1,206 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Tesla Optimus Robot Siparisleri Gündemde",
-  "ozet": "Tek bir analist raporu ve belirsiz 2027 hedefi, Tesla'nın insansı robotu Optimus için siparişlerin durumunu belirsiz bırakıyor.",
-  "puan": 5.5,
-  "grup": "tesla-optimus-robot-orders",
-  "link": "https://www.motor1.com/news/814187/tesla-optimus-reservation-confusion-explained/",
-  "source": "Motor1",
-  "ts": 1793697969.3643036
- },
- {
-  "cat": "araba",
-  "baslik": "Mercedes-AMG CLE Nürburgring Turunda",
-  "ozet": "Güçlü V8 sesine sahip prototip Mercedes-AMG CLE, Nürburgring pistinde test edilirken görüntülendi.",
-  "puan": 7.0,
-  "grup": "mercedes-amg-cle-nurburgring",
-  "link": "https://www.motor1.com/news/814180/mercedes-amg-ultimate-cle-video/",
-  "source": "Motor1",
-  "ts": 1793697969.3643036
- },
- {
-  "cat": "araba",
-  "baslik": "28 Yıl Sonra Bulunan Nissan 300ZX Hayata Dönüyor",
-  "ozet": "Bir ahırda 28 yıl yatan 1990 model Nissan 300ZX, kozmetik yenilemenin ardından yakıt ve ateşleme onarımları bekliyor.",
-  "puan": 4.0,
-  "grup": "nissan-300zx-barn-find",
-  "link": "https://www.motor1.com/news/814177/1990-nissan-300zx-barn-find/",
-  "source": "Motor1",
-  "ts": 1793697969.3643036
- },
- {
-  "cat": "araba",
-  "baslik": "Kia Sürücü Odaklı Otomobil Eksikliğinden Şikayetçi",
-  "ozet": "Kia yetkilileri piyasadaki saf sürücü otomobili eksikliğinden duydukları memnuniyetsizliği dile getirdi.",
-  "puan": 4.5,
-  "grup": "kia-dissatisfied-drivers-cars",
-  "link": "https://www.motor1.com/news/814171/kia-greatly-dissatisfied-lack-drivers-cars/",
-  "source": "Motor1",
-  "ts": 1793697969.3643036
- },
- {
-  "cat": "araba",
-  "baslik": "Su Altında Çalışabilen Yeni Horse Benzinli Motor",
-  "ozet": "Horse tarafından geliştirilen yeni nesil motor teknolojisi, su enjeksiyonu ve off-road performansıyla dikkat çekiyor.",
-  "puan": 7.5,
-  "grup": "horse-petrol-engine-water",
-  "link": "https://www.autocar.co.uk/car-news/technology/new-horse-petrol-engine-can-run-underwater",
-  "source": "Autocar",
-  "ts": 1793697969.3643036
- },
- {
-  "cat": "araba",
-  "baslik": "BMW'den 2027'de Gelecek Yeni Sürüş Asistanı",
-  "ozet": "BMW'nin City Assistant güncellemesi, şehir içi karmaşık manevraları yönetmek için yeni harita ve kamera teknolojilerini hedefliyor.",
-  "puan": 6.5,
-  "grup": "bmw-city-assistant-tech",
-  "link": "https://www.motor1.com/news/814170/bmw-brings-level-2-city/",
-  "source": "Motor1",
-  "ts": 1793697969.3643036
- },
- {
-  "cat": "araba",
-  "baslik": "BMW'den Sıkıcı Otomobillere 90'lar Göndermesi",
-  "ozet": "BMW, 1990'ların Toyota modellerini andıran yapay zeka destekli bir konseptle sıkıcı tasarımları eleştirdi.",
-  "puan": 4.5,
-  "grup": "bmw-90s-ai-car-boring",
-  "link": "https://www.motor1.com/news/814159/bmw-calls-out-1990s-car-boring/",
-  "source": "Motor1",
-  "ts": 1793697969.3643036
- },
- {
-  "cat": "araba",
-  "baslik": "MG IM5 ve Tesla Model 3 Karşılaştırması",
-  "ozet": "MG'nin yeni elektrikli spor sedanı IM5, Amerikan rakibi Tesla Model 3 ile karşı karşıya geldi.",
-  "puan": 5.5,
-  "grup": "mg-im5-vs-tesla-model-3",
-  "link": "https://www.autocar.co.uk/car-news/features/im5-vs-model-3-how-does-mgs-tesla-compare-real-thing",
-  "source": "Autocar",
-  "ts": 1793697969.3643036
- },
- {
-  "cat": "araba",
-  "baslik": "Yeni Jeep Wrangler Scrambler SRT Tanıtıldı",
-  "ozet": "V8 motorlu Jeep Wrangler Scrambler SRT konsepti, bağımsız süspansiyonu ve çöl performansı ile öne çıkıyor.",
-  "puan": 8.0,
-  "grup": "jeep-wrangler-scrambler-srt-concept",
-  "link": "https://www.motor1.com/news/814161/jeep-wrangler-scrambler-srt-concept/",
-  "source": "Motor1",
-  "ts": 1793697969.3643036
- },
- {
-  "cat": "araba",
-  "baslik": "Range Rover Evoque ve Velar Tarihe Karışıyor",
-  "ozet": "JLR, 2027 sonrasında Evoque ve Velar modellerini yenilemeyerek giriş seviyesini GT modeline bırakmaya hazırlanıyor.",
-  "puan": 7.0,
-  "grup": "evoque-velar-retire-gt-entry",
-  "link": "https://www.autocar.co.uk/car-news/new-cars/evoque-and-velar-retire-%C2%A390k-gt-becomes-entry-range-rover",
-  "source": "Autocar",
-  "ts": 1793697969.3643036
- },
- {
-  "cat": "araba",
-  "baslik": "Elektrikli Araç Benimsenmesi İçin Tavsiye",
-  "ozet": "Daha fazla insanın elektrikli araca geçmesi için mevcut EV sahiplerinin araçlarını arkadaşlarıyla paylaşması öneriliyor.",
-  "puan": 3.0,
-  "grup": "ev-owners-lend-cars-study",
-  "link": "https://www.jalopnik.com/2304398/ev-owners-should-lend-out-their-cars/",
-  "source": "Jalopnik",
-  "ts": 1793697969.3643036
- },
- {
-  "cat": "araba",
-  "baslik": "Turtle Wax'tan Dağınık Araçlar ve Flört Araştırması",
-  "ozet": "Turtle Wax'ın yaptığı araştırma, kirli ve dağınık otomobillerin insanların flört hayatını olumsuz etkilediğini iddia ediyor.",
-  "puan": 2.0,
-  "grup": "turtle-wax-messy-cars-dating",
-  "link": "https://www.jalopnik.com/2299452/survey-shows-messy-car-actually-means-worse-love-life/",
-  "source": "Jalopnik",
-  "ts": 1793697969.3643036
- },
- {
-  "cat": "araba",
-  "baslik": "Dodge NASCAR'a Geri Dönüyor",
-  "ozet": "Dodge, 2027 sezonundan itibaren NASCAR Cup Series yarışlarına resmi olarak geri döneceğini duyurdu.",
-  "puan": 7.5,
-  "grup": "dodge-return-to-nascar",
-  "link": "https://www.motor1.com/news/814146/dodge-returns-to-nascar-cup-series-2027/",
-  "source": "Motor1",
-  "ts": 1793697969.3643036
- },
- {
-  "cat": "araba",
-  "baslik": "Jeep Wrangler Scrambler SRT Detayları",
-  "ozet": "V8 motorlu ve bağımsız süspansiyonlu Jeep Wrangler Scrambler SRT konsepti Stellantis planlarında yer alıyor.",
-  "puan": 8.0,
-  "grup": "jeep-wrangler-scrambler-srt-concept",
-  "link": "https://www.thedrive.com/news/this-is-the-jeep-wrangler-scrambler-srt-with-reversible-jump-seats-a-v8-and-37-inch-tires",
-  "source": "The Drive",
-  "ts": 1793697969.3643036
- },
- {
-  "cat": "araba",
-  "baslik": "Modern Otomobillerde Pas Koruma Gerekli mi?",
-  "ozet": "Fabrika çıkışlı korumalar gelişse de, tuz ve nem gibi faktörler nedeniyle modern araçlarda pas korumasının yeri inceleniyor.",
-  "puan": 3.5,
-  "grup": "modern-car-rustproofing-worth-it",
-  "link": "https://www.motor1.com/features/813721/is-rustproofing-worth-it-for-modern-cars/",
-  "source": "Motor1",
-  "ts": 1793697969.3643036
- },
- {
-  "cat": "f1",
-  "baslik": "Sao Paulo GP Bahis Rehberi ve Oranları",
-  "ozet": "Uzmanlar, Interlagos'taki yarış tahminleriniz için en önemli bahis bilgilerini ve güncel oranları derledi.",
-  "puan": 2.0,
-  "grup": "brazil-gp-betting-guide",
-  "link": "https://www.formula1.com/en/latest/article/sao-paulo-grand-prix-race-betting-guide-and-what-the-markets-expect-to-happen.3R5CCxfCtap5Fnb1hsQIhr",
-  "source": "Formula1.com",
-  "ts": 1793697969.3643036
- },
- {
-  "cat": "f1",
-  "baslik": "2026 Brezilya Grand Prix Hafta Sonu Programı",
-  "ozet": "Formula 1 takviminin sıradaki yarışı olan 2026 Brezilya Grand Prix'sinin (Sao Paulo GP) tüm seans saatleri açıklandı.",
-  "puan": 3.5,
-  "grup": "brazil-gp-weekend-schedule",
-  "link": "https://www.the-race.com/formula-1/what-time-is-f1s-2026-brazilian-grand-prix-full-weekend-schedule/",
-  "source": "The Race",
-  "ts": 1793697969.3643036
- },
- {
-  "cat": "f1",
-  "baslik": "Hamilton'dan Meksika GP'sindeki Hız Sınırına Eleştiri",
-  "ozet": "Lewis Hamilton, 2026 regülasyonlarındaki tuhaflıkların Meksika Grand Prix'sinde geçişleri engellediğini belirterek durumu 'aptalca' olarak nitelendirdi.",
-  "puan": 5.0,
-  "grup": "mexico-gp-speed-limit-criticism",
-  "link": "https://www.the-race.com/formula-1/the-stupid-speed-limit-that-neutered-mexican-gp-explained/",
-  "source": "The Race",
-  "ts": 1793697969.3643036
- },
- {
-  "cat": "f1",
-  "baslik": "Leclerc ve Vasseur'den Meksika GP Temas Açıklaması",
-  "ozet": "Charles Leclerc Meksika'daki kazanın pist düzeninden kaynaklandığını söylerken, takım patronu Fred Vasseur bu görüşe katılmadı.",
-  "puan": 6.5,
-  "grup": "mexico-gp-hamilton-leclerc-feud",
-  "link": "https://www.motorsport.com/f1/news/charles-leclerc-blames-mexico-gp-clash-on-track-layout-fred-vasseur-disagrees/10871092/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793697969.3643036
- },
- {
-  "cat": "f1",
-  "baslik": "Antonelli: 'Şüpheciler Şampiyonluk Ateşimi Hırslandırdı'",
-  "ozet": "Yeni dünya şampiyonu Andrea Kimi Antonelli, Formula 1 için hazır olmadığını söyleyenlerin kendisini daha da hırslandırdığını belirtti.",
-  "puan": 6.0,
-  "grup": "antonelli-mexico-title-tension",
-  "link": "https://www.racefans.net/2026/11/03/antonelli-says-doubters-added-fuel-to-the-fire-in-his-world-championship-pursuit/",
-  "source": "RaceFans",
-  "ts": 1793697969.3643036
- },
- {
-  "cat": "araba",
   "baslik": "90'ların Gizemli Avusturya Markası",
   "ozet": "1990'larda Avusturya'da kurulan küçük bir otomobil şirketi, Ford, Mercury, Saturn ve Dodge modellerini hafifçe yenileyerek kendi ürün gamını oluşturmuştu.",
   "puan": 2.5,
@@ -2398,5 +2198,325 @@
   "link": "https://www.motorsport.com/f1/news/lando-norris-blasts-f1-top-speed-limiters-we-should-easily-go-quicker-than-a-motorbike/10871276/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1793847283.4089534
+ },
+ {
+  "cat": "araba",
+  "baslik": "Hasarlı Corvette Z06 Restorasyonu",
+  "ozet": "Bir tamirci, ağır hasar kayıtlı 2025 model Corvette Z06'yı satın alarak kapsamlı bir restorasyon sürecine başladı.",
+  "puan": 4.5,
+  "grup": "corvette-z06-restoration-project",
+  "link": "https://www.motor1.com/news/814495/burned-2025-corvette-z06-bought/",
+  "source": "Motor1",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "araba",
+  "baslik": "Dodge'dan 1025 Beygirlik Hellephant Motoru",
+  "ozet": "Dodge, yüksek performanslı Hemi crate motor paketlerini garantili ve uyumlu elektronik sistemlerle satışa sunuyor.",
+  "puan": 7.5,
+  "grup": "dodge-hemi-v8-crate-engines",
+  "link": "https://www.motor1.com/news/814491/direct-connection-hemi-crate-engines/",
+  "source": "Motor1",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "araba",
+  "baslik": "Ferrari Luce İçin Bekleme Süresi Uzadı",
+  "ozet": "Ferrari'nin ilk elektrikli modeli Luce, henüz müşterilere ulaşmadan 2027 sonuna kadar tükendi.",
+  "puan": 8.5,
+  "grup": "ferrari-luce-sold-out",
+  "link": "https://www.motor1.com/news/814487/ferrari-luce-sold-out-through-2027/",
+  "source": "Motor1",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Mercedes-AMG GT 4-Kapı İç Mekan Detayları",
+  "ozet": "Yeni Mercedes-AMG GT 4-Kapı modelinin iç mekan tasarımı detaylı fotoğraflarla gün yüzüne çıktı.",
+  "puan": 5.0,
+  "grup": "mercedes-amg-gt-4-door-2027",
+  "link": "https://www.caranddriver.com/photos/a74334477/2027-mercedes-amg-gt-4-door-ev-drive-interior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mercedes-AMG GT 4-Kapı Test Sürüşü",
+  "ozet": "Formula 1 batarya teknolojisiyle donatılan elektrikli Mercedes-AMG GT 55 ve 63 modelleri sürüş testine çıktı.",
+  "puan": 6.5,
+  "grup": "mercedes-amg-gt-4-door-2027",
+  "link": "https://www.caranddriver.com/reviews/a74335359/2027-mercedes-amg-gt-4-door-ev-drive/",
+  "source": "Car and Driver",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Mercedes-AMG GT 4-Kapı Dış Tasarımı",
+  "ozet": "Yeni elektrikli Mercedes-AMG GT 4-Kapı modelinin dış tasarım detayları görsellerle paylaşıldı.",
+  "puan": 5.0,
+  "grup": "mercedes-amg-gt-4-door-2027",
+  "link": "https://www.caranddriver.com/photos/a74333928/2027-mercedes-amg-gt-4-door-ev-drive-exterior-gallery/",
+  "source": "Car and Driver",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "araba",
+  "baslik": "Elektrikli Mercedes-AMG GT 63 İncelemesi",
+  "ozet": "1169 beygirlik elektrikli AMG GT, sunduğu sürüş dinamikleriyle V8 motorlu seleflerini aratmıyor.",
+  "puan": 7.0,
+  "grup": "mercedes-amg-gt-4-door-2027",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/mercedes-amg-gt-63-ev-%C2%A3160k-hyper-saloon-makes-v8",
+  "source": "Autocar",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Mercedes-AMG GT 4-Kapı Deneyimi",
+  "ozet": "Elektrikli Mercedes-AMG GT 4-Kapı, sunduğu performans ve sürüş hissiyle dikkat çekiyor.",
+  "puan": 6.0,
+  "grup": "mercedes-amg-gt-4-door-2027",
+  "link": "https://www.jalopnik.com/2307489/2027-mercedes-amg-gt-4-door-coupe-ev-gt55-gt63-first-drive-review/",
+  "source": "Jalopnik",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "araba",
+  "baslik": "Kia'dan Elektrikli Kamp Vanı",
+  "ozet": "Kia, elektrikli van modelini yatak ve mutfak gibi kamp ekipmanlarıyla donatarak karavana dönüştürdü.",
+  "puan": 5.5,
+  "grup": "kia-electric-camper-van",
+  "link": "https://www.motor1.com/news/814476/kia-pv5-weekender-camper-van/",
+  "source": "Motor1",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "araba",
+  "baslik": "Sherp Off-Road Aracı Testte",
+  "ozet": "Devasa lastikleriyle bilinen Sherp arazi aracı, zorlu bataklık ve göl koşullarında test edildi.",
+  "puan": 4.0,
+  "grup": "sherp-off-road-test",
+  "link": "https://www.motor1.com/news/814479/sherp-off-road-swamp-saskatchewan/",
+  "source": "Motor1",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "araba",
+  "baslik": "2026'nın En İyi Küçük Elektrikli Otomobilleri",
+  "ozet": "Menzil, şarj hızı ve fiyat performansına göre 2026 yılının en iyi küçük elektrikli araçları sıralandı.",
+  "puan": 3.5,
+  "grup": "best-small-evs-2026",
+  "link": "https://www.autocar.co.uk/car-news/best-cars/best-small-electric-cars",
+  "source": "Autocar",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "araba",
+  "baslik": "Lexus'tan Tacoma Tabanlı Pickup Konsepti",
+  "ozet": "Lexus TX1 adıyla üretilen özel yapım pickup, markanın bir pickup üretmesi durumunda nasıl görünebileceğini gösteriyor.",
+  "puan": 5.5,
+  "grup": "lexus-pickup-concept",
+  "link": "https://www.motor1.com/news/814469/toyota-tacoma-based-lexus-truck/",
+  "source": "Motor1",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "araba",
+  "baslik": "Twin-Turbo Corvette Z06 Modifikasyonu",
+  "ozet": "Bir Corvette Z06 sahibi, araca uyguladığı twin-turbo kitiyle 810 beygir güce ulaştı.",
+  "puan": 6.0,
+  "grup": "corvette-z06-twin-turbo-mod",
+  "link": "https://www.motor1.com/news/814467/chevrolet-corvette-z06-twin-turbo/",
+  "source": "Motor1",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "araba",
+  "baslik": "Bugatti'nin ABD'deki 20. Yılı",
+  "ozet": "Bugatti, Amerika pazarındaki 20. yılını Las Vegas'ta düzenlenen özel bir etkinlik ve araç sergisiyle kutladı.",
+  "puan": 4.0,
+  "grup": "bugatti-usa-20th-anniversary",
+  "link": "https://www.motor1.com/news/814463/bugatti-american-anniversary-las-vegas/",
+  "source": "Motor1",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "araba",
+  "baslik": "Volvo ES90 Kullanıcı Deneyimi",
+  "ozet": "Volvo ES90 sahibi, lastik patlaması ve ev tipi şarj cihazı arızası gibi günlük sorunlarla karşılaştığını paylaştı.",
+  "puan": 3.0,
+  "grup": "volvo-es90-user-experience",
+  "link": "https://www.autocar.co.uk/car-news/features/my-volvo-es90-suffers-very-traditional-setback-then-brand-new-one",
+  "source": "Autocar",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "araba",
+  "baslik": "Toyota Supra ve BMW Z4 Satışları Durdu",
+  "ozet": "Toyota Supra ve BMW Z4 modellerinin mevcut nesil üretimleri sona erdi; Supra'nın gelecekte dönmesi bekleniyor.",
+  "puan": 7.5,
+  "grup": "toyota-bmw-six-cylinder-sports-cars-sold-out",
+  "link": "https://www.motor1.com/news/814461/toyota-supra-bmw-z4-sold-out/",
+  "source": "Motor1",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "araba",
+  "baslik": "F1 Neden Ruanda'yı Seçti?",
+  "ozet": "Formula 1 yönetimi, Avrupa'daki geleneksel pistler yerine ticari stratejiler doğrultusunda Ruanda'yı takvime dahil etmeyi planlıyor.",
+  "puan": 7.0,
+  "grup": "f1-rwanda-grand-prix",
+  "link": "https://www.autocar.co.uk/car-news/motorsport/why-f1-picked-rwanda-new-race-over-france-and-germany",
+  "source": "Autocar",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "araba",
+  "baslik": "Yeni Toyota Corolla Hibrit Yolda",
+  "ozet": "2030'a kadar çıkacak yeni nesil Toyota Corolla, 100mpg yakıt tüketimi hedefleyen gelişmiş hibrit sistemle gelecek.",
+  "puan": 8.0,
+  "grup": "toyota-corolla-2030-hybrid",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/radical-new-toyota-corolla-hybrid-set-nudge-100mpg",
+  "source": "Autocar",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "araba",
+  "baslik": "Avrupalı Lüks Markaların ABD Stratejisi",
+  "ozet": "Çin pazarındaki yavaşlama sonrası Audi, JLR ve Volvo gibi Avrupalı üreticiler ABD pazarına odaklanıyor.",
+  "puan": 7.5,
+  "grup": "european-luxury-brands-us-strategy",
+  "link": "https://www.autocar.co.uk/car-news/business/life-after-china-can-us-save-europes-luxury-car-makers",
+  "source": "Autocar",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "f1",
+  "baslik": "1980 F1 Dünya Şampiyonu Alan Jones hayatını kaybetti",
+  "ozet": "1980 Formula 1 sezonunun şampiyonu ve Williams'ın ilk şampiyon pilotu Alan Jones, 80 yaşında yaşamını yitirdi.",
+  "puan": 8.5,
+  "grup": "alan-jones-death",
+  "link": "https://www.formula1.com/en/latest/article/f1-champion-alan-jones-passes-away-aged-80.47VhlGhEpLtaMwCOlLAB3Y",
+  "source": "Formula1.com",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "f1",
+  "baslik": "Kimi Antonelli'nin Meksika'daki şampiyonluk zaferi",
+  "ozet": "Kimi Antonelli, Meksika Grand Prix'sinde yaşadığı teknik sorunlara rağmen Formula 1'deki ilk dünya şampiyonluğunu ilan etti.",
+  "puan": 9.0,
+  "grup": "mexico-gp-antonelli-stats",
+  "link": "https://www.motorsport.com/f1/news/kimi-antonelli-almost-had-to-retire-in-mexico-due-to-an-oil-leak/10871667/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "f1",
+  "baslik": "Mercedes Brezilya'da takımlar şampiyonluğunu garantileyebilir",
+  "ozet": "Mercedes, Brezilya Grand Prix'sinde Ferrari ile olan puan farkını koruyarak dokuzuncu takımlar şampiyonluğunu matematiksel olarak garantileme şansına sahip.",
+  "puan": 7.5,
+  "grup": "mercedes-brazil-title-permutations",
+  "link": "https://www.autosport.com/f1/news/how-mercedes-can-win-the-f1-world-constructors-title-in-brazil/10871661/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "f1",
+  "baslik": "Mercedes Brezilya'da takımlar şampiyonluğunu garantileyebilir",
+  "ozet": "Mercedes, Brezilya Grand Prix'sinde Ferrari ile olan puan farkını koruyarak dokuzuncu takımlar şampiyonluğunu matematiksel olarak garantileme şansına sahip.",
+  "puan": 7.5,
+  "grup": "mercedes-brazil-title-permutations",
+  "link": "https://www.motorsport.com/f1/news/how-mercedes-can-win-f1s-world-constructors-title-at-brazil-gp/10871496/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "f1",
+  "baslik": "Alan Jones anısına: Williams'ın ilk şampiyonu",
+  "ozet": "Williams takımına tarihindeki ilk dünya şampiyonluğunu kazandıran Alan Jones, 80 yaşında hayatını kaybetti.",
+  "puan": 8.5,
+  "grup": "alan-jones-death",
+  "link": "https://www.racefans.net/2026/11/05/alan-jones-1946-2026/",
+  "source": "RaceFans",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton ve Leclerc arasındaki rekabetin perde arkası",
+  "ozet": "Ferrari'nin 2026 sezonunda Lewis Hamilton ve Charles Leclerc ikilisini yönetmekte neden zorlandığı analiz ediliyor.",
+  "puan": 5.0,
+  "grup": "mexico-gp-hamilton-leclerc-feud",
+  "link": "https://www.the-race.com/formula-1/how-the-collision-course-between-hamilton-and-leclerc-was-created/",
+  "source": "The Race",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "f1",
+  "baslik": "Mark Hughes'un gözünden Alan Jones efsanesi",
+  "ozet": "Mark Hughes, Alan Jones'un agresif sürüş tarzını ve Williams takımındaki etkileyici kariyerini kaleme aldı.",
+  "puan": 4.0,
+  "grup": "alan-jones-death",
+  "link": "https://www.the-race.com/formula-1/mark-hughes-alan-jones-terrified-rivals-and-was-perfect-for-williams/",
+  "source": "The Race",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "f1",
+  "baslik": "Alan Jones 80 yaşında hayatını kaybetti",
+  "ozet": "1980 F1 şampiyonu Alan Jones, kısa süren bir hastalığın ardından 80 yaşında vefat etti.",
+  "puan": 8.5,
+  "grup": "alan-jones-death",
+  "link": "https://www.autosport.com/f1/news/1980-f1-world-champion-alan-jones-dies-aged-80/10871644/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "f1",
+  "baslik": "Alan Jones 80 yaşında hayatını kaybetti",
+  "ozet": "1980 F1 şampiyonu Alan Jones, kısa süren bir hastalığın ardından 80 yaşında vefat etti.",
+  "puan": 8.5,
+  "grup": "alan-jones-death",
+  "link": "https://www.motorsport.com/f1/news/1980-f1-world-champion-alan-jones-dies-aged-80/10871639/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "f1",
+  "baslik": "Audi Brezilya'da özel 'Piso Paulista' tasarımıyla yarışacak",
+  "ozet": "Audi, Brezilya Grand Prix'si için R26 araçlarında özel bir 'Piso Paulista' temalı renk düzenine geçiş yapıyor.",
+  "puan": 4.5,
+  "grup": "audi-brazil-special-livery",
+  "link": "https://www.racefans.net/2026/11/05/audi-swaps-grey-livery-for-piso-paulista-design-in-brazil/",
+  "source": "RaceFans",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "f1",
+  "baslik": "1980 F1 şampiyonu Alan Jones hayatını kaybetti",
+  "ozet": "Formula 1 dünyası, 1980 şampiyonu Alan Jones'un 80 yaşında vefat haberiyle sarsıldı.",
+  "puan": 8.5,
+  "grup": "alan-jones-death",
+  "link": "https://www.racefans.net/2026/11/05/alan-jones-1980-formula-1-world-champion-dies-aged-80/",
+  "source": "RaceFans",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "f1",
+  "baslik": "1980 F1 şampiyonu Alan Jones hayatını kaybetti",
+  "ozet": "Williams'ın ilk şampiyon pilotu olan Alan Jones, kısa süren bir hastalık sonrası 80 yaşında yaşamını yitirdi.",
+  "puan": 8.5,
+  "grup": "alan-jones-death",
+  "link": "https://www.the-race.com/formula-1/1980-f1-champion-alan-jones-passes-away/",
+  "source": "The Race",
+  "ts": 1793875395.038811
+ },
+ {
+  "cat": "f1",
+  "baslik": "Brezilya GP öncesi öne çıkan 6 konu",
+  "ozet": "Mercedes'in şampiyonluk ihtimali ve yerel bir pilotun ilk kez sahne alması, Brezilya GP öncesi dikkat çeken başlıklar arasında.",
+  "puan": 5.5,
+  "grup": "brazil-gp-weekend-preview-five-things",
+  "link": "https://www.racefans.net/2026/11/05/a-home-debutant-and-another-mercedes-title-six-brazilian-gp-talking-points/",
+  "source": "RaceFans",
+  "ts": 1793875395.038811
  }
 ]
