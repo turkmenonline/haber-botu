@@ -1,106 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Hyundai Ioniq 3 Tanıtıldı",
-  "ozet": "Hyundai'nin giriş seviyesi elektrikli hatchback modeli Ioniq 3, dikkat çekici tasarımı ve iddialı fiyat etiketiyle görücüye çıktı.",
-  "puan": 6.5,
-  "grup": "hyundai-ioniq-3-debut",
-  "link": "https://www.autocar.co.uk/car-review/hyundai/ioniq-3",
-  "source": "Autocar",
-  "ts": 1793759302.3859098
- },
- {
-  "cat": "araba",
-  "baslik": "Subaru STI Rozetinin Anlamı",
-  "ozet": "1988 yılında kurulan Subaru Tecnica International'ın motorsport kökenleri ve STI rozetinin markanın performans araçlarındaki yeri inceleniyor.",
-  "puan": 4.5,
-  "grup": "subaru-sti-history-meaning",
-  "link": "https://www.motor1.com/features/814295/subaru-sti-name-meaning/",
-  "source": "Motor1",
-  "ts": 1793759302.3859098
- },
- {
-  "cat": "f1",
-  "baslik": "Tarihte Bugün: Penske CART'a Veda Etti",
-  "ozet": "Penske, en uzun sezonun ardından CART serisindeki son yarışına çıktı ve IndyCar bölünmesinde dönüm noktası yaşandı.",
-  "puan": 2.0,
-  "grup": "penske-cart-history",
-  "link": "https://www.racefans.net/2026/11/04/on-this-day-2001-champ-car-fontana/",
-  "source": "RaceFans",
-  "ts": 1793759302.3859098
- },
- {
-  "cat": "f1",
-  "baslik": "Andrea Stella: \"Sıralama Turları Meksika GP'mizi Mahvetti\"",
-  "ozet": "McLaren patronu Andrea Stella, Meksika'daki zayıf sıralama seansının podyum potansiyeline sahip aracın yarışını mahvettiğini belirtti.",
-  "puan": 5.0,
-  "grup": "mexico-gp-mclaren-qualifying",
-  "link": "https://www.motorsport.com/f1/news/stella-explains-how-a-nightmare-qualifying-destroyed-mclarens-mexico-gp-we-paid-the-price/10871257/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793759302.3859098
- },
- {
-  "cat": "f1",
-  "baslik": "Cadillac'ın Çoğunluk Hisse Sahibi Satış Planlıyor",
-  "ozet": "Ortaya çıkan iddialara göre Cadillac'ın çoğunluk hissesine sahip ortağı hisselerini satmayı planlıyor.",
-  "puan": 4.5,
-  "grup": "cadillac-ownership-change",
-  "link": "https://www.racefans.net/2026/11/03/spotlight-cadillacs-majority-owner-reportedly-planning-to-sell-stake/",
-  "source": "RaceFans",
-  "ts": 1793759302.3859098
- },
- {
-  "cat": "f1",
-  "baslik": "Charles Leclerc'ten Hamilton Açıklaması",
-  "ozet": "Charles Leclerc, Meksika GP'nin ilk turundaki temasla ilgili olarak kendisinin de mutsuz olabileceğini söyledi.",
-  "puan": 5.5,
-  "grup": "mexico-gp-hamilton-leclerc-feud",
-  "link": "https://www.motorsport.com/f1/news/charles-leclerc-brushes-off-lap-1-clash-with-furious-hamilton-i-could-be-unhappy-too/10871246/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793759302.3859098
- },
- {
-  "cat": "f1",
-  "baslik": "Colton Herta, Brezilya'da Cadillac ile FP1'e Çıkacak",
-  "ozet": "Süper lisans puanı arayan Colton Herta, Brezilya GP'sinde Cadillac ile altıncı antrenman seansına katılacak.",
-  "puan": 4.0,
-  "grup": "herta-cadillac-brazil-fp1",
-  "link": "https://www.motorsport.com/f1/news/colton-herta-to-run-cadillac-fp1-in-brazil-as-fia-superlicense-quest-continues/10871403/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793759302.3859098
- },
- {
-  "cat": "f1",
-  "baslik": "Mercedes'ten Antonelli Övgüsü ve Russell İtirafı",
-  "ozet": "Mercedes, genç şampiyon Antonelli'yi överken George Russell'ın yaşadığı mekanik sorunlar nedeniyle özür diledi.",
-  "puan": 6.5,
-  "grup": "wolff-antonelli-vs-hamilton-title",
-  "link": "https://www.motorsport.com/f1/news/mercedes-boss-praises-antonellis-masterclass-while-admitting-they-failed-george-russell/10871236/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793759302.3859098
- },
- {
-  "cat": "f1",
-  "baslik": "Herta, Süper Lisans İçin Yeniden Cadillac'la Piste Çıkacak",
-  "ozet": "Cadillac, Colton Herta'ya gerekli süper lisans puanını alması için Brezilya GP'sinde bir antrenman seansı daha verecek.",
-  "puan": 4.0,
-  "grup": "herta-cadillac-brazil-fp1",
-  "link": "https://www.the-race.com/formula-1/colton-herta-gets-another-cadillac-f1-practice-to-earn-superlicence/",
-  "source": "The Race",
-  "ts": 1793759302.3859098
- },
- {
-  "cat": "f1",
-  "baslik": "Haas'ta Ocon Dönemi Kapandı, Camara Brezilya'da Yarışacak",
-  "ozet": "Haas, Esteban Ocon ile yolların ayrıldığını ve Rafael Camara'nın Brezilya'da F1 de rublesini yapacağını duyurdu.",
-  "puan": 8.0,
-  "grup": "haas-ocon-dropped-camara-debut",
-  "link": "https://www.racefans.net/2026/11/03/official-ocon-will-not-return-to-drive-for-haas-camara-to-take-over-in-brazil/",
-  "source": "RaceFans",
-  "ts": 1793759302.3859098
- },
- {
-  "cat": "araba",
   "baslik": "Honda'dan Son Altı Yılın En İyi Ekim Ayı",
   "ozet": "SUV ve hibrit modellerin desteğiyle ekim ayında satışlarını artıran Honda'da CR-V yeni bir aylık rekora imza attı.",
   "puan": 4.5,
@@ -2438,5 +2338,15 @@
   "link": "https://www.motorsport.com/indycar/news/colton-herta-backs-mexico-indycar-race-following-pato-oward-promoter-callout/10871847/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1793922192.0898385
+ },
+ {
+  "cat": "araba",
+  "baslik": "Otomobil Üreticileri Arka Tekerlekten Yönlendirmeye Yöneliyor",
+  "ozet": "Yeni bir yönlendirme teknolojisi, lüks sedanların küçük araçlar gibi park etmesini ve spor arabaların virajları daha güvenli dönmesini sağlıyor.",
+  "puan": 5.5,
+  "grup": "rear-wheel-steering-tech",
+  "link": "https://www.motor1.com/features/814175/why-some-cars-have-rear-wheel-steering/",
+  "source": "Motor1",
+  "ts": 1793936567.7729893
  }
 ]
