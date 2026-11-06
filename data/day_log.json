@@ -1,156 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Honda'dan Son Altı Yılın En İyi Ekim Ayı",
-  "ozet": "SUV ve hibrit modellerin desteğiyle ekim ayında satışlarını artıran Honda'da CR-V yeni bir aylık rekora imza attı.",
-  "puan": 4.5,
-  "grup": "honda-october-sales-surge",
-  "link": "https://www.motor1.com/news/814339/honda-best-october-sales-in-six-years/",
-  "source": "Motor1",
-  "ts": 1793785601.9911997
- },
- {
-  "cat": "araba",
-  "baslik": "Cadillac'ın F1 Takımı 3 Milyar Dolara Satışta Olabilir",
-  "ozet": "Genel Motors ve TWG Motorsports destekli Cadillac Formula 1 girişimi, artan maliyetler ve incelemelerle birlikte satış iddialarıyla karşı karşıya.",
-  "puan": 7.5,
-  "grup": "cadillac-f1-team-sale",
-  "link": "https://www.motor1.com/news/814337/cadillac-f1-3-billion-stake/",
-  "source": "Motor1",
-  "ts": 1793785601.9911997
- },
- {
-  "cat": "araba",
-  "baslik": "Mercedes Ekranları Pencerelere Taşıyor",
-  "ozet": "Entegre LED'li yan camlardan holografik görüntü yansıtan ön camlara kadar otomotivde ekran çılgınlığı devam ediyor.",
-  "puan": 5.0,
-  "grup": "mercedes-window-screen-tech",
-  "link": "https://www.motor1.com/news/814327/mercedes-screens-in-windows/",
-  "source": "Motor1",
-  "ts": 1793785601.9911997
- },
- {
-  "cat": "araba",
-  "baslik": "BMW Çin'de 1.800 Kişiyi İşten Çıkarıyor",
-  "ozet": "Shenyang operasyonlarında Kasım itibarıyla başlayan işten çıkarmalar ve düşen satışlar 2026 kârlılığını baskılıyor.",
-  "puan": 7.0,
-  "grup": "bmw-china-job-cuts",
-  "link": "https://www.motor1.com/news/814323/bmw-china-reportedly-cutting-1/",
-  "source": "Motor1",
-  "ts": 1793785601.9911997
- },
- {
-  "cat": "araba",
-  "baslik": "Chevy Corvette SUV ve Sedan Modelleri İptal Edilebilir",
-  "ozet": "Genişletilmiş Corvette ailesi planları kapsamında elektrikli spor araba ile birlikte SUV ve sedan projeleri de şimdilik rafa kalktı.",
-  "puan": 6.0,
-  "grup": "chevy-corvette-suv-sedan-cancelled",
-  "link": "https://www.motor1.com/news/814318/corvette-sedan-suv-canceled-report/",
-  "source": "Motor1",
-  "ts": 1793785601.9911997
- },
- {
-  "cat": "araba",
-  "baslik": "Range Rover En Uygun Fiyatlı İki Modelini Kaldırıyor",
-  "ozet": "Evoque ve Velar'ın 2027'de üretimden kalkmasıyla Range Rover, üç modelden oluşan daha pahalı bir lüks ürün gamına geçecek.",
-  "puan": 6.5,
-  "grup": "evoque-velar-retire-gt-entry",
-  "link": "https://www.motor1.com/news/814319/range-rover-entry-price-set/",
-  "source": "Motor1",
-  "ts": 1793785601.9911997
- },
- {
-  "cat": "araba",
-  "baslik": "Üreticiler İçten Yanmalı Süresi Uzasa Bile Elektrikliye Devam Edecek",
-  "ozet": "Avrupa'da emisyon kuralları esnetilse bile otomobil üreticilerinin pazar talebi doğrultusunda elektrikli araç stratejilerini değiştirmesi beklenmiyor.",
-  "puan": 6.0,
-  "grup": "automakers-ev-push-despite-rules",
-  "link": "https://www.autocar.co.uk/opinion/technology/why-car-makers-wont-slow-ev-push-even-if-ice-age-extended",
-  "source": "Autocar",
-  "ts": 1793785601.9911997
- },
- {
-  "cat": "araba",
-  "baslik": "Ford'dan 1,200 Beygirlik Arktik Kurtarma Aracı",
-  "ozet": "Megazilla 2.0 motoruna sahip Bronco Frostwarden, zorlu koşullar için tek seferlik bir Arktik kurtarma aracı olarak geliştirildi.",
-  "puan": 6.5,
-  "grup": "ford-frostwarden-bronco-megazilla",
-  "link": "https://www.motor1.com/news/814311/ford-bronco-frostwarden-arctic-rescue/",
-  "source": "Motor1",
-  "ts": 1793785601.9911997
- },
- {
-  "cat": "araba",
-  "baslik": "Mahindra 2027'de İngiltere Pazarına Giriş Yapıyor",
-  "ozet": "Hindistanlı dev üretici Mahindra, Oxfordshire'da tasarlanan üç yeni elektrikli SUV modeliyle gelecek yıl İngiltere'ye açılmaya hazırlanıyor.",
-  "puan": 6.5,
-  "grup": "mahindra-uk-suv-launch",
-  "link": "https://www.autocar.co.uk/car-news/new-cars/indias-mahindra-prepares-2027-uk-launch-bold-suv-trio",
-  "source": "Autocar",
-  "ts": 1793785601.9911997
- },
- {
-  "cat": "araba",
-  "baslik": "BYD Dolphin G PHEV, Renault Clio'ya Rakip Oluyor",
-  "ozet": "BYD'nin yeni ve erişilebilir plug-in hibrit süperminisi, Avrupa pazarının köklü oyuncusu Clio ile rekabet etmeye hazırlanıyor.",
-  "puan": 5.5,
-  "grup": "byd-dolphin-phev-clio-rival",
-  "link": "https://www.autocar.co.uk/car-news/features/can-byd-beat-renault-%C2%A326k-dolphin-g-phev-takes-clio",
-  "source": "Autocar",
-  "ts": 1793785601.9911997
- },
- {
-  "cat": "araba",
-  "baslik": "Honda ABD İçin Daha Sportif Bir Civic Type R Geliştiriyor",
-  "ozet": "Kamuflajlı konsept üzerinden şekillenen HRC imzalı yeni Civic Type R'ın daha agresif aero parçalara ve gelişmiş soğutmaya sahip olması bekleniyor.",
-  "puan": 7.0,
-  "grup": "honda-civic-type-r-hrc-us",
-  "link": "https://www.jalopnik.com/2305761/honda-racier-civic-type-r-u-s/",
-  "source": "Jalopnik",
-  "ts": 1793785601.9911997
- },
- {
-  "cat": "f1",
-  "baslik": "Toto Wolff'ten Mercedes'teki Geleceği Hakkında Açıklama",
-  "ozet": "Kimi Antonelli'nin tarihi şampiyonluğunun ardından Toto Wolff, Mercedes'teki uzun vadeli geleceğini ve takımın başında kalma süresini değerlendirdi.",
-  "puan": 6.5,
-  "grup": "toto-wolff-mercedes-future",
-  "link": "https://www.motorsport.com/f1/news/toto-wolff-addresses-mercedes-future-dont-plan-to-call-it-a-day/10871261/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793785601.9911997
- },
- {
-  "cat": "f1",
-  "baslik": "Haas'ta Ocon Ayrılığı ve Camara'nın Çıkışı",
-  "ozet": "Esteban Ocon'un Haas F1 takımıyla yollarını kalıcı olarak ayırması ve Rafael Camara'nın takımdaki ilk çıkışı değerlendirildi.",
-  "puan": 7.0,
-  "grup": "haas-ocon-dropped-camara-debut",
-  "link": "https://www.the-race.com/formula-1/esteban-ocon-permanent-haas-f1-exit-rafael-camara-debut-our-verdict/",
-  "source": "The Race",
-  "ts": 1793785601.9911997
- },
- {
-  "cat": "f1",
-  "baslik": "Meksika GP İstatistikleri ve Hirakawa'nın Başarısı",
-  "ozet": "Meksika Grand Prix'sinde Ryo Hirakawa tek yarışlık startta dünya şampiyonası puanı alan altıncı isim olurken, Lando Norris'in unvanı sona erdi.",
-  "puan": 5.5,
-  "grup": "mexico-gp-antonelli-stats",
-  "link": "https://www.racefans.net/2026/11/04/mexican-gp-stats-norris-has-third-shortest-reign-as-world-champion/",
-  "source": "RaceFans",
-  "ts": 1793785601.9911997
- },
- {
-  "cat": "f1",
-  "baslik": "Ferrari'nin Motor Zayıflığı Vasseur'ün Başarısını Gölgeliyor",
-  "ozet": "Ferrari'nin yaşadığı büyük motor dezavantajı, Fred Vasseur'ün dönemindeki gerçek başarıları ve zaferleri gölgede bırakıyor.",
-  "puan": 5.0,
-  "grup": "ferrari-engine-weakness-vasseur",
-  "link": "https://www.the-race.com/formula-1/why-ferrari-engine-weakness-hides-vasseurs-biggest-success/",
-  "source": "The Race",
-  "ts": 1793785601.9911997
- },
- {
-  "cat": "araba",
   "baslik": "Orta Boy Pikaplara İlgi Artıyor",
   "ozet": "Yükselen fiyatlar alıcıları daha küçük pikaplara yöneltirken, Hyundai'den Ram'e kadar üreticiler bu pazardan pay kapmaya çalışıyor.",
   "puan": 5.0,
@@ -2348,5 +2198,285 @@
   "link": "https://www.motor1.com/features/814175/why-some-cars-have-rear-wheel-steering/",
   "source": "Motor1",
   "ts": 1793936567.7729893
+ },
+ {
+  "cat": "araba",
+  "baslik": "Çinli Elektrikli Süper Otomobil 503 km/s Hıza Ulaştı",
+  "ozet": "BYD'nin Yangwang U9 Xtreme modeli Abu Dabi'deki halka açık yolda 503.17 km/s hıza ulaşarak kendi rekorunu geliştirdi ve dünyanın en hızlı seri üretim aracı oldu.",
+  "puan": 8.5,
+  "grup": "chinese-ev-hits-312-mph",
+  "link": "https://www.motor1.com/news/814648/byd-yangwang-u9-xtreme-312-mph/",
+  "source": "Motor1",
+  "ts": 1793964993.0121608
+ },
+ {
+  "cat": "araba",
+  "baslik": "NASCAR Sürücüsü Gerçek Bir Tank Satın Aldı",
+  "ozet": "Hizmet dışı bırakılmış bir askeri tank, ucuz araba meydan okuması kapsamında eski bir Chevy Cobalt'ı hurdaya çevirdi.",
+  "puan": 2.5,
+  "grup": "nascar-driver-buys-tank",
+  "link": "https://www.motor1.com/news/814646/hoa-upset-my-tank-over/",
+  "source": "Motor1",
+  "ts": 1793964993.0121608
+ },
+ {
+  "cat": "araba",
+  "baslik": "Volkswagen ve Cupra Elektrikli Modellerine Şarj Sınırı",
+  "ozet": "Yangın riski endişeleri nedeniyle bazı ID.3, ID.4, ID.7, ID.Buzz ve Cupra Born sahiplerinin araçlarını %80'den fazla şarj etmesi engelleniyor.",
+  "puan": 8.0,
+  "grup": "vw-electric-charge-limit-fire-risk",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/5000-electric-volkswagens-hit-80-charge-limit-over-fire-risk",
+  "source": "Autocar",
+  "ts": 1793964993.0121608
+ },
+ {
+  "cat": "araba",
+  "baslik": "2027 Model GMC Sierra V8 Daha Güçlü Ama Daha Az Verimli",
+  "ozet": "EPA verilerine göre, 2027 GMC Sierra 1500'ün V8 motorlu versiyonları yakıt tüketiminde Duramax dizel seçeneğinin gerisinde kalıyor.",
+  "puan": 4.5,
+  "grup": "gmc-sierra-v8-efficiency",
+  "link": "https://www.motor1.com/news/814635/2027-gmc-sierra-v8-mpg/",
+  "source": "Motor1",
+  "ts": 1793964993.0121608
+ },
+ {
+  "cat": "araba",
+  "baslik": "Elon Musk: Tesla Cybertruck Üretimi Gelecek Yıl Yavaşlayacak",
+  "ozet": "Tesla'nın ilginç tasarımına sahip kamyonetinin üretiminin başka bir fabrikaya mı taşınacağı yoksa tamamen sonlandırılacağı henüz bilinmiyor.",
+  "puan": 7.5,
+  "grup": "tesla-cybertruck-production-wind-down",
+  "link": "https://www.motor1.com/news/814629/tesla-cybertruck-production-decrease-2027/",
+  "source": "Motor1",
+  "ts": 1793964993.0121608
+ },
+ {
+  "cat": "araba",
+  "baslik": "Corvette ZR1X İçin 400 Bin Dolar Ek Ücret Talep Ediliyor",
+  "ozet": "Bir Arkansas Chevrolet bayisi, yoğun talebi gerekçe göstererek Corvette ZR1X convertible modeline neredeyse 700 bin dolarlık fiyat biçti.",
+  "puan": 4.0,
+  "grup": "corvette-zr1x-extreme-markup",
+  "link": "https://www.motor1.com/news/814625/corvette-zr1x-gets-400k-markup/",
+  "source": "Motor1",
+  "ts": 1793964993.0121608
+ },
+ {
+  "cat": "araba",
+  "baslik": "Çinli Büyük SUV Modelleri Avrupa Pazarına Giriyor",
+  "ozet": "BYD, Jetour ve Zeekr gibi Çinli üreticilerin 5 metre uzunluğundaki devasa SUV modelleri Avrupa'da satışa çıkmaya hazırlanıyor.",
+  "puan": 6.5,
+  "grup": "chinese-large-suvs-europe-expansion",
+  "link": "https://www.autocar.co.uk/opinion/electric-cars/huge-9-series-suvs-cracked-china-can-they-beat-range-rover-here",
+  "source": "Autocar",
+  "ts": 1793964993.0121608
+ },
+ {
+  "cat": "araba",
+  "baslik": "BMW'nin Yeni Elektrikli Station Vagonu Nürburgring'de",
+  "ozet": "2027 yılında tanıtılması beklenen yeni i3 Touring modeli Nürburgring pistinde test test kilometreleri yaparken görüntülendi.",
+  "puan": 6.0,
+  "grup": "bmw-i3-touring-spied",
+  "link": "https://www.motor1.com/news/814605/bmw-3-series-electric-wagon-spied/",
+  "source": "Motor1",
+  "ts": 1793964993.0121608
+ },
+ {
+  "cat": "araba",
+  "baslik": "Honda'nın İlk Küresel Elektrikli SUV Modeli 'Alpha' Adını Aldı",
+  "ozet": "Hindistan pazarında satışa sunulacak ve küresel üretim üssü olacak Honda Alpha'nın teknik özellikleri ve fiyatı henüz açıklanmadı.",
+  "puan": 5.5,
+  "grup": "honda-alpha-global-electric-suv",
+  "link": "https://www.motor1.com/news/814604/honda-alpha-confirmed-india-built/",
+  "source": "Motor1",
+  "ts": 1793964993.0121608
+ },
+ {
+  "cat": "araba",
+  "baslik": "Dacia, Avrupa İçin Renault Bridger Elektrikli Modelini Değerlendiriyor",
+  "ozet": "Dacia, emisyonları azaltma hedefi doğrultusunda Hindistan'da üretilecek Renault Bridger modelini Avrupa'da satışa sunmayı düşünüyor.",
+  "puan": 5.0,
+  "grup": "dacia-renault-bridger-ev",
+  "link": "https://www.autocar.co.uk/car-news/new-cars/dacia-considers-renault-bridger-ev-fiat-panda-rival-europe",
+  "source": "Autocar",
+  "ts": 1793964993.0121608
+ },
+ {
+  "cat": "araba",
+  "baslik": "Eski Klasik Otomobille 2500 Millik Yol Deneyimi",
+  "ozet": "Yazar, 1990 model BMW 325i Touring ile uzun yol yaparak klasik otomobillerin günlük hayatta hâlâ kullanılabileceğini gösteriyor.",
+  "puan": 2.5,
+  "grup": "classic-bmw-e30-road-trip",
+  "link": "https://www.autocar.co.uk/car-news/features/classic-cars-can-do-everyday-2500-miles-my-e30-bmw-325i",
+  "source": "Autocar",
+  "ts": 1793964993.0121608
+ },
+ {
+  "cat": "araba",
+  "baslik": "Otomobil Logoları Karakterini Kaybedip Sadeliğe mi Yeniliyor?",
+  "ozet": "Vauxhall ve McLaren gibi markaların logolarını daha sade ve iki boyutlu hale getirmesi otomobil dünyasında bireyselliği azaltıyor.",
+  "puan": 3.0,
+  "grup": "car-logos-becoming-simplified",
+  "link": "https://www.autocar.co.uk/opinion/new-cars/rebranding-or-reblanding-car-logos-are-trading-character-cleanliness",
+  "source": "Autocar",
+  "ts": 1793964993.0121608
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mercedes-AMG One Sonunda Test Edildi",
+  "ozet": "Formula 1 altyapısına sahip hibrit hiper otomobil, modern AMG çağını şekillendiren özellikleriyle test sürüşüne konuk oldu.",
+  "puan": 7.5,
+  "grup": "mercedes-amg-one-first-drive",
+  "link": "https://www.autocar.co.uk/car-news/features/mercedes-amg-one-finally-driven-how-f1-based-hypercar-shaped-brands-new-era",
+  "source": "Autocar",
+  "ts": 1793964993.0121608
+ },
+ {
+  "cat": "f1",
+  "baslik": "Alan Permane, Racing Bulls ile Sözleşme Yeniledi",
+  "ozet": "Alan Permane, 2031 sonuna kadar Racing Bulls Takım Patronu ve Sportif Eş-CEO'su olarak kalmasını sağlayacak uzun vadeli bir sözleşme uzatması imzaladı.",
+  "puan": 8.0,
+  "grup": "alan-permane-racing-bulls-extension",
+  "link": "https://www.formula1.com/en/latest/article/alan-permane-signs-deal-to-stay-as-racing-bulls-team-principal-through-to-2031.cuuzgpmUrpg3TLeF14TRy",
+  "source": "Formula1.com",
+  "ts": 1793964993.0121608
+ },
+ {
+  "cat": "f1",
+  "baslik": "Brezilya GP'sinde FP1'e Çıkacak Çaylaklar",
+  "ozet": "Brezilya Grand Prix'sinin ilk antrenman seansında altı tam zamanlı pilot, genç ve yedek pilotlara yer verirken bir çaylak da ilk kez piste çıkacak.",
+  "puan": 4.5,
+  "grup": "brazil-gp-fp1-rookies",
+  "link": "https://www.formula1.com/en/latest/article/which-rookie-drivers-are-getting-fp1-outings-at-the-sao-paulo-grand-prix.3DAnL1BS38Gu5KKzU70aBJ",
+  "source": "Formula1.com",
+  "ts": 1793964993.0121608
+ },
+ {
+  "cat": "f1",
+  "baslik": "Piastri'den Alan Jones'a Saygı Duruşu",
+  "ozet": "Oscar Piastri, Williams'ın ilk Dünya Şampiyonu olan Alan Jones'u anan padok üyeleri arasında yer aldı.",
+  "puan": 2.0,
+  "grup": "alan-jones-death",
+  "link": "https://www.formula1.com/en/latest/article/a-life-that-should-be-celebrated-piastri-leads-tributes-to-alan-jones-after-f1-champion-passes-away.7KCspK6xXT5mgKjUOyPu0f",
+  "source": "Formula1.com",
+  "ts": 1793964993.0121608
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton: Ferrari Kolay Bir Dubleyi Daha Harcamamalı",
+  "ozet": "Lewis Hamilton, Meksika Grand Prix'sindeki mağlubiyetin ardından Ferrari'nin bu sorunu çözmek için birden fazla toplantıya ihtiyacı olduğunu söyledi.",
+  "puan": 5.0,
+  "grup": "ferrari-drivers-crunch-meeting-brazil",
+  "link": "https://www.racefans.net/2026/11/06/ferrari-must-not-throw-away-another-easy-one-two-again-hamilton/",
+  "source": "RaceFans",
+  "ts": 1793964993.0121608
+ },
+ {
+  "cat": "f1",
+  "baslik": "Russell'a Brezilya GP'sinde Motor Cezası",
+  "ozet": "George Russell, son dört yarışta ikinci kez ceza alarak Brezilya Grand Prix'sine beş sıra grid cezasıyla başlayacak.",
+  "puan": 8.5,
+  "grup": "russell-engine-penalty-brazil",
+  "link": "https://www.the-race.com/formula-1/russell-serving-another-f1-engine-grid-penalty-in-brazil/",
+  "source": "The Race",
+  "ts": 1793964993.0121608
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ferrari Interlagos'ta Kritik Toplantıya Hazırlanıyor",
+  "ozet": "Gelişen SF-26 aracıyla birlikte Ferrari, Hamilton ve Leclerc arasındaki gerilimin artmasıyla birlikte Brezilya'da önemli bir toplantı gerçekleştirecek.",
+  "puan": 5.5,
+  "grup": "ferrari-drivers-crunch-meeting-brazil",
+  "link": "https://www.autosport.com/f1/news/ferrari-set-for-crunch-meeting-as-hamilton-and-leclerc-tension-reaches-brazil/10872030/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1793964993.0121608
+ },
+ {
+  "cat": "f1",
+  "baslik": "Ferrari'de Hamilton ve Leclerc Gerilimi Sürüyor",
+  "ozet": "Ferrari, SF-26 aracındaki performans artışını kutlarken, Hamilton ve Leclerc arasındaki artan gerilim nedeniyle Brezilya'da kriz toplantısı yapacak.",
+  "puan": 5.5,
+  "grup": "ferrari-drivers-crunch-meeting-brazil",
+  "link": "https://www.motorsport.com/f1/news/ferrari-set-for-crunch-meeting-as-lewis-hamilton-and-charles-leclerc-tension-reaches-brazil/10872021/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793964993.0121608
+ },
+ {
+  "cat": "f1",
+  "baslik": "Russell: Hayatımda Bu Kadar Darbe Aldığım Bir Sezon Olmadı",
+  "ozet": "George Russell, Meksika Grand Prix'sindeki teknik sorun nedeniyle aşırı hayal kırıklığı yaşadığı için yarış sonrası medyayla konuşmadığını belirtti.",
+  "puan": 4.0,
+  "grup": "russell-mexico-disappointment",
+  "link": "https://www.racefans.net/2026/11/06/ive-never-had-a-season-where-theres-been-so-many-blows-russell/",
+  "source": "RaceFans",
+  "ts": 1793964993.0121608
+ },
+ {
+  "cat": "f1",
+  "baslik": "Permane Sözleşme Yeniledi, Lawson'ın Durumu Belirsiz",
+  "ozet": "Racing Bulls takım patronu Alan Permane yeni bir uzun süreli sözleşme imzalarken, Liam Lawson'ın geleceği belirsizliğini koruyor.",
+  "puan": 7.0,
+  "grup": "alan-permane-racing-bulls-extension",
+  "link": "https://www.the-race.com/formula-1/whats-going-on-with-lawsons-blurry-f1-future/",
+  "source": "The Race",
+  "ts": 1793964993.0121608
+ },
+ {
+  "cat": "f1",
+  "baslik": "İptal Edilen Yarışlara Rağmen F1 Gelirleri İstikrarlı",
+  "ozet": "Formula 1'in gelirleri, 2026 sezonundaki iptal edilen yarışlara rağmen yılın üçüncü çeyreğinde istikrarını korudu.",
+  "puan": 4.0,
+  "grup": "f1-revenue-stabilises-2026",
+  "link": "https://www.the-race.com/business/f1s-revenue-stabilises-after-cancelled-2026-grands-prix/",
+  "source": "The Race",
+  "ts": 1793964993.0121608
+ },
+ {
+  "cat": "f1",
+  "baslik": "Antonelli: 2027 Hazırlıklarım Şimdi Başlıyor",
+  "ozet": "Rekor kırarak dünya şampiyonu olan Kimi Antonelli, Meksika'daki kutlamaların ardından sponsor etkinlikleri ve Sao Paulo'daki özel buluşmalarla yoğun bir tempoya girdi.",
+  "puan": 4.5,
+  "grup": "antonelli-mexico-podium-verstappen-hamilton",
+  "link": "https://www.motorsport.com/f1/news/kimi-antonelli-my-2027-preparation-starts-now-after-f1-title-triumph/10871954/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793964993.0121608
+ },
+ {
+  "cat": "f1",
+  "baslik": "Alan Permane Racing Bulls'ta Kalıyor",
+  "ozet": "Red Bull, Alan Permane'ye 2031 sonuna kadar Racing Bulls takım patronluğu görevini sürdüreceği yeni bir sözleşme verdi.",
+  "puan": 8.0,
+  "grup": "alan-permane-racing-bulls-extension",
+  "link": "https://www.autosport.com/f1/news/permane-signs-new-racing-bulls-f1-deal/10871999/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=uk",
+  "source": "Autosport",
+  "ts": 1793964993.0121608
+ },
+ {
+  "cat": "f1",
+  "baslik": "Alan Permane'den Yeni Racing Bulls Anlaşması",
+  "ozet": "Eski Alpine çalışanı Alan Permane, 2031 sezonunun sonuna kadar Racing Bulls'un başında kalmaya devam edecek.",
+  "puan": 8.0,
+  "grup": "alan-permane-racing-bulls-extension",
+  "link": "https://www.motorsport.com/f1/news/alan-permane-signs-new-racing-bulls-f1-deal/10871996/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1793964993.0121608
+ },
+ {
+  "cat": "f1",
+  "baslik": "Verstappen: Şampiyonada İkinciliğe Yükselmek Büyük Sürpriz",
+  "ozet": "Max Verstappen, sadece üç yarış içinde şampiyonada altıncılıktan ikinciliğe tırmanmasının kendisi için büyük bir sürpriz olduğunu ifade etti.",
+  "puan": 6.0,
+  "grup": "verstappen-red-bull-standings-p2",
+  "link": "https://www.racefans.net/2026/11/06/verstappen-says-his-sudden-rise-to-second-in-the-championship-is-a-big-surprise/",
+  "source": "RaceFans",
+  "ts": 1793964993.0121608
+ },
+ {
+  "cat": "f1",
+  "baslik": "Hamilton: 2022'den Beri Lastiklerle Mücadele Ediyorum",
+  "ozet": "Lewis Hamilton, 2022'de 13 inç jant boyutuna geçilmesinden bu yana F1 lastiklerinden maksimum verim almakta zorlandığını itiraf etti.",
+  "puan": 4.0,
+  "grup": "hamilton-tyre-struggles-2022",
+  "link": "https://www.racefans.net/2026/11/06/hamilton-admits-hes-really-struggled-with-f1s-tyres-since-2022-size-change/",
+  "source": "RaceFans",
+  "ts": 1793964993.0121608
  }
 ]
