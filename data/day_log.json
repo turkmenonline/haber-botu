@@ -1,96 +1,6 @@
 [
  {
   "cat": "araba",
-  "baslik": "Modern Farlar Neden Binlerce Dolara Mal Oluyor?",
-  "ozet": "Modern farların karmaşık teknolojileri ve tasarımları, basit bir değişimi bile binlerce dolarlık maliyetli bir kabusa dönüştürebiliyor.",
-  "puan": 5.0,
-  "grup": "modern-headlight-replacement-cost",
-  "link": "https://www.motor1.com/features/814393/why-replacing-a-headlight-can-cost-thousands-of-dollars/",
-  "source": "Motor1",
-  "ts": 1793847283.4089534
- },
- {
-  "cat": "araba",
-  "baslik": "NASA'nın Swift Uzay Teleskobu Atmosfere Girdi",
-  "ozet": "NASA'nın Swift Uzay Teleskobu, beklenenden beş kat daha yüksek yaralanma riskiyle atmosfere yeniden giriş yaptı.",
-  "puan": 2.0,
-  "grup": "nasa-swift-space-telescope-reentry",
-  "link": "https://www.jalopnik.com/2307383/nasa-swift-space-telescope-re-enters-atmosphere-five-times-more-risk/",
-  "source": "Jalopnik",
-  "ts": 1793847283.4089534
- },
- {
-  "cat": "araba",
-  "baslik": "Otomotiv Üreticileri Çinli Araçların Yasaklanmasını İstiyor",
-  "ozet": "Otomotiv endüstrisi, Çin yapımı araçlara yönelik kısıtlamaların kalıcı hale getirilmesi için Kongre'ye çağrıda bulunuyor.",
-  "puan": 8.0,
-  "grup": "automakers-want-chinese-cars-banned",
-  "link": "https://www.motor1.com/news/814446/automakers-chinese-cars-permanent-ban/",
-  "source": "Motor1",
-  "ts": 1793847283.4089534
- },
- {
-  "cat": "f1",
-  "baslik": "Max Verstappen'den Brezilya GP'ye Özel Kask",
-  "ozet": "Red Bull pilotu Max Verstappen, Sao Paulo Grand Prix'si için Brezilya bayrağının renklerini taşıyan özel bir kask tasarımı tanıttı.",
-  "puan": 3.0,
-  "grup": "brazil-gp-verstappen-helmet",
-  "link": "https://www.motorsport.com/f1/news/max-verstappen-brings-some-samba-to-sao-paulo-with-brazil-themed-f1-helmet/10871580/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793847283.4089534
- },
- {
-  "cat": "f1",
-  "baslik": "Kimi Antonelli'den Ayrton Senna'ya Vefa Kaskı",
-  "ozet": "2026 dünya şampiyonu Kimi Antonelli, Brezilya Grand Prix'sinde kahramanı Ayrton Senna'yı onurlandırmak için özel bir kask giyecek.",
-  "puan": 3.0,
-  "grup": "brazilian-gp-antonelli-senna-helmet",
-  "link": "https://www.motorsport.com/f1/news/kimi-antonelli-to-honour-ayrton-senna-with-special-helmet-at-brazilian-gp/10871582/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793847283.4089534
- },
- {
-  "cat": "f1",
-  "baslik": "Antonelli'den Unutulmaz Senna Anısı",
-  "ozet": "2026 şampiyonu Kimi Antonelli, Meksika'daki zaferinin ardından Brezilya GP öncesinde Ayrton Senna'nın ailesinin evini ziyaret ederek ikonik Lotus 98T'nin kokpitine oturdu.",
-  "puan": 3.5,
-  "grup": "brazilian-gp-antonelli-senna-helmet",
-  "link": "https://www.motorsport.com/f1/news/kimi-antonelli-shares-unforgettable-ayrton-senna-moment-after-f1-title-win/10871578/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793847283.4089534
- },
- {
-  "cat": "f1",
-  "baslik": "Mercedes'ten Brezilya GP'ye Özel Mor Tulumlar",
-  "ozet": "Mercedes, Sao Paulo Grand Prix'sinde Nubank ortaklığı kapsamında geleneksel renkleri yerine mor renkli yarış tulumlarıyla mücadele edecek.",
-  "puan": 3.0,
-  "grup": "mercedes-brazil-purple-suits",
-  "link": "https://www.motorsport.com/f1/news/mercedes-to-race-in-new-suits-at-brazil-gp-in-nod-to-legendary-era/10871575/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793847283.4089534
- },
- {
-  "cat": "f1",
-  "baslik": "Laurent Mekies: Leclerc'in Cezası Hafifti",
-  "ozet": "Ferrari yarış direktörü Laurent Mekies, Meksika GP'de Charles Leclerc ile Lewis Hamilton arasında yaşanan temas sonrası verilen cezayı hafif bulduğunu belirtti.",
-  "puan": 5.0,
-  "grup": "mexico-gp-hamilton-leclerc-feud",
-  "link": "https://www.motorsport.com/f1/news/laurent-mekies-charles-leclercs-penalty-felt-a-bit-light/10871284/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793847283.4089534
- },
- {
-  "cat": "f1",
-  "baslik": "Lando Norris'ten F1 Hız Sınırı Eleştirisi",
-  "ozet": "McLaren pilotu Lando Norris, mevcut teknik regülasyonlar ve hız sınırlamaları nedeniyle F1 araçlarının motosikletlerden bile yavaş kaldığını belirterek duruma tepki gösterdi.",
-  "puan": 4.5,
-  "grup": "lando-norris-f1-top-speed-criticism",
-  "link": "https://www.motorsport.com/f1/news/lando-norris-blasts-f1-top-speed-limiters-we-should-easily-go-quicker-than-a-motorbike/10871276/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
-  "source": "Motorsport.com",
-  "ts": 1793847283.4089534
- },
- {
-  "cat": "araba",
   "baslik": "Hasarlı Corvette Z06 Restorasyonu",
   "ozet": "Bir tamirci, ağır hasar kayıtlı 2025 model Corvette Z06'yı satın alarak kapsamlı bir restorasyon sürecine başladı.",
   "puan": 4.5,
@@ -2678,5 +2588,25 @@
   "link": "https://www.motorsport.com/f1/news/we-failed-so-we-had-to-react-fred-vasseur-on-ferrari-driver-talks-and-mexico-f1-fallout/10872240/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
   "source": "Motorsport.com",
   "ts": 1794007661.9052224
+ },
+ {
+  "cat": "araba",
+  "baslik": "Süper Otomobillerde Fan Destekli Yere Basma Kuvveti",
+  "ozet": "Bazı özel süper otomobiller, hızdan bağımsız olarak inanılmaz yol tutuşu sağlamak için güçlü fanlar kullanarak kendilerini yola vakumluyor.",
+  "puan": 7.0,
+  "grup": "supercar-fan-downforce-tech",
+  "link": "https://www.motor1.com/features/814693/why-some-supercars-have-fans-the-suck-them-onto-the-road/",
+  "source": "Motor1",
+  "ts": 1794020879.3437216
+ },
+ {
+  "cat": "f1",
+  "baslik": "Camara, Haas ile İlk F1 Deneyimini Değerlendirdi",
+  "ozet": "Rafael Camara, Haas formamla 2026 F1 aracının direksiyonuna geçerek kariyerinin ilk özel hafta sonu deneyimini yaşadı.",
+  "puan": 4.5,
+  "grup": "haas-ocon-dropped-camara-debut",
+  "link": "https://www.formula1.com/en/latest/article/camara-reflects-on-very-special-first-f1-outing-as-he-gears-up-for-haas-debut-in-sao-paulo.7FQp0PWMq4lsDsDAoosi4t",
+  "source": "Formula1.com",
+  "ts": 1794020879.3437216
  }
 ]
