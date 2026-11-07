@@ -2608,5 +2608,95 @@
   "link": "https://www.formula1.com/en/latest/article/camara-reflects-on-very-special-first-f1-outing-as-he-gears-up-for-haas-debut-in-sao-paulo.7FQp0PWMq4lsDsDAoosi4t",
   "source": "Formula1.com",
   "ts": 1794020879.3437216
+ },
+ {
+  "cat": "araba",
+  "baslik": "İkinci El B9 Audi A4 İncelemesi",
+  "ozet": "B9 kasa Audi A4, 20.000 sterlinin altındaki fiyatıyla ikinci elde mantıklı ve sade bir premium alternatif sunuyor.",
+  "puan": 3.0,
+  "grup": "used-b9-audi-a4-buying-guide",
+  "link": "https://www.autocar.co.uk/car-news/used-cars-used-car-buying-guides/why-buy-new-bag-b9-audi-a4-less-%C2%A320000",
+  "source": "Autocar",
+  "ts": 1794047147.2089386
+ },
+ {
+  "cat": "araba",
+  "baslik": "Vauxhall Grandland Electric ile Paris Yolculuğu",
+  "ozet": "Yazar, elektrikli Vauxhall Grandland Electric ile Paris'e uzun bir yolculuk yaparak aracın menzil ve konfor performansını test ediyor.",
+  "puan": 4.5,
+  "grup": "vauxhall-grandland-electric-paris-trip",
+  "link": "https://www.autocar.co.uk/car-news/features/grandland-grand-tour-rapid-relaxing-parisian-fling-my-electric-vauxhall",
+  "source": "Autocar",
+  "ts": 1794047147.2089386
+ },
+ {
+  "cat": "araba",
+  "baslik": "Mercedes E450D ile 6 Günde 2000 Mil",
+  "ozet": "Büyük dizel station wagon modellerinin azaldığı bir dönemde, Mercedes E450D ile uzun mesafeli bir yolculuk gerçekleştiriliyor.",
+  "puan": 4.5,
+  "grup": "mercedes-e450d-long-distance-test",
+  "link": "https://www.autocar.co.uk/car-news/features/only-diesel-will-do-2000-miles-six-days-mercedes-e450d",
+  "source": "Autocar",
+  "ts": 1794047147.2089386
+ },
+ {
+  "cat": "f1",
+  "baslik": "Interlagos Bahis Piyasalarini Neler Etkileyebilir?",
+  "ozet": "Sao Paulo GP'de yarış başladıktan sonra bilinçli bahisçilerin canlı piyasalarda akıllıca kararlar alması bekleniyor.",
+  "puan": 2.0,
+  "grup": "brazilian-gp-betting-preview",
+  "link": "https://www.formula1.com/en/latest/article/what-could-turn-the-race-on-its-head-during-the-sao-paulo-grand-prix.6KujQenlA32et55AiQrTyB",
+  "source": "Formula1.com",
+  "ts": 1794047147.2089386
+ },
+ {
+  "cat": "f1",
+  "baslik": "Permane'den Racing Bulls Pilot Karari Aciklamasi",
+  "ozet": "Alan Permane, 2027 pilot kadrosu açıklanırken doğru kararın verileceğine inandıklarını belirtti.",
+  "puan": 6.5,
+  "grup": "alan-permane-racing-bulls-extension",
+  "link": "https://www.formula1.com/en/latest/article/the-right-decision-will-be-made-permane-gives-update-on-driver-decision-process-at-racing-bulls.2kgfMJB54MrzV3I94KJHrG",
+  "source": "Formula1.com",
+  "ts": 1794047147.2089386
+ },
+ {
+  "cat": "f1",
+  "baslik": "Mercedes Sao Paulo'da Rakiplerini Geride Tutabilecek mi?",
+  "ozet": "F1.com verileri, Sao Paulo Grand Prix'sinin ilk gününün ardından favorilerin kim gibi göründüğünü inceliyor.",
+  "puan": 4.5,
+  "grup": "brazilian-gp-practice-day-one",
+  "link": "https://www.formula1.com/en/latest/article/can-mercedes-keep-their-rivals-at-bay-in-sao-paulo.7eVy5I4aTwZqm4N1WE2rBX",
+  "source": "Formula1.com",
+  "ts": 1794047147.2089386
+ },
+ {
+  "cat": "f1",
+  "baslik": "Leclerc'ten Ferrari Aciklamasi: 'En Kotu Hissiyatlardan Biri'",
+  "ozet": "Charles Leclerc, Brezilya GP cuma antrenmanlarının ardından Ferrari SF-26'nın düzlüklerde yavaş ve virajlarda hissinin kötü olduğunu söyledi.",
+  "puan": 5.0,
+  "grup": "ferrari-drivers-crunch-meeting-brazil",
+  "link": "https://www.motorsport.com/f1/news/ferrari-slow-on-straights-struggling-in-corners-one-of-the-worst-feelings-for-charles-leclerc/10872444/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1794047147.2089386
+ },
+ {
+  "cat": "f1",
+  "baslik": "Lawson'in Gelecegi Belirsizken Racing Bulls'tan 'Dogru Karar' Sozu",
+  "ozet": "Racing Bulls patronu Alan Permane, Liam Lawson'ın geleceğiyle ilgili kararın gecikmesinden duyulan hayal anlayışla karşıladığını belirtti.",
+  "puan": 6.5,
+  "grup": "lawson-future-racing-bulls",
+  "link": "https://www.motorsport.com/f1/news/racing-bulls-boss-understands-frustration-over-driver-decision-delay/10872425/?utm_source=RSS&utm_medium=referral&utm_campaign=RSS-F1&utm_term=News&utm_content=www",
+  "source": "Motorsport.com",
+  "ts": 1794047147.2089386
+ },
+ {
+  "cat": "f1",
+  "baslik": "Colton Herta F1 Super Lisans Engelini Asti",
+  "ozet": "Colton Herta, Brezilya Grand Prix'sindeki hatasız cuma antrenman seansıyla F1 süper lisansı için son engelleri aştı.",
+  "puan": 5.5,
+  "grup": "herta-cadillac-superlicence-brazil",
+  "link": "https://www.the-race.com/formula-1/herta-finally-clears-his-last-f1-superlicence-hurdle/",
+  "source": "The Race",
+  "ts": 1794047147.2089386
  }
 ]
